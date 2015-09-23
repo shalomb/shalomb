@@ -161,3 +161,5 @@ DNS | Bind
 * Perform cloud platform deployment
 * Volunteer Experience
 * Accomplishments in terms of numbers
+* Cleanup proficiencies 
+* Hyperlink technology exposure
