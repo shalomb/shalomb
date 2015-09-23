@@ -1,1 +1,5 @@
-2015-09-23--foo
+----
+layout: foo
+title: foo
+----
+content of foo in 2015-09-23--foo
