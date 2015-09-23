@@ -1,0 +1,28 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               shalomb
+tagline:             shalomb's homepage
+url:                 http://shalomb.github.io
+paginate:            1
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Shalom Bhooshi
+  url:               https://twitter.com/mdo
+  email:             s.bhooshi@gmail.com
+
+# Custom vars
+version:             2.0.0
