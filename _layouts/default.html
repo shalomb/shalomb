@@ -10,7 +10,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>{{ post.title }}</title>
+    <title>{{ page.title }}</title>
 
     <!-- Bootstrap core CSS -->
     <link href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
@@ -30,9 +30,8 @@
 
       <div class="starter-template">
 
-        <h1>Start : {{ post.date }}</h1>
-        <h1>Start : {{ page.date }}</h1>
-        <h1>Start : {{ date }}</h1>
+        <h1>{{ page.title }}</h1>
+        <span>Date : {{ page.date }}</span>
         <p class="lead">Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.</p>
 
         <div>
