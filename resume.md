@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Resume
+date: 2015-09-24T22:09:24
 ---
 
 Samwise Ganji
