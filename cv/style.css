@@ -1,202 +1,223 @@
-html{
-  background-color :  transparent;
-  background :  #888;
-}
-body {
-  width :  800px;
-  margin :  1em auto;
-  padding :  10px 4em;
-  border :  2px solid #7a7a7a;
-  background :  #fefefe;
-  color :  #333;
-  font-smoothing :  antialiased;
-  -webkit-font-smoothing :  antialiased;
-  text-shadow :  0 0 1px rgba(0,0,0,0.3);
-  font-family :  "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size :  14px;
-  font-style :  normal;
-  font-variant :  normal;
-  font-weight :  500;
+﻿/* http://css.paperplaza.net/conferences/support/page.php */
+
+@media all {
+  body, html {
+    margin : 0px auto;
+    font-style :  normal;
+    font-variant :  normal;
+    font-family :  "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size :  10pt;
+  }
+
+  html {
+    box-sizing : border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+  }
+
+  *, *:before, *:after {
+    box-sizing : inherit;
+    -webkit-box-sizing: inherit;
+    -moz-box-sizing: inherit;
+  }
+
+  body {
+    padding : 2cm;
+  }
+
+  body * {
+    text-align : left;
+  }
+
+  /* Title                 16 pt */
+  h1 {
+    font-size : 16pt;
+    text-align : center;
+  }
+
+  h2 {
+    font-size : 14pt;
+  }
+/* Author list           11 pt */
+
+  /* Section titles        10 pt */
+  h3 {
+    font-size : 10pt;
+  }
+
+  /* Normal text           10 pt */
+  p, li, td, dt, dd, em, strong {
+    font-size : 10pt;
+  }
+
+  p, li, td, dd, em, strong {
+    text-align: justify;
+    text-justify: inter-word;
+  }
+
+  em, strong {
+    font-size : 90%;
+  }
+
+/* Table/Figure captions 10 pt */
+/* Sub-scripts            8 pt */
+/* Sub-sub-scripts        7 pt */
+/* Footnotes              8 pt */
+
+  a {
+    text-decoration :  none;
+    color :  #006699;
+  }
+
+  a:hover, a:active {
+    text-decoration :  none;
+  }
+
+  blockquote, blockquote p {
+    width : auto;
+    margin-left : auto;
+    margin-right : auto;
+    text-align :  center;
+  }
+
+  blockquote + blockquote {
+    margin-top : -10px;
+  }
+
+  dt {
+    float :  left;
+    clear :  left;
+    width :  21%;
+    /*font-weight :  bold;*/
+  }
+
+  dd {
+    margin-left :  22%;
+    font-size : 90%;
+  }
+
+  hr {
+    height :  1px;
+    width : 99%;
+    border :  0;
+    text-align :  center;
+    margin :  auto;
+    background :  #ccc;
+  }
+
+  p {
+    margin : 0;
+    margin-top : 4px;
+    margin-bottom : 8px;
+    page-break-after : avoid;
+    page-break-inside : avoid;
+  }
+
+  ul {
+    margin-top :  -4px;
+  }
+
+  ul          {
+    list-style :  none;
+  }
+
+  ul li:before {
+    margin-left :  -10px;
+    content :  "• \0020";
+    color :  #888;
+  }
+
+  li:not(:last-child) {
+    margin-bottom: 8px;
+  }
+
 }
 
-/* title of the resume */
-h1 {
-  color :  #757575;
-  text-align : center;
-  margin-bottom : 15px;
-}
-a:hover {
-  text-shadow :  0 0 1px rgba(0,0,0,0.6);
+/* http://stackoverflow.com/questions/16649943/css-to-set-a4-paper-size */
+@media only screen {
+  html {
+    padding: 0;
+    margin: 0;
+    background-color: #FAFAFA;
+  }
+
+  body {
+    background: white;
+    border: 1px #D3D3D3 solid;
+    border-radius: 5px;
+    box-shadow: 0 0 0.125cm rgba(0, 0, 0, 0.25);
+    margin: 1cm auto;
+  }
+
+  * {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+  }
+
+  #TOC {
+    background :  #efefef;
+    width :  20%;
+    max-width :  20%;
+    position :  fixed;
+    top :  20%;
+    right :  -1px;
+    border :  1px solid #ccc;
+    border-radius: 2px;
+    /* padding :  0.75em 0.5em 0 0em; */
+    background :  white;
+    font-size :  10pt;
+    font-weight : 600;
+  }
+
+  #TOC > ul {
+    margin-top : 1em !important;
+    padding :  0.5em !important;
+    list-style :  none;
+  }
+
+  #TOC ul, #TOC li {
+    margin : auto;
+    margin-left :  10px;
+    padding :  0;
+  }
 }
 
-/* Titles of categories */
-h2, h3 {
-  /* This is called "sectioncolor" in the ConTeXt stylesheet. */
-  display :  inline-block;
-  color :  #444;
-  margin-bottom :  0.5em;
-}
-/* Definitions */
-dt {
-  float :  left;
-  clear :  left;
-  width :  21%;
-  /*font-weight :  bold;*/
-}
-dd {
-  margin-left :  22%;
-}
-p {
-  margin-top : 0;
-  margin-bottom : 7px;
-  page-break-after : avoid;
-  page-break-inside : avoid;
+@media (min-width: 768px) {
+  body {
+    width: 21cm;
+  }
 }
 
-/* Blockquotes */
-blockquote {
-  text-align :  center
+@media (max-width: 767px) {
 }
 
-/* Links */
-a {
-  text-decoration :  none;
-  color :  #006699;
-}
-a:hover, a:active {
-  text-decoration :  none;
-}
-
-/* Horizontal separators */
-hr {
-  height :  1px;
-  border :  0;
-  background :  #888888;
-  text-align :  left;/*this will align it for IE*/
-  margin :  0 auto 0 0; /*this will align it left for Mozilla*/
-  background :  #ccc;
-}
-
-ul {
-  margin-top :  -4px;
-}
-ul          {
-  list-style :  none;
-}
-
-ul li:before {
-  margin-left :  -10px;
-  content :  "• \0020";
-  color :  #888;
-}
-
-em, strong {
-  font-size :  90%;
-}
-
-em {
-  font-size :  90%;
-}
-
-strong {
-  font-weight :  700;
-}
-
-p, table {
-  margin-left : 2px;
-}
-
-table {
-  width :  100%;
-  width :  auto;
-  text-align : left;
-}
-
-table th, table td {
-  text-align :  left;
-  vertical-align :  top;
-}
-
-em {
-}
-
-table td {
-  margin-left :  1px;
-}
-
-code, pre {
-  white-space :  pre-wrap;       /* css-3 */
-  white-space :  -moz-pre-wrap;  /* Mozilla, since 1999 */
-  white-space :  -pre-wrap;      /* Opera 4-6 */
-  white-space :  -o-pre-wrap;    /* Opera 7 */
-  word-wrap :  break-word;       /* Internet Explorer 5.5+ */
-}
-
-:target + * {
-  background :  #f9f9f9;
-}
-:target {
-  transform : scale(1.1,1.1);
-}
-
-:target,
-:target + p,
-:target + table {
-  display :  block !important;
-}
-
-h3#scriptingprogramming, h3#scriptingprogramming + p,
-h3#operating-systems, h3#operating-systems + p,
-h3#virtualization, h3#virtualization + p,
-h3#cloud, h3#cloud + p,
-h3#rdbmsnosql, h3#rdbmsnosql + p,
-h3#networking, h3#networking + p,
-h3#monitoring, h3#monitoring + p,
-h3#provisioning, h3#provisioning + p,
-h3#configuration-management, h3#configuration-management + p,
-h3#source-control-build, h3#source-control-build + p,
-h3#storage, h3#storage + p,
-h3#hardware, h3#hardware + p,
-h1#technology-exposure,
-h1#technology-exposure + p,
-h1#technology-exposure + table {
-  text-align :  left;
-  display :  none;
-}
-
-#TOC {
-  background :  #efefef;
-  font-size :  100%;
-  width :  280px;
-  position :  fixed;
-  top :  20%;
-  right :  -1px;
-  padding :  0.75em 0.5em 0 0em;
-  border :  1px solid gray;
-  border :  2px solid #7a7a7a;
-}
-#TOC > ul {
-  padding :  0.5em !important;
-  border :  1px solid #cfcfcf;
-  background :  white;
-  list-style :  none;
-}
-#TOC ul, #TOC li {
-  margin-left :  10px;
-  padding :  0;
+@media (max-width: 480px) {
 }
 
 @media print {
-  #TOC {
-    display :  none;
+  body {
+    margin :           0;
+    padding :          0;
+    border :           initial;
+    border-radius :    initial;
+    width :            initial;
+    min-height :       initial;
+    box-shadow :       initial;
+    background :       initial;
+    page-break-after : always;
+
+    width : 20cm;
+    border : 1px solid red;
   }
-  html, body{
-    background :  white;
-    width :  auto;
-    border :  none;
+
+  #TOC {
+    display : none;
   }
 }
 
-@media screen and (-webkit-min-device-pixel-ratio:0) {
-  border : 1px solid red;
+@page {
+  size: A4;
+  margin: 0;
 }
+
+/* http://codepen.io/rafaelcastrocouto/pen/LFAes/ */
