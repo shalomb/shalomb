@@ -1,0 +1,189 @@
+Shalom Bhooshi
+
+Shalom Bhooshi
+==============
+
+  e: s.bhooshi@gmail.com • T: +421 948 140 290 • 92, Kosicka, 52/A,
+  Bratislava, 821 08
+
+  uk.linkedin.com/in/shalombhooshi
+
+* * * * *
+
+Infrastructure Automation
+
+A skilled engineer with 10 years of practical experience in a wide variety of
+technologies and settings, most recently in test and infrastructure
+automation.
+
+Core competencies include:
+
+  Network Design • Systems Administration • Scripting • Infrastructure
+  Automation • Private Cloud/IaaS
+
+  Web Technologies • Defect Management • Continuous Integration • Windows •
+  Linux
+
+* * * * *
+
+Professional Experience
+
+Jul 2010 - Aug 2015 • Citrix Systems UK Ltd • Cambridge, United Kingdom
+
+Citrix solutions power business mobility through secure, mobile workspaces
+that provide people with instant access to apps, desktops, data and
+communications on any device, over any network and cloud. With annual revenue
+in 2014 of $3.14 billion, Citrix solutions are in use at more than 400,000
+organizations and by over 100 million users globally.
+
+Senior Software Engineer in Test, Quality Assurance, Enterprise Desktop and
+Apps.
+
+Skills : CloudStack/CloudPlatform • XenServer/Hyper-V/ESX • Citrix XenDesktop
+• Windows Server 2008/2012/2016 • Windows XP/Vista/7/8/8.x/10 • SQL Server
+2008/2012 • Debian/CentOS Linux • Puppetlabs Razor/iPXE • PowerShell • Perl,
+Bash, Ruby • Dell Compellent • HP StorageWorks * Cisco Nexus, 2960s/g/x • HP
+Prioliant, Dell PowerEdge
+
+- Designer/DevOps engineer of the private cloud (based on Citrix
+  CloudPlatform/XenServer) used as a deployment platform to facilitate QA
+  activities of 65+ internal teams.
+- Involved in the design, development and provisioning of stock and bespoke
+  dev/test environments for integration and regression testing using
+  technologies across the stack (cloud resources, virtual machines,
+  hypervisors, storage and networking, applications and profiles). This
+  included the backend implementation of platforms for customer
+  demos/roadshows e.g. Citrix Summit/Synergy
+- Member of the core automation team whose remit it is to develop and support
+  the internal test automation framework that underpins quality assurance
+  strategies of the Citrix Desktop and App virtualization suites. My role
+  within the team is the development lead for the Perl components of the
+  framework to support Linux and Mac end-points.
+- Other activities included support, triage and troubleshooting of, often
+  complex, issues in infrastructure and test environments; application of
+  agile methodologies to evolve both code and infrastructure, procurement and
+  lifecycle maintenance of hardware and software, technical training.
+
+May 2007 - Dec 2007 • Crystal Amusements Ltd • Leicester Square, London,
+United Kingdom
+
+Support Engineer/Systems Administrator
+
+Skills : Hardware/Software Administration and Troubleshooting, Staging and
+Rollouts, Network Administration - NetGear Switching, DHCP/DNS, Caching
+Proxies, Linux, Windows XP/2003, Customer Support.
+
+- Responsible for the technical operations of 70+ internet kiosks, printers,
+  scanners and fax solutions, etc.
+
+Jan 2007 - May 2007 • Sterling Limousines (UK) Ltd • Richmond, Surrey, United
+Kingdom
+
+LAMP Developer, Perl/PostGres
+
+Skills : Perl, Apache, mod_perl, Postgresql 8, Debian Linux, xHTML, CSS,
+Prototype JS, Bash, Mercurial
+
+- Developed an on-line bookings system for the company's website with view for
+  integration with bespoke resource management software.
+- Consolidated telephone, email and web bookings into a resource management
+  database using Perl and Postgresql.
+
+Aug 2002 - Oct 2006 • Freelance IT Engineer • Greater London Area, United
+Kingdom
+
+IT Contractor
+
+Skills : Enterprise workstation migrations, LAN Design and Implementation,
+Hardware/Software roll-outs, Single-Page websites/DTP, Windows XP/2003, Active
+Directory.
+
+- Freelance engineer and developer of bespoke IT solutions providing support
+  and consultancy for SOHO business (estate agents, solicitors, accountants,
+  etc).
+
+* * * * *
+
+Education
+
+Sep 2008 - May 2010 : BSc, Computer Networks (1:1, First Class Honours),
+Sheffield Hallam University, Sheffield, England
+
+Jul 2000 - Mar 2001 : BSc (Hons.) Computer Science, Mathematics, Physics
+(Discontinued), St. Joseph's College of Science and Arts, Bangalore, India
+
+* * * * *
+
+Courses and Qualifications
+
+- Citrix NetScaler - Essentials, Networking and Administration, Jun 2012
+- Building Scalable Cisco Internetworks (CCNP BSCI), Feb 2004
+- Implementing & Administering a Microsoft Windows 2000 Directory Services
+  Infrastructure, Apr 2003
+- Implementing & Administering a Microsoft Windows 2000 Network
+  Infrastructure, Apr 2003
+- Cisco Certified Network Associate (CCNA), Mar 2003
+- Administering Windows 2000 Server, Microsoft Certified Professional (MCP)
+  Mar 2003
+- Administering Windows 2000 Professional, Microsoft Certified Professional
+  (MCP) Mar 2003
+- Network Infrastructure Administration, CompTIA® Network+ Certified
+  Professional, Feb 2003
+- Hardware and Software Essentials, CompTIA® A+ Certified Professional, Nov
+  2002
+- Advanced Java, Network Programming using EJB, Servlets/RMI, JDBC/SQL, Jul
+  2001
+- Web Design using Microsoft FrontPage 2000, HTML, VBScript and Javascript,
+  Jan 2001
+- Procedural Programming with ANSI C, May 1999
+
+* * * * *
+
+Professional Membership
+
+Jul 2010 - Present : The Institution of Engineering and Technology (IET)
+(Graduate Member)
+
+Dec 2008 - Present : British Computer Society (BCS) (Member)
+
+Jan 2008 - Present : Microsoft IT Advisory Council (ITAC) (Member)
+
+* * * * *
+
+Languages
+
+English (Fluent), French (Limited Working Proficiency), Slovak (Basic)
+
+* * * * *
+
+Hobbies and Interests
+
+Hiking & the Outdoors • Music & playing the guitar • Badminton • Amateur
+Photography • Hacking Debian GNU/Linux for fun
+
+* * * * *
+
+Personal Details
+
+Telephone : +421 948 140 290 (SK); +44 7904 190 550 (UK)
+
+Email : s.bhooshi@gmail.com
+
+Address : 92, Kosicka 52/A, Bratislava, 821 08
+
+Date of birth : 08 Jan, 1983
+
+Nationality : British
+
+* * * * *
+
+Download
+========
+
+PDF : shalom_bhooshi-resume-2015-10.pdf
+
+Open Office : shalom_bhooshi-resume-2015-10.odt
+
+Microsoft Word : shalom_bhooshi-resume-2015-10.docx
+
+Plain Text : shalom_bhooshi-resume-2015-10.txt

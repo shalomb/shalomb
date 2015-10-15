@@ -32,7 +32,7 @@ _Skills :_ CloudStack/CloudPlatform • XenServer/Hyper-V/ESX • Citrix XenDesk
 * Designer/DevOps engineer of the private cloud (based on [Citrix CloudPlatform](https://www.citrix.com/products/cloudplatform/)/[XenServer](https://www.citrix.com/products/xenserver/)) used as a deployment platform to facilitate QA activities of 65+ internal teams.
 * Involved in the design, development and provisioning of stock and bespoke dev/test environments for integration and regression testing using technologies across the stack (cloud resources, virtual machines, hypervisors, storage and networking, applications and profiles). This included the backend implementation of platforms for customer demos/roadshows e.g. [Citrix Summit/Synergy](http://www.citrixsummit.com/)
 * Member of the core automation team whose remit it is to develop and support the internal test automation framework that underpins quality assurance strategies of the [Citrix Desktop and App virtualization](https://www.citrix.com/solutions/desktop-virtualization/overview.html) suites. My role within the team is the development lead for the Perl components of the framework to support Linux and Mac end-points.
-* Other activities included support, triage and troubleshooting of, often complex, issues in infrastructure and test environments; application of agile methodologies to evolve both code and infrastructure, procurement and lifecycle maintenance of hardware and software, technical training.
+* Other activities included support, triage and troubleshooting of, often complex, issues in infrastructure and test environments; application of agile methodologies to evolve both code and infrastructure, procurement and lifecycle maintenance of hardware and software, technical training. Library Code, Reporting, Delivery.
 
 _May 2007 - Dec 2007_ • **Crystal Amusements Ltd** • Leicester Square, London, United Kingdom
 
@@ -59,6 +59,58 @@ _Aug 2002 - Oct 2006_ • **Freelance IT Engineer** • Greater London Area, Uni
 _Skills :_ Enterprise workstation migrations, LAN Design and Implementation, Hardware/Software roll-outs, Single-Page websites/DTP, Windows XP/2003, Active Directory.
 
 * Freelance engineer and developer of bespoke IT solutions providing support and consultancy for SOHO business (estate agents, solicitors, accountants, etc).
+
+----
+
+### Technology Exposure
+
+Scripting
+  : [Windows Powershell](https://en.wikipedia.org/wiki/Windows_PowerShell)/[.NET](http://www.microsoft.com/net), [Bash](https://www.gnu.org/software/bash/)/[POSIX Shell](http://pubs.opengroup.org/onlinepubs/009695399/utilities/xcu_chap02.html), [Perl](https://www.perl.org/), [Ruby](https://www.ruby-lang.org/en/), [Python](https://www.python.org/), [Javascript](http://www.ecmascript.org/), [CSS](http://www.w3.org/Style/CSS/Overview.en.html)
+
+Markup
+  : [JSON](http://json.org/), [YAML](http://yaml.org/), [HTML](http://www.w3.org/MarkUp/), [XHTML](http://www.w3.org/TR/xhtml1/), [XML](http://www.w3.org/XML/)
+
+Programming
+  : [Java](https://en.wikipedia.org/wiki/Java_(programming_language)), [C](http://flash-gordon.me.uk/ansi.c.txt), [Makefiles](https://www.gnu.org/software/make/)
+
+Operating Systems
+  : [GNU](http://www.gnu.org/gnu/)/[Linux](https://www.kernel.org/category/about.html) ([Debian](http://www.debian.org/)/[Ubuntu](http://www.ubuntu.com/), [RHEL](http://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)/[CentOS](https://www.centos.org/), [SuSe](https://www.suse.com/products/server/)/[OpenSuSe](https://www.opensuse.org/)), [Microsoft Windows Server 2003/2008/2012/2016](http://www.microsoft.com/en-us/server-cloud/products/windows-server-2012-r2/), [Windows XP/7/8/8.x/10](http://www.microsoft.com/en-gb/windows), [Unix](http://www.unix.org/) ([FreeBSD](http://www.freebsd.org/) & [OpenSolaris](http://openindiana.org/)), [OS X](http://www.apple.com/osx/)
+
+Virtualization / Containerization
+  : [Citrix XenServer](http://xenserver.org/), [Microsoft Hyper-V](http://www.microsoft.com/en-us/server-cloud/solutions/virtualization.aspx), [Oracle VirtualBox](https://www.virtualbox.org/), [VMWare ESX](https://www.vmware.com/products/esxi-and-esx/overview)/[vSphere](http://www.vmware.com/products/vsphere), [docker](https://www.docker.com/), QEMU
+
+Cloud
+  : [Apache Cloudstack](http://cloudstack.apache.org/), [Citrix CloudPlatform](https://www.citrix.com/products/cloudplatform/overview.html), [Amazon EC2](https://aws.amazon.com/ec2/)/[AWS](https://aws.amazon.com/), [Microsoft Azure](https://azure.microsoft.com/en-gb/overview/what-is-azure/), [ExoScale](https://www.exoscale.ch/)
+
+NoSQL / Search
+  : [Elasticsearch](https://www.elastic.co/), [CouchDB](http://couchdb.apache.org/)
+
+Databases
+  : [MySQL 5](http://www.mysql.com/why-mysql/), [Postgres 8/9](http://www.postgresql.org/), [Oracle 11g](https://www.oracle.com/database/index.html), [SQLite 3](http://sqlite.org/), Microsoft [SQL Server](http://www.microsoft.com/en-gb/server-cloud/products/sql-server/) 2008/2012
+
+Networking
+  : [TCP/IP](https://en.wikipedia.org/wiki/Internet_protocol_suite) (IPv4 & IPv6), Routing & Switching, Design & Optimization, [DNS](https://en.wikipedia.org/wiki/Domain_Name_System) ([ISC Bind 9](https://www.isc.org/downloads/bind/), [Mictrosoft DNS Server](https://technet.microsoft.com/en-us/windowsserver/dd448607.aspx)), [DHCP](https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol) ([ISC dhcpd](https://www.isc.org/downloads/dhcp/), [Microsoft DHCP Server](https://technet.microsoft.com/en-us/windowsserver/dd448608.aspx)), [LDAP](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol) ([OpenLDAP](http://www.openldap.org/), [Microsoft Active Directory](https://msdn.microsoft.com/en-us/library/aa746492(v=vs.85).aspx)), VPNs, [WireShark](https://www.wireshark.org/)/[tcpdump](http://www.tcpdump.org/), Cisco Routing & Switching, Citrix [NetScaler](https://www.citrix.com/products/netscaler)
+
+Monitoring
+  : Syslog, SNMP, [Graylog](https://www.graylog.org/), [Nagios](https://www.nagios.org/about/overview/), [Cacti](http://www.cacti.net/), [LogStash](https://www.elastic.co/products/logstash), WMI, [Collectd](https://collectd.org/)
+
+Provisioning
+  : [Puppetlabs razor](https://puppetlabs.com/solutions/next-generation-provisioning), PXE/[iPXE](http://ipxe.org/), [kickstart](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html/Installation_Guide/ch-kickstart2.html#s1-kickstart2-whatis), [preseed](https://wiki.debian.org/DebianInstaller/Preseed), [WinPE](https://technet.microsoft.com/en-us/library/cc766093(v=ws.10).aspx), [autoyast](http://users.suse.com/~ug/autoyast_doc/introduction.html), [vagrant](https://www.vagrantup.com/)
+
+Config. Mgmt
+  : [PowerShell DSC](https://technet.microsoft.com/en-us/library/dn249912.aspx), [Puppet](https://puppetlabs.com/puppet/puppet-enterprise), [Chef](https://www.chef.io/), [SSH](http://www.openssh.com/)
+
+Source Control
+  : [Perforce](http://www.perforce.com/), [git](https://git-scm.com/), [diff/patch](http://jungels.net/articles/diff-patch-ten-minutes.html), [Mercural](https://mercurial.selenic.com/)/[CVS](http://www.nongnu.org/cvs/), [Jenkins](https://wiki.jenkins-ci.org/display/JENKINS/Meet+Jenkins), [Checkinstall](http://asic-linux.com.mx/~izto/checkinstall/)
+
+Hardware
+  : Dell [PowerEdge](http://www.dell.com/us/business/p/poweredge-rack-servers), HP [Proliant](http://www8.hp.com/us/en/products/proliant-servers/)/[BladeSystem](http://www8.hp.com/us/en/products/servers/bladesystem/)
+
+Storage
+  : Dell [Compellent](http://www.dell.com/us/business/p/dell-compellent), [NetApp](http://www.netapp.com/us/products/storage-systems/), Software Defined Storage ([Nexenta](https://nexenta.com/), [QuadStor](http://www.quadstor.com/)), [HP StorageWorks](http://www8.hp.com/h20195/v2/GetHTML.aspx?docname=c04168365)
+
+Web
+  : [Apache httpd](http://httpd.apache.org/), [Dancer2](http://perldancer.org/), [PSGI](https://en.wikipedia.org/wiki/PSGI)/[Plack](http://plackperl.org/), [SOA](https://www.opengroup.org/soa/source-book/soa/soa.htm), [REST](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
 
 ----
 
@@ -136,13 +188,13 @@ Nationality
 # Download
 
 **PDF **
-  : [shalom_bhooshi-resume-2015-10.pdf](shalom_bhooshi-resume-2015-10.pdf)
+  : [shalom_bhooshi-resume-2015-10.pdf](cv.pdf)
 
 **Open Office **
-  : [shalom_bhooshi-resume-2015-10.odt](shalom_bhooshi-resume-2015-10.odt)
+  : [shalom_bhooshi-resume-2015-10.odt](cv.odt)
 
 **Microsoft Word **
-  : [shalom_bhooshi-resume-2015-10.docx](shalom_bhooshi-resume-2015-10.docx)
+  : [shalom_bhooshi-resume-2015-10.docx](cv.docx)
 
 **Plain Text**
-  : [shalom_bhooshi-resume-2015-10.txt](shalom_bhooshi-resume-2015-10.txt)
+  : [shalom_bhooshi-resume-2015-10.txt](cv.txt)
