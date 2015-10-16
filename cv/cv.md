@@ -1,22 +1,10 @@
-# Shalom Bhooshi
->_e:_ [s.bhooshi@gmail.com](mailto:s.bhooshi@gmail.com) • _T:_ +421 948 140 290 • [92, Kosicka, 52/A, Bratislava, 821 08](https://www.google.co.uk/maps?q=92,+Kosicka+52/A,+Bratislava,+82108)
-
-> [uk.linkedin.com/in/shalombhooshi](https://uk.linkedin.com/in/shalombhooshi)
-
-
-----
-
-### Infrastructure Automation
-
-A skilled engineer with 10 years of practical experience in a wide variety of technologies and settings, most recently in test and infrastructure automation.
-
-Core competencies include:
-
-> **Network Design** • **Systems Administration** • **Scripting** • **Infrastructure Automation** • **Private Cloud/IaaS**
-
-> **Web Technologies** • **Defect Management** • **Continuous Integration** • **Windows** • **Linux**
-
-----
+---
+title: Shalom Bhooshi
+subtitle: _e:_ [s.bhooshi@gmail.com](mailto:s.bhooshi@gmail.com) • _T:_ +421 948 140 290 • [92, Kosicka, 52/A, Bratislava, 821 08](https://www.google.co.uk/maps?q=92,+Kosicka+52/A,+Bratislava,+82108)
+author: _l:_ [uk.linkedin.com/in/shalombhooshi](https://uk.linkedin.com/in/shalombhooshi)
+geometry: margin=2cm
+abstract: A skilled engineer with 10 years of practical experience in a wide variety of technologies and settings, most recently in test and infrastructure automation. Core competencies include **Network & Systems Administration** • **Scripting** • **Infrastructure Automation** • **Private Cloud/IaaS** • **Web Technologies** • **Defect Management** • **Continuous Integration** • **Windows** • **Linux**
+---
 
 ### Professional Experience
 
@@ -46,11 +34,10 @@ _Jan 2007 - May 2007_ • **[Sterling Limousines (UK) Ltd](http://sterlinglimous
 
 **LAMP Developer, Perl/PostGres**
 
-_Skills :_ Perl, Apache, mod_perl, Postgresql 8, Debian Linux, xHTML, CSS, Prototype JS,
+_Skills :_ Perl, Apache/mod_perl, Postgresql 8, Debian Linux, xHTML, CSS, Prototype JS,
         Bash, Mercurial
 
-* Developed an on-line bookings system for the company's website with view for integration with bespoke resource management software.
-* Consolidated telephone, email and web bookings into a resource management database using Perl and Postgresql.
+* Developed an online presence and booking system for integration with other management systems.
 
 _Aug 2002 - Oct 2006_ • **Freelance IT Engineer** • Greater London Area, United Kingdom
 
@@ -60,36 +47,28 @@ _Skills :_ Enterprise workstation migrations, LAN Design and Implementation, Har
 
 * Freelance engineer and developer of bespoke IT solutions providing support and consultancy for SOHO business (estate agents, solicitors, accountants, etc).
 
-----
-
-### Technology Exposure
+### Technical Experience
 
 Scripting
-  : [Windows Powershell](https://en.wikipedia.org/wiki/Windows_PowerShell)/[.NET](http://www.microsoft.com/net), [Bash](https://www.gnu.org/software/bash/)/[POSIX Shell](http://pubs.opengroup.org/onlinepubs/009695399/utilities/xcu_chap02.html), [Perl](https://www.perl.org/), [Ruby](https://www.ruby-lang.org/en/), [Python](https://www.python.org/), [Javascript](http://www.ecmascript.org/), [CSS](http://www.w3.org/Style/CSS/Overview.en.html)
+  : [Powershell](https://en.wikipedia.org/wiki/Windows_PowerShell)/[.NET](http://www.microsoft.com/net), [Bash](https://www.gnu.org/software/bash/)/[POSIX Shell](http://pubs.opengroup.org/onlinepubs/009695399/utilities/xcu_chap02.html), [Perl](https://www.perl.org/), [Ruby](https://www.ruby-lang.org/en/), [Python](https://www.python.org/), [Javascript](http://www.ecmascript.org/), [Java](https://en.wikipedia.org/wiki/Java_(programming_language)), [C](http://flash-gordon.me.uk/ansi.c.txt)
 
 Markup
-  : [JSON](http://json.org/), [YAML](http://yaml.org/), [HTML](http://www.w3.org/MarkUp/), [XHTML](http://www.w3.org/TR/xhtml1/), [XML](http://www.w3.org/XML/)
-
-Programming
-  : [Java](https://en.wikipedia.org/wiki/Java_(programming_language)), [C](http://flash-gordon.me.uk/ansi.c.txt), [Makefiles](https://www.gnu.org/software/make/)
+  : [JSON](http://json.org/), [YAML](http://yaml.org/), [HTML](http://www.w3.org/MarkUp/), [XHTML](http://www.w3.org/TR/xhtml1/), [XML](http://www.w3.org/XML/), [CSS](http://www.w3.org/Style/CSS/Overview.en.html),
 
 Operating Systems
-  : [GNU](http://www.gnu.org/gnu/)/[Linux](https://www.kernel.org/category/about.html) ([Debian](http://www.debian.org/)/[Ubuntu](http://www.ubuntu.com/), [RHEL](http://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)/[CentOS](https://www.centos.org/), [SuSe](https://www.suse.com/products/server/)/[OpenSuSe](https://www.opensuse.org/)), [Microsoft Windows Server 2003/2008/2012/2016](http://www.microsoft.com/en-us/server-cloud/products/windows-server-2012-r2/), [Windows XP/7/8/8.x/10](http://www.microsoft.com/en-gb/windows), [Unix](http://www.unix.org/) ([FreeBSD](http://www.freebsd.org/) & [OpenSolaris](http://openindiana.org/)), [OS X](http://www.apple.com/osx/)
-
-Virtualization / Containerization
-  : [Citrix XenServer](http://xenserver.org/), [Microsoft Hyper-V](http://www.microsoft.com/en-us/server-cloud/solutions/virtualization.aspx), [Oracle VirtualBox](https://www.virtualbox.org/), [VMWare ESX](https://www.vmware.com/products/esxi-and-esx/overview)/[vSphere](http://www.vmware.com/products/vsphere), [docker](https://www.docker.com/), QEMU
-
-Cloud
-  : [Apache Cloudstack](http://cloudstack.apache.org/), [Citrix CloudPlatform](https://www.citrix.com/products/cloudplatform/overview.html), [Amazon EC2](https://aws.amazon.com/ec2/)/[AWS](https://aws.amazon.com/), [Microsoft Azure](https://azure.microsoft.com/en-gb/overview/what-is-azure/), [ExoScale](https://www.exoscale.ch/)
-
-NoSQL / Search
-  : [Elasticsearch](https://www.elastic.co/), [CouchDB](http://couchdb.apache.org/)
-
-Databases
-  : [MySQL 5](http://www.mysql.com/why-mysql/), [Postgres 8/9](http://www.postgresql.org/), [Oracle 11g](https://www.oracle.com/database/index.html), [SQLite 3](http://sqlite.org/), Microsoft [SQL Server](http://www.microsoft.com/en-gb/server-cloud/products/sql-server/) 2008/2012
+  : [Debian](http://www.debian.org/)/[Ubuntu](http://www.ubuntu.com/), [RHEL](http://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)/[CentOS](https://www.centos.org/), [SuSe](https://www.suse.com/products/server/)/[OpenSuSe](https://www.opensuse.org/), [Microsoft Windows Server 2003/2008/2012/2016](http://www.microsoft.com/en-us/server-cloud/products/windows-server-2012-r2/), [Windows XP/7/8/8.x/10](http://www.microsoft.com/en-gb/windows), [FreeBSD 9/10](http://www.freebsd.org/)
 
 Networking
-  : [TCP/IP](https://en.wikipedia.org/wiki/Internet_protocol_suite) (IPv4 & IPv6), Routing & Switching, Design & Optimization, [DNS](https://en.wikipedia.org/wiki/Domain_Name_System) ([ISC Bind 9](https://www.isc.org/downloads/bind/), [Mictrosoft DNS Server](https://technet.microsoft.com/en-us/windowsserver/dd448607.aspx)), [DHCP](https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol) ([ISC dhcpd](https://www.isc.org/downloads/dhcp/), [Microsoft DHCP Server](https://technet.microsoft.com/en-us/windowsserver/dd448608.aspx)), [LDAP](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol) ([OpenLDAP](http://www.openldap.org/), [Microsoft Active Directory](https://msdn.microsoft.com/en-us/library/aa746492(v=vs.85).aspx)), VPNs, [WireShark](https://www.wireshark.org/)/[tcpdump](http://www.tcpdump.org/), Cisco Routing & Switching, Citrix [NetScaler](https://www.citrix.com/products/netscaler)
+  : [TCP/IP](https://en.wikipedia.org/wiki/Internet_protocol_suite) (IPv4 & IPv6), [DNS](https://en.wikipedia.org/wiki/Domain_Name_System), [DHCP](https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol), [LDAP](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol), VLANs, VPNs, Cisco Routing & Switching, Citrix [NetScaler](https://www.citrix.com/products/netscaler)
+
+Virtualization
+  : [Citrix XenServer](http://xenserver.org/), [Microsoft Hyper-V](http://www.microsoft.com/en-us/server-cloud/solutions/virtualization.aspx), [Oracle VirtualBox](https://www.virtualbox.org/), [VMWare ESX](https://www.vmware.com/products/esxi-and-esx/overview)/[vSphere](http://www.vmware.com/products/vsphere), [docker](https://www.docker.com/)
+
+Cloud
+  : [Apache Cloudstack](http://cloudstack.apache.org/), [Citrix CloudPlatform](https://www.citrix.com/products/cloudplatform/overview.html), [Amazon EC2](https://aws.amazon.com/ec2/)/[AWS](https://aws.amazon.com/), [Microsoft Azure](https://azure.microsoft.com/en-gb/overview/what-is-azure/)
+
+Databases
+  : [Elasticsearch](https://www.elastic.co/), [CouchDB](http://couchdb.apache.org/), [MySQL 5](http://www.mysql.com/why-mysql/), [SQLite 3](http://sqlite.org/), [Postgres 8/9](http://www.postgresql.org/), Microsoft [SQL Server](http://www.microsoft.com/en-gb/server-cloud/products/sql-server/)
 
 Monitoring
   : Syslog, SNMP, [Graylog](https://www.graylog.org/), [Nagios](https://www.nagios.org/about/overview/), [Cacti](http://www.cacti.net/), [LogStash](https://www.elastic.co/products/logstash), WMI, [Collectd](https://collectd.org/)
@@ -98,21 +77,19 @@ Provisioning
   : [Puppetlabs razor](https://puppetlabs.com/solutions/next-generation-provisioning), PXE/[iPXE](http://ipxe.org/), [kickstart](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html/Installation_Guide/ch-kickstart2.html#s1-kickstart2-whatis), [preseed](https://wiki.debian.org/DebianInstaller/Preseed), [WinPE](https://technet.microsoft.com/en-us/library/cc766093(v=ws.10).aspx), [autoyast](http://users.suse.com/~ug/autoyast_doc/introduction.html), [vagrant](https://www.vagrantup.com/)
 
 Config. Mgmt
-  : [PowerShell DSC](https://technet.microsoft.com/en-us/library/dn249912.aspx), [Puppet](https://puppetlabs.com/puppet/puppet-enterprise), [Chef](https://www.chef.io/), [SSH](http://www.openssh.com/)
+  : [SSH](http://www.openssh.com/), [WinRM](https://msdn.microsoft.com/en-us/library/aa384426%28v=vs.85%29.aspx?f=255&MSPPError=-2147217396), [Puppet](https://puppetlabs.com/puppet/puppet-enterprise), [Chef](https://www.chef.io/), 
 
 Source Control
-  : [Perforce](http://www.perforce.com/), [git](https://git-scm.com/), [diff/patch](http://jungels.net/articles/diff-patch-ten-minutes.html), [Mercural](https://mercurial.selenic.com/)/[CVS](http://www.nongnu.org/cvs/), [Jenkins](https://wiki.jenkins-ci.org/display/JENKINS/Meet+Jenkins), [Checkinstall](http://asic-linux.com.mx/~izto/checkinstall/)
+  : [Perforce](http://www.perforce.com/), [git](https://git-scm.com/), [diff/patch](http://jungels.net/articles/diff-patch-ten-minutes.html), [Mercural](https://mercurial.selenic.com/), [CVS](http://www.nongnu.org/cvs/), [Jenkins](https://wiki.jenkins-ci.org/display/JENKINS/Meet+Jenkins), [Checkinstall](http://asic-linux.com.mx/~izto/checkinstall/)
 
 Hardware
-  : Dell [PowerEdge](http://www.dell.com/us/business/p/poweredge-rack-servers), HP [Proliant](http://www8.hp.com/us/en/products/proliant-servers/)/[BladeSystem](http://www8.hp.com/us/en/products/servers/bladesystem/)
+  : Dell [PowerEdge](http://www.dell.com/us/business/p/poweredge-rack-servers), HP [Proliant](http://www8.hp.com/us/en/products/proliant-servers/), HP [BladeSystem](http://www8.hp.com/us/en/products/servers/bladesystem/)
 
 Storage
-  : Dell [Compellent](http://www.dell.com/us/business/p/dell-compellent), [NetApp](http://www.netapp.com/us/products/storage-systems/), Software Defined Storage ([Nexenta](https://nexenta.com/), [QuadStor](http://www.quadstor.com/)), [HP StorageWorks](http://www8.hp.com/h20195/v2/GetHTML.aspx?docname=c04168365)
+  : Dell [Compellent](http://www.dell.com/us/business/p/dell-compellent), [NetApp FS 2000](http://www.netapp.com/us/products/storage-systems/), [HP StorageWorks](http://www8.hp.com/h20195/v2/GetHTML.aspx?docname=c04168365), [Nexenta](https://nexenta.com/), [QuadStor](http://www.quadstor.com/)
 
 Web
   : [Apache httpd](http://httpd.apache.org/), [Dancer2](http://perldancer.org/), [PSGI](https://en.wikipedia.org/wiki/PSGI)/[Plack](http://plackperl.org/), [SOA](https://www.opengroup.org/soa/source-book/soa/soa.htm), [REST](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
-
-----
 
 ### Education
 
@@ -122,15 +99,13 @@ _Sep_ _2008_  -  _May_  _2010_
 _Jul_ _2000_  -  _Mar_  _2001_ 
   : **BSc (Hons.) Computer Science, Mathematics, Physics**  _(Discontinued)_, [St. Joseph's College of Science and Arts](http://www.sjc.ac.in), Bangalore, India
 
-----
-
 ### Courses and Qualifications
 
 * [Citrix NetScaler - Essentials, Networking and Administration](http://training.citrix.com/mod/ctxcatalog/course.php?id=497), _Jun 2012_
 * [Building Scalable Cisco Internetworks (CCNP BSCI)](https://www.cbtnuggets.com/it-training/cisco-642-901-ccnp-bsci), _Feb 2004_
+* [Cisco Certified Network Associate (CCNA)](http://www.cisco.com/web/learning/exams/list/ccna_composite.html#~Topics), _Mar 2003_
 * [Implementing & Administering a Microsoft Windows 2000 Directory Services Infrastructure](https://web.archive.org/web/20081222080658/http://www.microsoft.com/learning/en/us/exams/70-217.mspx#EHE), _Apr 2003_
 * [Implementing & Administering a Microsoft Windows 2000 Network Infrastructure](https://web.archive.org/web/20141221185633/https://www.microsoft.com/learning/en/us/exams/70-216.mspx#E3E), _Apr 2003_
-* [Cisco Certified Network Associate (CCNA)](http://www.cisco.com/web/learning/exams/list/ccna_composite.html#~Topics), _Mar 2003_
 * [Administering Windows 2000 Server](https://web.archive.org/web/20141221185902/https://www.microsoft.com/learning/en/us/exams/70-215.mspx#E3E), Microsoft Certified Professional (MCP) _Mar 2003_
 * [Administering Windows 2000 Professional](https://web.archive.org/web/20141221190036/https://www.microsoft.com/learning/en/us/exams/70-210.mspx#ECF), Microsoft Certified Professional (MCP) _Mar 2003_
 * [Network Infrastructure Administration, CompTIA® Network+ Certified Professional](http://certification.comptia.org/certifications/network), _Feb 2003_
@@ -138,8 +113,6 @@ _Jul_ _2000_  -  _Mar_  _2001_
 * Advanced Java, Network Programming using EJB, Servlets/RMI, JDBC/SQL, _Jul 2001_
 * Web Design using Microsoft FrontPage 2000, HTML, VBScript and Javascript, _Jan 2001_
 * Procedural Programming with ANSI C, _May 1999_
-
-----
 
 ### Professional Membership
 
@@ -152,19 +125,13 @@ _Jul_ _2000_  -  _Mar_  _2001_
  _Jan_  _2008_  -  _Present_
   : [Microsoft IT Advisory Council (ITAC)](https://microsoft-itcouncil.com/) _(Member)_
 
-----
-
 ### Languages
 
 English (Fluent), French (Limited Working Proficiency), Slovak (Basic)
 
-----
-
 ### Hobbies and Interests
 
 Hiking & the Outdoors • Music & playing the guitar • Badminton • Amateur Photography • Hacking [Debian GNU/Linux](https://www.debian.org/) for fun
-
-----
 
 ### Personal Details
 
@@ -183,18 +150,8 @@ Date of birth
 Nationality
   : British
 
-----
+### Download
 
-# Download
+**PDF Version**
+  : [shalom_bhooshi-resume-2015-10.pdf](http://shalomb.github.io/cv/cv.pdf)
 
-**PDF **
-  : [shalom_bhooshi-resume-2015-10.pdf](cv.pdf)
-
-**Open Office **
-  : [shalom_bhooshi-resume-2015-10.odt](cv.odt)
-
-**Microsoft Word **
-  : [shalom_bhooshi-resume-2015-10.docx](cv.docx)
-
-**Plain Text**
-  : [shalom_bhooshi-resume-2015-10.txt](cv.txt)

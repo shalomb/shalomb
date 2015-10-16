@@ -1,31 +1,5 @@
 Shalom Bhooshi
 
-Shalom Bhooshi
-==============
-
-  e: s.bhooshi@gmail.com • T: +421 948 140 290 • 92, Kosicka, 52/A,
-  Bratislava, 821 08
-
-  uk.linkedin.com/in/shalombhooshi
-
-* * * * *
-
-Infrastructure Automation
-
-A skilled engineer with 10 years of practical experience in a wide variety of
-technologies and settings, most recently in test and infrastructure
-automation.
-
-Core competencies include:
-
-  Network Design • Systems Administration • Scripting • Infrastructure
-  Automation • Private Cloud/IaaS
-
-  Web Technologies • Defect Management • Continuous Integration • Windows •
-  Linux
-
-* * * * *
-
 Professional Experience
 
 Jul 2010 - Aug 2015 • Citrix Systems UK Ltd • Cambridge, United Kingdom
@@ -62,7 +36,8 @@ Prioliant, Dell PowerEdge
 - Other activities included support, triage and troubleshooting of, often
   complex, issues in infrastructure and test environments; application of
   agile methodologies to evolve both code and infrastructure, procurement and
-  lifecycle maintenance of hardware and software, technical training.
+  lifecycle maintenance of hardware and software, technical training. Library
+  Code, Reporting, Delivery.
 
 May 2007 - Dec 2007 • Crystal Amusements Ltd • Leicester Square, London,
 United Kingdom
@@ -102,7 +77,43 @@ Directory.
   and consultancy for SOHO business (estate agents, solicitors, accountants,
   etc).
 
-* * * * *
+Technical Experience
+
+Scripting : Powershell/.NET, Bash/POSIX Shell, Perl, Ruby, Python, Javascript,
+Java, C
+
+Markup : JSON, YAML, HTML, XHTML, XML, CSS,
+
+Operating Systems : Debian/Ubuntu, RHEL/CentOS, SuSe/OpenSuSe, Microsoft
+Windows Server 2003/2008/2012/2016, Windows XP/7/8/8.x/10, FreeBSD 9/10
+
+Networking : TCP/IP (IPv4 & IPv6), DNS, DHCP, LDAP, VLANs, VPNs, Cisco Routing
+& Switching, Citrix NetScaler
+
+Virtualization : Citrix XenServer, Microsoft Hyper-V, Oracle VirtualBox,
+VMWare ESX/vSphere, docker
+
+Cloud : Apache Cloudstack, Citrix CloudPlatform, Amazon EC2/AWS, Microsoft
+Azure
+
+Databases : Elasticsearch, CouchDB, MySQL 5, SQLite 3, Postgres 8/9, Microsoft
+SQL Server
+
+Monitoring : Syslog, SNMP, Graylog, Nagios, Cacti, LogStash, WMI, Collectd
+
+Provisioning : Puppetlabs razor, PXE/iPXE, kickstart, preseed, WinPE,
+autoyast, vagrant
+
+Config. Mgmt : SSH, WinRM, Puppet, Chef,
+
+Source Control : Perforce, git, diff/patch, Mercural, CVS, Jenkins,
+Checkinstall
+
+Hardware : Dell PowerEdge, HP Proliant, HP BladeSystem
+
+Storage : Dell Compellent, NetApp FS 2000, HP StorageWorks, Nexenta, QuadStor
+
+Web : Apache httpd, Dancer2, PSGI/Plack, SOA, REST
 
 Education
 
@@ -112,17 +123,15 @@ Sheffield Hallam University, Sheffield, England
 Jul 2000 - Mar 2001 : BSc (Hons.) Computer Science, Mathematics, Physics
 (Discontinued), St. Joseph's College of Science and Arts, Bangalore, India
 
-* * * * *
-
 Courses and Qualifications
 
 - Citrix NetScaler - Essentials, Networking and Administration, Jun 2012
 - Building Scalable Cisco Internetworks (CCNP BSCI), Feb 2004
+- Cisco Certified Network Associate (CCNA), Mar 2003
 - Implementing & Administering a Microsoft Windows 2000 Directory Services
   Infrastructure, Apr 2003
 - Implementing & Administering a Microsoft Windows 2000 Network
   Infrastructure, Apr 2003
-- Cisco Certified Network Associate (CCNA), Mar 2003
 - Administering Windows 2000 Server, Microsoft Certified Professional (MCP)
   Mar 2003
 - Administering Windows 2000 Professional, Microsoft Certified Professional
@@ -137,8 +146,6 @@ Courses and Qualifications
   Jan 2001
 - Procedural Programming with ANSI C, May 1999
 
-* * * * *
-
 Professional Membership
 
 Jul 2010 - Present : The Institution of Engineering and Technology (IET)
@@ -148,20 +155,14 @@ Dec 2008 - Present : British Computer Society (BCS) (Member)
 
 Jan 2008 - Present : Microsoft IT Advisory Council (ITAC) (Member)
 
-* * * * *
-
 Languages
 
 English (Fluent), French (Limited Working Proficiency), Slovak (Basic)
-
-* * * * *
 
 Hobbies and Interests
 
 Hiking & the Outdoors • Music & playing the guitar • Badminton • Amateur
 Photography • Hacking Debian GNU/Linux for fun
-
-* * * * *
 
 Personal Details
 
@@ -175,15 +176,6 @@ Date of birth : 08 Jan, 1983
 
 Nationality : British
 
-* * * * *
-
 Download
-========
 
-PDF : shalom_bhooshi-resume-2015-10.pdf
-
-Open Office : shalom_bhooshi-resume-2015-10.odt
-
-Microsoft Word : shalom_bhooshi-resume-2015-10.docx
-
-Plain Text : shalom_bhooshi-resume-2015-10.txt
+PDF Version : shalom_bhooshi-resume-2015-10.pdf
