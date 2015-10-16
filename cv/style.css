@@ -1,48 +1,63 @@
 ﻿/* http://css.paperplaza.net/conferences/support/page.php */
 
 @media all {
+
   body, html {
-    margin : 0px auto;
-    font-style :  normal;
-    font-variant :  normal;
-    font-family :  "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size :  10pt;
+    margin :              0px auto;
+    font-style :          normal;
+    font-variant :        normal;
+    font-family :         "Liberation Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size :           10pt;
   }
 
   html {
-    box-sizing : border-box;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
+    box-sizing :          border-box;
+    -webkit-box-sizing :  border-box;
+    -moz-box-sizing :     border-box;
   }
 
-  *, *:before, *:after {
-    box-sizing : inherit;
-    -webkit-box-sizing: inherit;
-    -moz-box-sizing: inherit;
+  *, *:                   before, *:                                       after {
+    box-sizing :          inherit;
+    -webkit-box-sizing :  inherit;
+    -moz-box-sizing :     inherit;
   }
 
   body {
-    padding : 2cm;
+    padding :             2cm;
   }
 
   body * {
-    text-align : left;
+    text-align :          left;
   }
 
   /* Title                 16 pt */
-  h1 {
-    font-size : 16pt;
-    text-align : center;
+  .title, h1 {
+    font-size :   18pt;
+    text-align :  center;
+    font-weight : bolder;
+  }
+
+  .subtitle, .author {
+    font-size :   11pt;
+    font-size : 95%;
+    font-weight : normal;
+    text-align :  center;
+  }
+
+  .abstract {
+    margin :      30px 40px;
+    text-indent : 30px;
   }
 
   h2 {
     font-size : 14pt;
   }
-/* Author list           11 pt */
+
+  /* Author list           11 pt */
 
   /* Section titles        10 pt */
   h3 {
-    font-size : 10pt;
+    font-size : 11pt;
   }
 
   /* Normal text           10 pt */
@@ -51,18 +66,18 @@
   }
 
   p, li, td, dd, em, strong {
-    text-align: justify;
-    text-justify: inter-word;
+    text-align :    justify;
+    text-justify :  inter-word;
   }
 
   em, strong {
     font-size : 90%;
   }
 
-/* Table/Figure captions 10 pt */
-/* Sub-scripts            8 pt */
-/* Sub-sub-scripts        7 pt */
-/* Footnotes              8 pt */
+  /* Table/Figure captions 10 pt */
+  /* Sub-scripts            8 pt */
+  /* Sub-sub-scripts        7 pt */
+  /* Footnotes              8 pt */
 
   a {
     text-decoration :  none;
@@ -74,10 +89,10 @@
   }
 
   blockquote, blockquote p {
-    width : auto;
-    margin-left : auto;
-    margin-right : auto;
-    text-align :  center;
+    width :         auto;
+    margin-left :   auto;
+    margin-right :  auto;
+    text-align :    center;
   }
 
   blockquote + blockquote {
@@ -85,50 +100,52 @@
   }
 
   dt {
-    float :  left;
-    clear :  left;
-    width :  21%;
-    /*font-weight :  bold;*/
+    float :              left;
+    clear :              left;
+    width :              21%;
+    /*font-weight :      bold;*/
   }
 
   dd {
-    margin-left :  22%;
-    font-size : 90%;
+    margin-left :        22%;
+    font-size :          90%;
   }
 
   hr {
-    height :  1px;
-    width : 99%;
-    border :  0;
-    text-align :  center;
-    margin :  auto;
-    background :  #ccc;
+    height :             1px;
+    width :              45%;
+    text-align :         center;
+    margin :             auto;
+    background :         #fff;
+    border :             0;
+    border-bottom :      1px solid #999;
+  }
+
+  ul li, p {
+    line-height :        140% !important;
   }
 
   p {
-    margin : 0;
-    margin-top : 4px;
-    margin-bottom : 8px;
-    page-break-after : avoid;
-    page-break-inside : avoid;
+    margin :             0;
+    margin-top :         4px;
+    margin-bottom :      8px;
+    page-break-after :   avoid;
+    page-break-inside :  avoid;
   }
 
   ul {
-    margin-top :  -4px;
-  }
-
-  ul          {
+    margin-top :  10px;
     list-style :  none;
   }
 
   ul li:before {
     margin-left :  -10px;
-    content :  "• \0020";
-    color :  #888;
+    content :      "• \0020";
+    color :        #444;
   }
 
   li:not(:last-child) {
-    margin-bottom: 8px;
+    margin-bottom : 8px;
   }
 
 }
@@ -136,49 +153,48 @@
 /* http://stackoverflow.com/questions/16649943/css-to-set-a4-paper-size */
 @media only screen {
   html {
-    padding: 0;
-    margin: 0;
-    background-color: #FAFAFA;
+    padding :           0;
+    margin :            0;
+    background-color :  #FAFAFA;
   }
 
   body {
-    background: white;
-    border: 1px #D3D3D3 solid;
-    border-radius: 5px;
-    box-shadow: 0 0 0.125cm rgba(0, 0, 0, 0.25);
-    margin: 1cm auto;
+    background :     white;
+    border :         1px #D3D3D3 solid;
+    border-radius :  5px;
+    box-shadow :     0 0 0.25cm rgba(0, 0, 0, 0.25);
+    margin :         0.3cm auto;
   }
 
   * {
-    box-sizing: border-box;
-    -moz-box-sizing: border-box;
+    box-sizing :       border-box;
+    -moz-box-sizing :  border-box;
   }
 
   #TOC {
-    background :  #efefef;
-    width :  20%;
-    max-width :  20%;
-    position :  fixed;
-    top :  20%;
-    right :  -1px;
-    border :  1px solid #ccc;
-    border-radius: 2px;
-    /* padding :  0.75em 0.5em 0 0em; */
-    background :  white;
-    font-size :  10pt;
-    font-weight : 600;
+    width :          20%;
+    max-width :      20%;
+    position :       fixed;
+    top :            20%;
+    right :          -1px;
+    border :         1px solid #ccc;
+    border-radius :  2px;
+    /* padding :     0.75em 0.5em 0 0em; */
+    background :     white;
+    font-size :      10pt;
+    font-weight :    600;
   }
 
   #TOC > ul {
-    margin-top : 1em !important;
-    padding :  0.5em !important;
+    margin-top :  1em !important;
+    padding :     0.5em !important;
     list-style :  none;
   }
 
   #TOC ul, #TOC li {
-    margin : auto;
+    margin :       auto;
     margin-left :  10px;
-    padding :  0;
+    padding :      0;
   }
 }
 
@@ -195,6 +211,11 @@
 }
 
 @media print {
+  @page {
+    size : auto;
+    margin : 2.5cm;
+  }
+
   body {
     margin :           0;
     padding :          0;
@@ -205,19 +226,12 @@
     box-shadow :       initial;
     background :       initial;
     page-break-after : always;
-
-    width : 20cm;
-    border : 1px solid red;
+    /* width : 20cm; */
   }
 
   #TOC {
     display : none;
   }
-}
-
-@page {
-  size: A4;
-  margin: 0;
 }
 
 /* http://codepen.io/rafaelcastrocouto/pen/LFAes/ */
