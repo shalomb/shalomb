@@ -2,8 +2,8 @@
 title: Shalom Bhooshi
 subtitle: _e:_ [s.bhooshi@gmail.com](mailto:s.bhooshi@gmail.com) • _T:_ +421 948 140 290 • [92, Kosicka, 52/A, Bratislava, 821 08](https://www.google.co.uk/maps?q=92,+Kosicka+52/A,+Bratislava,+82108)
 author: _l:_ [uk.linkedin.com/in/shalombhooshi](https://uk.linkedin.com/in/shalombhooshi)
-geometry: margin=2cm
-abstract: A skilled engineer with 10 years of practical experience in a wide variety of technologies and settings, most recently in test and infrastructure automation. Core competencies include **Network & Systems Administration** • **Scripting** • **Infrastructure Automation** • **Private Cloud/IaaS** • **Web Technologies** • **Defect Management** • **Continuous Integration** • **Windows** • **Linux**
+abstract: A skilled systems engineer with 10 years of experience in systems administration, engineering and automation in heterogeneous/multi-vendor environments. With a strong focus on cloud, virtualization and open source technology to implement cost-effective and flexible solutions. I have strong communications and personal skills and can work well in any setting. Core competencies include **Linux/Unix** • **Network & Systems Administration** • **Scripting/Programming** • **Infrastructure Automation** • **Cloud** • **Web Technologies**
+
 ---
 
 ### Professional Experience
@@ -14,28 +14,28 @@ Citrix solutions power business mobility through secure, mobile workspaces that 
 
 **Senior Software Engineer in Test, Quality Assurance**, Enterprise Desktop and Apps.
 
-_Skills :_ CloudStack/CloudPlatform • XenServer/Hyper-V/ESX • Citrix XenDesktop • Windows Server 2008/2012/2016 • Windows XP/Vista/7/8/8.x/10 • SQL Server 2008/2012 • Debian/CentOS Linux • Puppetlabs Razor/iPXE • PowerShell • Perl, Bash, Ruby • Dell Compellent • HP StorageWorks * Cisco Nexus, 2960s/g/x • HP Prioliant, Dell PowerEdge
-
+_Skills :_ Citrix CloudStack/CloudPlatform • XenServer/Hyper-V/ESX • Citrix XenDesktop • Windows Server 2008/2012/2016 • Windows XP/Vista/7/8/8.x/10 • SQL Server 2008/2012 • Debian/CentOS Linux • Puppetlabs Razor/iPXE • PowerShell • Perl, Bash, Ruby • Dell Compellent • HP StorageWorks * Cisco Nexus, 2960s/g/x • HP Prioliant, Dell PowerEdge
 
 * Designer/DevOps engineer of the private cloud (based on [Citrix CloudPlatform](https://www.citrix.com/products/cloudplatform/)/[XenServer](https://www.citrix.com/products/xenserver/)) used as a deployment platform to facilitate QA activities of 65+ internal teams.
-* Involved in the design, development and provisioning of stock and bespoke dev/test environments for integration and regression testing using technologies across the stack (cloud resources, virtual machines, hypervisors, storage and networking, applications and profiles). This included the backend implementation of platforms for customer demos/roadshows e.g. [Citrix Summit/Synergy](http://www.citrixsummit.com/)
-* Member of the core automation team whose remit it is to develop and support the internal test automation framework that underpins quality assurance strategies of the [Citrix Desktop and App virtualization](https://www.citrix.com/solutions/desktop-virtualization/overview.html) suites. My role within the team is the development lead for the Perl components of the framework to support Linux and Mac end-points.
-* Other activities included support, triage and troubleshooting of, often complex, issues in infrastructure and test environments; application of agile methodologies to evolve both code and infrastructure, procurement and lifecycle maintenance of hardware and software, technical training. Library Code, Reporting, Delivery.
+* Involved in the design, development and provisioning of self-service dev/test environments for integration and regression testing using technologies across the stack (cloud resources, virtual machines, hypervisors, storage and networking, applications and profiles). Also involved in setting up the backend for customer demos/roadshows e.g. [Citrix Summit](http://www.citrixsummit.com/).
+* Member of the core automation team whose remit it is to develop and support the internal test automation framework that underpins quality assurance strategies of the [Citrix Desktop and App virtualization](https://www.citrix.com/solutions/desktop-virtualization/overview.html) suites. Development lead for the Perl components of the framework to support Linux and Mac end-points.
+* Other activities included support, triage and troubleshooting of, often complex, issues in infrastructure and test environments; application of agile methodologies to evolve both code and infrastructure, procurement and lifecycle maintenance of hardware and software, technical training, etc.
 
 _May 2007 - Dec 2007_ • **Crystal Amusements Ltd** • Leicester Square, London, United Kingdom
 
 **Support Engineer/Systems Administrator**
 
-_Skills :_ Hardware/Software Administration and Troubleshooting, Staging and Rollouts, Network Administration - NetGear Switching, DHCP/DNS, Caching Proxies, Linux, Windows XP/2003, Customer Support.
+_Skills :_ Hardware/Software Administration and Troubleshooting, Staging and Rollouts, Network Administration - NetGear Switching, DHCP/DNS, Caching Proxies, Windows XP/2003, Linux, Norton Ghost, Customer Support.
 
-* Responsible for the technical operations of 70+ internet kiosks, printers, scanners and fax solutions, etc.
+* Responsible for the technical operations of 90+ internet kiosks, printers, scanners and fax solutions, etc.
+* Managed the staging of software and hardware rollouts, regular backups, maintenance and security.
+* Other activities included customer support, triage and troubleshooting, technical training, etc.
 
 _Jan 2007 - May 2007_ • **[Sterling Limousines (UK) Ltd](http://sterlinglimousines.co.uk/)** • Richmond, Surrey, United Kingdom
 
 **LAMP Developer, Perl/PostGres**
 
-_Skills :_ Perl, Apache/mod_perl, Postgresql 8, Debian Linux, xHTML, CSS, Prototype JS,
-        Bash, Mercurial
+_Skills :_ Perl, Apache/mod_perl, Postgresql 8, Debian Linux, xHTML, CSS, Prototype JS, Bash, Mercurial
 
 * Developed an online presence and booking system for integration with other management systems.
 
@@ -59,7 +59,7 @@ Operating Systems
   : [Debian](http://www.debian.org/)/[Ubuntu](http://www.ubuntu.com/), [RHEL](http://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)/[CentOS](https://www.centos.org/), [SuSe](https://www.suse.com/products/server/)/[OpenSuSe](https://www.opensuse.org/), [Microsoft Windows Server 2003/2008/2012/2016](http://www.microsoft.com/en-us/server-cloud/products/windows-server-2012-r2/), [Windows XP/7/8/8.x/10](http://www.microsoft.com/en-gb/windows), [FreeBSD 9/10](http://www.freebsd.org/)
 
 Networking
-  : [TCP/IP](https://en.wikipedia.org/wiki/Internet_protocol_suite) (IPv4 & IPv6), [DNS](https://en.wikipedia.org/wiki/Domain_Name_System), [DHCP](https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol), [LDAP](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol), VLANs, VPNs, Cisco Routing & Switching, Citrix [NetScaler](https://www.citrix.com/products/netscaler)
+  : [TCP/IP](https://en.wikipedia.org/wiki/Internet_protocol_suite) (IPv4 & IPv6), [DNS](https://en.wikipedia.org/wiki/Domain_Name_System), [DHCP](https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol), HTTP, [LDAP](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol), VLANs, VPNs, Cisco Routing & Switching, Citrix [NetScaler](https://www.citrix.com/products/netscaler), NFS, Samba, iSCSI
 
 Virtualization
   : [Citrix XenServer](http://xenserver.org/), [Microsoft Hyper-V](http://www.microsoft.com/en-us/server-cloud/solutions/virtualization.aspx), [Oracle VirtualBox](https://www.virtualbox.org/), [VMWare ESX](https://www.vmware.com/products/esxi-and-esx/overview)/[vSphere](http://www.vmware.com/products/vsphere), [docker](https://www.docker.com/)
