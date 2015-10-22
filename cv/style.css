@@ -1,4 +1,5 @@
 ﻿/* http://css.paperplaza.net/conferences/support/page.php */
+@import url("http://fortawesome.github.io/Font-Awesome/assets/font-awesome/css/font-awesome.css");
 
 @media all {
 
@@ -152,6 +153,12 @@
     margin-bottom : 8px;
   }
 
+  #TOC > ul li:before {
+    content : "";
+  }
+  #TOC > ul li {
+    margin-bottom : 8px;
+  }
 }
 
 /* http://stackoverflow.com/questions/16649943/css-to-set-a4-paper-size */
@@ -176,6 +183,10 @@
 
   #TOC {
     display : none;
+  }
+
+  #TOC ul {
+    list-style : none;
   }
 
 }
