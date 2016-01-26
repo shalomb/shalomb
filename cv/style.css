@@ -96,16 +96,42 @@
     margin-top : -10px;
   }
 
+  /*
   dt {
     float :              left;
     clear :              left;
     width :              21%;
-    /*font-weight :      bold;*/
   }
 
   dd {
     margin-left :        22%;
     font-size :          90%;
+  }
+  */
+
+  dl {
+    width: 100%;
+    overflow: hidden;
+    padding: 0;
+    margin: 0
+  }
+
+  dt {
+    float: left;
+    width: 21%;
+    padding: 0;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    margin: 0
+  }
+
+  dd {
+    float: left;
+    width: 79%;
+    padding: 0;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    margin: 0
   }
 
   hr {

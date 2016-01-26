@@ -1,8 +1,32 @@
-Shalom Bhooshi
-
 Professional Experience
 
-Jul 2010 - Aug 2015 • Citrix Systems UK Ltd • Cambridge, United Kingdom
+_Oct 2015 - Present_ • BOX+DICE • Bratislava, Slovakia
+
+Box+Dice provide a unique software platform for real estate businesses
+allowing them to manage property portfolios, clients, marketing and management
+in realtime. With over 250 clients across the Oceania region, Box+Dice
+leverage cutting-edge software and cloud solutions to provide flexible
+solutions for client success.
+
+SENIOR SYSTEMS ENGINEER
+
+_Skills :_ • XenServer, Xen, Docker • Debian/Ubuntu Linux • nginx •
+MySQL/MariaDB • RabbitMQ, Redis, MySQL/MariaDB, PostGres • Jenkins • Bash,
+Ruby, Ansible • Ansible/Docker • HP Proliant • Netgear ReadNAS • Amazon AWS,
+EC2 • CloudFlare • CloudFront • Logging/Reporting, Availability, Security,
+Performance
+
+- Lead systems engineer in a DevOps environment responsible for automation for
+  continuous delivery and maintaining technical operations and availability of
+  the platform.
+- Working closely with systems, development, support, customers to triage
+  issues, expedite change, inform process engineering, improve
+  documentation/automation, etc.
+- Involved in research and prototyping of technologies (Public Clouds,
+  Containerization, Realtime Logging/Monitoring, etc) to solve common
+  problems, increase efficiency and reduce costs.
+
+_Jul 2010 - Aug 2015_ • CITRIX SYSTEMS UK LTD • Cambridge, United Kingdom
 
 Citrix solutions power business mobility through secure, mobile workspaces
 that provide people with instant access to apps, desktops, data and
@@ -10,150 +34,154 @@ communications on any device, over any network and cloud. With annual revenue
 in 2014 of $3.14 billion, Citrix solutions are in use at more than 400,000
 organizations and by over 100 million users globally.
 
-Senior Software Engineer in Test, Quality Assurance, Enterprise Desktop and
+SENIOR SOFTWARE ENGINEER IN TEST, QUALITY ASSURANCE, Enterprise Desktop and
 Apps.
 
-Skills : CloudStack/CloudPlatform • XenServer/Hyper-V/ESX • Citrix XenDesktop
-• Windows Server 2008/2012/2016 • Windows XP/Vista/7/8/8.x/10 • SQL Server
-2008/2012 • Debian/CentOS Linux • Puppetlabs Razor/iPXE • PowerShell • Perl,
-Bash, Ruby • Dell Compellent • HP StorageWorks * Cisco Nexus, 2960s/g/x • HP
-Prioliant, Dell PowerEdge
+_Skills :_ Citrix CloudStack/CloudPlatform • XenServer/Hyper-V/ESX • Citrix
+XenDesktop • Windows Server 2008/2012/2016 • Windows XP/Vista/7/8/8.x/10 • SQL
+Server 2008/2012 • Debian/CentOS Linux • Puppetlabs Razor/iPXE • PowerShell •
+Perl, Bash, Ruby • Dell Compellent • HP StorageWorks * Cisco Nexus, 2960s/g/x
+• HP Prioliant, Dell PowerEdge
 
 - Designer/DevOps engineer of the private cloud (based on Citrix
   CloudPlatform/XenServer) used as a deployment platform to facilitate QA
   activities of 65+ internal teams.
-- Involved in the design, development and provisioning of stock and bespoke
+- Involved in the design, development and provisioning of self-service
   dev/test environments for integration and regression testing using
   technologies across the stack (cloud resources, virtual machines,
-  hypervisors, storage and networking, applications and profiles). This
-  included the backend implementation of platforms for customer
-  demos/roadshows e.g. Citrix Summit/Synergy
+  hypervisors, storage and networking, applications and profiles). Also
+  involved in setting up the backend for customer demos/roadshows e.g. Citrix
+  Summit.
 - Member of the core automation team whose remit it is to develop and support
   the internal test automation framework that underpins quality assurance
-  strategies of the Citrix Desktop and App virtualization suites. My role
-  within the team is the development lead for the Perl components of the
-  framework to support Linux and Mac end-points.
+  strategies of the Citrix Desktop and App virtualization suites. Development
+  lead for the Perl components of the framework to support Linux and
+  Mac end-points.
 - Other activities included support, triage and troubleshooting of, often
   complex, issues in infrastructure and test environments; application of
   agile methodologies to evolve both code and infrastructure, procurement and
-  lifecycle maintenance of hardware and software, technical training. Library
-  Code, Reporting, Delivery.
+  lifecycle maintenance of hardware and software, technical training, etc.
 
-May 2007 - Dec 2007 • Crystal Amusements Ltd • Leicester Square, London,
+_May 2007 - Dec 2007_ • CRYSTAL AMUSEMENTS LTD • Leicester Square, London,
 United Kingdom
 
-Support Engineer/Systems Administrator
+SUPPORT ENGINEER/SYSTEMS ADMINISTRATOR
 
-Skills : Hardware/Software Administration and Troubleshooting, Staging and
+_Skills :_ Hardware/Software Administration and Troubleshooting, Staging and
 Rollouts, Network Administration - NetGear Switching, DHCP/DNS, Caching
-Proxies, Linux, Windows XP/2003, Customer Support.
+Proxies, Windows XP/2003, Linux, Norton Ghost, Customer Support.
 
-- Responsible for the technical operations of 70+ internet kiosks, printers,
+- Responsible for the technical operations of 90+ internet kiosks, printers,
   scanners and fax solutions, etc.
+- Managed the staging of software and hardware rollouts, regular backups,
+  maintenance and security.
+- Other activities included customer support, triage and troubleshooting,
+  technical training, etc.
 
-Jan 2007 - May 2007 • Sterling Limousines (UK) Ltd • Richmond, Surrey, United
-Kingdom
+_Jan 2007 - May 2007_ • STERLING LIMOUSINES (UK) LTD • Richmond, Surrey,
+United Kingdom
 
-LAMP Developer, Perl/PostGres
+LAMP DEVELOPER, PERL/POSTGRES
 
-Skills : Perl, Apache, mod_perl, Postgresql 8, Debian Linux, xHTML, CSS,
+_Skills :_ Perl, Apache/mod_perl, Postgresql 8, Debian Linux, xHTML, CSS,
 Prototype JS, Bash, Mercurial
 
-- Developed an on-line bookings system for the company's website with view for
-  integration with bespoke resource management software.
-- Consolidated telephone, email and web bookings into a resource management
-  database using Perl and Postgresql.
+- Developed an online presence and booking system for integration with other
+  management systems.
 
-Aug 2002 - Oct 2006 • Freelance IT Engineer • Greater London Area, United
+_Aug 2002 - Oct 2006_ • FREELANCE IT ENGINEER • Greater London Area, United
 Kingdom
 
-IT Contractor
+IT CONTRACTOR
 
-Skills : Enterprise workstation migrations, LAN Design and Implementation,
+_Skills :_ Enterprise workstation migrations, LAN Design and Implementation,
 Hardware/Software roll-outs, Single-Page websites/DTP, Windows XP/2003, Active
 Directory.
 
 - Freelance engineer and developer of bespoke IT solutions providing support
-  and consultancy for SOHO business (estate agents, solicitors, accountants,
-  etc).
+  and consultancy for SOHO business (estate agents, solicitors,
+  accountants, etc).
 
 Technical Experience
 
 Scripting : Powershell/.NET, Bash/POSIX Shell, Perl, Ruby, Python, Javascript,
 Java, C
 
-Markup : JSON, YAML, HTML, XHTML, XML, CSS,
+Markup : JSON, YAML, HTML, XHTML, XML, CSS
 
 Operating Systems : Debian/Ubuntu, RHEL/CentOS, SuSe/OpenSuSe, Microsoft
 Windows Server 2003/2008/2012/2016, Windows XP/7/8/8.x/10, FreeBSD 9/10
 
-Networking : TCP/IP (IPv4 & IPv6), DNS, DHCP, LDAP, VLANs, VPNs, Cisco Routing
-& Switching, Citrix NetScaler
+Networking : TCP/IP (IPv4 & IPv6), DNS, DHCP, HTTP, LDAP, VLANs, VPNs, Cisco
+Routing & Switching, Citrix NetScaler, NFS, Samba, iSCSI
 
-Virtualization : Citrix XenServer, Microsoft Hyper-V, Oracle VirtualBox,
+Virtualization : Xen, Citrix XenServer, Microsoft Hyper-V, Oracle VirtualBox,
 VMWare ESX/vSphere, docker
 
-Cloud : Apache Cloudstack, Citrix CloudPlatform, Amazon EC2/AWS, Microsoft
-Azure
+Cloud : Amazon ec2/AWS, Apache Cloudstack, Citrix CloudPlatform, DigitalOcean,
+Microsoft Azure
 
-Databases : Elasticsearch, CouchDB, MySQL 5, SQLite 3, Postgres 8/9, Microsoft
-SQL Server
+Databases : Elasticsearch, CouchDB, MariaDB 10/MySQL 5, SQLite 3, Postgres
+8/9, SQL Server
 
-Monitoring : Syslog, SNMP, Graylog, Nagios, Cacti, LogStash, WMI, Collectd
+Monitoring : Syslog, SNMP, Graylog, Nagios, Cacti, LogStash, WMI, Collectd,
+New Relic
 
-Provisioning : Puppetlabs razor, PXE/iPXE, kickstart, preseed, WinPE,
+Provisioning : Docker, Puppetlabs razor, PXE/iPXE, kickstart, preseed, WinPE,
 autoyast, vagrant
 
-Config. Mgmt : SSH, WinRM, Puppet, Chef,
+Config. Mgmt : Ansible, Thor, Chef, Puppet, SSH, WinRM
 
-Source Control : Perforce, git, diff/patch, Mercural, CVS, Jenkins,
+Source Control : git, Perforce, diff/patch, Mercural, CVS, Jenkins,
 Checkinstall
 
 Hardware : Dell PowerEdge, HP Proliant, HP BladeSystem
 
-Storage : Dell Compellent, NetApp FS 2000, HP StorageWorks, Nexenta, QuadStor
+Storage : Dell Compellent, NetApp FS 2000, HP StorageWorks, Nexenta, QuadStor,
+NetGear ReadyNAS
 
-Web : Apache httpd, Dancer2, PSGI/Plack, SOA, REST
+Web : nginx, Apache httpd, Rack, Dancer2, PSGI/Plack, SOA, REST
 
 Education
 
-Sep 2008 - May 2010 : BSc, Computer Networks (1:1, First Class Honours),
-Sheffield Hallam University, Sheffield, England
+_Sep_ _2008_ - _May_ _2010_ : BSC, COMPUTER NETWORKS _(1:1, First Class
+Honours)_, Sheffield Hallam University, Sheffield, England
 
-Jul 2000 - Mar 2001 : BSc (Hons.) Computer Science, Mathematics, Physics
-(Discontinued), St. Joseph's College of Science and Arts, Bangalore, India
+_Jul_ _2000_ - _Mar_ _2001_ : BSC (HONS.) COMPUTER SCIENCE, MATHEMATICS,
+PHYSICS _(Discontinued)_, St. Joseph's College of Science and Arts, Bangalore,
+India
 
 Courses and Qualifications
 
-- Citrix NetScaler - Essentials, Networking and Administration, Jun 2012
-- Building Scalable Cisco Internetworks (CCNP BSCI), Feb 2004
-- Cisco Certified Network Associate (CCNA), Mar 2003
+- Citrix NetScaler - Essentials, Networking and Administration, _Jun 2012_
+- Building Scalable Cisco Internetworks (CCNP BSCI), _Feb 2004_
+- Cisco Certified Network Associate (CCNA), _Mar 2003_
 - Implementing & Administering a Microsoft Windows 2000 Directory Services
-  Infrastructure, Apr 2003
+  Infrastructure, _Apr 2003_
 - Implementing & Administering a Microsoft Windows 2000 Network
-  Infrastructure, Apr 2003
+  Infrastructure, _Apr 2003_
 - Administering Windows 2000 Server, Microsoft Certified Professional (MCP)
-  Mar 2003
-- Administering Windows 2000 Professional, Microsoft Certified Professional
-  (MCP) Mar 2003
+  _Mar 2003_
+- Administering Windows 2000 Professional, Microsoft Certified
+  Professional (MCP) _Mar 2003_
 - Network Infrastructure Administration, CompTIA® Network+ Certified
-  Professional, Feb 2003
-- Hardware and Software Essentials, CompTIA® A+ Certified Professional, Nov
-  2002
-- Advanced Java, Network Programming using EJB, Servlets/RMI, JDBC/SQL, Jul
-  2001
+  Professional, _Feb 2003_
+- Hardware and Software Essentials, CompTIA® A+ Certified Professional, _Nov
+  2002_
+- Advanced Java, Network Programming using EJB, Servlets/RMI, JDBC/SQL, _Jul
+  2001_
 - Web Design using Microsoft FrontPage 2000, HTML, VBScript and Javascript,
-  Jan 2001
-- Procedural Programming with ANSI C, May 1999
+  _Jan 2001_
+- Procedural Programming with ANSI C, _May 1999_
 
 Professional Membership
 
-Jul 2010 - Present : The Institution of Engineering and Technology (IET)
-(Graduate Member)
+_Jul_ _2010_ - _Present_ : The Institution of Engineering and Technology (IET)
+_(Graduate Member)_
 
-Dec 2008 - Present : British Computer Society (BCS) (Member)
+_Dec_ _2008_ - _Present_ : British Computer Society (BCS) _(Member)_
 
-Jan 2008 - Present : Microsoft IT Advisory Council (ITAC) (Member)
+_Jan_ _2008_ - _Present_ : Microsoft IT Advisory Council (ITAC) _(Member)_
 
 Languages
 
@@ -166,7 +194,7 @@ Photography • Hacking Debian GNU/Linux for fun
 
 Personal Details
 
-Telephone : +421 948 140 290 (SK); +44 7904 190 550 (UK)
+Telephone : +421 948 140 290 _(SK)_; +44 7904 190 550 _(UK)_
 
 Email : s.bhooshi@gmail.com
 
@@ -178,4 +206,4 @@ Nationality : British
 
 Download
 
-PDF Version : shalom_bhooshi-resume-2015-10.pdf
+PDF VERSION : shalom_bhooshi-resume-2015-10.pdf

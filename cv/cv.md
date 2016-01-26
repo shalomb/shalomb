@@ -1,12 +1,26 @@
 ---
 title: Shalom Bhooshi
-subtitle: _e:_ [s.bhooshi@gmail.com](mailto:s.bhooshi@gmail.com) • _T:_ +421 948 140 290 • [92, Kosicka, 52/A, Bratislava, 821 08](https://www.google.co.uk/maps?q=92,+Kosicka+52/A,+Bratislava,+82108)
+subtitle: _e:_ [s.bhooshi@gmail.com](mailto:s.bhooshi@gmail.com)  • _m:_ +421 948 140 290 • _a:_ [92, Kosicka, 52/A, Bratislava, 821 08](https://www.google.co.uk/maps?q=92,+Kosicka+52/A,+Bratislava,+82108)
 author: _l:_ [uk.linkedin.com/in/shalombhooshi](https://uk.linkedin.com/in/shalombhooshi)
 abstract: A skilled systems engineer with 10 years of experience in systems administration, engineering and automation in heterogeneous/multi-vendor environments. With a strong focus on cloud, virtualization and open source technology to implement cost-effective and flexible solutions. I have strong communications and personal skills and can work well in any setting. Core competencies include **Linux/Unix** • **Network & Systems Administration** • **Scripting/Programming** • **Infrastructure Automation** • **Cloud** • **Web Technologies**
 
 ---
 
-### Professional Experience
+###  Professional Experience
+
+_Oct 2015 - Present_ • **[Box+Dice](https://boxdice.com.au)** • Bratislava, Slovakia
+
+Box+Dice provide a unique software platform for real estate businesses allowing them to manage property portfolios, clients, marketing and management in realtime. With over 250 clients
+across the Oceania region, Box+Dice leverage cutting-edge software and cloud solutions to provide flexible solutions for client success.
+
+**Senior Systems Engineer**
+
+_Skills :_ • XenServer, Xen, Docker • Debian/Ubuntu Linux • nginx, Apache, CloudFlare, CloudFront • RabbitMQ, Redis, MySQL/MariaDB, PostGres • Jenkins • Bash, Ruby, Ansible • HP
+Proliant • Netgear ReadNAS • Amazon AWS/ec2, DigitalOcean • GrayLog • Logging, Monitoring, Security, Performance Tuning
+
+* Lead systems engineer in a DevOps environment responsible for automation for continuous delivery and maintaining technical operations and availability of the platform.
+* Working closely with systems, development, support, customers to triage issues, expedite change, inform process engineering, improve documentation/automation, etc.
+* Involved in research and prototyping of technologies (Public Clouds, Containerization, Realtime Logging/Monitoring, etc) to solve common problems, increase efficiency and reduce costs.
 
 _Jul 2010 - Aug 2015_ • **[Citrix Systems UK Ltd](https://www.citrix.com/)** • Cambridge, United Kingdom
 
@@ -53,43 +67,44 @@ Scripting
   : [Powershell](https://en.wikipedia.org/wiki/Windows_PowerShell)/[.NET](http://www.microsoft.com/net), [Bash](https://www.gnu.org/software/bash/)/[POSIX Shell](http://pubs.opengroup.org/onlinepubs/009695399/utilities/xcu_chap02.html), [Perl](https://www.perl.org/), [Ruby](https://www.ruby-lang.org/en/), [Python](https://www.python.org/), [Javascript](http://www.ecmascript.org/), [Java](https://en.wikipedia.org/wiki/Java_(programming_language)), [C](http://flash-gordon.me.uk/ansi.c.txt)
 
 Markup
-  : [JSON](http://json.org/), [YAML](http://yaml.org/), [HTML](http://www.w3.org/MarkUp/), [XHTML](http://www.w3.org/TR/xhtml1/), [XML](http://www.w3.org/XML/), [CSS](http://www.w3.org/Style/CSS/Overview.en.html),
+  : [JSON](http://json.org/), [YAML](http://yaml.org/), [HTML](http://www.w3.org/MarkUp/), [XHTML](http://www.w3.org/TR/xhtml1/), [XML](http://www.w3.org/XML/), [CSS](http://www.w3.org/Style/CSS/Overview.en.html)
 
 Operating Systems
   : [Debian](http://www.debian.org/)/[Ubuntu](http://www.ubuntu.com/), [RHEL](http://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)/[CentOS](https://www.centos.org/), [SuSe](https://www.suse.com/products/server/)/[OpenSuSe](https://www.opensuse.org/), [Microsoft Windows Server 2003/2008/2012/2016](http://www.microsoft.com/en-us/server-cloud/products/windows-server-2012-r2/), [Windows XP/7/8/8.x/10](http://www.microsoft.com/en-gb/windows), [FreeBSD 9/10](http://www.freebsd.org/)
 
 Networking
-  : [TCP/IP](https://en.wikipedia.org/wiki/Internet_protocol_suite) (IPv4 & IPv6), [DNS](https://en.wikipedia.org/wiki/Domain_Name_System), [DHCP](https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol), HTTP, [LDAP](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol), VLANs, VPNs, Cisco Routing & Switching, Citrix [NetScaler](https://www.citrix.com/products/netscaler), NFS, Samba, iSCSI
+  : [TCP/IP](https://en.wikipedia.org/wiki/Internet_protocol_suite) (IPv4 & IPv6), [DNS](https://en.wikipedia.org/wiki/Domain_Name_System),
+[DHCP](https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol), [HTTP](https://www.w3.org/Protocols/), [LDAP](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol), VLANs, VPNs, Cisco Routing & Switching, Citrix [NetScaler](https://www.citrix.com/products/netscaler), NFS, Samba, iSCSI
 
 Virtualization
-  : [Citrix XenServer](http://xenserver.org/), [Microsoft Hyper-V](http://www.microsoft.com/en-us/server-cloud/solutions/virtualization.aspx), [Oracle VirtualBox](https://www.virtualbox.org/), [VMWare ESX](https://www.vmware.com/products/esxi-and-esx/overview)/[vSphere](http://www.vmware.com/products/vsphere), [docker](https://www.docker.com/)
+  : [Xen](http://www.xenproject.org/), [Citrix XenServer](http://xenserver.org/), [Microsoft Hyper-V](http://www.microsoft.com/en-us/server-cloud/solutions/virtualization.aspx), [Oracle VirtualBox](https://www.virtualbox.org/), [VMWare ESX](https://www.vmware.com/products/esxi-and-esx/overview)/[vSphere](http://www.vmware.com/products/vsphere), [docker](https://www.docker.com/)
 
 Cloud
-  : [Apache Cloudstack](http://cloudstack.apache.org/), [Citrix CloudPlatform](https://www.citrix.com/products/cloudplatform/overview.html), [Amazon EC2](https://aws.amazon.com/ec2/)/[AWS](https://aws.amazon.com/), [Microsoft Azure](https://azure.microsoft.com/en-gb/overview/what-is-azure/)
+  : [Amazon ec2](https://aws.amazon.com/ec2/)/[AWS](https://aws.amazon.com/), [Apache Cloudstack](http://cloudstack.apache.org/), [Citrix CloudPlatform](https://www.citrix.com/products/cloudplatform/overview.html), [DigitalOcean](https://www.digitalocean.com/), [Microsoft Azure](https://azure.microsoft.com/en-gb/overview/what-is-azure/)
 
 Databases
-  : [Elasticsearch](https://www.elastic.co/), [CouchDB](http://couchdb.apache.org/), [MySQL 5](http://www.mysql.com/why-mysql/), [SQLite 3](http://sqlite.org/), [Postgres 8/9](http://www.postgresql.org/), Microsoft [SQL Server](http://www.microsoft.com/en-gb/server-cloud/products/sql-server/)
+  : [Elasticsearch](https://www.elastic.co/), [CouchDB](http://couchdb.apache.org/), [MariaDB](http://mariadb.org/) 10/[MySQL](http://www.mysql.com/why-mysql/) 5, [SQLite 3](http://sqlite.org/), [Postgres 8/9](http://www.postgresql.org/), [SQL Server](http://www.microsoft.com/en-gb/server-cloud/products/sql-server/)
 
 Monitoring
-  : Syslog, SNMP, [Graylog](https://www.graylog.org/), [Nagios](https://www.nagios.org/about/overview/), [Cacti](http://www.cacti.net/), [LogStash](https://www.elastic.co/products/logstash), WMI, [Collectd](https://collectd.org/)
+  : Syslog, SNMP, [Graylog](https://www.graylog.org/), [Nagios](https://www.nagios.org/about/overview/), [Cacti](http://www.cacti.net/), [LogStash](https://www.elastic.co/products/logstash), WMI, [Collectd](https://collectd.org/), [New Relic](http://newrelic.com/)
 
 Provisioning
-  : [Puppetlabs razor](https://puppetlabs.com/solutions/next-generation-provisioning), PXE/[iPXE](http://ipxe.org/), [kickstart](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html/Installation_Guide/ch-kickstart2.html#s1-kickstart2-whatis), [preseed](https://wiki.debian.org/DebianInstaller/Preseed), [WinPE](https://technet.microsoft.com/en-us/library/cc766093(v=ws.10).aspx), [autoyast](http://users.suse.com/~ug/autoyast_doc/introduction.html), [vagrant](https://www.vagrantup.com/)
+  : [Docker](https://www.docker.com/), [Puppetlabs razor](https://puppetlabs.com/solutions/next-generation-provisioning), PXE/[iPXE](http://ipxe.org/), [kickstart](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html/Installation_Guide/ch-kickstart2.html#s1-kickstart2-whatis), [preseed](https://wiki.debian.org/DebianInstaller/Preseed), [WinPE](https://technet.microsoft.com/en-us/library/cc766093(v=ws.10).aspx), [autoyast](http://users.suse.com/~ug/autoyast_doc/introduction.html), [vagrant](https://www.vagrantup.com/)
 
 Config. Mgmt
-  : [SSH](http://www.openssh.com/), [WinRM](https://msdn.microsoft.com/en-us/library/aa384426%28v=vs.85%29.aspx?f=255&MSPPError=-2147217396), [Puppet](https://puppetlabs.com/puppet/puppet-enterprise), [Chef](https://www.chef.io/), 
+  : [Ansible](http://www.ansible.com/), [Thor](http://whatisthor.com/), [Chef](https://www.chef.io/), [Puppet](https://puppetlabs.com/puppet/puppet-enterprise), [SSH](http://www.openssh.com/), [WinRM](https://msdn.microsoft.com/en-us/library/aa384426%28v=vs.85%29.aspx?f=255&MSPPError=-2147217396)
 
 Source Control
-  : [Perforce](http://www.perforce.com/), [git](https://git-scm.com/), [diff/patch](http://jungels.net/articles/diff-patch-ten-minutes.html), [Mercural](https://mercurial.selenic.com/), [CVS](http://www.nongnu.org/cvs/), [Jenkins](https://wiki.jenkins-ci.org/display/JENKINS/Meet+Jenkins), [Checkinstall](http://asic-linux.com.mx/~izto/checkinstall/)
+  : [git](https://git-scm.com/), [Perforce](http://www.perforce.com/), [diff/patch](http://jungels.net/articles/diff-patch-ten-minutes.html), [Mercural](https://mercurial.selenic.com/), [CVS](http://www.nongnu.org/cvs/), [Jenkins](https://wiki.jenkins-ci.org/display/JENKINS/Meet+Jenkins), [Checkinstall](http://asic-linux.com.mx/~izto/checkinstall/)
 
 Hardware
   : Dell [PowerEdge](http://www.dell.com/us/business/p/poweredge-rack-servers), HP [Proliant](http://www8.hp.com/us/en/products/proliant-servers/), HP [BladeSystem](http://www8.hp.com/us/en/products/servers/bladesystem/)
 
 Storage
-  : Dell [Compellent](http://www.dell.com/us/business/p/dell-compellent), [NetApp FS 2000](http://www.netapp.com/us/products/storage-systems/), [HP StorageWorks](http://www8.hp.com/h20195/v2/GetHTML.aspx?docname=c04168365), [Nexenta](https://nexenta.com/), [QuadStor](http://www.quadstor.com/)
+  : Dell [Compellent](http://www.dell.com/us/business/p/dell-compellent), [NetApp FS 2000](http://www.netapp.com/us/products/storage-systems/), [HP StorageWorks](http://www8.hp.com/h20195/v2/GetHTML.aspx?docname=c04168365), [Nexenta](https://nexenta.com/), [QuadStor](http://www.quadstor.com/), [NetGear ReadyNAS](http://www.netgear.com/business/products/storage/readynas/readynas-rackmount.aspx)
 
 Web
-  : [Apache httpd](http://httpd.apache.org/), [Dancer2](http://perldancer.org/), [PSGI](https://en.wikipedia.org/wiki/PSGI)/[Plack](http://plackperl.org/), [SOA](https://www.opengroup.org/soa/source-book/soa/soa.htm), [REST](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
+  : [nginx](http://nginx.org/en/), [Apache httpd](http://httpd.apache.org/), [Rack](http://rack.github.io/), [Dancer2](http://perldancer.org/), [PSGI](https://en.wikipedia.org/wiki/PSGI)/[Plack](http://plackperl.org/), [SOA](https://www.opengroup.org/soa/source-book/soa/soa.htm), [REST](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
 
 ### Education
 
@@ -127,11 +142,11 @@ _Jul_ _2000_  -  _Mar_  _2001_
 
 ### Languages
 
-English (Fluent), French (Limited Working Proficiency), Slovak (Basic)
+English (Fluent), French (Limited Proficiency), Slovak (Basic)
 
 ### Hobbies and Interests
 
-Hiking & the Outdoors • Music & playing the guitar • Badminton • Amateur Photography • Hacking [Debian GNU/Linux](https://www.debian.org/) for fun
+Hiking & the Outdoors • Music & playing the guitar • Badminton • Amateur Photography • Tech News • Hacking [Debian GNU/Linux](https://www.debian.org/) for fun
 
 ### Personal Details
 
