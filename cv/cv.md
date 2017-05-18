@@ -2,7 +2,7 @@
 title: Shalom Bhooshi
 subtitle: _e:_ [s.bhooshi@gmail.com](mailto:s.bhooshi@gmail.com)  • _m:_ +421 948 140 290 • _a:_ [92, Kosicka, 52/A, Bratislava, 821 08](https://www.google.co.uk/maps?q=92,+Kosicka+52/A,+Bratislava,+82108)
 author: _l:_ [uk.linkedin.com/in/shalombhooshi](https://uk.linkedin.com/in/shalombhooshi)
-abstract: A skilled systems engineer with 10 years of experience in systems administration, engineering and automation in heterogeneous/multi-vendor environments. With a strong focus on cloud, virtualization and open source technology to implement cost-effective and flexible solutions. I have strong communications and personal skills and can work well in any setting. Core competencies include **Linux/Unix** • **Network & Systems Administration** • **Scripting/Programming** • **Infrastructure Automation** • **Cloud** • **Web Technologies**
+abstract: A skilled systems engineer with 14 years of experience in systems design and engineering in various business and technology settings. With a particular interest in cloud, virtualization and open source technologies to implement creative, cost-effective and flexible solutions, I have strong communications and personal skills and can work well in any setting. Core competencies include **Linux** • **Cloud/Virtualization** • **Network & Systems Engineering** • **Scripting/Infrastructure Automation**
 
 ---
 
