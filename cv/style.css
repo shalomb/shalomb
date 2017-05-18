@@ -286,6 +286,10 @@
     page-break-after : always;
     /* width : 20cm; */
   }
+
+  #TOC {
+    display: none !important;
+  }
 }
 
 /* http://codepen.io/rafaelcastrocouto/pen/LFAes/ */
