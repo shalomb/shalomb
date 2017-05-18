@@ -10,17 +10,26 @@ abstract: A skilled systems engineer with 10 years of experience in systems admi
 
 _Oct 2015 - Present_ • **[Box+Dice](https://boxdice.com.au)** • Bratislava, Slovakia
 
-Box+Dice provide a unique software platform for real estate businesses allowing them to manage property portfolios, clients, marketing and management in realtime. With over 250 clients
-across the Oceania region, Box+Dice leverage cutting-edge software and cloud solutions to provide flexible solutions for client success.
+Box+Dice provide a unique CRM platform for real estate businesses to manage
+property portfolios, marketing and lead management, sales and accounting, 
+portal integrations, etc in realtime. With over 250 businesses as clients
+across Australia and New Zealand, Box+Dice leverages in-house and customer 
+domain expertise along with cutting-edge software and cloud technologies to deliver 
+innovative solutions.
 
-**Senior Systems Engineer**
+**Senior Systems Engineer, Site Reliability Engineering**
 
-_Skills :_ • XenServer, Xen, Docker • Debian/Ubuntu Linux • nginx, Apache, CloudFlare, CloudFront • RabbitMQ, Redis, MySQL/MariaDB, PostGres • Jenkins • Bash, Ruby, Ansible • HP
-Proliant • Netgear ReadNAS • Amazon AWS/ec2, DigitalOcean • GrayLog • Logging, Monitoring, Security, Performance Tuning
+_Skills :_ Amazon ec2/AWS, XenServer/Xen, KVM, Docker • Debian/CentOS Linux • nginx,
+        CloudFlare, CloudFront • MySQL/MariaDB, Postgresql, ElasticSearch, RabbitMQ, Redis • git,
+        Github, Jenkins • Ansible, Bash, Ruby • CloudWatch, Icinga • JIRA, Kanban, Mentoring
 
-* Lead systems engineer in a DevOps environment responsible for automation for continuous delivery and maintaining technical operations and availability of the platform.
-* Working closely with systems, development, support, customers to triage issues, expedite change, inform process engineering, improve documentation/automation, etc.
-* Involved in research and prototyping of technologies (Public Clouds, Containerization, Realtime Logging/Monitoring, etc) to solve common problems, increase efficiency and reduce costs.
+* Lead systems engineer managing site reliability engineering; systems analysis, design and
+development, improving platform availability and operating procedures, SysOps.
+* Delivering on projects to modernize infrastructure, lift-and-shift platform services to public cloud
+(AWS), improving utilization, efficiency, security and TechOps.
+* Working in cross-functional contexts with Quality Engineering and Operations; improving CI/CD
+processes, communications, testing, DevOps.
+* Involved in defining and project managing systems strategy, participating in executive committee decision making, cost management, hiring, mentoring.
 
 _Jul 2010 - Aug 2015_ • **[Citrix Systems UK Ltd](https://www.citrix.com/)** • Cambridge, United Kingdom
 
@@ -30,10 +39,19 @@ Citrix solutions power business mobility through secure, mobile workspaces that 
 
 _Skills :_ Citrix CloudStack/CloudPlatform • XenServer/Hyper-V/ESX • Citrix XenDesktop • Windows Server 2008/2012/2016 • Windows XP/Vista/7/8/8.x/10 • SQL Server 2008/2012 • Debian/CentOS Linux • Puppetlabs Razor/iPXE • PowerShell • Perl, Bash, Ruby • Dell Compellent • HP StorageWorks * Cisco Nexus, 2960s/g/x • HP Prioliant, Dell PowerEdge
 
-* Designer/DevOps engineer of the private cloud (based on [Citrix CloudPlatform](https://www.citrix.com/products/cloudplatform/)/[XenServer](https://www.citrix.com/products/xenserver/)) used as a deployment platform to facilitate QA activities of 65+ internal teams.
-* Involved in the design, development and provisioning of self-service dev/test environments for integration and regression testing using technologies across the stack (cloud resources, virtual machines, hypervisors, storage and networking, applications and profiles). Also involved in setting up the backend for customer demos/roadshows e.g. [Citrix Summit](http://www.citrixsummit.com/).
-* Member of the core automation team whose remit it is to develop and support the internal test automation framework that underpins quality assurance strategies of the [Citrix Desktop and App virtualization](https://www.citrix.com/solutions/desktop-virtualization/overview.html) suites. Development lead for the Perl components of the framework to support Linux and Mac end-points.
-* Other activities included support, triage and troubleshooting of, often complex, issues in infrastructure and test environments; application of agile methodologies to evolve both code and infrastructure, procurement and lifecycle maintenance of hardware and software, technical training, etc.
+* Systems Architect/DevOps Engineer of the private IaaS cloud (based on [Apache
+    CloudStack](ttps://cloudstack.apache.org/)/[XenServer](https://www.citrix.com/products/xenserver/))
+used as a self-service deployment platform to facilitate Dev/QA activities of 65+ internal teams.
+* Building DevOps strategies around the provisioning of cloud offerings, automating OS installs on
+baremetal, provisioning hypervisors, storage, networking, VMs, applications and test profiles.
+* Solving and automating virtual machine image creation and cataloguing strategies for 800+ Windows
+(Desktop, Server, SQL) and Enterprise Linux (SuSe, RHEL, Ubuntu) OS combinations.
+* Member of the core automation team whose remit it is to develop and support the internal test
+automation framework that underpins quality assurance strategies of the [Citrix Desktop and App
+virtualization](https://www.citrix.com/solutions/desktop-virtualization/overview.html) suites. Lead
+developer for the Perl components of the framework to support testing Linux and Mac end-points.
+* Other activities included technical support, triage and troubleshooting of, often complex, issues in infrastructure and test environments; application of agile methodologies to evolve both code and infrastructure, setting up the infrastructure for customer demos/roadshows e.g. [Citrix
+Summit](http://www.citrixsummit.com/), procurement and lifecycle maintenance of hardware and software, technical training, etc.
 
 _May 2007 - Dec 2007_ • **Crystal Amusements Ltd** • Leicester Square, London, United Kingdom
 
@@ -41,9 +59,7 @@ _May 2007 - Dec 2007_ • **Crystal Amusements Ltd** • Leicester Square, Londo
 
 _Skills :_ Hardware/Software Administration and Troubleshooting, Staging and Rollouts, Network Administration - NetGear Switching, DHCP/DNS, Caching Proxies, Windows XP/2003, Linux, Norton Ghost, Customer Support.
 
-* Responsible for the technical operations of 90+ internet kiosks, printers, scanners and fax solutions, etc.
-* Managed the staging of software and hardware rollouts, regular backups, maintenance and security.
-* Other activities included customer support, triage and troubleshooting, technical training, etc.
+* Responsible for the technical operations of 90+ internet kiosks, printing solutions.
 
 _Jan 2007 - May 2007_ • **[Sterling Limousines (UK) Ltd](http://sterlinglimousines.co.uk/)** • Richmond, Surrey, United Kingdom
 
@@ -59,7 +75,7 @@ _Aug 2002 - Oct 2006_ • **Freelance IT Engineer** • Greater London Area, Uni
 
 _Skills :_ Enterprise workstation migrations, LAN Design and Implementation, Hardware/Software roll-outs, Single-Page websites/DTP, Windows XP/2003, Active Directory.
 
-* Freelance engineer and developer of bespoke IT solutions providing support and consultancy for SOHO business (estate agents, solicitors, accountants, etc).
+* Freelance engineer and developer of bespoke IT solutions, providing consultancy and support for small business (estate agents, solicitors, accountants, etc).
 
 ### Technical Experience
 
