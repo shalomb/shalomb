@@ -177,7 +177,7 @@ Address
   :  [92, Kosicka 52/A, Bratislava, 821 08](https://www.google.co.uk/maps?q=92,+Kosicka+52/A,+Bratislava,+82108)
 
 Date of birth
-  : 08 Jan, 1983
+  : 08 Jan, 1983 (60645.32)
 
 Nationality
   : British
