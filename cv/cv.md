@@ -154,7 +154,7 @@ _Jul_ _2000_  -  _Mar_  _2001_
  _Dec_  _2008_  -  _Present_
   : [British Computer Society (BCS)](https://bcs.org) _(Member)_
 
- _Jan_  _2008_  -  _Present_
+ _Jan_  _2008_  -  _May 2012_
   : [Microsoft IT Advisory Council (ITAC)](https://microsoft-itcouncil.com/) _(Member)_
 
 ### Languages
@@ -163,7 +163,10 @@ English (Fluent), French (Limited Proficiency), Slovak (Basic)
 
 ### Hobbies and Interests
 
-Hiking & the Outdoors • Music & playing the guitar • Badminton • Amateur Photography • Tech News • Hacking [Debian GNU/Linux](https://www.debian.org/) for fun
+Travel, Exploring • Outdoors • Music, Guitar • Badminton, Table Tennis • 
+Amateur Photography • Tech. news, conferences, events • 
+[#freenode](https://freenode.net/) IRC OpenSource Community • 
+Hacking [Debian/Raspberry Pi](https://www.raspbian.org/) for fun
 
 ### Personal Details
 
