@@ -80,7 +80,8 @@ _Skills :_ Enterprise workstation migrations, LAN Design and Implementation, Har
 ### Technical Experience
 
 Scripting
-  : [Powershell](https://en.wikipedia.org/wiki/Windows_PowerShell)/[.NET](http://www.microsoft.com/net), [Bash](https://www.gnu.org/software/bash/)/[POSIX Shell](http://pubs.opengroup.org/onlinepubs/009695399/utilities/xcu_chap02.html), [Perl](https://www.perl.org/), [Ruby](https://www.ruby-lang.org/en/), [Python](https://www.python.org/), [Javascript](http://www.ecmascript.org/), [Java](https://en.wikipedia.org/wiki/Java_(programming_language)), [C](http://flash-gordon.me.uk/ansi.c.txt)
+  : [Bash](https://www.gnu.org/software/bash/)/[POSIX Shell](http://pubs.opengroup.org/onlinepubs/009695399/utilities/xcu_chap02.html), [Perl](https://www.perl.org/), [Powershell](https://en.wikipedia.org/wiki/Windows_PowerShell)/[.NET](http://www.microsoft.com/net), [Ruby](https://www.ruby-lang.org/en/), [Python](https://www.python.org/), [Javascript](http://www.ecmascript.org/), [Perl6](https://perl6.org/),
+  [Java](https://en.wikipedia.org/wiki/Java_(programming_language)), [C](http://flash-gordon.me.uk/ansi.c.txt)
 
 Markup
   : [JSON](http://json.org/), [YAML](http://yaml.org/), [HTML](http://www.w3.org/MarkUp/), [XHTML](http://www.w3.org/TR/xhtml1/), [XML](http://www.w3.org/XML/), [CSS](http://www.w3.org/Style/CSS/Overview.en.html)
