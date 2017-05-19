@@ -182,7 +182,7 @@ _(Graduate Member)_
 
 _Dec_ _2008_ - _Present_ : British Computer Society (BCS) _(Member)_
 
-_Jan_ _2008_ - _Present_ : Microsoft IT Advisory Council (ITAC) _(Member)_
+_Jan_ _2008_ - _May 2012_ : Microsoft IT Advisory Council (ITAC) _(Member)_
 
 Languages
 
@@ -190,8 +190,9 @@ English (Fluent), French (Limited Proficiency), Slovak (Basic)
 
 Hobbies and Interests
 
-Hiking & the Outdoors • Music & playing the guitar • Badminton • Amateur
-Photography • Tech News • Hacking Debian GNU/Linux for fun
+Travel, Exploring • Outdoors • Music, Guitar • Badminton, Table Tennis •
+Amateur Photography • Tech. news, conferences, events • #freenode IRC
+OpenSource Community • Hacking Debian/Raspberry Pi for fun
 
 Personal Details
 
@@ -201,7 +202,7 @@ Email : s.bhooshi@gmail.com
 
 Address : 92, Kosicka 52/A, Bratislava, 821 08
 
-Date of birth : 08 Jan, 1983
+Date of birth : 08 Jan, 1983 (60645.32)
 
 Nationality : British
 
