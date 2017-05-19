@@ -185,5 +185,5 @@ Nationality
 ### Download
 
 **PDF Version**
-  : [shalom_bhooshi-resume.pdf](cv.pdf)
+  : [shalom_bhooshi-resume.pdf](http://shalomb.github.io/cv/cv.pdf)
 
