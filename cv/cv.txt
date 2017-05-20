@@ -37,46 +37,45 @@ communications on any device, over any network and cloud. With annual revenue
 in 2014 of $3.14 billion, Citrix solutions are in use at more than 400,000
 organizations and by over 100 million users globally.
 
-SENIOR SOFTWARE ENGINEER IN TEST, QUALITY ASSURANCE, Enterprise Desktop and
-Apps.
+SENIOR SOFTWARE TEST ENGINEER, ENGINEERING PRODUCTIVITY, Enterprise Desktop
+and Apps.
 
-_Skills :_ Citrix CloudStack/CloudPlatform • XenServer/Hyper-V/ESX • Citrix
-XenDesktop • Windows Server 2008/2012/2016 • Windows XP/Vista/7/8/8.x/10 • SQL
-Server 2008/2012 • Debian/CentOS Linux • Puppetlabs Razor/iPXE • PowerShell •
-Perl, Bash, Ruby • Dell Compellent • HP StorageWorks * Cisco Nexus, 2960s/g/x
-• HP Prioliant, Dell PowerEdge
+_Skills :_ Apache CloudStack/Citrix CloudPlatform • XenServer/Hyper-V/ESX •
+Citrix XenDesktop • Windows Server 2008/2012/2016, 2003 • Windows 7/8/8.x/10,
+XP/Vista • SQL Server 2008/2012/2016 • PowerShell/.NET • Debian/CentOS Linux •
+Puppetlabs Razor/iPXE • Perl, Bash, Ruby, Python • HP Prioliant, Dell
+PowerEdge • Dell Compellent, HP StorageWorks • Cisco 2960s/g/x, Nexus
 
-- Systems Architect/DevOps Engineer of the private IaaS cloud (based on Apache
-  CloudStack/XenServer) used as a self-service deployment platform to
-  facilitate Dev/QA activities of 65+ internal teams.
-- Building DevOps strategies around the provisioning of cloud offerings,
-  automating OS installs on baremetal, provisioning hypervisors, storage,
-  networking, VMs, applications and test profiles.
-- Solving and automating virtual machine image creation and cataloguing
+- Systems Architect/DevOps Engineer of a self-service private IaaS cloud
+  (based on Apache CloudStack/XenServer) to enable dev/test ad-hoc and
+  continous-testing strategy of 65+ internal teams.
+- Building DevOps practices to manage cloud offerings for infrastructure and
+  test; automating provisioning of compute/storage/networking,
+  bare-metal/virtual OS installs, application and test profiles.
+- Solving and automating virtual disk image creation and cataloguing
   strategies for 800+ Windows (Desktop, Server, SQL) and Enterprise Linux
-  (SuSe, RHEL, Ubuntu) OS combinations.
-- Member of the core automation team whose remit it is to develop and support
-  the internal test automation framework that underpins quality assurance
-  strategies of the Citrix Desktop and App virtualization suites. Lead
-  developer for the Perl components of the framework to support testing Linux
-  and Mac end-points.
+  (SuSe, RHEL, Ubuntu) OS combinations for cloud (CloudStack, Azure) and
+  traditional virtualization (XenServer, ESX, Hyper-V).
+- Member of the core automation team with remit to develop and support the
+  test automation framework and library code that underpins QA strategies of
+  the Citrix Desktop and App virtualization suites. Lead developer for the
+  Perl component to support testing Linux and Mac end-points.
 - Other activities included technical support, triage and troubleshooting of,
-  often complex, issues in infrastructure and test environments; application
-  of agile methodologies to evolve both code and infrastructure, setting up
-  the infrastructure for customer demos/roadshows e.g. Citrix Summit,
-  procurement and lifecycle maintenance of hardware and software, technical
+  often complex, full-stack issues; refining agile practices for code and
+  infrastructure evolution, setting up the infrastructure for customer
+  demos/Citrix Summit, hardware procurement and maintenance, technical
   training, etc.
 
 _May 2007 - Dec 2007_ • CRYSTAL AMUSEMENTS LTD • Leicester Square, London,
 United Kingdom
 
-SUPPORT ENGINEER/SYSTEMS ADMINISTRATOR
+SYSTEMS ADMINISTRATOR/SUPPORT ENGINEER
 
 _Skills :_ Hardware/Software Administration and Troubleshooting, Staging and
 Rollouts, Network Administration - NetGear Switching, DHCP/DNS, Caching
 Proxies, Windows XP/2003, Linux, Norton Ghost, Customer Support.
 
-- Responsible for the technical operations of 90+ internet kiosks,
+- Responsible for the technical operations of 90+ internet/games kiosks,
   printing solutions.
 
 _Jan 2007 - May 2007_ • STERLING LIMOUSINES (UK) LTD • Richmond, Surrey,
@@ -105,43 +104,48 @@ Directory.
 
 Technical Experience
 
-Scripting : Bash/POSIX Shell, Perl, Powershell/.NET, Ruby, Python, Javascript,
+Proficiency from left-to-right, right-leaning technologies are more from
+exposure/self-interest.
+
+Cloud : Amazon ec2/AWS, Apache Cloudstack, DigitalOcean, Microsoft Azure
+
+Virtualization : Citrix XenServer, Xen, KVM, Oracle VirtualBox, Microsoft
+Hyper-V, VMWare ESX/vSphere, docker
+
+Operating Systems : Debian/Ubuntu, Microsoft Windows Server
+2003/2008/2012/2016, Windows XP/7/8/8.x/10, CentOS/RHEL, OpenSuSe/SuSe,
+FreeBSD 9/10
+
+Config. Mgmt : Ansible, Thor/SSH, Chef, Puppet, WinRM
+
+Scripting : Bash/POSIX Shell, Powershell/.NET, Perl, Ruby, Python, Javascript,
 Perl6, Java, C
 
-Markup : JSON, YAML, HTML, XHTML, XML, CSS
+Markup : YAML, JSON, HTML, XHTML, XML, CSS
 
-Operating Systems : Debian/Ubuntu, RHEL/CentOS, SuSe/OpenSuSe, Microsoft
-Windows Server 2003/2008/2012/2016, Windows XP/7/8/8.x/10, FreeBSD 9/10
+Databases : MariaDB 10/MySQL 5, Postgres 8/9, Elasticsearch, CouchDB, SQLite
+3, SQL Server
 
-Networking : TCP/IP (IPv4 & IPv6), DNS, DHCP, HTTP, LDAP, VLANs, VPNs, Cisco
-Routing & Switching, Citrix NetScaler, NFS, Samba, iSCSI
+Networking : TCP/IP (IPv4 & IPv6), DNS, DHCP, HTTP, Network Design, Cisco
+Routing & Switching, VLANs, VPNs, Citrix NetScaler, NFS, LDAP, iSCSI, Samba,
+SDN
 
-Virtualization : Xen, Citrix XenServer, Microsoft Hyper-V, Oracle VirtualBox,
-VMWare ESX/vSphere, docker
+Monitoring : Icinga2/Nagios, Graylog2, Cacti, New Relic, Scout, LogStash,
+Collectd, Tick Stack
 
-Cloud : Amazon ec2/AWS, Apache Cloudstack, Citrix CloudPlatform, DigitalOcean,
-Microsoft Azure
+Web/CDN : nginx, Cloudflare, CloudFront, Apache httpd, Ruby on Rails/Rack,
+Dancer2/PSGI/Plack, Citrix NetScaler, SOA/REST
 
-Databases : Elasticsearch, CouchDB, MariaDB 10/MySQL 5, SQLite 3, Postgres
-8/9, SQL Server
-
-Monitoring : Syslog, SNMP, Graylog, Nagios, Cacti, LogStash, WMI, Collectd,
-New Relic
-
-Provisioning : Docker, Puppetlabs razor, PXE/iPXE, kickstart, preseed, WinPE,
-autoyast, vagrant
-
-Config. Mgmt : Ansible, Thor, Chef, Puppet, SSH, WinRM
-
-Source Control : git, Perforce, diff/patch, Mercural, CVS, Jenkins,
+Source Control : git, github, Jenkins, Perforce, Mercural, CVS, diff/patch,
 Checkinstall
+
+Provisioning : Puppetlabs razor, PXE/iPXE, kickstart, preseed, WinPE,
+autoyast, vagrant
 
 Hardware : Dell PowerEdge, HP Proliant, HP BladeSystem
 
 Storage : Dell Compellent, NetApp FS 2000, HP StorageWorks, Nexenta, QuadStor,
 NetGear ReadyNAS
-
-Web : nginx, Apache httpd, Rack, Dancer2, PSGI/Plack, SOA, REST
 
 Education
 
@@ -195,6 +199,8 @@ Amateur Photography • Tech. news, conferences, events • #freenode IRC
 OpenSource Community • Hacking Debian/Raspberry Pi for fun
 
 Personal Details
+
+Keybase Identity : https://keybase.io/shalomb
 
 Telephone : +421 948 140 290 _(SK)_; +44 7904 190 550 _(UK)_
 
