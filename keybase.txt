@@ -1,0 +1,62 @@
+==================================================================
+https://keybase.io/shalomb
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://shalomb.github.io
+  * I am shalomb (https://keybase.io/shalomb) on keybase.
+  * I have a public key with fingerprint F0BE 97A9 0F3A 5885 A0E1  ABA3 4EEE E8E7 C549 498D
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0111a044879fb19a141885d6ec8ddec92d1014baec4aef873b0dc547dabb716135510a",
+            "fingerprint": "f0be97a90f3a5885a0e1aba34eeee8e7c549498d",
+            "host": "keybase.io",
+            "key_id": "4eeee8e7c549498d",
+            "kid": "0111a044879fb19a141885d6ec8ddec92d1014baec4aef873b0dc547dabb716135510a",
+            "uid": "bdcdddde22dc1387f483d012a51cff19",
+            "username": "shalomb"
+        },
+        "service": {
+            "hostname": "shalomb.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1495297281,
+    "expire_in": 157680000,
+    "prev": "14835eab379a208696ad8f6369af2f8073eb0b99412cb93c66ebe5768f38e47f",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUr9rFEEYXc8TY0LQNHZCnEYDZ5jZmd2ZObEwXQqtFZRjfnxzN+aye9nduxhC
+OgUbwUZSJiAW4j9gZROsJBYSsLZSG4mtlTOnKQRLv2aYb957897H92z+dNJauP39
+65d3q6tPT73/ppO7i+tz20iXdgt1t9EaTA8YWqib3pq3qIswIURhxgSXThOpCCNC
+ZDYHI6wFI1NLMGFagWEKnOBUY2syxq3SmpOc0CwjWKEOcr7oQzWqfNEEWYc1SK4k
+dlRlQVBhIEoryiCUAB4kJJPCBuKgrCMjmNOqhmVfhl649Kb2/oH/z77HUzltjQ0F
+aWoNoYI7JqjFJFUZMc4RGYE1VIVah4CuB2pYrmu000GhOfEG4lxjkL8By33fDMb6
+d6ZRVTalKYfhedA0o7ob6c3WKOI3Qff+KPW0L2yYZWBMoKp9WaAuCUjT+ChNmMxS
+yVNBOggejnwFPR8RGc8FDhX/gUmQJEzcoxkoTblUKRa5zJUVLqe5VC51AnMKGmsp
+GUmNltTkOWiIMo4KYNyhGG6jKFFXBJ+qH2P5fqGacQVoZ/bJ/Xay0EouXbzcPn67
+++p8987j/c+vX5ys35lW3L1k9tyFk861G8nextHMpw/P31y9dbi/0m4fLP2c2z1O
+9vovH62c/Xjl4MfR9ZvFzOaDpcP5xV8=
+=LoCR
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/shalomb
+
+==================================================================
+
