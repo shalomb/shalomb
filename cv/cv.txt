@@ -2,7 +2,33 @@ Shalom Bhooshi
 
 Professional Experience
 
-_Oct 2015 - Present_ • BOX+DICE • Bratislava, Slovakia
+_Aug 2017 - Present_ • DEUTSCHE TELEKOM PAN-NET S.R.O • Bratislava, Slovakia
+
+Deutsche Telekom Pan-Net provides a pan-european telecommunications NFVI
+infrastructure platform that hosts the Virtual Network Functions (VNFs) and
+supporting applications that back the customer facing applications of the
+various DT subsidiaries. Engineered to be the single production platform for
+telco scale and grade applications, Pan-Net utilizes both innovative and
+best-of-breed cloud technologies and industry practices to pioneer and deliver
+new technologies and so maintain customer confidence in the DT product line.
+
+SENIOR INFRASTRUCTURE ENGINEER, NFVI CICD
+
+_Skills_: CI/CD, GitLab, JFrog Artifactory, git • Ansible, docker,
+Ubuntu/CentOS • OpenStack, Kubernetes • nginx, Apache Tomcat, Postgresql •
+Bash, Terraform, Python, bash, Ansible, StackStorm
+
+- Senior infrastructure engineer tasked with the design and devops of
+  applications that underpin the wider Pan-Net CI/CD strategy of the
+  NFVi/Cloud platform. e.g. _JFrog Artifactory_.
+- Designing OpenStack tenants and application stacks to house applications
+  that sustain the CI/CD workloads of both inrastructure and tenants e.g.
+  _ansible_, _terraform_, _GitLab runners_
+- Engaging various other teams in designing git workflows, CI/CD processes,
+  NFVi Orchestration and QA strategies. e.g. _GitLab_, _GitLab runners_, etc
+- Participating in production campuses, design workshops, post-mortems.
+
+_Oct 2015 - Jun 2017_ • BOX+DICE • Bratislava, Slovakia
 
 Box+Dice provide a unique CRM platform for real estate businesses to manage
 property portfolios, marketing and lead management, sales and accounting,
@@ -71,12 +97,10 @@ United Kingdom
 
 SYSTEMS ADMINISTRATOR/SUPPORT ENGINEER
 
-_Skills :_ Hardware/Software Administration and Troubleshooting, Staging and
-Rollouts, Network Administration - NetGear Switching, DHCP/DNS, Caching
-Proxies, Windows XP/2003, Linux, Norton Ghost, Customer Support.
+_Skills :_ Systems Administration, Network Design & Administration, Rollouts,
+Customer Support
 
-- Responsible for the technical operations of 90+ internet/games kiosks,
-  printing solutions.
+- Lead TechOps of 90+ internet/games kiosks, printing solutions.
 
 _Jan 2007 - May 2007_ • STERLING LIMOUSINES (UK) LTD • Richmond, Surrey,
 United Kingdom
@@ -86,8 +110,7 @@ LAMP DEVELOPER, PERL/POSTGRES
 _Skills :_ Perl, Apache/mod_perl, Postgresql 8, Debian Linux, xHTML, CSS,
 Prototype JS, Bash, Mercurial
 
-- Developed an online presence and booking system for integration with other
-  management systems.
+- DevOps of online booking systems.
 
 _Aug 2002 - Oct 2006_ • FREELANCE IT ENGINEER • Greater London Area, United
 Kingdom
@@ -95,35 +118,36 @@ Kingdom
 IT CONTRACTOR
 
 _Skills :_ Enterprise workstation migrations, LAN Design and Implementation,
-Hardware/Software roll-outs, Single-Page websites/DTP, Windows XP/2003, Active
-Directory.
+Hardware/Software roll-outs.
 
-- Freelance engineer and developer of bespoke IT solutions, providing
-  consultancy and support for small business (estate agents, solicitors,
-  accountants, etc).
+- Freelance engineer.
 
 Technical Experience
 
 Proficiency from left-to-right, right-leaning technologies are more from
-exposure/self-interest.
+exposure/interest.
 
-Cloud : Amazon ec2/AWS, Apache Cloudstack, DigitalOcean, Microsoft Azure
+Cloud : Canonical Openstack, Amazon ec2/AWS, Apache Cloudstack, DigitalOcean,
+Microsoft Azure
 
-Virtualization : Citrix XenServer, Xen, KVM, Oracle VirtualBox, Microsoft
-Hyper-V, VMWare ESX/vSphere, docker
+Containers : docker, docker-compose, Kubernetes, Consul
+
+Virtualization : Citrix XenServer, KVM, Xen, Oracle VirtualBox, Microsoft
+Hyper-V, VMWare ESX/vSphere
 
 Operating Systems : Debian/Ubuntu, Microsoft Windows Server
 2003/2008/2012/2016, Windows XP/7/8/8.x/10, CentOS/RHEL, OpenSuSe/SuSe,
 FreeBSD 9/10
 
-Config. Mgmt : Ansible, Thor/SSH, Chef, Puppet, WinRM
+DevOps/CICD : Ansible, Terraform, JFrog Artifactory, GitLab CI, Travis CI,
+StackStorm, Thor/SSH, Chef, Puppet, WinRM
 
-Scripting : Bash/POSIX Shell, Powershell/.NET, Perl, Ruby, Python, Javascript,
-Perl6, Java, C
+Scripting : Bash/POSIX Shell, Perl, Python, Ruby, Powershell/.NET, Perl6,
+Javascript, Java, C
 
 Markup : YAML, JSON, HTML, XHTML, XML, CSS
 
-Databases : MariaDB 10/MySQL 5, Postgres 8/9, Elasticsearch, CouchDB, SQLite
+Databases : Postgres 8/9, MariaDB 10/MySQL 5, Elasticsearch, CouchDB, SQLite
 3, SQL Server
 
 Networking : TCP/IP (IPv4 & IPv6), DNS, DHCP, HTTP, Network Design, Cisco
@@ -156,8 +180,11 @@ _Jul_ _2000_ - _Mar_ _2001_ : BSC (HONS.) COMPUTER SCIENCE, MATHEMATICS,
 PHYSICS _(Discontinued)_, St. Joseph's College of Science and Arts, Bangalore,
 India
 
-Courses and Qualifications
+Training and Qualifications
 
+- Docker + Kubernetes Administration, _May 2018_
+- OpenStack Deployment and Advanced Administration, _Feb 2018_
+- OpenStack Administration, _Sep 2017_
 - Citrix NetScaler - Essentials, Networking and Administration, _Jun 2012_
 - Building Scalable Cisco Internetworks (CCNP BSCI), _Feb 2004_
 - Cisco Certified Network Associate (CCNA), _Mar 2003_
@@ -167,8 +194,8 @@ Courses and Qualifications
   Infrastructure, _Apr 2003_
 - Administering Windows 2000 Server, Microsoft Certified Professional (MCP)
   _Mar 2003_
-- Administering Windows 2000 Professional, Microsoft Certified
-  Professional (MCP) _Mar 2003_
+- Administering Windows 2000 Professional, Microsoft Certified Professional
+  (MCP) _Mar 2003_
 - Network Infrastructure Administration, CompTIA® Network+ Certified
   Professional, _Feb 2003_
 - Hardware and Software Essentials, CompTIA® A+ Certified Professional, _Nov
