@@ -6,51 +6,63 @@ I hereby claim:
 
   * I am an admin of https://shalomb.github.io
   * I am shalomb (https://keybase.io/shalomb) on keybase.
-  * I have a public key with fingerprint F0BE 97A9 0F3A 5885 A0E1  ABA3 4EEE E8E7 C549 498D
+  * I have a public key with fingerprint 6234 6401 0750 80B1 DADD  D4EA C9DF B9FD 0BFC A396
 
 To do so, I am signing this object:
 
 {
-    "body": {
-        "key": {
-            "eldest_kid": "0111a044879fb19a141885d6ec8ddec92d1014baec4aef873b0dc547dabb716135510a",
-            "fingerprint": "f0be97a90f3a5885a0e1aba34eeee8e7c549498d",
-            "host": "keybase.io",
-            "key_id": "4eeee8e7c549498d",
-            "kid": "0111a044879fb19a141885d6ec8ddec92d1014baec4aef873b0dc547dabb716135510a",
-            "uid": "bdcdddde22dc1387f483d012a51cff19",
-            "username": "shalomb"
-        },
-        "service": {
-            "hostname": "shalomb.github.io",
-            "protocol": "https:"
-        },
-        "type": "web_service_binding",
-        "version": 1
+  "body": {
+    "key": {
+      "eldest_kid": "0120c812c7e23a3de72da6ca86b77549a86749679bca34ada7e54225f2be37c6ace20a",
+      "fingerprint": "62346401075080b1daddd4eac9dfb9fd0bfca396",
+      "host": "keybase.io",
+      "key_id": "c9dfb9fd0bfca396",
+      "kid": "0101c8203e471d02f487ad0c7e57fd400646699fdd7a105f87a61d6fc9d6570a6c1b0a",
+      "uid": "bdcdddde22dc1387f483d012a51cff19",
+      "username": "shalomb"
     },
-    "ctime": 1495297281,
-    "expire_in": 157680000,
-    "prev": "14835eab379a208696ad8f6369af2f8073eb0b99412cb93c66ebe5768f38e47f",
-    "seqno": 8,
-    "tag": "signature"
+    "service": {
+      "hostname": "shalomb.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1539541551,
+  "expire_in": 157680000,
+  "prev": "8f056989721bf9828b666622ab5febf6dbf91859dcfca358f79b23d2b2fd4d51",
+  "seqno": 19,
+  "tag": "signature"
 }
 
 which yields the signature:
 
 -----BEGIN PGP MESSAGE-----
 
-owGtUr9rFEEYXc8TY0LQNHZCnEYDZ5jZmd2ZObEwXQqtFZRjfnxzN+aye9nduxhC
-OgUbwUZSJiAW4j9gZROsJBYSsLZSG4mtlTOnKQRLv2aYb957897H92z+dNJauP39
-65d3q6tPT73/ppO7i+tz20iXdgt1t9EaTA8YWqib3pq3qIswIURhxgSXThOpCCNC
-ZDYHI6wFI1NLMGFagWEKnOBUY2syxq3SmpOc0CwjWKEOcr7oQzWqfNEEWYc1SK4k
-dlRlQVBhIEoryiCUAB4kJJPCBuKgrCMjmNOqhmVfhl649Kb2/oH/z77HUzltjQ0F
-aWoNoYI7JqjFJFUZMc4RGYE1VIVah4CuB2pYrmu000GhOfEG4lxjkL8By33fDMb6
-d6ZRVTalKYfhedA0o7ob6c3WKOI3Qff+KPW0L2yYZWBMoKp9WaAuCUjT+ChNmMxS
-yVNBOggejnwFPR8RGc8FDhX/gUmQJEzcoxkoTblUKRa5zJUVLqe5VC51AnMKGmsp
-GUmNltTkOWiIMo4KYNyhGG6jKFFXBJ+qH2P5fqGacQVoZ/bJ/Xay0EouXbzcPn67
-++p8987j/c+vX5ys35lW3L1k9tyFk861G8nextHMpw/P31y9dbi/0m4fLP2c2z1O
-9vovH62c/Xjl4MfR9ZvFzOaDpcP5xV8=
-=LoCR
+owFtUntQVFUcXjaQeDuMg4ygwrUMV6T7fixSg/qHGCTWIKCD6z333Muu4O6yu7yS
+bWwwCnEEh0EJ5A8DpiIsk5moUTMBDaHhLTng5oDJI0uhRCZYh86l+KOZzh/38Tvf
+993v++6pCHhB4+tx+/63z/3c9Wc9uqeB5mD7Se4YBiywENMfw7Lk5ZucDWW7w5Bl
+gpgewwkSl3iClDiZpEQKyhwJRVYSeRZwHEML6IGjBZYTgCRStAhFTmZokmQUEsgU
+J7GiJJO4iEVjismcKdusNpPZgWRZkqJZGidwjsF5HBBQhBDSsigJUAGCAnGgID2B
+RUSjxa4ykDkg2uUYkwXN0Ith2d7/4Fd844TEkzgl0xwBcVKheU6EOIrBcAqkcZyl
+WVZATMiJBM4oaJclIKsgQZbhcBSRAMu+c5flAJSQQSiTJJQIiueQHAVRNyJDSIpC
+CCrQLtvM4lEZoe1GMdtyFGDOaAwN80ySrPaqBvkvICbT5DDmgn8yWW0Wh0WyZKNt
+o8NhtetVuqPQquLzZWD4V8kATGaIukSMPNlmN1nMmJ5ASMlhUqUJhhIYmmAYIhqT
+C6wmm2wwqQiGY3kcLfU7ch6S5BU8g2EFXuBIAigCT/KARYskRcAoMlBYiKYEzwhQ
+UqtleAX9Y5KCJCBRf5AhMDVcjtmCxAVkVMxUc5kyzaIj1yZjTt9SLeWp8fDVrA+J
+9AQ09PBOPv7ViGvo15UD6KVVT5/G12f1yoQ6G7RkKN9nX++9Lq/r8ZoTZb+lajcE
+gtar0S3aOX4ytX/2zqrmRH24+40vtKtHnxTtBgmfNP2029mWHXe9ZS7pQVTKUBge
++3Yw1/m4dvOeLaUNOa9favEa7zeKV2707+0qssZ2fXrCHdbz3nRVWFS1u7ruh4DA
+MxeMR77s7dYnnBvTlWvG//B62nENhGesCo1hCguZLSOdI7tsCbe/39q22PXuxyV1
+aZaXRi/u8XzxsrF9ZCpozHVvBs9fmxJvqyC3azaNBu4aTx+oSPy8fWGiseMz/1fj
+g9633BwLlk69M6i7q6vNX4qvbz19oDx8MsmdkrE26pXtHV4pcdqN3m+VjZl/6T5f
+VRt8ftEnJfdkyY3YzWng0dcRrdXf4TuvpF5uPjefnK4dKwx3DlbqhjPxqW+6nH1X
+nXd2uijXgyzqibWp5+eBNTdDFm71ntpxYDLI59L+HGdioHW/cGicmv29IDJX59U8
+MzFc82ykqThtYBpMUcqt+ap+Q31MRMTDQr0fGUv5txV9mMQXvznQUhlS0FfHRKbW
+hB468qx9mP3rYt3hpcbT9yp6H1Ye37gj1oXvO0i3Xii5O5t4babso5j0kOkArC7w
+6aNtf+oWc3r83OtCxYaaM3P+JR+UFlfELXEVca7rrzUeLu5oqB1a+BFd64tLJ+os
+ffOdL4c36Hzv27Y+T94WvncwZ8Pw3w==
+=0NdB
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
