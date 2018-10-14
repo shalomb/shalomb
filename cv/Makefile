@@ -1,11 +1,11 @@
 # Makefile to generate output formats of cv.html
-# 
+#
 # in_file  ?= cv.md
 
 .DEFAULT_GOAL := all
 
 ifeq (,$(in_file))
-    $(warning in_file '$(in_file)' not set in $(origin in_file)) 
+    $(warning in_file '$(in_file)' not set in $(origin in_file))
     ifneq (,$(wildcard cv.md))
         in_file := cv.md
     else ifneq (,$(wildcard cv.mkd))
@@ -19,10 +19,10 @@ ifeq (,$(findstring md,$(in_file)))
     $(error in_file '$(in_file)' is not a markdown file?)
 endif
 
-$(warning in_file '$(in_file)' set in $(origin in_file)) 
+$(warning in_file '$(in_file)' set in $(origin in_file))
 # .PHONY: out_file = $(in_file)
 out_file := $(in_file:.md=)
-$(warning out_file base_name '$(out_file)' set in $(origin out_file)) 
+$(warning out_file base_name '$(out_file)' set in $(origin out_file))
 
 check_defined = \
     $(foreach 1,$1,$(__check_defined))
@@ -70,8 +70,8 @@ pdf: $(in_file)
 		--variable fontsize=11pt              \
 		--variable version=1.10               \
 		--highlight-style=tango               \
-		--latex-engine=xelatex                \
-		$(in_file) -o $(out_file).pdf                                        
+		--pdf-engine=xelatex                  \
+		$(in_file) -o $(out_file).pdf
 
 .PHONY: webpdf
 webpdf: $(in_file)
