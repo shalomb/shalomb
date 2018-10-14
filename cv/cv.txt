@@ -12,21 +12,24 @@ telco scale and grade applications, Pan-Net utilizes both innovative and
 best-of-breed cloud technologies and industry practices to pioneer and deliver
 new technologies and so maintain customer confidence in the DT product line.
 
-SENIOR INFRASTRUCTURE ENGINEER, NFVI CICD
+SENIOR INFRASTRUCTURE ENGINEER, CICD, NFVI DEVOPS
 
 _Skills_: CI/CD, GitLab, JFrog Artifactory, git • Ansible, docker,
 Ubuntu/CentOS • OpenStack, Kubernetes • nginx, Apache Tomcat, Postgresql •
 Bash, Terraform, Python, bash, Ansible, StackStorm
 
-- Senior infrastructure engineer tasked with the design and devops of
-  applications that underpin the wider Pan-Net CI/CD strategy of the
-  NFVi/Cloud platform. e.g. _JFrog Artifactory_.
+- Part of the CI/CD team tasked with the design and devops of applications
+  that underpin the wider Pan-Net CI/CD strategy of the NFVi/Cloud platform.
+  e.g. _JFrog Artifactory_, _Gitlab_, _Gitlab Runner_.
 - Designing OpenStack tenants and application stacks to house applications
   that sustain the CI/CD workloads of both inrastructure and tenants e.g.
   _ansible_, _terraform_, _GitLab runners_
-- Engaging various other teams in designing git workflows, CI/CD processes,
-  NFVi Orchestration and QA strategies. e.g. _GitLab_, _GitLab runners_, etc
+- Engaging various other teams in designing git branching and workflows
+  strategies, CI/CD processes, NFVi Orchestration and QA strategies. e.g.
+  _GitLab_, _GitLab runners_, etc
 - Participating in production campuses, design workshops, post-mortems.
+
+------------------------------------------------------------------------------
 
 _Oct 2015 - Jun 2017_ • BOX+DICE • Bratislava, Slovakia
 
@@ -55,6 +58,8 @@ Icinga • JIRA, Kanban, Mentoring
 - Involved in defining and project managing systems strategy, participating in
   executive committee decision making, cost management, hiring, mentoring.
 
+------------------------------------------------------------------------------
+
 _Jul 2010 - Aug 2015_ • CITRIX SYSTEMS UK LTD • Cambridge, United Kingdom
 
 Citrix solutions power business mobility through secure, mobile workspaces
@@ -63,8 +68,8 @@ communications on any device, over any network and cloud. With annual revenue
 in 2014 of $3.14 billion, Citrix solutions are in use at more than 400,000
 organizations and by over 100 million users globally.
 
-SENIOR SOFTWARE TEST ENGINEER, ENGINEERING PRODUCTIVITY, Enterprise Desktop
-and Apps.
+_Oct 2013 - Aug 2015_ • SENIOR SOFTWARE TEST ENGINEER, ENGINEERING
+PRODUCTIVITY, Enterprise Desktop and Apps
 
 _Skills :_ Apache CloudStack/Citrix CloudPlatform • XenServer/Hyper-V/ESX •
 Citrix XenDesktop • Windows Server 2008/2012/2016, 2003 • Windows 7/8/8.x/10,
@@ -92,6 +97,30 @@ PowerEdge • Dell Compellent, HP StorageWorks • Cisco 2960s/g/x, Nexus
   demos/Citrix Summit, hardware procurement and maintenance, technical
   training, etc.
 
+------------------------------------------------------------------------------
+
+_Apr 2012 - Oct 2013_ • ASSOCIATE SOFTWARE TEST ENGINEER, ENGINEERING
+PRODUCTIVITY, Enterprise Desktop and Apps.
+
+_Skills :_ Apache CloudStack/Citrix CloudPlatform • XenServer/Hyper-V/ESX •
+Citrix XenDesktop • Windows Server 2008/2012/2016, 2003 • Windows 7/8/8.x/10,
+XP/Vista • SQL Server 2008/2012/2016 • PowerShell/.NET • Debian/CentOS Linux •
+Puppetlabs Razor/iPXE • Perl, Bash, Ruby, Python • HP Prioliant, Dell
+PowerEdge • Dell Compellent, HP StorageWorks • Cisco 2960s/g/x, Nexus
+
+------------------------------------------------------------------------------
+
+_Jul 2010 - Apr 2012_ • SOFTWARE TEST ENGINEER, TEST AUTOMATION, XenDesktop
+Engineering.
+
+_Skills :_ Apache CloudStack/Citrix CloudPlatform • XenServer/Hyper-V/ESX •
+Citrix XenDesktop • Windows Server 2008/2012/2016, 2003 • Windows 7/8/8.x/10,
+XP/Vista • SQL Server 2008/2012/2016 • PowerShell/.NET • Debian/CentOS Linux •
+Puppetlabs Razor/iPXE • Perl, Bash, Ruby, Python • HP Prioliant, Dell
+PowerEdge • Dell Compellent, HP StorageWorks • Cisco 2960s/g/x, Nexus
+
+------------------------------------------------------------------------------
+
 _May 2007 - Dec 2007_ • CRYSTAL AMUSEMENTS LTD • Leicester Square, London,
 United Kingdom
 
@@ -102,6 +131,8 @@ Customer Support
 
 - Lead TechOps of 90+ internet/games kiosks, printing solutions.
 
+------------------------------------------------------------------------------
+
 _Jan 2007 - May 2007_ • STERLING LIMOUSINES (UK) LTD • Richmond, Surrey,
 United Kingdom
 
@@ -111,6 +142,8 @@ _Skills :_ Perl, Apache/mod_perl, Postgresql 8, Debian Linux, xHTML, CSS,
 Prototype JS, Bash, Mercurial
 
 - DevOps of online booking systems.
+
+------------------------------------------------------------------------------
 
 _Aug 2002 - Oct 2006_ • FREELANCE IT ENGINEER • Greater London Area, United
 Kingdom
@@ -177,7 +210,7 @@ _Sep_ _2008_ - _May_ _2010_ : BSC, COMPUTER NETWORKS _(1:1, First Class
 Honours)_, Sheffield Hallam University, Sheffield, England
 
 _Jul_ _2000_ - _Mar_ _2001_ : BSC (HONS.) COMPUTER SCIENCE, MATHEMATICS,
-PHYSICS _(Discontinued)_, St. Joseph's College of Science and Arts, Bangalore,
+PHYSICS _(Discontinued)_, St. Joseph’s College of Science and Arts, Bangalore,
 India
 
 Training and Qualifications
