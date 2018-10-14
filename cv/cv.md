@@ -1,12 +1,12 @@
 ---
 title: Shalom Bhooshi
+pagetitle: Shalom Bhooshi
 subtitle: _e:_ [s.bhooshi@gmail.com](mailto:s.bhooshi@gmail.com)  • _m:_ +421 948 140 290 • _a:_ [92, Kosicka, 52/A, Bratislava, 821 08](https://www.google.co.uk/maps?q=92,+Kosicka+52/A,+Bratislava,+82108)
 author: _l:_ [uk.linkedin.com/in/shalombhooshi](https://uk.linkedin.com/in/shalombhooshi)
 abstract: A skilled systems engineer with 14 years of experience in systems design and engineering in various business and technology settings. With a particular interest in cloud, virtualization and open source technologies to design, implement and maintain creative, cost-effective and flexible infrastructure solutions. I have strong communications and personal skills and can work well in any setting. Core competencies include **DevOps/CI/CD** • **Cloud/Virtualization** • **Network & Systems Engineering** • **Scripting/Infrastructure Automation**
 ---
 
-
-###  Professional Experience
+### Professional Experience
 
 _Aug 2017 - Present_ • **[Deutsche Telekom Pan-Net s.r.o](https://www.telekom.com/en/media/details/the-pan-european-network--pan-net--442220)** • Bratislava, Slovakia
 
@@ -20,22 +20,23 @@ deliver new technologies and so maintain customer confidence in the DT
 product line.
 
 
-**Senior Infrastructure Engineer, NFVi CICD**
+**Senior Infrastructure Engineer, CICD, NFVi DevOps**
 
 _Skills_: CI/CD, GitLab, JFrog Artifactory, git • Ansible, docker, Ubuntu/CentOS •
     OpenStack, Kubernetes • nginx, Apache Tomcat, Postgresql •
     Bash, Terraform, Python, bash, Ansible, StackStorm
 
-* Senior infrastructure engineer tasked with the design and devops of applications
+* Part of the CI/CD team tasked with the design and devops of applications
   that underpin the wider Pan-Net CI/CD strategy of the NFVi/Cloud platform.
-  e.g. *JFrog Artifactory*.
+  e.g. *JFrog Artifactory*, *Gitlab*, *Gitlab Runner*.
 * Designing OpenStack tenants and application stacks to house applications
   that sustain the CI/CD workloads of both inrastructure and tenants
   e.g. *ansible*, *terraform*, *GitLab runners*
-* Engaging various other teams in designing git workflows, CI/CD processes,
-  NFVi Orchestration and QA strategies. e.g. *GitLab*, *GitLab runners*, etc
+* Engaging various other teams in designing git branching and workflows strategies,
+  CI/CD processes, NFVi Orchestration and QA strategies. e.g. *GitLab*, *GitLab runners*, etc
 * Participating in production campuses, design workshops, post-mortems.
 
+---
 
 _Oct 2015 - Jun 2017_ • **[Box+Dice](https://boxdice.com.au)** • Bratislava, Slovakia
 
@@ -60,12 +61,13 @@ development, improving platform availability and operating procedures, SysOps.
 processes, communications, testing, DevOps.
 * Involved in defining and project managing systems strategy, participating in executive committee decision making, cost management, hiring, mentoring.
 
+---
 
 _Jul 2010 - Aug 2015_ • **[Citrix Systems UK Ltd](https://www.citrix.com/)** • Cambridge, United Kingdom
 
 Citrix solutions power business mobility through secure, mobile workspaces that provide people with instant access to apps, desktops, data and communications on any device, over any network and cloud. With annual revenue in 2014 of $3.14 billion, Citrix solutions are in use at more than 400,000 organizations and by over 100 million users globally.
 
-**Senior Software Test Engineer, Engineering Productivity**, [Enterprise Desktop and Apps](https://www.citrix.com/products/xenapp-xendesktop/).
+_Oct 2013 - Aug 2015_ • **Senior Software Test Engineer, Engineering Productivity**, [Enterprise Desktop and Apps](https://www.citrix.com/products/xenapp-xendesktop/)
 
 _Skills :_ Apache CloudStack/Citrix CloudPlatform • XenServer/Hyper-V/ESX • Citrix XenDesktop • Windows Server 2008/2012/2016, 2003 • Windows 7/8/8.x/10, XP/Vista • SQL Server 2008/2012/2016 • PowerShell/.NET • Debian/CentOS Linux • Puppetlabs Razor/iPXE • Perl, Bash, Ruby, Python • HP Prioliant, Dell PowerEdge • Dell Compellent, HP StorageWorks • Cisco 2960s/g/x, Nexus
 
@@ -88,6 +90,19 @@ _Skills :_ Apache CloudStack/Citrix CloudPlatform • XenServer/Hyper-V/ESX • 
   hardware procurement and maintenance,
   technical training, etc.
 
+---
+
+_Apr 2012 - Oct 2013_ • **Associate Software Test Engineer, Engineering Productivity**, [Enterprise Desktop and Apps](https://www.citrix.com/products/xenapp-xendesktop/).
+
+_Skills :_ Apache CloudStack/Citrix CloudPlatform • XenServer/Hyper-V/ESX • Citrix XenDesktop • Windows Server 2008/2012/2016, 2003 • Windows 7/8/8.x/10, XP/Vista • SQL Server 2008/2012/2016 • PowerShell/.NET • Debian/CentOS Linux • Puppetlabs Razor/iPXE • Perl, Bash, Ruby, Python • HP Prioliant, Dell PowerEdge • Dell Compellent, HP StorageWorks • Cisco 2960s/g/x, Nexus
+
+---
+
+_Jul 2010 - Apr 2012_ • **Software Test Engineer, Test Automation**, [XenDesktop Engineering](https://www.citrix.com/products/xenapp-xendesktop/).
+
+_Skills :_ Apache CloudStack/Citrix CloudPlatform • XenServer/Hyper-V/ESX • Citrix XenDesktop • Windows Server 2008/2012/2016, 2003 • Windows 7/8/8.x/10, XP/Vista • SQL Server 2008/2012/2016 • PowerShell/.NET • Debian/CentOS Linux • Puppetlabs Razor/iPXE • Perl, Bash, Ruby, Python • HP Prioliant, Dell PowerEdge • Dell Compellent, HP StorageWorks • Cisco 2960s/g/x, Nexus
+
+---
 
 _May 2007 - Dec 2007_ • **Crystal Amusements Ltd** • Leicester Square, London, United Kingdom
 
@@ -97,6 +112,7 @@ _Skills :_ Systems Administration, Network Design & Administration, Rollouts, Cu
 
 * Lead TechOps of 90+ internet/games kiosks, printing solutions.
 
+---
 
 _Jan 2007 - May 2007_ • **[Sterling Limousines (UK) Ltd](http://sterlinglimousines.co.uk/)** • Richmond, Surrey, United Kingdom
 
@@ -106,6 +122,7 @@ _Skills :_ Perl, Apache/mod_perl, Postgresql 8, Debian Linux, xHTML, CSS, Protot
 
 * DevOps of online booking systems.
 
+---
 
 _Aug 2002 - Oct 2006_ • **Freelance IT Engineer** • Greater London Area, United Kingdom
 
