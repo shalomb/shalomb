@@ -3,14 +3,14 @@ title: Shalom Bhooshi
 pagetitle: Shalom Bhooshi
 subtitle: _e:_ [s.bhooshi@gmail.com](mailto:s.bhooshi@gmail.com)  • _m:_ +421 948 140 290 • _a:_ [Tučkova 9, Ružinov, Bratislava 82105, Slovakia](https://www.google.co.uk/maps?q=Tuckova+9,+Bratislava,+82105)
 author: _l:_ [uk.linkedin.com/in/shalombhooshi](https://uk.linkedin.com/in/shalombhooshi)
-abstract: A skilled systems engineer with 14 years of experience in systems design and engineering in various business and technology settings. With a particular interest in cloud, virtualization and open source technologies to design, implement and maintain creative, cost-effective and flexible infrastructure solutions. I have strong communications and personal skills and can work well in any setting. Core competencies include **DevOps, CI/CD/CT** • **Quality Engineering** • **Cloud/Virtualization** • **Network & Systems Engineering** • **Scripting/Infrastructure Automation**
+abstract: A skilled systems engineer with a particular interest in CI/CD and Agile/DevOps/SRE, I possess experience in systems design/implementation and engineering using open source and cloud technologies in various business and technology settings. Core competencies: **DevOps/SRE, CI/CD/CT** • **Cloud/Virtualization** • **Network & Systems Engineering** • **Scripting/Infrastructure Automation**
 ---
 
 ### Professional Experience
 
 _Aug 2017 - Present_ • **[Deutsche Telekom Pan-Net s.r.o](https://www.telekom.com/en/media/details/the-pan-european-network--pan-net--442220)** • Bratislava, Slovakia
 
-Deutsche Telekom Pan-Net provides a pan-european telecommunications NFVI
+Deutsche Telekom Pan-Net provide a pan-european telecommunications NFVI
 infrastructure platform that hosts the Virtual Network Functions (VNFs) and
 supporting applications that back the business services of various DT
 subsidiaries. Slated to be the single production platform for telco scale and
