@@ -1,33 +1,31 @@
-Shalom Bhooshi
-
 Professional Experience
 
 _Aug 2017 - Present_ • DEUTSCHE TELEKOM PAN-NET S.R.O • Bratislava, Slovakia
 
-Deutsche Telekom Pan-Net provides a pan-european telecommunications NFVI
+Deutsche Telekom Pan-Net provide a pan-european telecommunications NFVI
 infrastructure platform that hosts the Virtual Network Functions (VNFs) and
 supporting applications that back the business services of various DT
 subsidiaries. Slated to be the single production platform for telco scale and
 grade applications, Pan-Net utilizes both innovative and best-of-breed cloud
-technologies and industry practices to pioneer and deliver new technologies to
-improve and evolve the DT product line.
+technologies and industry practices to pioneer, improve and evolve the DT
+product line.
 
-SENIOR INFRASTRUCTURE ENGINEER, CICD NFVI
+INFRASTRUCTURE ENGINEER, NFVI CICD
 
 _Skills_: CI/CD, GitLab, GitHub, JFrog Artifactory, git • Ubuntu/CentOS,
 OpenStack, Kubernetes • nginx, Apache Tomcat, Postgresql • Ansible, Terraform,
 Python, bash
 
 - Part of the CI/CD team tasked with the design and DevOps of services to
-  sustain build and delivery pipelines applications and infrastructure on the
-  NFVi/Cloud platform. e.g. _JFrog Artifactory_, _Gitlab_, _Gitlab Runners_,
-  _GitFlow_
+  sustain build and delivery pipelines of applications and infrastructure
+  within the NFVI/Cloud platform. e.g. _JFrog Artifactory_, _Gitlab_, _Gitlab
+  Runners_, _GitFlow_
 - Supporting internal teams in designing their CI/CD pipelines, git branching
   and release strategies, CI/CD/CT processes, Application Orchestration and
-  QA/QE/DevSecOps. e.g. _Production Factory Pipelines_, _Agile_, _Service
+  QA/QE/DevSecOps. i.e. _Production Factory Pipelines_, _Agile Service
   Delivery_
 - Integration, designing and maintaining geo-redundant highly available CI/CD
-  services applications atop the Pan-Net Openstack cloud. e.g. _GitOps/SRE_,
+  services applications atop the Pan-Net Openstack clouds. e.g. _GitOps/SRE_,
   _Ansible_, _Terraform_, _Python_, _GitLab runners_
 - Participating in production campuses, design workshops, post-mortems.
 
@@ -51,10 +49,10 @@ Icinga • JIRA, Kanban, Mentoring
 
 - Lead systems engineer managing site reliability engineering; systems
   analysis, design and development, improving platform availability and
-  operating procedures, SysOps.
+  operating procedures.
 - Delivering on projects to modernize infrastructure, lift-and-shift platform
-  services to public cloud (AWS), improving utilization, efficiency, security
-  and TechOps.
+  services to public cloud (AWS), VPC design, improving utilization,
+  efficiency, security and technical operations.
 - Working in cross-functional contexts with Quality Engineering and
   Operations; improving CI/CD processes, communications, testing, DevOps.
 - Involved in defining and project managing systems strategy, participating in
@@ -158,15 +156,14 @@ Containers : docker, docker-compose, Kubernetes, Consul
 Virtualization : Citrix XenServer, KVM, Xen, Oracle VirtualBox, Microsoft
 Hyper-V, VMWare ESX/vSphere
 
-Operating Systems : Debian/Ubuntu, Microsoft Windows Server
-2003/2008/2012/2016, Windows XP/7/8/8.x/10, CentOS/RHEL, OpenSuSe/SuSe,
-FreeBSD 9/10
+Operating Systems : Debian/Ubuntu, CentOS/RHEL, Microsoft Windows Server
+2003/2008/2012/2016, FreeBSD 9/10
 
-DevOps/CICD : Ansible, Terraform, JFrog Artifactory, GitLab CI, Travis CI,
-StackStorm, Thor/SSH, Chef, Puppet, WinRM
+DevOps/CICD : Ansible, Terraform, GitLab CI, JFrog Artifactory, Travis CI,
+Thor/SSH, Chef,
 
-Scripting : Bash/POSIX Shell, Perl, Python, Ruby, Powershell/.NET, Perl6,
-Javascript, Java, C
+Scripting : Bash/POSIX Shell, Python, Ruby, Perl, Powershell/.NET, Perl6,
+Javascript, Java,
 
 Markup : YAML, JSON, HTML, XHTML, XML, CSS
 
@@ -191,8 +188,8 @@ autoyast, vagrant
 
 Hardware : Dell PowerEdge, HP Proliant, HP BladeSystem
 
-Storage : Dell Compellent, NetApp FS 2000, HP StorageWorks, Nexenta, QuadStor,
-NetGear ReadyNAS
+Storage : Swift/S3, Dell Compellent, NetApp FS 2000, HP StorageWorks, Nexenta,
+QuadStor, NetGear ReadyNAS
 
 Education
 
@@ -265,20 +262,6 @@ Nationality : British
 TL;DR
 
 GC3.2
-
-  -----BEGIN GEEK CODE BLOCK-----
-
-  GCM/CS/IT/E/MU/P/O d-- s:++ a
-  C++(++++) UL L++ P++
-  E--- W++(-) N+ o- K+++ w---
-  O- M+ V--
-  PS++ PE+
-  !Y+ PGP++ t+
-  5? X++ !R
-  TV+ b DI++ D+ G++ e++
-  h-- r+++ y+++
-
-  ------END GEEK CODE BLOCK------
 
 Download
 

@@ -3,7 +3,7 @@ title: Shalom Bhooshi
 pagetitle: Shalom Bhooshi
 subtitle: _e:_ [s.bhooshi@gmail.com](mailto:s.bhooshi@gmail.com)  • _m:_ +421 948 140 290 • _a:_ [Tučkova 9, Ružinov, Bratislava 82105, Slovakia](https://www.google.co.uk/maps?q=Tuckova+9,+Bratislava,+82105)
 author: _l:_ [uk.linkedin.com/in/shalombhooshi](https://uk.linkedin.com/in/shalombhooshi)
-abstract: A skilled systems engineer with a particular interest in CI/CD and Agile/DevOps/SRE, I possess experience in systems design/implementation and engineering using open source and cloud technologies in various business and technology settings. Core competencies: **DevOps/SRE, CI/CD/CT** • **Cloud/Virtualization** • **Network & Systems Engineering** • **Scripting/Infrastructure Automation**
+abstract: A skilled systems engineer with a particular interest in CI/CD and Agile/DevOps/SRE, I possess experience in systems design/implementation and engineering using open source and cloud technologies in various business and technology settings. Core competencies: **DevOps/SRE, CI/CD/CT** • **Cloud/Virtualization** • **Network & Systems Engineering** • **Infrastructure Automation**
 ---
 
 ### Professional Experience
@@ -15,25 +15,25 @@ infrastructure platform that hosts the Virtual Network Functions (VNFs) and
 supporting applications that back the business services of various DT
 subsidiaries. Slated to be the single production platform for telco scale and
 grade applications, Pan-Net utilizes both innovative and best-of-breed cloud
-technologies and industry practices to pioneer and deliver new technologies
-to improve and evolve the DT product line.
+technologies and industry practices to pioneer, improve and evolve the DT
+product line.
 
-**Senior Infrastructure Engineer, CICD NFVI**
+**Infrastructure Engineer, NFVI CICD**
 
 _Skills_: CI/CD, GitLab, GitHub, JFrog Artifactory, git • Ubuntu/CentOS,
           OpenStack, Kubernetes • nginx, Apache Tomcat, Postgresql •
           Ansible, Terraform, Python, bash
 
 * Part of the CI/CD team tasked with the design and DevOps of services to
-  sustain build and delivery pipelines applications and infrastructure on the
-  NFVi/Cloud platform.
+  sustain build and delivery pipelines of applications and infrastructure
+  within the NFVI/Cloud platform.
   e.g. *JFrog Artifactory*, *Gitlab*, *Gitlab Runners*, *GitFlow*
 * Supporting internal teams in designing their CI/CD pipelines, git branching
   and release strategies, CI/CD/CT processes, Application Orchestration and
   QA/QE/DevSecOps.
-  e.g. *Production Factory Pipelines*, *Agile*, *Service Delivery*
+  i.e. *Production Factory Pipelines*, *Agile Service Delivery*
 * Integration, designing and maintaining geo-redundant highly available
-  CI/CD services applications atop the Pan-Net Openstack cloud.
+  CI/CD services applications atop the Pan-Net Openstack clouds.
   e.g. *GitOps/SRE*, *Ansible*, *Terraform*, *Python*, *GitLab runners*
 * Participating in production campuses, design workshops, post-mortems.
 
@@ -58,10 +58,10 @@ _Skills :_ Amazon ec2/AWS, XenServer/Xen, KVM, Docker • Debian/CentOS Linux �
 
 * Lead systems engineer managing site reliability engineering; systems analysis,
   design and development, improving platform availability and operating
-  procedures, SysOps.
+  procedures.
 * Delivering on projects to modernize infrastructure, lift-and-shift platform
-  services to public cloud (AWS), improving utilization, efficiency, security
-  and TechOps.
+  services to public cloud (AWS), VPC design, improving utilization, efficiency,
+  security and technical operations.
 * Working in cross-functional contexts with Quality Engineering and Operations;
   improving CI/CD processes, communications, testing, DevOps.
 * Involved in defining and project managing systems strategy, participating in
@@ -179,36 +179,30 @@ Virtualization
 Operating Systems
   :
   [Debian](http://www.debian.org/)/[Ubuntu](http://www.ubuntu.com/),
-  [Microsoft Windows Server 2003/2008/2012/2016](http://www.microsoft.com/en-us/server-cloud/products/windows-server-2012-r2/),
-  [Windows XP/7/8/8.x/10](http://www.microsoft.com/en-gb/windows),
   [CentOS](https://www.centos.org/)/[RHEL](http://www.redhat.com/en/technologies/linux-platforms/enterprise-linux),
-  [OpenSuSe](https://www.opensuse.org/)/[SuSe](https://www.suse.com/products/server/),
+  [Microsoft Windows Server 2003/2008/2012/2016](http://www.microsoft.com/en-us/server-cloud/products/windows-server-2012-r2/),
   [FreeBSD 9/10](http://www.freebsd.org/)
 
 DevOps/CICD
   :
   [Ansible](http://www.ansible.com/),
   [Terraform](https://www.terraform.io/),
-  [JFrog Artifactory](https://jfrog.com/artifactory/),
   [GitLab CI](https://docs.gitlab.com/ee/ci/quick_start/),
+  [JFrog Artifactory](https://jfrog.com/artifactory/),
   [Travis CI](https://travis-ci.org/),
-  [StackStorm](https://stackstorm.com/),
   [Thor](http://whatisthor.com/)/[SSH](http://www.openssh.com/),
   [Chef](https://www.chef.io/),
-  [Puppet](https://puppetlabs.com/puppet/puppet-enterprise),
-  [WinRM](https://msdn.microsoft.com/en-us/library/aa384426%28v=vs.85%29.aspx?f=255&MSPPError=-2147217396)
 
 Scripting
   :
   [Bash](https://www.gnu.org/software/bash/)/[POSIX Shell](http://pubs.opengroup.org/onlinepubs/009695399/utilities/xcu_chap02.html),
-  [Perl](https://www.perl.org/),
   [Python](https://www.python.org/),
   [Ruby](https://www.ruby-lang.org/en/),
+  [Perl](https://www.perl.org/),
   [Powershell](https://en.wikipedia.org/wiki/Windows_PowerShell)/[.NET](http://www.microsoft.com/net),
   [Perl6](https://perl6.org/),
   [Javascript](http://www.ecmascript.org/),
   [Java](https://en.wikipedia.org/wiki/Java_(programming_language)),
-  [C](http://flash-gordon.me.uk/ansi.c.txt)
 
 Markup
   :
@@ -296,6 +290,7 @@ Hardware
 
 Storage
   :
+  [Swift](https://wiki.openstack.org/wiki/Swift)/[S3](https://aws.amazon.com/s3/),
   Dell [Compellent](http://www.dell.com/us/business/p/dell-compellent),
   [NetApp FS 2000](http://www.netapp.com/us/products/storage-systems/),
   [HP StorageWorks](http://www8.hp.com/h20195/v2/GetHTML.aspx?docname=c04168365),
@@ -374,22 +369,6 @@ Nationality
 ### TL;DR
 
 [GC3.2](https://mj.ucw.cz/geek/?code=GCM%2fCS%2fIT%2fE%2fMU%2fP%2fO+d--+s%3a%2b%2b+a+C%2b%2b(%2b%2b%2b%2b)+UL+L%2b%2b+P%2b%2b+E---+W%2b%2b(-)+N%2b+o-+K%2b%2b%2b+w---+O-+M%2b+V--+PS%2b%2b+PE%2b+!Y%2b+PGP%2b%2b+t%2b+5%3f+X%2b%2b+!R+TV%2b+b+DI%2b%2b+D%2b+G%2b%2b+e%2b%2b+h--+r%2b%2b%2b+y%2b%2b%2b)
-
-```
------BEGIN GEEK CODE BLOCK-----
-
-GCM/CS/IT/E/MU/P/O d-- s:++ a
-C++(++++) UL L++ P++
-E--- W++(-) N+ o- K+++ w---
-O- M+ V--
-PS++ PE+
-!Y+ PGP++ t+
-5? X++ !R
-TV+ b DI++ D+ G++ e++
-h-- r+++ y+++
-
-------END GEEK CODE BLOCK------
-```
 
 ### Download
 
