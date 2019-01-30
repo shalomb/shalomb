@@ -1,39 +1,40 @@
 ---
 title: Shalom Bhooshi
 pagetitle: Shalom Bhooshi
-subtitle: _e:_ [s.bhooshi@gmail.com](mailto:s.bhooshi@gmail.com)  • _m:_ +421 948 140 290 • _a:_ [92, Kosicka, 52/A, Bratislava, 821 08](https://www.google.co.uk/maps?q=92,+Kosicka+52/A,+Bratislava,+82108)
+subtitle: _e:_ [s.bhooshi@gmail.com](mailto:s.bhooshi@gmail.com)  • _m:_ +421 948 140 290 • _a:_ [Tučkova 9, Ružinov, Bratislava 82105, Slovakia](https://www.google.co.uk/maps?q=Tuckova+9,+Bratislava,+82105)
 author: _l:_ [uk.linkedin.com/in/shalombhooshi](https://uk.linkedin.com/in/shalombhooshi)
-abstract: A skilled systems engineer with 14 years of experience in systems design and engineering in various business and technology settings. With a particular interest in cloud, virtualization and open source technologies to design, implement and maintain creative, cost-effective and flexible infrastructure solutions. I have strong communications and personal skills and can work well in any setting. Core competencies include **DevOps/CI/CD** • **Cloud/Virtualization** • **Network & Systems Engineering** • **Scripting/Infrastructure Automation**
+abstract: A skilled systems engineer with 14 years of experience in systems design and engineering in various business and technology settings. With a particular interest in cloud, virtualization and open source technologies to design, implement and maintain creative, cost-effective and flexible infrastructure solutions. I have strong communications and personal skills and can work well in any setting. Core competencies include **DevOps, CI/CD/CT** • **Quality Engineering** • **Cloud/Virtualization** • **Network & Systems Engineering** • **Scripting/Infrastructure Automation**
 ---
 
 ### Professional Experience
 
 _Aug 2017 - Present_ • **[Deutsche Telekom Pan-Net s.r.o](https://www.telekom.com/en/media/details/the-pan-european-network--pan-net--442220)** • Bratislava, Slovakia
 
-Deutsche Telekom Pan-Net provides a pan-european telecommunications
-NFVI infrastructure platform that hosts the Virtual Network Functions (VNFs)
-and supporting applications that back the customer facing applications of the
-various DT subsidiaries. Engineered to be the single production platform for
-telco scale and grade applications, Pan-Net utilizes both innovative and
-best-of-breed cloud technologies and industry practices to pioneer and
-deliver new technologies and so maintain customer confidence in the DT
-product line.
+Deutsche Telekom Pan-Net provides a pan-european telecommunications NFVI
+infrastructure platform that hosts the Virtual Network Functions (VNFs) and
+supporting applications that back the business services of various DT
+subsidiaries. Slated to be the single production platform for telco scale and
+grade applications, Pan-Net utilizes both innovative and best-of-breed cloud
+technologies and industry practices to pioneer and deliver new technologies
+to improve and evolve the DT product line.
 
+**Senior Infrastructure Engineer, CICD NFVI**
 
-**Senior Infrastructure Engineer, CICD, NFVi DevOps**
+_Skills_: CI/CD, GitLab, GitHub, JFrog Artifactory, git • Ubuntu/CentOS,
+          OpenStack, Kubernetes • nginx, Apache Tomcat, Postgresql •
+          Ansible, Terraform, Python, bash
 
-_Skills_: CI/CD, GitLab, JFrog Artifactory, git • Ansible, docker, Ubuntu/CentOS •
-    OpenStack, Kubernetes • nginx, Apache Tomcat, Postgresql •
-    Bash, Terraform, Python, bash, Ansible, StackStorm
-
-* Part of the CI/CD team tasked with the design and devops of applications
-  that underpin the wider Pan-Net CI/CD strategy of the NFVi/Cloud platform.
-  e.g. *JFrog Artifactory*, *Gitlab*, *Gitlab Runner*.
-* Designing OpenStack tenants and application stacks to house applications
-  that sustain the CI/CD workloads of both inrastructure and tenants
-  e.g. *ansible*, *terraform*, *GitLab runners*
-* Engaging various other teams in designing git branching and workflows strategies,
-  CI/CD processes, NFVi Orchestration and QA strategies. e.g. *GitLab*, *GitLab runners*, etc
+* Part of the CI/CD team tasked with the design and DevOps of services to
+  sustain build and delivery pipelines applications and infrastructure on the
+  NFVi/Cloud platform.
+  e.g. *JFrog Artifactory*, *Gitlab*, *Gitlab Runners*, *GitFlow*
+* Supporting internal teams in designing their CI/CD pipelines, git branching
+  and release strategies, CI/CD/CT processes, Application Orchestration and
+  QA/QE/DevSecOps.
+  e.g. *Production Factory Pipelines*, *Agile*, *Service Delivery*
+* Integration, designing and maintaining geo-redundant highly available
+  CI/CD services applications atop the Pan-Net Openstack cloud.
+  e.g. *GitOps/SRE*, *Ansible*, *Terraform*, *Python*, *GitLab runners*
 * Participating in production campuses, design workshops, post-mortems.
 
 ---
@@ -44,63 +45,75 @@ Box+Dice provide a unique CRM platform for real estate businesses to manage
 property portfolios, marketing and lead management, sales and accounting,
 portal integrations, etc in realtime. With over 250 businesses as clients
 across Australia and New Zealand, Box+Dice leverages in-house and customer
-domain expertise along with cutting-edge software and cloud technologies to deliver
-innovative solutions.
+domain expertise along with cutting-edge software and cloud technologies to
+deliver innovative solutions.
 
 **Senior Systems Engineer, Site Reliability Engineering**
 
-_Skills :_ Amazon ec2/AWS, XenServer/Xen, KVM, Docker • Debian/CentOS Linux • nginx,
-        CloudFlare, CloudFront • MySQL/MariaDB, Postgresql, ElasticSearch, RabbitMQ, Redis • git,
-        Github, Jenkins • Ansible, Bash, Ruby • CloudWatch, Icinga • JIRA, Kanban, Mentoring
+_Skills :_ Amazon ec2/AWS, XenServer/Xen, KVM, Docker • Debian/CentOS Linux •
+           nginx, CloudFlare, CloudFront • MySQL/MariaDB, Postgresql,
+           ElasticSearch, RabbitMQ, Redis • git, Github, Jenkins •
+           Ansible, Bash, Ruby • CloudWatch, Icinga •
+           JIRA, Kanban, Mentoring
 
-* Lead systems engineer managing site reliability engineering; systems analysis, design and
-development, improving platform availability and operating procedures, SysOps.
-* Delivering on projects to modernize infrastructure, lift-and-shift platform services to public cloud
-(AWS), improving utilization, efficiency, security and TechOps.
-* Working in cross-functional contexts with Quality Engineering and Operations; improving CI/CD
-processes, communications, testing, DevOps.
-* Involved in defining and project managing systems strategy, participating in executive committee decision making, cost management, hiring, mentoring.
+* Lead systems engineer managing site reliability engineering; systems analysis,
+  design and development, improving platform availability and operating
+  procedures, SysOps.
+* Delivering on projects to modernize infrastructure, lift-and-shift platform
+  services to public cloud (AWS), improving utilization, efficiency, security
+  and TechOps.
+* Working in cross-functional contexts with Quality Engineering and Operations;
+  improving CI/CD processes, communications, testing, DevOps.
+* Involved in defining and project managing systems strategy, participating in
+  executive committee decision making, cost management, hiring, mentoring.
 
 ---
 
 _Jul 2010 - Aug 2015_ • **[Citrix Systems UK Ltd](https://www.citrix.com/)** • Cambridge, United Kingdom
 
-Citrix solutions power business mobility through secure, mobile workspaces that provide people with instant access to apps, desktops, data and communications on any device, over any network and cloud. With annual revenue in 2014 of $3.14 billion, Citrix solutions are in use at more than 400,000 organizations and by over 100 million users globally.
+Citrix solutions power business mobility through secure, mobile workspaces
+that provide people with instant access to apps, desktops, data and
+communications on any device, over any network and cloud. With annual revenue
+in 2014 of $3.14 billion, Citrix solutions are in use at more than 400,000
+organizations and by over 100 million users globally.
+
+_Skills :_ Apache CloudStack/Citrix CloudPlatform • XenServer/Hyper-V/ESX •
+           Citrix XenDesktop • Windows Server 2008/2012/2016, 2003 •
+           Windows 7/8/8.x/10, XP/Vista • SQL Server 2008/2012/2016 •
+           PowerShell/.NET • Debian/CentOS Linux • Puppetlabs Razor/iPXE •
+           Perl, Bash, Ruby, Python • HP Prioliant, Dell PowerEdge •
+           Dell Compellent, HP StorageWorks • Cisco 2960s/g/x, Nexus
 
 _Oct 2013 - Aug 2015_ • **Senior Software Test Engineer, Engineering Productivity**, [Enterprise Desktop and Apps](https://www.citrix.com/products/xenapp-xendesktop/)
-
-_Skills :_ Apache CloudStack/Citrix CloudPlatform • XenServer/Hyper-V/ESX • Citrix XenDesktop • Windows Server 2008/2012/2016, 2003 • Windows 7/8/8.x/10, XP/Vista • SQL Server 2008/2012/2016 • PowerShell/.NET • Debian/CentOS Linux • Puppetlabs Razor/iPXE • Perl, Bash, Ruby, Python • HP Prioliant, Dell PowerEdge • Dell Compellent, HP StorageWorks • Cisco 2960s/g/x, Nexus
 
 * Systems Architect/DevOps Engineer of a self-service private IaaS cloud
   (based on [Apache CloudStack](https://cloudstack.apache.org/)/[XenServer](https://www.citrix.com/products/xenserver/))
   to enable dev/test ad-hoc and continous-testing strategy of 65+ internal teams.
 * Building DevOps practices to manage cloud offerings for infrastructure and test;
-  automating provisioning of compute/storage/networking, bare-metal/virtual OS installs, application and test profiles.
-* Solving and automating virtual disk image creation and cataloguing strategies for 800+ Windows
-  (Desktop, Server, SQL) and Enterprise Linux (SuSe, RHEL, Ubuntu) OS combinations for
-  cloud (CloudStack, Azure) and traditional virtualization (XenServer, ESX, Hyper-V).
+  automating provisioning of compute/storage/networking, bare-metal/virtual OS
+  installs, application and test profiles.
+* Solving and automating virtual disk image creation and cataloguing strategies
+  for 800+ Windows (Desktop, Server, SQL) and Enterprise Linux (SuSe, RHEL,
+  Ubuntu) OS combinations for cloud (CloudStack, Azure) and traditional
+  virtualization (XenServer, ESX, Hyper-V).
 * Member of the core automation team with remit to develop and support the test
   automation framework and library code that underpins QA strategies of the
-  [Citrix Desktop and App virtualization](https://www.citrix.com/solutions/desktop-virtualization/overview.html) suites.
-  Lead developer for the Perl component to support testing Linux and Mac end-points.
-* Other activities included technical support,
-  triage and troubleshooting of, often complex, full-stack issues;
-  refining agile practices for code and infrastructure evolution,
-  setting up the infrastructure for customer demos/[Citrix Summit](http://www.citrixsummit.com/),
-  hardware procurement and maintenance,
-  technical training, etc.
+  [Citrix Desktop and App virtualization](https://www.citrix.com/solutions/desktop-virtualization/overview.html)
+  suites. Lead developer for the Perl component to support testing Linux and
+  Mac end-points.
+* Other activities included technical support, triage and troubleshooting of,
+  often complex, full-stack issues; refining agile practices for code and
+  infrastructure evolution, setting up the infrastructure for customer
+  demos/[Citrix Summit](http://www.citrixsummit.com/), hardware procurement
+  and maintenance, technical training, etc.
 
 ---
 
 _Apr 2012 - Oct 2013_ • **Associate Software Test Engineer, Engineering Productivity**, [Enterprise Desktop and Apps](https://www.citrix.com/products/xenapp-xendesktop/).
 
-_Skills :_ Apache CloudStack/Citrix CloudPlatform • XenServer/Hyper-V/ESX • Citrix XenDesktop • Windows Server 2008/2012/2016, 2003 • Windows 7/8/8.x/10, XP/Vista • SQL Server 2008/2012/2016 • PowerShell/.NET • Debian/CentOS Linux • Puppetlabs Razor/iPXE • Perl, Bash, Ruby, Python • HP Prioliant, Dell PowerEdge • Dell Compellent, HP StorageWorks • Cisco 2960s/g/x, Nexus
-
 ---
 
 _Jul 2010 - Apr 2012_ • **Software Test Engineer, Test Automation**, [XenDesktop Engineering](https://www.citrix.com/products/xenapp-xendesktop/).
-
-_Skills :_ Apache CloudStack/Citrix CloudPlatform • XenServer/Hyper-V/ESX • Citrix XenDesktop • Windows Server 2008/2012/2016, 2003 • Windows 7/8/8.x/10, XP/Vista • SQL Server 2008/2012/2016 • PowerShell/.NET • Debian/CentOS Linux • Puppetlabs Razor/iPXE • Perl, Bash, Ruby, Python • HP Prioliant, Dell PowerEdge • Dell Compellent, HP StorageWorks • Cisco 2960s/g/x, Nexus
 
 ---
 
@@ -118,7 +131,8 @@ _Jan 2007 - May 2007_ • **[Sterling Limousines (UK) Ltd](http://sterlinglimous
 
 **LAMP Developer, Perl/PostGres**
 
-_Skills :_ Perl, Apache/mod_perl, Postgresql 8, Debian Linux, xHTML, CSS, Prototype JS, Bash, Mercurial
+_Skills :_ Perl, Apache/mod_perl, Postgresql 8, Debian Linux, xHTML, CSS,
+           Prototype JS, Bash, Mercurial
 
 * DevOps of online booking systems.
 
@@ -128,7 +142,8 @@ _Aug 2002 - Oct 2006_ • **Freelance IT Engineer** • Greater London Area, Uni
 
 **IT Contractor**
 
-_Skills :_ Enterprise workstation migrations, LAN Design and Implementation, Hardware/Software roll-outs.
+_Skills :_ Enterprise workstation migrations, LAN Design and Implementation,
+           Hardware/Software roll-outs.
 
 * Freelance engineer.
 
@@ -348,13 +363,33 @@ Email
   : [s.bhooshi@gmail.com](mailto:s.bhooshi@gmail.com)
 
 Address
-  :  [92, Kosicka 52/A, Bratislava, 821 08](https://www.google.co.uk/maps?q=92,+Kosicka+52/A,+Bratislava,+82108)
+  : [Tučkova 9, Ružinov, Bratislava 82105, Slovakia](https://www.google.co.uk/maps?q=Tuckova+9,+Bratislava,+82105)
 
 Date of birth
   : 08 Jan, 1983 (60645.32)
 
 Nationality
   : British
+
+### TL;DR
+
+[GC3.2](https://mj.ucw.cz/geek/?code=GCM%2fCS%2fIT%2fE%2fMU%2fP%2fO+d--+s%3a%2b%2b+a+C%2b%2b(%2b%2b%2b%2b)+UL+L%2b%2b+P%2b%2b+E---+W%2b%2b(-)+N%2b+o-+K%2b%2b%2b+w---+O-+M%2b+V--+PS%2b%2b+PE%2b+!Y%2b+PGP%2b%2b+t%2b+5%3f+X%2b%2b+!R+TV%2b+b+DI%2b%2b+D%2b+G%2b%2b+e%2b%2b+h--+r%2b%2b%2b+y%2b%2b%2b)
+
+```
+-----BEGIN GEEK CODE BLOCK-----
+
+GCM/CS/IT/E/MU/P/O d-- s:++ a
+C++(++++) UL L++ P++
+E--- W++(-) N+ o- K+++ w---
+O- M+ V--
+PS++ PE+
+!Y+ PGP++ t+
+5? X++ !R
+TV+ b DI++ D+ G++ e++
+h-- r+++ y+++
+
+------END GEEK CODE BLOCK------
+```
 
 ### Download
 

@@ -6,27 +6,29 @@ _Aug 2017 - Present_ • DEUTSCHE TELEKOM PAN-NET S.R.O • Bratislava, Slovakia
 
 Deutsche Telekom Pan-Net provides a pan-european telecommunications NFVI
 infrastructure platform that hosts the Virtual Network Functions (VNFs) and
-supporting applications that back the customer facing applications of the
-various DT subsidiaries. Engineered to be the single production platform for
-telco scale and grade applications, Pan-Net utilizes both innovative and
-best-of-breed cloud technologies and industry practices to pioneer and deliver
-new technologies and so maintain customer confidence in the DT product line.
+supporting applications that back the business services of various DT
+subsidiaries. Slated to be the single production platform for telco scale and
+grade applications, Pan-Net utilizes both innovative and best-of-breed cloud
+technologies and industry practices to pioneer and deliver new technologies to
+improve and evolve the DT product line.
 
-SENIOR INFRASTRUCTURE ENGINEER, CICD, NFVI DEVOPS
+SENIOR INFRASTRUCTURE ENGINEER, CICD NFVI
 
-_Skills_: CI/CD, GitLab, JFrog Artifactory, git • Ansible, docker,
-Ubuntu/CentOS • OpenStack, Kubernetes • nginx, Apache Tomcat, Postgresql •
-Bash, Terraform, Python, bash, Ansible, StackStorm
+_Skills_: CI/CD, GitLab, GitHub, JFrog Artifactory, git • Ubuntu/CentOS,
+OpenStack, Kubernetes • nginx, Apache Tomcat, Postgresql • Ansible, Terraform,
+Python, bash
 
-- Part of the CI/CD team tasked with the design and devops of applications
-  that underpin the wider Pan-Net CI/CD strategy of the NFVi/Cloud platform.
-  e.g. _JFrog Artifactory_, _Gitlab_, _Gitlab Runner_.
-- Designing OpenStack tenants and application stacks to house applications
-  that sustain the CI/CD workloads of both inrastructure and tenants e.g.
-  _ansible_, _terraform_, _GitLab runners_
-- Engaging various other teams in designing git branching and workflows
-  strategies, CI/CD processes, NFVi Orchestration and QA strategies. e.g.
-  _GitLab_, _GitLab runners_, etc
+- Part of the CI/CD team tasked with the design and DevOps of services to
+  sustain build and delivery pipelines applications and infrastructure on the
+  NFVi/Cloud platform. e.g. _JFrog Artifactory_, _Gitlab_, _Gitlab Runners_,
+  _GitFlow_
+- Supporting internal teams in designing their CI/CD pipelines, git branching
+  and release strategies, CI/CD/CT processes, Application Orchestration and
+  QA/QE/DevSecOps. e.g. _Production Factory Pipelines_, _Agile_, _Service
+  Delivery_
+- Integration, designing and maintaining geo-redundant highly available CI/CD
+  services applications atop the Pan-Net Openstack cloud. e.g. _GitOps/SRE_,
+  _Ansible_, _Terraform_, _Python_, _GitLab runners_
 - Participating in production campuses, design workshops, post-mortems.
 
 ------------------------------------------------------------------------------
@@ -68,14 +70,14 @@ communications on any device, over any network and cloud. With annual revenue
 in 2014 of $3.14 billion, Citrix solutions are in use at more than 400,000
 organizations and by over 100 million users globally.
 
-_Oct 2013 - Aug 2015_ • SENIOR SOFTWARE TEST ENGINEER, ENGINEERING
-PRODUCTIVITY, Enterprise Desktop and Apps
-
 _Skills :_ Apache CloudStack/Citrix CloudPlatform • XenServer/Hyper-V/ESX •
 Citrix XenDesktop • Windows Server 2008/2012/2016, 2003 • Windows 7/8/8.x/10,
 XP/Vista • SQL Server 2008/2012/2016 • PowerShell/.NET • Debian/CentOS Linux •
 Puppetlabs Razor/iPXE • Perl, Bash, Ruby, Python • HP Prioliant, Dell
 PowerEdge • Dell Compellent, HP StorageWorks • Cisco 2960s/g/x, Nexus
+
+_Oct 2013 - Aug 2015_ • SENIOR SOFTWARE TEST ENGINEER, ENGINEERING
+PRODUCTIVITY, Enterprise Desktop and Apps
 
 - Systems Architect/DevOps Engineer of a self-service private IaaS cloud
   (based on Apache CloudStack/XenServer) to enable dev/test ad-hoc and
@@ -102,22 +104,10 @@ PowerEdge • Dell Compellent, HP StorageWorks • Cisco 2960s/g/x, Nexus
 _Apr 2012 - Oct 2013_ • ASSOCIATE SOFTWARE TEST ENGINEER, ENGINEERING
 PRODUCTIVITY, Enterprise Desktop and Apps.
 
-_Skills :_ Apache CloudStack/Citrix CloudPlatform • XenServer/Hyper-V/ESX •
-Citrix XenDesktop • Windows Server 2008/2012/2016, 2003 • Windows 7/8/8.x/10,
-XP/Vista • SQL Server 2008/2012/2016 • PowerShell/.NET • Debian/CentOS Linux •
-Puppetlabs Razor/iPXE • Perl, Bash, Ruby, Python • HP Prioliant, Dell
-PowerEdge • Dell Compellent, HP StorageWorks • Cisco 2960s/g/x, Nexus
-
 ------------------------------------------------------------------------------
 
 _Jul 2010 - Apr 2012_ • SOFTWARE TEST ENGINEER, TEST AUTOMATION, XenDesktop
 Engineering.
-
-_Skills :_ Apache CloudStack/Citrix CloudPlatform • XenServer/Hyper-V/ESX •
-Citrix XenDesktop • Windows Server 2008/2012/2016, 2003 • Windows 7/8/8.x/10,
-XP/Vista • SQL Server 2008/2012/2016 • PowerShell/.NET • Debian/CentOS Linux •
-Puppetlabs Razor/iPXE • Perl, Bash, Ruby, Python • HP Prioliant, Dell
-PowerEdge • Dell Compellent, HP StorageWorks • Cisco 2960s/g/x, Nexus
 
 ------------------------------------------------------------------------------
 
@@ -266,11 +256,29 @@ Telephone : +421 948 140 290 _(SK)_; +44 7904 190 550 _(UK)_
 
 Email : s.bhooshi@gmail.com
 
-Address : 92, Kosicka 52/A, Bratislava, 821 08
+Address : Tučkova 9, Ružinov, Bratislava 82105, Slovakia
 
 Date of birth : 08 Jan, 1983 (60645.32)
 
 Nationality : British
+
+TL;DR
+
+GC3.2
+
+  -----BEGIN GEEK CODE BLOCK-----
+
+  GCM/CS/IT/E/MU/P/O d-- s:++ a
+  C++(++++) UL L++ P++
+  E--- W++(-) N+ o- K+++ w---
+  O- M+ V--
+  PS++ PE+
+  !Y+ PGP++ t+
+  5? X++ !R
+  TV+ b DI++ D+ G++ e++
+  h-- r+++ y+++
+
+  ------END GEEK CODE BLOCK------
 
 Download
 
