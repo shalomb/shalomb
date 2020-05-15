@@ -1,164 +1,229 @@
 ---
 title: Shalom Bhooshi
 pagetitle: Shalom Bhooshi
-subtitle: _e:_ [s.bhooshi@gmail.com](mailto:s.bhooshi@gmail.com)  • _m:_ +421 948 140 290 • _a:_ [Tučkova 9, Ružinov, Bratislava 82105, Slovakia](https://www.google.co.uk/maps?q=Tuckova+9,+Bratislava,+82105)
-author: _l:_ [uk.linkedin.com/in/shalombhooshi](https://uk.linkedin.com/in/shalombhooshi)
-abstract: A skilled systems engineer with a particular interest in CI/CD and Agile/DevOps/SRE of infrastructure projects, I possess experience in systems design/implementation and engineering using open source and cloud technologies in various business and technology settings. Core competencies **DevOps/SRE, CI/CD/CT** • **Cloud/Virtualization** • **Network & Systems Engineering** • **Infrastructure Automation**
+author:  [s.bhooshi@gmail.com](mailto:s.bhooshi@gmail.com) ◦ +421 948 140 290 
+abstract: An experienced systems engineer with a particular interest in Agile CI/CD/CT and DevOps/SRE of cloud infrastructure projects. I possess experience in systems design, implementation and engineering using open source and cloud technologies in various business and technology settings. Among my core competencies are interests in **DevOps • Site Reliability Engineering • Infrastructure Automation • CI/CD/CT • Cloud/Virtualization • Systems/Network Engineering**
 ---
 
 ### Professional Experience
 
-_Aug 2017 - Present_ • **[Deutsche Telekom Pan-Net s.r.o](https://www.telekom.com/en/media/details/the-pan-european-network--pan-net--442220)** • Bratislava, Slovakia
+_Aug 2017 → Present_ • **[Deutsche Telekom Pan-Net s.r.o](https://portal.pan-net.cloud/)** • Bratislava, Slovakia
 
-Deutsche Telekom Pan-Net provide a pan-european telecommunications NFVI
-infrastructure platform that hosts the Virtual Network Functions (VNFs) and
-supporting applications that back the business services of various DT
-subsidiaries. Slated to be the single production platform for telco scale and
-grade applications, Pan-Net utilizes both innovative and best-of-breed cloud
-technologies and industry practices to pioneer, improve and evolve the DT
-product line.
+[pan-net.cloud](https://portal.pan-net.cloud/) provides a pan-european cloud platform
+and infrastructure services to partners and affiliates in the wider
+Deutsche Telekom group. Supporting specialised Network Technology Services
+([Virtual Network Functions](https://www.sdxcentral.com/nfv/definitions/virtual-network-function/)/[NFVI](https://en.wikipedia.org/wiki/Network_function_virtualization), 3/4/5G, IoT, etc)
+and general purpose [IaaS](https://en.wikipedia.org/wiki/Infrastructure_as_a_service)/[PaaS](https://en.wikipedia.org/wiki/Platform_as_a_service)
+for Supporting IT Services (Legacy & Cloud Native Workloads, Big Data/Streaming,
+SaaS, etc), Pan-Net utilizes best-of-breed cloud technologies to
+steward the modernization of the Deutsche Telecom product line.
 
-**Infrastructure Engineer, NFVI CICD**
+_Jun 2019 → Present_ • **Technical Lead, IT PaaS, Pan-Net Cloud**
 
-_Skills_: CI/CD, GitLab, GitHub, JFrog Artifactory, git • Ubuntu/CentOS,
-          docker, OpenStack, Kubernetes • nginx, Apache Tomcat, Postgresql •
-          Ansible, Terraform, Python, bash
+_Skills:_
+  Product/Technical Ownership,
+  Backlog Engineering,
+  PaaS R&D,
+  DevOps & CI/CD,
+  Microservice Design,
+  Mentoring
 
-* Part of the CI/CD team tasked with the design and DevOps of services to
-  sustain build and delivery pipelines of applications and infrastructure
-  within the NFVI/Cloud platform.
-  e.g. *JFrog Artifactory*, *Gitlab*, *Gitlab Runners*
-* Supporting internal teams in designing their CI/CD pipelines, git branching
-  and release strategies, CI/CD/CT processes, Application Orchestration and
-  QA/QE/DevSecOps.
-  i.e. *Production Factory Pipelines*, *Agile Service Delivery*
-* Integration, designing and maintaining geo-redundant highly available
-  CI/CD services applications atop the Pan-Net Openstack clouds.
-  e.g. *GitOps/SRE*, *Ansible*, *Terraform*, *Python*, *GitLab runners*
-* Participating in production campuses, design workshops, post-mortems.
+* As a Technical Lead; Working closely with Customers and Product Ownership -
+  Agile product backlog management, decomposition of requirements into user
+  stories/technical tasks, sprint scheduling/reviews, quality assurance.
+* As part of the DevOps team; Designing and DevOps of services
+  to enhance the PaaS product portfolio.
+  _(e.g. Databases-aaS, LoadBalancers-aaS, Monitoring-aaS, FileArchival-aaS,
+    Backup-aaS, etc)_.
+* Participating in product design thinking workshops, presenting/knowledge sharing,
+  production campuses, incident management, post-mortems, technology community
+  participation/evangelism.
+
+_Feb 2018 → May 2019_ • **Infrastructure Engineer, NFVI CICD, Pan-Net NFVI**
+
+_Skills:_
+  Openstack,
+  Gitlab CI,
+  Artifactory,
+  Ansible,
+  Terraform,
+  Docker,
+  Ubuntu,
+  CentOS,
+  bash,
+  Python,
+  DevOps,
+  SAFe,
+  Agile Release Trains,
+  Production Factory Pipelines.
+
+* Member of the team tasked with the design and DevOps of distributed
+  highly-available CI/CD-aaS to sustain IaC and continuous-delivery pipelines of
+  Pan-Net application and infrastructure services that comprise the Pan-Net
+  cloud and NFVI platforms.
+* Supporting internal teams in consultation and design of CI/CD pipelines,
+  git branching and release models, CI/CD/CT processes, Application
+  Orchestration and QA/QE/DevSecOps.
+
+_Aug 2017 → Jan 2018_ • **Infrastructure Engineer, NFVI Application Orchestration, Pan-Net NFVI**
+
+_Skills:_
+  Openstack, OpenContrail, OASIS TOSCA, Ansible, Python, Linux, bash, StackStorm
+
+* Part of team tasked with developing the Pan-Net VNF Orchestration engines and
+  best-practices around VNF Lifecycle Management (Instantiation, Upgrades,
+  Auto-Healing, Scale in/out, etc).
+* Participating in product design workshops, scrums.
+  Designing orchestration solutions and automation worklows,
+  CI/CD, systems testing, releases.
 
 ---
 
-_Oct 2015 - Jun 2017_ • **[Box+Dice](https://boxdice.com.au)** • Bratislava, Slovakia
+_Oct 2015 → Jun 2017_ • **[Box+Dice](https://boxdice.com.au) Slovakia (BDSK s.r.o)** • Bratislava, Slovakia
 
-Box+Dice provide a unique CRM platform for real estate businesses to manage
-property portfolios, marketing and lead management, sales and accounting,
-portal integrations, etc in realtime. With over 250 businesses as clients
-across Australia and New Zealand, Box+Dice leverages in-house and customer
-domain expertise along with cutting-edge software and cloud technologies to
-deliver innovative solutions.
+[Box+Dice](https://boxdice.com.au) provide a unique SaaS CRM platform for businesses
+in the Australian & New Zealand real estate sector to manage property portfolios,
+marketing and lead management, sales and accounting, portal integrations, etc in
+realtime. With 250+ businesses as clients across the Oceania region,
+Box+Dice harnesses in-house and customer domain expertise to deliver SaaS
+services.
 
 **Senior Systems Engineer, Site Reliability Engineering**
 
-_Skills :_ Amazon ec2/AWS, XenServer/Xen, KVM, Docker • Debian/CentOS Linux •
-           nginx, CloudFlare, CloudFront • MySQL/MariaDB, Postgresql,
-           ElasticSearch, RabbitMQ, Redis • git, Github, Jenkins •
-           Ansible, Bash, Ruby • CloudWatch, Icinga •
-           JIRA, Kanban, Mentoring
+_Skills:_
+  Datacenter Mangement, AWS, Ansible, Python, bash, Cloudflare, Cloudfront,
+  Linux, NFS, Postgres, MariaDB, Elasticsearch, Redis, SRE
 
-* Lead systems engineer managing site reliability engineering; systems analysis,
-  design and development, improving platform availability and operating
-  procedures.
+* Lead systems engineer managing DevOps and Site Reliability Engineering across
+  polar opposite timezones _(GMT+1 vs GMT+10)_;
+  systems analysis, design and development, improving platform availability
+  and operating procedures.
 * Delivering on projects to modernize infrastructure, lift-and-shift platform
-  services to public cloud (AWS), improving cloud integration, utilization,
-  security and technical operations.
-* Working in cross-functional contexts with Quality Engineering and Operations;
-  improving CI/CD processes, communications, testing, DevOps.
+  to public cloud (AWS), improving cloud integration & scalability,
+  utilization, security and technical operations.
+* Working on cross-functional efforts with Product Development, Quality
+  Engineering and Operations; improving DevOps operating procedures, CI/CD,
+  communications, testing strategies.
 * Involved in defining and project managing systems strategy, participating in
   executive committee decision making, cost management, hiring, mentoring.
 
 ---
 
-_Jul 2010 - Aug 2015_ • **[Citrix Systems UK Ltd](https://www.citrix.com/)** • Cambridge, United Kingdom
+_Jul 2010 → Aug 2015_ • **[Citrix Systems UK Ltd](https://www.citrix.com/)** • Cambridge, United Kingdom
 
-Citrix solutions power business mobility through secure, mobile workspaces
+[Citrix](https://www.citrix.com/) solutions power business mobility through secure, mobile workspaces
 that provide people with instant access to apps, desktops, data and
 communications on any device, over any network and cloud. With annual revenue
 in 2014 of $3.14 billion, Citrix solutions are in use at more than 400,000
 organizations and by over 100 million users globally.
 
-_Skills :_ Apache CloudStack/Citrix CloudPlatform • XenServer/Hyper-V/ESX •
-           Citrix XenDesktop • Windows Server 2008/2012/2016, 2003 •
-           Windows 7/8/8.x/10, XP/Vista • SQL Server 2008/2012/2016 •
-           PowerShell/.NET • Debian/CentOS Linux • Puppetlabs Razor/iPXE •
-           Perl, Bash, Ruby, Python • HP Prioliant, Dell PowerEdge •
-           Dell Compellent, HP StorageWorks • Cisco 2960s/g/x, Nexus
+_Oct 2013 → Aug 2015_ • **Senior Software Test Engineer, Engineering Productivity**, [Enterprise Desktop and Apps](https://www.citrix.com/products/xenapp-xendesktop/)
 
-_Oct 2013 - Aug 2015_ • **Senior Software Test Engineer, Engineering Productivity**, [Enterprise Desktop and Apps](https://www.citrix.com/products/xenapp-xendesktop/)
+* Systems Architect/DevOps Engineer of a self-service IaaS cloud
+  ([Apache CloudStack](https://cloudstack.apache.org/)/[XenServer](https://www.citrix.com/products/xenserver/))
+  for ad-hoc and Continuous Testing activities of 65+ internal engineering teams.
+* Solving push-button provisioning of Citrix VDI (Virtual Desktop Infrastructure)
+  test environments on Cloud and Virtualization Backends (Xenserver, ESX, Hyper-v),
+  Improving QA self-service capabilities,
+  Enriching cloud offerings through automation,
+  VM image creation/cataloguing,
+  etc.
+* Member of the core automation team stewarding test automation frameworks and
+  test library code underpinning QA strategies of the [Citrix Desktop and App
+  virtualization](https://www.citrix.com/solutions/desktop-virtualization/overview.html)
+  suites. Lead developer of perl components to support testing Mac and Linux/Unix end-points.
+* Refining agile practices for code and test infrastructure evolution.
+  Setting up backend infrastructure for [Citrix Summit](http://www.citrixsummit.com/).
+  Hardware procurement and maintenance, vendor relations.
+  Technical training/mentoring.
 
-* Systems Architect/DevOps Engineer of a self-service private IaaS cloud
-  (based on [Apache CloudStack](https://cloudstack.apache.org/)/[XenServer](https://www.citrix.com/products/xenserver/))
-  to enable dev/test ad-hoc and continous-testing strategy of 65+ internal teams.
-* Building DevOps practices to manage cloud offerings for infrastructure and test;
-  automating provisioning of compute/storage/networking, bare-metal/virtual OS
-  installs, application and test profiles.
-* Solving and automating virtual disk image creation and cataloguing strategies
-  for 800+ Windows (Desktop, Server, SQL) and Enterprise Linux (SuSe, RHEL,
-  Ubuntu) OS combinations for cloud (CloudStack, Azure) and traditional
-  virtualization (XenServer, ESX, Hyper-V).
-* Member of the core automation team with remit to develop and support the test
-  automation framework and library code that underpins QA strategies of the
-  [Citrix Desktop and App virtualization](https://www.citrix.com/solutions/desktop-virtualization/overview.html)
-  suites. Lead developer for the Perl component to support testing Linux and
-  Mac end-points.
-* Other activities included technical support, triage and troubleshooting of,
-  often complex, full-stack issues; refining agile practices for code and
-  infrastructure evolution, setting up the infrastructure for customer
-  demos/[Citrix Summit](http://www.citrixsummit.com/), hardware procurement
-  and maintenance, technical training, etc.
+_Apr 2012 → Oct 2013_ • **Associate Software Test Engineer, Engineering Productivity**, [Enterprise Desktop and Apps](https://www.citrix.com/products/xenapp-xendesktop/).
+
+_Jul 2010 → Apr 2012_ • **Software Test Engineer, Test Automation**, [XenDesktop Engineering](https://www.citrix.com/products/xenapp-xendesktop/).
 
 ---
 
-_Apr 2012 - Oct 2013_ • **Associate Software Test Engineer, Engineering Productivity**, [Enterprise Desktop and Apps](https://www.citrix.com/products/xenapp-xendesktop/).
+_May 2007 → Dec 2007_ • **Crystal Amusements (UK) Ltd** • Leicester Square, London, United Kingdom
+
+**Systems/Support Engineer**: Windows, WDS, TCP/IP Routing/Switching, Network Security/Availability
+
+* TechOps of 90+ internet/games kiosks, printing solutions. Service and Vendor Management.
 
 ---
 
-_Jul 2010 - Apr 2012_ • **Software Test Engineer, Test Automation**, [XenDesktop Engineering](https://www.citrix.com/products/xenapp-xendesktop/).
+_Jan 2007 → May 2007_ • **[Sterling Limousines (UK) Ltd](http://sterlinglimousines.co.uk/)** • Richmond, Surrey, United Kingdom
+
+**LAMP Developer**: Perl, PrototypeJS, Apache/mod_perl, Postgresql, Linux
+
+* DevOps of bookings services.
 
 ---
 
-_May 2007 - Dec 2007_ • **Crystal Amusements Ltd** • Leicester Square, London, United Kingdom
+_Aug 2002 → Oct 2006_ • **Freelance IT Engineer** • Greater London Area, United Kingdom
 
-**Systems Administrator/Support Engineer**
+**IT Contractor**: Windows Workstation/Server, Linux, TCP/IP Routing/Switching, Apache/IIS, Perl, VBScript
 
-_Skills :_ Systems Administration, Network Design & Administration, Rollouts, Customer Support
-
-* Lead TechOps of 90+ internet/games kiosks, printing solutions.
-
----
-
-_Jan 2007 - May 2007_ • **[Sterling Limousines (UK) Ltd](http://sterlinglimousines.co.uk/)** • Richmond, Surrey, United Kingdom
-
-**LAMP Developer, Perl/PostGres**
-
-_Skills :_ Perl, Apache/mod_perl, Postgresql 8, Debian Linux, xHTML, CSS,
-           Prototype JS, Bash, Mercurial
-
-* DevOps of online booking systems.
+* Freelance IT engineer serving SOHO and small-to-medium businesses.
+* Office IT, LAN Design, Web Design & Mastering, Scripting & Data Manipulation.
 
 ---
 
-_Aug 2002 - Oct 2006_ • **Freelance IT Engineer** • Greater London Area, United Kingdom
+### Education
 
-**IT Contractor**
+_Sep_ _2008_  →  _May_  _2010_
+  : **[BSc (Hons.), Computer Networks](http://www.shu.ac.uk/prospectus/course/1129/)**  _(First Class Honours)_, [Sheffield Hallam University](https://www.shu.ac.uk/), Sheffield, England
 
-_Skills :_ Enterprise workstation migrations, LAN Design and Implementation,
-           Hardware/Software roll-outs.
-
-* Freelance engineer.
-
+_Jul_ _2000_  →  _Mar_  _2001_
+  : **BSc (Hons.), Computer Science, Mathematics, Physics**  _(Discontinued)_, [St. Joseph's College of Science and Arts](http://www.sjc.ac.in), Bangalore, India
 
 ### Technical Experience
 
-Proficiency from left-to-right, right-leaning technologies are more from exposure/interest.
+_**Proficiency from left-to-right. Also see my [Developer Story](https://stackoverflow.com/story/shalombhooshi) for related skills assessments**._
 
 Cloud
   :
   [Canonical Openstack](https://www.ubuntu.com/openstack),
   [Amazon ec2](https://aws.amazon.com/ec2/)/[AWS](https://aws.amazon.com/),
   [Apache Cloudstack](http://cloudstack.apache.org/),
-  [DigitalOcean](https://www.digitalocean.com/),
-  [Microsoft Azure](https://azure.microsoft.com/en-gb/overview/what-is-azure/)
+  [DigitalOcean](https://www.digitalocean.com/)
+
+IaC
+  :
+  [git](https://git-scm.com/),
+  [Ansible](http://www.ansible.com/),
+  [Terraform](https://www.terraform.io/),
+  [GitOps](https://www.weave.works/technologies/gitops/),
+  [StackStorm](https://stackstorm.com/),
+  [Chef](https://www.chef.io/)
+
+CI/CD
+  :
+  [GitLab CI](https://docs.gitlab.com/ee/ci/quick_start/),
+  [Github](https://github.com/),
+  [JFrog Artifactory](https://jfrog.com/artifactory/),
+  [Travis CI](https://travis-ci.org/),
+  [Jenkins](https://wiki.jenkins-ci.org/display/JENKINS/Meet+Jenkins)
+
+Scripting
+  :
+  [Bash](https://www.gnu.org/software/bash/)/[POSIX Shell](http://pubs.opengroup.org/onlinepubs/009695399/utilities/xcu_chap02.html),
+  [Python](https://www.python.org/),
+  [Golang](https://www.golang.org/),
+  [Ruby](https://www.ruby-lang.org/en/),
+  [Perl](https://www.perl.org/),
+  [Powershell](https://en.wikipedia.org/wiki/Windows_PowerShell)/[.NET](http://www.microsoft.com/net),
+  [Raku/Perl6](https://www.raku.org),
+  [Javascript](http://www.ecmascript.org/)
+
+Configuration Management
+  :
+  [YAML](http://yaml.org/),
+  [JSON](http://json.org/),
+  [JSON Schema](https://json-schema.org/),
+  [JSON Path](https://goessner.net/articles/JsonPath/),
+  [OASIS TOSCA](http://docs.oasis-open.org/tosca/TOSCA/v1.0/os/TOSCA-v1.0-os.html),
+  [TOML](https://github.com/toml-lang/toml),
+  [XML](http://www.w3.org/XML/)
 
 Containers
   :
@@ -167,120 +232,57 @@ Containers
   [Kubernetes](https://kubernetes.io/),
   [Consul](https://www.consul.io/)
 
-Virtualization
+Networking
   :
-  [Citrix XenServer](http://xenserver.org/),
-  [KVM](https://wiki.debian.org/KVM),
-  [Xen](http://www.xenproject.org/),
-  [Oracle VirtualBox](https://www.virtualbox.org/),
-  [Microsoft Hyper-V](http://www.microsoft.com/en-us/server-cloud/solutions/virtualization.aspx),
-  [VMWare ESX](https://www.vmware.com/products/esxi-and-esx/overview)/[vSphere](http://www.vmware.com/products/vsphere)
+  [TCP/IP](https://en.wikipedia.org/wiki/Internet_protocol_suite) (IPv4 & IPv6),
+  [DNS](https://en.wikipedia.org/wiki/Domain_Name_System),
+  [L7/HTTP](https://www.w3.org/Protocols/),
+  Network Design,
+  Routing & Switching,
+  VPNs,
+  [SDN](https://en.wikipedia.org/wiki/Software-defined_networking)
+
+Web
+  :
+  [L7 Load-Balancing](https://loadbalancerblog.com/blog/2013/04/what-heck-layer-7-load-balancing-anyway),
+  [nginx](http://nginx.org/en/),
+  [Cloudflare](https://www.cloudflare.com/),
+  [CloudFront](https://aws.amazon.com/cloudfront/),
+  [Apache httpd](http://httpd.apache.org/),
+  [Flask RESTPlus](https://flask-restplus.readthedocs.io/en/stable/),
+  Citrix [NetScaler](https://www.citrix.com/products/netscaler)
 
 Operating Systems
   :
   [Debian](http://www.debian.org/)/[Ubuntu](http://www.ubuntu.com/),
   [CentOS](https://www.centos.org/)/[RHEL](http://www.redhat.com/en/technologies/linux-platforms/enterprise-linux),
-  [Microsoft Windows Server 2003/2008/2012/2016](http://www.microsoft.com/en-us/server-cloud/products/windows-server-2012-r2/),
-  [FreeBSD 9/10](http://www.freebsd.org/)
-
-DevOps/CICD
-  :
-  [Ansible](http://www.ansible.com/),
-  [Terraform](https://www.terraform.io/),
-  [GitLab CI](https://docs.gitlab.com/ee/ci/quick_start/),
-  [JFrog Artifactory](https://jfrog.com/artifactory/),
-  [Travis CI](https://travis-ci.org/),
-  [Thor](http://whatisthor.com/)/[SSH](http://www.openssh.com/),
-  [Chef](https://www.chef.io/),
-
-Scripting
-  :
-  [Bash](https://www.gnu.org/software/bash/)/[POSIX Shell](http://pubs.opengroup.org/onlinepubs/009695399/utilities/xcu_chap02.html),
-  [Python](https://www.python.org/),
-  [Ruby](https://www.ruby-lang.org/en/),
-  [Perl](https://www.perl.org/),
-  [Powershell](https://en.wikipedia.org/wiki/Windows_PowerShell)/[.NET](http://www.microsoft.com/net),
-  [Perl6](https://perl6.org/),
-  [Javascript](http://www.ecmascript.org/),
-  [Java](https://en.wikipedia.org/wiki/Java_(programming_language)),
-
-Markup
-  :
-  [YAML](http://yaml.org/),
-  [JSON](http://json.org/),
-  [HTML](http://www.w3.org/MarkUp/),
-  [XHTML](http://www.w3.org/TR/xhtml1/),
-  [XML](http://www.w3.org/XML/),
-  [CSS](http://www.w3.org/Style/CSS/Overview.en.html)
+  [Windows Server 2003-2016](https://en.wikipedia.org/wiki/Windows_Server#Members),
+  [FreeBSD 9+](http://www.freebsd.org/)
 
 Databases
   :
-  [Postgres 8/9](http://www.postgresql.org/),
-  [MariaDB](http://mariadb.org/) 10/[MySQL](http://www.mysql.com/why-mysql/) 5,
+  [Postgres 9+](http://www.postgresql.org/),
+  [MariaDB](http://mariadb.org/) 10/[MySQL](http://www.mysql.com/why-mysql/) 5+,
   [Elasticsearch](https://www.elastic.co/),
   [CouchDB](http://couchdb.apache.org/),
+  [Redis](https://redis.io/),
   [SQLite 3](http://sqlite.org/),
-  [SQL Server](http://www.microsoft.com/en-gb/server-cloud/products/sql-server/)
-
-Networking
-  :
-  [TCP/IP](https://en.wikipedia.org/wiki/Internet_protocol_suite) (IPv4 & IPv6),
-  [DNS](https://en.wikipedia.org/wiki/Domain_Name_System),
-  [DHCP](https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol),
-  [HTTP](https://www.w3.org/Protocols/),
-  Network Design,
-  Cisco Routing & Switching,
-  VLANs,
-  VPNs,
-  Citrix [NetScaler](https://www.citrix.com/products/netscaler),
-  NFS,
-  [LDAP](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol),
-  iSCSI,
-  Samba,
-  SDN
 
 Monitoring
   :
+  [Prometheus](https://prometheus.io/),
+  [Grafana](https://grafana.com/),
   [Icinga2](https://www.icinga.com/products/icinga-2/)/[Nagios](https://www.nagios.org/about/overview/),
   [Graylog2](https://www.graylog.org/),
   [Cacti](http://www.cacti.net/),
-  [New Relic](http://newrelic.com/),
-  [Scout](https://scoutapp.com/),
-  [LogStash](https://www.elastic.co/products/logstash),
-  [Collectd](https://collectd.org/),
-  [Tick Stack](https://www.influxdata.com/products/)
+  [New Relic](http://newrelic.com/)
 
-Web/CDN
+Virtualization
   :
-  [nginx](http://nginx.org/en/),
-  [Cloudflare](https://www.cloudflare.com/),
-  [CloudFront](https://aws.amazon.com/cloudfront/),
-  [Apache httpd](http://httpd.apache.org/),
-  [Ruby on Rails](http://rubyonrails.org/)/[Rack](http://rack.github.io/),
-  [Dancer2](http://perldancer.org/)/[PSGI](https://en.wikipedia.org/wiki/PSGI)/[Plack](http://plackperl.org/),
-  Citrix [NetScaler](https://www.citrix.com/products/netscaler),
-  [SOA](https://www.opengroup.org/soa/source-book/soa/soa.htm)/[REST](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
-
-Source Control
-  :
-  [git](https://git-scm.com/),
-  [github](https://github.com/),
-  [Jenkins](https://wiki.jenkins-ci.org/display/JENKINS/Meet+Jenkins),
-  [Perforce](http://www.perforce.com/),
-  [Mercural](https://mercurial.selenic.com/),
-  [CVS](http://www.nongnu.org/cvs/),
-  [diff/patch](http://jungels.net/articles/diff-patch-ten-minutes.html),
-  [Checkinstall](http://asic-linux.com.mx/~izto/checkinstall/)
-
-Provisioning
-  :
-  [Puppetlabs razor](https://puppetlabs.com/solutions/next-generation-provisioning),
-  PXE/[iPXE](http://ipxe.org/),
-  [kickstart](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html/Installation_Guide/ch-kickstart2.html#s1-kickstart2-whatis),
-  [preseed](https://wiki.debian.org/DebianInstaller/Preseed),
-  [WinPE](https://technet.microsoft.com/en-us/library/cc766093(v=ws.10).aspx),
-  [autoyast](http://users.suse.com/~ug/autoyast_doc/introduction.html),
-  [vagrant](https://www.vagrantup.com/)
+  [Citrix XenServer](http://xenserver.org/),
+  [KVM](https://wiki.debian.org/KVM),
+  [Xen](http://www.xenproject.org/),
+  [Microsoft Hyper-V](http://www.microsoft.com/en-us/server-cloud/solutions/virtualization.aspx)
 
 Hardware
   :
@@ -290,21 +292,13 @@ Hardware
 
 Storage
   :
+  NFS,
+  iSCSI,
   [Swift](https://wiki.openstack.org/wiki/Swift)/[S3](https://aws.amazon.com/s3/),
   Dell [Compellent](http://www.dell.com/us/business/p/dell-compellent),
-  [NetApp FS 2000](http://www.netapp.com/us/products/storage-systems/),
+  [NetApp](http://www.netapp.com/us/products/storage-systems/),
   [HP StorageWorks](http://www8.hp.com/h20195/v2/GetHTML.aspx?docname=c04168365),
-  [Nexenta](https://nexenta.com/),
-  [QuadStor](http://www.quadstor.com/),
   [NetGear ReadyNAS](http://www.netgear.com/business/products/storage/readynas/readynas-rackmount.aspx)
-
-### Education
-
-_Sep_ _2008_  -  _May_  _2010_
-  : **[BSc, Computer Networks](http://www.shu.ac.uk/prospectus/course/1129/)**  _(1:1, First Class Honours)_, [Sheffield Hallam University](https://www.shu.ac.uk/), Sheffield, England
-
-_Jul_ _2000_  -  _Mar_  _2001_
-  : **BSc (Hons.) Computer Science, Mathematics, Physics**  _(Discontinued)_, [St. Joseph's College of Science and Arts](http://www.sjc.ac.in), Bangalore, India
 
 ### Training and Qualifications
 
@@ -326,49 +320,53 @@ _Jul_ _2000_  -  _Mar_  _2001_
 
 ### Professional Membership
 
- _Jul_  _2010_  -  _Present_
+ _Jul_  _2010_  →  _Present_
   : [The Institution of Engineering and Technology (IET)](https://www.theiet.org/) _(Graduate Member)_
 
- _Dec_  _2008_  -  _Present_
+ _Dec_  _2008_  →  _Present_
   : [British Computer Society (BCS)](https://bcs.org) _(Member)_
 
- _Jan_  _2008_  -  _May 2012_
+ _Jan_  _2008_  →  _May 2012_
   : [Microsoft IT Advisory Council (ITAC)](https://microsoft-itcouncil.com/) _(Member)_
 
-### Languages
+### Spoken Languages
 
-English (Fluent), French (Limited Proficiency), Slovak (Basic)
+English _(Native)_, Slovak _(Basic Vernacular)_, French _(High School)_
 
 ### Hobbies and Interests
 
-Travel, Exploring • Outdoors • Music, Guitar • Badminton, Table Tennis •
-Amateur Photography • Tech. news, conferences, events •
-[#freenode](https://freenode.net/) IRC OpenSource Community •
+Cycling, Badminton, Table Tennis, Pool •
+Outdoors, Exploring, Amateur Photography •
+Music, Guitar •
+[Raku/Perl6](https://www.raku.org/) [Community](https://www.raku.org/community) •
+Tech. news, conferences •
 Hacking [Debian/Raspberry Pi](https://www.raspbian.org/) for fun
 
 ### Personal Details
 
-Keybase Identity
-  : [https://keybase.io/shalomb](https://keybase.io/shalomb)
-
 Telephone
-  : +421 948 140 290 _(SK)_; +44 7904 190 550 _(UK)_
+  : +421 948 140 290
 
 Email
   : [s.bhooshi@gmail.com](mailto:s.bhooshi@gmail.com)
 
 Address
-  : [Tučkova 9, Ružinov, Bratislava 82105, Slovakia](https://www.google.co.uk/maps?q=Tuckova+9,+Bratislava,+82105)
+  : [Tučkova 9, Ružinov II, Bratislava 82105, Slovakia](https://www.google.co.uk/maps?q=Tuckova+9,+Bratislava,+82105)
 
 Date of birth
-  : 08 Jan, 1983 (60645.32)
+  : [08 Jan, 1983](https://takemeback.to/08-January-1983) _(**♑︎**)_
 
 Nationality
   : British
 
-### TL;DR
-
-[GC3.2](https://mj.ucw.cz/geek/?code=GCM%2fCS%2fIT%2fE%2fMU%2fP%2fO+d--+s%3a%2b%2b+a+C%2b%2b(%2b%2b%2b%2b)+UL+L%2b%2b+P%2b%2b+E---+W%2b%2b(-)+N%2b+o-+K%2b%2b%2b+w---+O-+M%2b+V--+PS%2b%2b+PE%2b+!Y%2b+PGP%2b%2b+t%2b+5%3f+X%2b%2b+!R+TV%2b+b+DI%2b%2b+D%2b+G%2b%2b+e%2b%2b+h--+r%2b%2b%2b+y%2b%2b%2b)
+Online
+  : [CV](http://shalomb.github.io/cv/) ।
+    [Developer Story](https://stackoverflow.com/story/shalombhooshi) ।
+    [PluralSight](https://app.pluralsight.com/profile/shalom-bhooshi) ।
+    [Github](https://github.com/shalomb/) ।
+    [LinkedIn](https://uk.linkedin.com/in/shalombhooshi) ।
+    [Keybase](https://keybase.io/shalomb) ।
+    [GC3.2](https://mj.ucw.cz/geek/?code=GCM%2fCS%2fIT%2fE%2fMU%2fP%2fO+d--+s%3a%2b%2b+a+C%2b%2b(%2b%2b%2b%2b)+UL+L%2b%2b+P%2b%2b+E---+W%2b%2b(-)+N%2b+o-+K%2b%2b%2b+w---+O-+M%2b+V--+PS%2b%2b+PE%2b+!Y%2b+PGP%2b%2b+t%2b+5%3f+X%2b%2b+!R+TV%2b+b+DI%2b%2b+D%2b+G%2b%2b+e%2b%2b+h--+r%2b%2b%2b+y%2b%2b%2b)
 
 ### Download
 
