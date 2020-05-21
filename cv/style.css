@@ -42,8 +42,8 @@
   }
 
   .abstract {
-    margin :      30px 40px;
-    text-indent : 30px;
+    margin :      20px 30px;
+    text-indent : 20px;
   }
 
   h2 {
@@ -76,13 +76,26 @@
   /* Sub-sub-scripts        7 pt */
   /* Footnotes              8 pt */
 
-  a {
+  a, a:hover, a:active {
     text-decoration :  none;
-    color :  #006699;
+  }
+
+  a {
+    color: inherit;
   }
 
   a:hover, a:active {
-    text-decoration :  none;
+    color :  #006699;
+    text-decoration: underline;
+  }
+
+  strong>em,
+  em>strong,
+  b>i,
+  i>b {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 105%;
   }
 
   blockquote, blockquote p {
@@ -96,29 +109,17 @@
     margin-top : -10px;
   }
 
-  /*
-  dt {
-    float :              left;
-    clear :              left;
-    width :              21%;
-  }
-
-  dd {
-    margin-left :        22%;
-    font-size :          90%;
-  }
-  */
-
   dl {
     width: 100%;
     overflow: hidden;
     padding: 0;
     margin: 0
+    margin-bottom: 0em;
   }
 
   dt {
     float: left;
-    width: 21%;
+    width: 22%;
     padding: 0;
     padding-top: 3px;
     padding-bottom: 3px;
@@ -127,7 +128,7 @@
 
   dd {
     float: left;
-    width: 79%;
+    width: 78%;
     padding: 0;
     padding-top: 3px;
     padding-bottom: 3px;
@@ -141,29 +142,30 @@
     margin-bottom: 1em;
   }
 
-  p {
-    line-height :        140%;
-  }
-
-  ul li {
-    line-height :        130%;
-  }
-
   dd p {
     line-height :        130%;
   }
 
   p {
+    padding: 0;
     margin :             0;
-    margin-top :         4px;
-    margin-bottom :      8px;
+    margin-top :         -4px;
+    margin-bottom :      -8px;
+    line-height :        140%;
+    text-align:          justify;
+    text-justify:        inter-word;
     page-break-after :   avoid;
     page-break-inside :  avoid;
   }
 
   ul {
-    margin-top :  10px;
+    margin: 0;
+    margin-top :  -8px;
     list-style :  none;
+  }
+
+  ul li {
+    line-height :        130%;
   }
 
   ul li:before {
@@ -172,16 +174,23 @@
     color :        #444;
   }
 
-  li:not(:last-child) {
+  ul li:not(:last-child) {
     margin-bottom : 8px;
   }
 
   #TOC > ul li:before {
     content : "";
   }
+
   #TOC > ul li {
     margin-bottom : 8px;
   }
+
+  #TOC > ul li a {
+    margin-bottom : 8px;
+    color :  #006699;
+  }
+
 }
 
 /* http://stackoverflow.com/questions/16649943/css-to-set-a4-paper-size */
@@ -290,3 +299,9 @@
 }
 
 /* http://codepen.io/rafaelcastrocouto/pen/LFAes/ */
+
+.LI-profile-badge {
+  margin-top: 2em;
+  position: relative;
+  width: 100% !important;
+}
