@@ -55,6 +55,7 @@
   /* Section titles        10 pt */
   h3 {
     font-size : 11pt;
+    margin-bottom: -0.5em;
   }
 
   /* Normal text           10 pt */
@@ -148,8 +149,7 @@
 
   p {
     padding: 0;
-    margin :             0;
-    margin-top :         -4px;
+    margin-top :         1em;
     margin-bottom :      -8px;
     line-height :        140%;
     text-align:          justify;
@@ -159,8 +159,6 @@
   }
 
   ul {
-    margin: 0;
-    margin-top :  -8px;
     list-style :  none;
   }
 
