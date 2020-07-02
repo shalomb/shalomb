@@ -54,8 +54,12 @@ docx: $(in_file)
 rtf: $(in_file)
 	pandoc -s $(in_file) -f markdown -t rtf   -o $(out_file).rtf
 
+.PHONY: lander
+lander:
+	ln -sf cv.html index.html
+
 .PHONY: html
-html: $(in_file)
+html: lander $(in_file)
 	pandoc -s $(in_file) -f markdown -t html5 -o $(out_file).html \
 		--toc -c style.css --template=default.html5
 
@@ -72,6 +76,7 @@ pdf: $(in_file)
 		--highlight-style=tango               \
 		--pdf-engine=xelatex                  \
 		$(in_file) -o $(out_file).pdf
+	ln -svf $(out_file).pdf shalom_bhooshi-cv.pdf
 
 .PHONY: webpdf
 webpdf: $(in_file)

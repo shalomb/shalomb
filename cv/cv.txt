@@ -1,56 +1,120 @@
 Shalom Bhooshi
 
+Core Competencies
+
+- Software Engineering through Infrastructure-as-Code for Infrastructure,
+  Tooling and Automation
+- Site Reliability Engineering practices for business excellence and customer
+  satisfaction
+- Application of Agile Methodologies and Dev(Sec|Test)Ops to realize
+  Continuous Delivery
+- Use of Cloud-Native paradigms and technologies to engineer Service Agility
+  and Reliability
+- Solution Design and Implementation with Big Picture Thinking and Design for
+  Iteration
+- Results-Oriented attitude using Initiative, Organization, Communication and
+  Teamwork
+
+Technical Skills
+
+Cloud Platforms
+    Canonical Openstack, Amazon ec2/AWS, Apache Cloudstack, Google Cloud
+
+Operating Systems
+    Debian/Ubuntu/CentOS Linux, Windows Server 2003-2016, FreeBSD 9+
+
+Scripting Languages
+    Python, Bash/POSIX Shell, Golang, Ruby, Perl, Powershell/.NET, Raku
+
+Configuration
+    Jinja2, ERB, YAML, JSON, JSON Schema, JSON Path, TOML, XML
+
+IaC
+    git, Github, Ansible, Terraform, Makefiles, GitOps, StackStorm
+
+CI/CD
+    Gitlab CI, Gitlab Runners, Travis CI, JFrog Artifactory, Jenkins
+
+Containers
+    docker, docker-compose, Kubernetes, Consul
+
+Observability
+    Prometheus, Grafana, Graylog2, Icinga2/CheckMK, New Relic, Airbrake, Cacti
+
+Web
+    nginx, Apache, Cloudflare, Citrix NetScaler, Python Flask, REST, SOA
+
+Databases
+    Postgres 9+, MariaDB 10/MySQL 5+, Elasticsearch, CouchDB, Redis, SQLite 3
+
+Networking
+    TCP/IP (IPv4 & IPv6), DNS, VPC/Network Design, VPNs, L4/L7 Load-Balancing
+
+Virtualization
+    Citrix XenServer, KVM, Xen, Microsoft Hyper-V
+
+Hardware
+    Dell PowerEdge, HP Proliant, HP BladeSystem
+
+Storage
+    NFS, iSCSI, Swift/S3, Dell Compellent, NetApp, HP StorageWorks
+
+Other
+    See my StackOverflow Developer Story for assessments and opensource work.
+
 Professional Experience
 
-Aug 2017 → Present : Deutsche Telekom Pan-Net ◦ Bratislava, Slovakia
+Aug 2017 → Present
+    Deutsche Telekom Pan-Net ◦ Bratislava, Slovakia
 
 pan-net.cloud provides a pan-european cloud platform and infrastructure
 services to partners and affiliates in the wider Deutsche Telekom group.
-Supporting specialised Network Technology Services (Voice, Video, Data,
-3/4/5G, IoT, etc) and general purpose IaaS/PaaS for Supporting IT Services
-(Legacy & Cloud Native Workloads, Big Data/Streaming, SaaS, etc), Pan-Net
-utilizes best-of-breed cloud technologies to steward the modernization of the
+Providing a platform for specialised Network Technology Services (Voice, Video
+& Data) and general-purpose IT/Cloud-Native workloads, Pan-Net uses
+best-of-breed cloud technologies to support backend IaaS/PaaS/SaaS for the
 Deutsche Telecom product lines.
 
-Jun 2019 → Present : Technical Lead, IT PaaS, Pan-Net Cloud
+Jun 2019 → Present
+    Technical Lead/Cloud Infrastructure Engineer, IT PaaS, Pan-Net Cloud
 
 Skills & Experience
-    Product/Technical Ownership, Backlog Engineering, Openstack/IaaS, PaaS
-  R&D, Golang, Python, Linux, Gitlab, DevOps & CI/CD, Microservice Design,
-  Mentoring
+    Product/Technology Ownership, Backlog Management, Scrumban, DevOps,
+  CI/CD/CT, Openstack, Terraform, Ansible, Gitlab, Golang, Python, Prometheus
 
-- As a Technical Lead; Working closely with Customers and Product Ownership -
-  Agile product roadmap/backlog management, decomposition of requirements into
-  user stories/technical tasks, sprint scheduling/reviews, solution design,
-  quality assurance, cross-unit collaboration.
-- As an engineer; Design and DevOps of services to enhance the PaaS product
-  portfolio (e.g. Databases-aaS, LoadBalancers-aaS, Monitoring-aaS,
-  FileArchival-aaS, Backup-aaS, etc).
-- Participating in product design thinking workshops, presenting/knowledge
-  sharing, production campuses, incident management, post-mortems, technology
-  community participation/evangelism.
+- As a Technical Lead: Working closely with Product Owners and peers across
+  units - Agile product roadmap alignment, breakdown of business requirements
+  into user/job stories in product backlogs, technical solution research &
+  development, sprint scheduling, solution reviews.
+- As an Infrastructure Engineer: Participating in team scrums to develop,
+  deliver and advance PaaS offerings in an _aaS_ fashion to complement and
+  enrich the Openstack IaaS (e.g. DBaaS, LBaaS, FaaS, Big Data/NoSQL, Service
+  Monitoring, Log Management, Data Archival, Disaster Recovery).
+- As part of the technology community: Participating in design thinking
+  workshops, production campuses. Engaging customers & partners. Presenting
+  technology, knowledge sharing.
 
 Feb 2018 → May 2019
-    Infrastructure Engineer, NFVI CI/CD, Pan-Net NFVI
+    Cloud Infrastructure Engineer, NFVI CI/CD, Pan-Net NFVI
 
 Skills & Experience
-    Agile Release Trains, Delivery Pipelines, Openstack, Gitlab CI,
-  Artifactory, Ansible, Terraform, Docker, Ubuntu, CentOS, bash, Python,
-  DevOps, Prometheus
+    Agile Release Trains, Delivery Pipelines, DevOps, Gitlab CI, Artifactory,
+  Openstack, Docker, Ansible, Linux, Terraform, Python, goss, Prometheus,
+  Grafana
 
 - Member of the team tasked with the design, implementation and DevOps of
-  geo-distributed highly-available CI/CD/CT services to sustain the IaC and
-  continuous-delivery activities of application and infrastructure services
-  that comprise the Pan-Net cloud and NFVI platforms.
-- Supporting internal teams in consultation and design of CI/CD pipelines, git
-  branching and release models, CI/CD/CT processes, Application Orchestration
-  and QA/QE/DevSecOps.
+  distributed highly-available CI/CD/CT services (i.e. Gitlab CI/CD, Job
+  Runners, Binary Repositories, Library Code) that sustain the IaC and
+  Continuous Delivery activities of Pan-Net platform services.
+- Supporting service delivery teams in consultation and design of CI/CD
+  pipelines, git branching and release models, Dev(Sec|Test)Ops processes,
+  Application Lifecycle & Orchestration.
 
-Aug 2017 → Jan 2018 : Infrastructure Engineer, NFVI Application Orchestration,
-Pan-Net NFVI
+Aug 2017 → Jan 2018
+    Cloud Infrastructure Engineer, NFVI Application Orchestration, Pan-Net
+  NFVI
 
 Skills & Experience
-    Openstack, OpenContrail, Ansible, OASIS TOSCA, Python, Linux, StackStorm
+    Openstack, OpenContrail, Linux, Ansible, Python, OASIS TOSCA, StackStorm
 
 - Part of team tasked with developing the Pan-Net VNF Orchestration engines
   and best-practices around VNF Lifecycle Management (Instantiation, Upgrades,
@@ -63,28 +127,30 @@ Skills & Experience
 
 Oct 2015 → Jun 2017 : Box+Dice (BDSK) ◦ Bratislava, Slovakia
 
-Box+Dice provide a unique SaaS CRM platform for businesses in the Australian &
-New Zealand real estate sector to manage property portfolios, marketing and
-lead management, sales and accounting, portal integrations, etc in realtime.
-With 250+ businesses as clients across the Oceania region, Box+Dice harnesses
+Box+Dice provide a SaaS/CRM platform for businesses in the Australian & New
+Zealand real estate sector to manage property portfolios, marketing and lead
+management, sales and accounting, portal integrations, etc in realtime. With
+250+ businesses as clients across the Oceania region, Box+Dice harnesses
 in-house and customer domain expertise to deliver tailored SaaS services.
 
-Oct 2015 → Jun 2017 : Senior Systems Engineer, Site Reliability Engineering
+Oct 2015 → Jun 2017
+    Senior Systems Engineer, Site Reliability Engineering
 
 Skills & Experience
-    Amazon AWS, Ansible, Python, Ruby, Cloudflare, Cloudfront, Debian, Ubuntu,
-  Postgres, MariaDB, Elasticsearch, Redis, SRE/DevOps, Jira, Mentoring
+    Amazon AWS, Project Planning, SRE, DevSecOps, Jira, Mentoring, Ansible,
+  Terraform, bash, Python, Ruby, Cloudflare, Linux, Postgres, MariaDB,
+  Elasticsearch
 
 - Lead systems engineer managing DevOps and Site Reliability Engineering
-  across polar opposite timezones (Bratislava/Kiev vs Australia/New Zealand);
-  systems analysis, infrastructure design and development, improving platform
-  availability and production deployments.
-- Delivering on projects to modernize infrastructure, lift-and-shift platform
-  to public cloud (AWS), improving cloud integration &
-  scalability/utilization, improving security and technical operations.
+  across polar opposite timezones (Bratislava/Kiev vs Melbourne/Wellington):
+  systems analysis, infrastructure design and development, improving
+  production deployments and platform availability.
+- Delivering on projects to modernize infrastructure: _Lift-and-shift_
+  platform to public cloud (AWS), improving cloud integration &
+  efficiency/scalability, improving technical security and operations.
 - Working on cross-functional efforts with Product Development, Quality
-  Engineering and Operations; improving DevOps operating procedures, CI/CD,
-  communications, testing strategies.
+  Engineering and Product Support: Improving DevOps operating procedures,
+  CI/CD, QA, communications.
 - Involved in defining and project managing systems strategy, participating in
   executive committee decision making, customer technical support, cost
   management, hiring, mentoring.
@@ -102,13 +168,20 @@ globally.
 Oct 2013 → Aug 2015 : Senior Software Test Engineer, Engineering Productivity,
 Enterprise Desktop and Applications
 
+Skills & Experience
+    IaaS, Cloud Architecture, Network Design, Enterprise Software Testing,
+  DevOps, Teamwork, Mentoring, Virtualization, CloudStack, XenServer,
+  PowerShell/.NET, Perl, Python, Ruby, Linux, Windows Server, WDS, CouchDB,
+  Icinga, Puppet
+
 - Systems Architect/DevOps Engineer of a self-service IaaS cloud (Apache
-  CloudStack/XenServer) for ad-hoc and Continuous Testing activities of 65+
-  internal engineering teams.
+  CloudStack/XenServer) supporting ad-hoc and Continuous Testing activities of
+  65+ internal engineering teams.
 - Solving push-button provisioning of Citrix VDI (Virtual Desktop
   Infrastructure) test environments on Cloud and Virtualization Backends
-  (Xenserver, ESX, Hyper-v), Improving QA self-service capabilities, enriching
-  cloud offerings through automation, VM image creation/cataloguing, etc.
+  (Xenserver, ESX, Hyper-v, Azure), Improving QA self-service capabilities,
+  enriching cloud offerings through automation, VM image creation/cataloguing,
+  etc.
 - Member of the core automation team stewarding test automation frameworks and
   test library code underpinning QA strategies of the Citrix Desktop and App
   virtualization suites. Lead developer of perl components to support testing
@@ -117,86 +190,56 @@ Enterprise Desktop and Applications
   up backend infrastructure for Citrix Summit. Hardware procurement and
   maintenance, vendor relations. Technical training/mentoring.
 
-Apr 2012 → Oct 2013 : Associate Software Test Engineer, Engineering
-Productivity, Enterprise Desktop and Applications
+Apr 2012 → Oct 2013
+    Associate Software Test Engineer, Engineering Productivity, Enterprise
+  Desktop and Applications
 
-Jul 2010 → Apr 2012 : Software Test Engineer, Test Automation, XenDesktop
-Engineering.
-
-------------------------------------------------------------------------------
-
-May 2007 → Dec 2007 : Crystal Amusements (UK) Ltd ◦ London, United Kingdom
-
-Systems Engineer : Windows, JScript/WSH, TCP/IP Routing/Switching, Network
-Security/Availability
+Jul 2010 → Apr 2012
+    Software Test Engineer, Test Automation, XenDesktop Engineering.
 
 ------------------------------------------------------------------------------
 
-Jan 2007 → May 2007 : Sterling Limousines (UK) Ltd ◦ Richmond, Surrey, United
-Kingdom
+May 2007 → Dec 2007
+    Crystal Amusements (UK) Ltd ◦ London, United Kingdom
 
-LAMP Developer : Perl, PrototypeJS, Apache/mod_perl, Postgresql, Linux,
-Windows Server 2003
+Systems Engineer
+    Windows, JScript/WSH, TCP/IP Routing/Switching, Network
+  Reliability/Security
 
 ------------------------------------------------------------------------------
 
-Aug 2002 → Oct 2006 : Freelance IT Engineer ◦ Greater London Area, United
-Kingdom
+Jan 2007 → May 2007
+    Sterling Limousines (UK) Ltd ◦ Richmond, Surrey, United Kingdom
 
-IT Contractor : Office LAN Design, Web Design & Mastering, Linux, Windows
-Workstation/Server, Microsoft Office, TCP/IP Routing/Switching, Apache/IIS,
-Perl, VBScript/Excel
+LAMP Developer
+    Perl, PrototypeJS, Apache/mod_perl, Postgresql, Linux, Windows Server 2003
+
+------------------------------------------------------------------------------
+
+Aug 2002 → Oct 2006
+    Freelance IT Engineer ◦ Greater London Area, United Kingdom
+
+IT Contractor
+    Office LAN Design, Web Design & Mastering, Linux, Windows
+  Workstation/Server, Microsoft Office, TCP/IP Routing/Switching, Apache/IIS,
+  Perl, VBScript/Excel
 
 ------------------------------------------------------------------------------
 
 Education
 
-Sep 2008 → May 2010 : BSc (Hons.) Computer Networks, Sheffield Hallam
-University, Sheffield, England (1:1, First Class Honours)
+Sep 2008 → May 2010
+    BSc (Hons.) Computer Networks, Sheffield Hallam University, Sheffield,
+  England (1:1, First Class Honours)
 
-Jul 2000 → Mar 2001 : BSc (Hons.), Computer Science, Mathematics, Physics,
-French, English Literature, St. Joseph’s College of Science and Arts,
-Bangalore, India (Discontinued)
-
-Technical Experience
-
-Cloud : Canonical Openstack, Amazon ec2/AWS, Apache Cloudstack, DigitalOcean
-
-IaC : git, Ansible, Terraform, GitOps, StackStorm, Chef
-
-CI/CD : GitLab CI, Github, JFrog Artifactory, Travis CI, Jenkins
-
-Scripting : Bash/POSIX Shell, Python, Golang, Ruby, Perl, Powershell/.NET,
-Raku/Perl6
-
-Configuration : YAML, JSON, JSON Schema, JSON Path, OASIS TOSCA, TOML, XML
-
-Containers : docker, docker-compose, Kubernetes, Consul
-
-Networking : TCP/IP (IPv4 & IPv6), DNS, L7/HTTP, Network Design, Routing &
-Switching, VPNs
-
-Web : L4/L7 Load-Balancing, nginx, Cloudflare, CloudFront, Apache, Citrix
-NetScaler
-
-OSes : Debian/Ubuntu, CentOS/RHEL, Windows Server 2003-2016, FreeBSD 9+
-
-Databases : Postgres 9+, MariaDB 10/MySQL 5+, Elasticsearch, CouchDB, Redis,
-SQLite 3
-
-Monitoring : Prometheus, Grafana, Icinga2/CheckMK, Graylog2, Cacti, New Relic,
-Airbrake
-
-Virtualization : Citrix XenServer, KVM, Xen, Microsoft Hyper-V
-
-Hardware : Dell PowerEdge, HP Proliant, HP BladeSystem
-
-Storage : NFS, iSCSI, Swift/S3, Dell Compellent, NetApp, HP StorageWorks
-
-Also see my Developer Story for related skills assessments.
+Jul 2000 → Mar 2001
+    BSc (Hons.), Computer Science, Mathematics, Physics, French, English
+  Literature, St. Joseph’s College of Science and Arts, Bangalore, India
+  (Discontinued)
 
 Training and Qualifications
 
+- Certified Kubernetes Administrator, _Currently Training to Certify_
 - Docker + Kubernetes Administration, May 2018
 - OpenStack Deployment and Advanced Administration, Feb 2018
 - OpenStack Administration, Sep 2017
@@ -207,28 +250,17 @@ Training and Qualifications
   Infrastructure, Apr 2003
 - Implementing & Administering a Microsoft Windows 2000 Network
   Infrastructure, Apr 2003
-- Administering Windows 2000 Server, Microsoft Certified Professional (MCP),
-  Mar 2003
-- Administering Windows 2000 Professional, Microsoft Certified Professional
-  (MCP), Mar 2003
-- Network Infrastructure Administration, CompTIA® Network+ Certified
-  Professional, Feb 2003
-- Hardware and Software Essentials, CompTIA® A+ Certified Professional, Nov
-  2002
-- Advanced Java, Network Programming using EJB, Servlets/RMI, JDBC/SQL, Jul
-  2001
-- Web Design using Microsoft FrontPage 2000, HTML, VBScript and Javascript,
-  Jan 2001
-- Procedural Programming with ANSI C, May 1999
 
 Professional Membership
 
-Jul 2010 → Present : The Institution of Engineering and Technology (IET)
-(Graduate Member)
+Jul 2010 → Present
+    The Institution of Engineering and Technology (IET) (Graduate Member)
 
-Dec 2008 → Present : British Computer Society (BCS) (Member)
+Dec 2008 → Present
+    British Computer Society (BCS) (Member)
 
-Jan 2008 → May 2012 : Microsoft IT Advisory Council (ITAC) (Member)
+Jan 2008 → May 2012
+    Microsoft IT Advisory Council (ITAC) (Member)
 
 Spoken Languages
 
@@ -236,25 +268,30 @@ English (Native), Slovak (Basic Vernacular), French (High School)
 
 Hobbies and Interests
 
-Cycling, Badminton, Table Tennis, Pool ◦ Outdoors, Exploring, Amateur
-Photography ◦ Music, Guitar ◦ Raku/Perl6 Community ◦ Tech. news, conferences ◦
-Hacking Debian/Raspberry Pi for fun
+Fatherhood ◦ Cycling, Running, Outdoors ◦ Guitar, Music ◦ Raku Community ◦
+Raspberry Pi Hacks
 
 Personal Details
 
-Telephone : +421 948 140 290
+Telephone
+    +421 948 140 290
 
-Email : s.bhooshi@gmail.com
+Email
+    s.bhooshi@gmail.com
 
-Address : Tučkova 9, Ružinov II, Bratislava 82105, Slovakia
+Address
+    Tučkova 9, Ružinov II, Bratislava 82105, Slovakia
 
-Date of birth : 08 Jan, 1983 (♑︎)
+Date of birth
+    08 Jan, 1983 (♑︎)
 
-Nationality : British
+Nationality
+    British
 
-Online : CV । Developer Story । PluralSight । Github । LinkedIn । Keybase ।
-GC3.2
+Online
+    CV । Developer Story । PluralSight । Github । LinkedIn । Keybase । GC3.2
 
 Download
 
-PDF Version : shalom_bhooshi-resume.pdf
+PDF Version
+    shalom_bhooshi-cv.pdf
