@@ -114,8 +114,7 @@
     width: 100%;
     overflow: hidden;
     padding: 0;
-    margin: 0
-    margin-bottom: 0em;
+    margin-bottom: -0.6em;
   }
 
   dt {
@@ -141,6 +140,10 @@
     height :             1px;
     background-image: linear-gradient(to right, rgba(0, 0, 0, 0.01), rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.01));
     margin-bottom: 1em;
+  }
+
+  dl + hr {
+    margin-top: 1em;
   }
 
   dd p {
