@@ -5,7 +5,7 @@ author:  [s.bhooshi@gmail.com](mailto:s.bhooshi@gmail.com) ◦ +421 948 140 29
 abstract: >
   An adept Systems/SRE/DevOps engineer with a background in the agile delivery of IT platforms and services.
   Being software-inclined, I subscribe to software-defined everything principles in building and operating reliable yet flexible solutions.
-  I seek a progressive role in an agile setting that embraces cloud-native and open-source technologies to innovate and advance business.
+  I seek a progressive role in an agile work setting that embraces cloud-native and open-source technologies to innovate and advance business.
 ---
 
 ### Core Competencies
@@ -29,9 +29,10 @@ AWS
 
 Containers
 : [docker](https://www.docker.com/),
-  [docker-compose](https://docs.docker.com/compose/),
   [Kubernetes](https://kubernetes.io/),
   [k3s](https://k3s.io/),
+  [docker-compose](https://docs.docker.com/compose/),
+  [kompose](https://github.com/kubernetes/kompose),
   [Consul](https://www.consul.io/),
   [Istio](https://istio.io/)*
 
@@ -54,13 +55,14 @@ Scripting Languages
   [Bash](https://www.gnu.org/software/bash/)/[POSIX Shell](http://pubs.opengroup.org/onlinepubs/009695399/utilities/xcu_chap02.html),
   [Golang](https://www.golang.org/),
   [Ruby](https://www.ruby-lang.org/en/),
-  [Perl](https://www.perl.org/),
   [Powershell](https://en.wikipedia.org/wiki/Windows_PowerShell)/[.NET](http://www.microsoft.com/net),
-  [Raku](https://www.raku.org)
+  [Perl](https://www.perl.org/),
+  [Raku/Perl6](https://www.raku.org)
 
 Configuration
 : [systemd](https://www.freedesktop.org/wiki/Software/systemd/),
   [supervisord](https://github.com/ochinchina/supervisord),
+  [monit](https://mmonit.com/monit/),
   [Jinja2](https://jinja.palletsprojects.com/en/2.11.x/),
   [ERB](https://puppet.com/docs/puppet/5.5/lang_template_erb.html),
   [YAML](http://yaml.org/),
@@ -100,6 +102,19 @@ Databases
   [Redis](https://redis.io/),
   [SQLite](http://sqlite.org/)
 
+Virtualization
+: [Citrix](https://citrix.com/)
+  [Hypervisor](https://www.citrix.com/products/citrix-hypervisor/)/[XenServer](http://xenserver.org/),
+  [KVM](https://wiki.debian.org/KVM),
+  [Xen](http://www.xenproject.org/),
+  [libvirt](https://libvirt.org/),
+  [Microsoft Hyper-V](http://www.microsoft.com/en-us/server-cloud/solutions/virtualization.aspx)
+
+Compute Hardware
+: [Dell PowerEdge](http://www.dell.com/us/business/p/poweredge-rack-servers),
+  [HP Proliant](https://www.hpe.com/us/en/servers/proliant-servers.html),
+  [HP BladeSystem](http://www8.hp.com/us/en/products/servers/bladesystem/)
+
 Networking
 : [TCP/IP](https://en.wikipedia.org/wiki/Internet_protocol_suite) -
   [IPv4](https://en.wikipedia.org/wiki/IPv4) &
@@ -109,18 +124,10 @@ Networking
   [VPNs](https://en.wikipedia.org/wiki/Virtual_private_network),
   [L4-L7 Load-Balancing](https://loadbalancerblog.com/blog/2013/04/what-heck-layer-7-load-balancing-anyway)
 
-Virtualization
-: [Citrix XenServer](http://xenserver.org/),
-  [KVM](https://wiki.debian.org/KVM),
-  [Xen](http://www.xenproject.org/),
-  [Microsoft Hyper-V](http://www.microsoft.com/en-us/server-cloud/solutions/virtualization.aspx),
-  [Dell PowerEdge](http://www.dell.com/us/business/p/poweredge-rack-servers),
-  [HP BladeSystem](http://www8.hp.com/us/en/products/servers/bladesystem/)
-
 Storage
 : [NFS](https://en.wikipedia.org/wiki/NFS),
   [iSCSI](https://en.wikipedia.org/wiki/ISCSI),
-  [Swift](https://wiki.openstack.org/wiki/Swift)/[S3](https://aws.amazon.com/s3/),
+  [S3](https://aws.amazon.com/s3/)/[Swift](https://wiki.openstack.org/wiki/Swift),
   [Dell Compellent](http://www.dell.com/us/business/p/dell-compellent),
   [NetApp](http://www.netapp.com/us/products/storage-systems/),
   [HP StorageWorks](http://www8.hp.com/h20195/v2/GetHTML.aspx?docname=c04168365),
@@ -175,9 +182,10 @@ Skills & Experience
    Data Archival,
    Disaster Recovery).
 * As a Technical Lead:
-  Working with counterparts across business units —
-  Agile product roadmap alignment,
-  product backlogs prioritization,
+  PaaS architecture definition,
+  agile roadmap alignment,
+  dependency management,
+  backlog prioritization,
   sprint scheduling,
   solution exploration/review.
 * As part of the technology community:
@@ -266,15 +274,15 @@ Skills & Experience
   infrastructure design and development,
   improving production deployments and platform availability.
 * Delivering on projects to modernize infrastructure:
-  _Lift-and-shift_ platform to public cloud (AWS),
-  improving cloud integration & efficiency/scalability,
+  Lift-and-shift platform to AWS,
+  improving cloud integrations & efficiency,
   improving technical security and operations.
 * Working on cross-functional efforts with Product Development,
   Quality Engineering and Product Support:
   Improving DevOps operating procedures,
   CI/CD,
   QA,
-  communications.
+  incident/RCA transparency.
 * Involved in defining and project managing systems strategy,
   participating in executive committee decision making,
   customer technical support,
@@ -383,12 +391,12 @@ Sep 2008  →  May  2010
 * [Certified Kubernetes Administrator (CKA) 2020](https://training.linuxfoundation.org/cka-program-changes-2020/), _Currently Training_
 * [Docker + Kubernetes Administration](https://www.componentsoft.io/educationalservices/openstack-docker-puppet-xen-and-kvm/kbs-105-docker-kubernetes-administration-accelerated-training/), May 2018
 * [OpenStack Deployment and Advanced Administration](https://www.componentsoft.io/educationalservices/openstack-docker-puppet-xen-and-kvm/ost-204-openstack-advanced-administration-extended/), Feb 2018
-* [OpenStack Administration](https://www.componentsoft.io/educationalservices/openstack-docker-puppet-xen-and-kvm/openstack-private-cloud-workshop-extended-ost-104/), Sep 2017
+* [OpenStack Administration Bootcamp](https://www.componentsoft.io/educationalservices/openstack-docker-puppet-xen-and-kvm/openstack-private-cloud-workshop-extended-ost-104/), Sep 2017
 * [Citrix NetScaler ADC Essentials, Networking and Administration](http://training.citrix.com/mod/ctxcatalog/course.php?id=497), Jun 2012
 * [Building Scalable Cisco Internetworks (CCNP BSCI)](https://www.cbtnuggets.com/it-training/cisco-642-901-ccnp-bsci), Feb 2004
 * [Cisco Certified Network Associate (CCNA)](http://www.cisco.com/web/learning/exams/list/ccna_composite.html#~Topics), Mar 2003
-* [Implementing & Administering a Microsoft Windows 2000 Directory Services Infrastructure](https://web.archive.org/web/20081222080658/http://www.microsoft.com/learning/en/us/exams/70-217.mspx#EHE), Apr 2003
-* [Implementing & Administering a Microsoft Windows 2000 Network Infrastructure](https://web.archive.org/web/20141221185633/https://www.microsoft.com/learning/en/us/exams/70-216.mspx#E3E), Apr 2003
+* [Implementing & Administering a Microsoft Directory Services Infrastructure](https://web.archive.org/web/20081222080658/http://www.microsoft.com/learning/en/us/exams/70-217.mspx#EHE), Apr 2003
+* [Implementing & Administering a Microsoft Network Infrastructure](https://web.archive.org/web/20141221185633/https://www.microsoft.com/learning/en/us/exams/70-216.mspx#E3E), Apr 2003
 
 ### Spoken Languages
 
