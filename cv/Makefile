@@ -89,5 +89,9 @@ clean:
 	rm -f $(out_file).txt $(out_file).odt $(out_file).docx $(out_file).rtf \
 		$(out_file).html $(out_file).pdf $(out_file).web.pdf
 
+.PHONY: release
+release: all
+	git push --all --tags origin master
+
 .PHONY: all
 all: html odt docx rtf txt webpdf pdf
