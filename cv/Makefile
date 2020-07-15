@@ -91,7 +91,10 @@ clean:
 
 .PHONY: release
 release: all
-	git push --all --tags origin master
+	git add cv.*
+	git commit -m "Build binaries - $$(date)"
+	git push --all
+	git push --tags
 
 .PHONY: all
 all: html odt docx rtf txt webpdf pdf
