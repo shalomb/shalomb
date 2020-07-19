@@ -1,228 +1,166 @@
-/*
- * H5BP project listing repo
- */
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700);
 
+* {
+  margin: 0;
+  padding: 0
+}
+
+body,
 html {
-    font: 14px/1.4 "Helvetica Neue", Helvetica, Arial, sans-serif;
-    color: #333;
-    -webkit-text-size-adjust: 100%;
-    -ms-text-size-adjust: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: 'Open Sans', Arial, sans-serif;
+  font-size: 100%;
+  font-size: 14px;
+  line-height: 20px;
+  -webkit-text-size-adjust: none
 }
 
 body {
-    max-width: 60%;
-    padding: 20px 10px;
-    margin: 0 auto;
-    background: #f5f5f5;
+  background: #fff
+  padding-top: 2% !important;
+  background: #efefef url("../img/pexels-photo-304664.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=2048") no-repeat fixed center;
 }
 
-img {
-    border: 0;
-    -ms-interpolation-mode: bicubic;
+body > .container {
+  padding-top: 2em;
 }
 
-/* Links
-   ========================================================================== */
-
-a {
-    color: #0084b4;
-    text-decoration: none;
+table {
+  border-collapse: collapse;
+  border-spacing: 0
 }
 
-a:hover,
-a:focus,
-a:active {
-    color: #005E80;
-    text-decoration: underline;
-}
-
-a:focus {
-    outline: thin dotted;
-}
-
-a:hover,
-a:active {
-    outline: 0;
-}
-
-/* Typography
-   ========================================================================== */
-
-h1,
-h2,
-h3 {
-    margin: 0 0 1em;
-}
-
-h1 {
-    margin: 0 0 0.25em;
-    font-size: 3em;
-}
-
-h2 {
-    font-size: 1.25em;
-}
-
-h3 {
-    font-size: 1.125em;
-    color: #777;
+table,
+td,
+th {
+  border: 0
 }
 
 p {
-    margin: 0 0 1em;
-    letter-spacing : 0 !important;
-    word-spacing : 0 !important;
+  text-align: justify;
+  margin: 0 0 15px 0
 }
 
-/* Lists
-   ========================================================================== */
-
-ol {
-    list-style: none;
-    padding: 0;
-    margin: 0;
+h1,
+h2,
+h3,
+h4,
+h5 {
+  text-align: left;
+  font-weight: 400
+  font-family: 'Open Sans'
 }
 
-
-/* =============================================================================
-   Structure
-   ========================================================================== */
-
-.grid {
-    display: block;
-    padding: 0;
-    margin: 0 -10px;
-    /* remove intra-unit whitespace for all font families */
-    letter-spacing: -0.31em;
-    *letter-spacing: normal;
-    word-spacing: -0.43em;
-    /* protect against WebKit bug with optimizelegibility */
-    text-rendering: optimizespeed;
+input,
+textarea {
+  font-size: 14px;
+  font-family: 'Open Sans', Arial, sans-serif
 }
 
-.unit-1-3 {
-    width: 300px;
-    display: inline-block;
-    margin: 0 10px 20px;
-    /* controls vertical positioning of units */
-    vertical-align: top;
-    /* reset defaults */
-    letter-spacing: normal;
-    word-spacing: normal;
-    text-rendering: auto;
-    *display: inline;
-    *zoom: 1;
+hr {
+  clear: both;
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, .75), rgba(0, 0, 0, 0))
 }
 
-/* Box
-   ========================================================================== */
-
-.box {
-    display: block;
-    overflow: hidden;
-    min-height: 200px;
-    padding: 15px;
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    text-decoration: none;
-    background: #fff;
+h1,h2,h3 {
+  animation: fadein 3s;
 }
 
-a.box:hover,
-a.box:focus,
-a.box:active {
-    padding: 12px;
-    border-width: 4px;
-    border-color: #005E80;
-    text-decoration: none;
+@keyframes fadein {
+  from { opacity: 0.32; }
+  to   { opacity: 1; }
 }
 
-/* Header
-   ========================================================================== */
-
-.site-header {
-    float:left;
-    text-align: center;
+h2 + p {
+  margin-top: 1em;
 }
 
-.site-header .box {
-    min-height: 452px;
+a {
+  margin-right: 0.7em;
 }
 
-.stats {
-    margin: 0 0 2em;
-    font-size: 1.125em;
+a:active,
+a:link,
+a:visited {
+  color: #222;
 }
 
-.twitter-share-button {
-    margin-top: 30px;
+/* icon theming */
+
+.top_icon {
+  height: 48px;
+  width:  48px;
+  margin: 0;
+  margin-top: 1em;
+  padding: 0;
+  vertical-align: bottom;
 }
 
-/* Content
-   ========================================================================== */
-
-.repo__name {
-    margin: 0 0 0.1em;
-    font-size: 1.5em;
+.icon {
+  vertical-align: bottom;
+  line-height: normal;
 }
 
-.repo__info {
-    display: block;
-    margin: 0 0 1.25em;
-    font-size: 12px;
-    font-weight: bold;
-    color: #999;
+.icon svg {
+  height: 20px;
 }
 
-.repo__desc {
-    color: #666;
+a {
+  padding-bottom: 2px;
 }
 
-/* Footer
-   ========================================================================== */
-
-.site-footer {
-    padding: 15px;
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    background: #fff;
-    clear: both;
+a:hover {
+  text-decoration: none;
 }
 
-.site-footer p {
-    margin: 0;
-    text-align: center;
+nav a:hover {
+  text-decoration: underline !imporant;
 }
 
-
-/* =============================================================================
-   Small screen adjustments
-   ========================================================================== */
-
-@media (max-width:960px) {
-
-    body {
-        max-width: 620px;
-    }
-
+nav a.active {
+  border-bottom: 1px solid red;
 }
 
-@media (max-width:640px) {
+nav a.nav-link {
+  text-decoration: none;
+  font-weight: 400;
+}
 
-    body {
-        box-sizing: border-box;
-        max-width: 450px;
-        width: 100%;
-    }
+.icon {
+  fill: #000000;
+  height: 2em;
+  width:  2em;
+}
 
-    .grid {
-        margin: auto;
-        padding: 0 5px;
-    }
+.icon span {
+  vertical-align: bottom;
+  font-weight: 500;
+}
 
-    .unit-1-3 {
-        margin: 5px auto;
-        width: 100%;
-    }
+.icon-github-hover {
+  fill:  #6441a5;
+  color: #6441a5 !important;
+}
 
+.icon-linkedin-hover {
+  fill:  #3f98c7;
+  color: #3f98c7 !important;
+}
+
+.icon-keybase-hover {
+  fill:  #ba6d21;
+  color: #ba6d21 !important;
+}
+
+.icon-stackoverflow-hover {
+  fill:  #ce3a15;
+  color: #ce3a15 !important;
+}
+
+.icon-cv-hover {
+  fill:  #009999;
+  color: #009999 !important;
 }
