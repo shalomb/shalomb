@@ -109,12 +109,18 @@ hr {
 }
 
 h1,h2,h3 {
-  animation: fadein 3s;
+  animation: fadein 2.5s;
 }
 
 @keyframes fadein {
-  from { opacity: 0.32; }
-  to   { opacity: 1; }
+  from {
+    color:  #6441a5;
+    opacity: 0.32;
+  }
+  to   {
+    color: #111;
+    opacity: 1;
+  }
 }
 
 h2 + p {
