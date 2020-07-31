@@ -19,3 +19,46 @@ $('.blog a[href ^= "http"]').each(function() {
     window.open(this.href, '_blank');
   });
 });
+
+// Naviate to the tab set in URL fragment to make page components
+// bookmarkable/hyperlinkable
+// src:
+// https://webdesign.tutsplus.com/tutorials/how-to-add-deep-linking-to-the-bootstrap-4-tabs-component--cms-31180
+$(document).ready(() => {
+  let url = location.href.replace(/\/$/, '');
+
+  // on load set the right tab
+  if (url.match(/#\w+\/?$/)) {
+    const fragment = url.split("#");
+    $('.nav-tabs a[href="#'+fragment[1]+'"]').tab("show");
+  }
+  history.replaceState(null, null, url);
+  setTimeout(() => {
+    $(window).scrollTop(0);
+  }, 400);
+
+  // non nav-link links (e.g in the body) should be able to link to tabs
+  $('a.nav-link-inline').on("click", function() {
+    let url = this.href
+    const fragment = url.split("#");
+    $('.nav-tabs a[href="#'+fragment[1]+'"]').tab("show");
+    url += '/';
+    history.replaceState(null, null, url);
+    setTimeout(() => {
+      $(window).scrollTop(0);
+    }, 400);
+  });
+
+  // set the URL
+  $('a.nav-link, a.nav-link-inline').on("click", function() {
+    let newUrl;
+    const fragment = $(this).attr("href");
+    newUrl = url.split("#")[0] + fragment;
+    newUrl += '/';
+    history.replaceState(null, null, newUrl);
+    setTimeout(() => {
+      $(window).scrollTop(0);
+    }, 400);
+  });
+
+});
