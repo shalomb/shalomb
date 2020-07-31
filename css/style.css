@@ -115,7 +115,7 @@ h1,h2,h3 {
 @keyframes fadein {
   from {
     color:  #6441a5;
-    opacity: 0.32;
+    opacity: 0.12;
   }
   to   {
     color: #111;
