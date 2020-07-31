@@ -12,7 +12,7 @@ $(function() {
 });
 
 // All external hyperlinks to open in a new window
-$('p.blog a[href ^= "http"]').each(function() {
+$('.blog a[href ^= "http"]').each(function() {
   $(this).click(function(event) {
     event.preventDefault();
     event.stopPropagation();
