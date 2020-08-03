@@ -188,8 +188,8 @@ a:visited {
 /* icon theming */
 
 .top_icon {
-  height: 48px;
-  width:  48px;
+  height: 36px;
+  width:  36px;
   margin: 0;
   margin-top: 1em;
   padding: 0;
@@ -264,4 +264,38 @@ a:hover {
 .icon-cv-hover {
   fill:  #009999;
   color: #009999 !important;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 20px;
+  text-align: center;
+  background-color: rgba(63, 175, 169, 0.2);
+  margin-bottom: 1pt;
+}
+
+.footer .text {
+  /* background-color: rgba(128, 128, 192, 0.85); */
+  color: rgba(255, 255, 255, 0.65);
+  padding: 2px 0.2rem;
+  padding-top: 3px;
+  padding-left: 0.6rem;
+  /* border: 1px solid rgba(255, 255, 255, 0.6); */
+  font-size: 9pt;
+}
+
+.footer .copyleft {
+  display: inline-block;
+  filter: FlipH;
+  margin: 0px;
+  -moz-transform: scaleX(-1);
+  -ms-filter: "FlipH";
+  -o-transform: scaleX(-1);
+  text-align: right;
+  transform: scaleX(-1);
+  -webkit-transform: scaleX(-1);
+  font-size: 10pt;
 }

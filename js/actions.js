@@ -61,4 +61,9 @@ $(document).ready(() => {
     }, 400);
   });
 
+  // Set the date in the copyleft footer
+  ( function() {
+    $('#date').html(strftime('%FT%H:%m:%S%z'))
+  })();
 });
+

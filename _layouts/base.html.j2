@@ -23,6 +23,7 @@
   <body class="text-center">
 
     <div class="container min-vh-100">
+
       <div class="row">
         <div class="col">
           <div class="float-left">
@@ -31,6 +32,7 @@
             </a>
           </div>
         </div>
+
         <div class="col-lg-auto">
           <!-- Nav tabs -->
           <ul class="nav nav-tabs"
@@ -53,6 +55,20 @@
         {% include 'about.html.j2' %}
         {% include 'contact.html.j2' %}
       </div>
+
+      <div class="footer">
+        <div class="row">
+          <div class="col-lg-10 align-self-center" id="footer">
+            <a href="#contact" class="nav-link-inline">
+              <span class="text">
+                <span class="copyleft">&#9400;</span> Copyleft
+                <span id="date"></span>
+                @shalomb
+              </span>
+            </a>
+          </div>
+        </div>
+      </div>
     </div>
 
     <!-- Optional JavaScript -->
@@ -61,6 +77,10 @@
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
 
+    <!-- thdoan/strftime -->
+    <script src="js/strftime.js"></script>
+
+    <!-- our javascript -->
     <script src="js/actions.js"></script>
   </body>
 </html>
