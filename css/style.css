@@ -2,6 +2,21 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Recursive:wght,CASL,MONO@300..800,0,0&display=swap');
 
+@font-face {
+ font-family: 'RecursiveCasual';
+ src: url('https://fonts.googleapis.com/css2?family=Recursive:wght,CASL,MONO@300..800,0.3,0&display=swap');
+ font-weight: 300 1000;
+}
+
+:root{
+  --nav_height: 3rem;
+  --cm-wght: 400;
+  --cm-mono: 0;
+  --cm-casl: 0.0;
+  --cm-slnt: 0;
+  --cm-crsv: 0.5;
+}
+
 *,
 *::before,
 *::after {
@@ -17,6 +32,8 @@ html {
   overflow: auto;
   margin: 0;
   margin-left: calc(100vw - 100%) !important;
+
+  font-size: 100%;
 }
 
 body {
@@ -25,21 +42,20 @@ body {
   overflow-x: none;
   background-attachment: fixed;
   background: #fff url("../img/pexels-photo-304664.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=2048") no-repeat center center fixed;
+  background-size: cover;
+  text-align: left;
+  font-size: 0.9rem;
+  text-rendering: optimizeLegibility;
 }
 
 body,
 html {
   margin: 0;
   padding: 0;
-
   font-family: 'Recursive', sans-serif;
-
   align-items: center;
   justify-content: space-between;
-
-  line-height: 20px;
   -webkit-text-size-adjust: none
-
   background: #fff;
 }
 
@@ -61,19 +77,22 @@ th {
 p {
   text-align: justify;
   margin: 0 0 15px 0
+  font-family: 'RecursiveCasual', 'Arial';
+  font-feature-settings: "ss01", "ss05", "dlig";
+}
+
+#caption {
+  font-size: 1rem;
+  color: #4a4a4a;
 }
 
 div.blog {
   margin-top: 1rem;
-}
-
-.blog p, .blog pre {
-  line-height: 1.25rem;
-  font-size: 10pt;
+  font-size: .8rem;
 }
 
 p:last-child {
-  margin-bottom: 5rem;
+  margin-bottom: 1rem;
 }
 
 .left-align {
@@ -81,14 +100,20 @@ p:last-child {
 }
 
 pre {
+  word-wrap: break-word;
+  white-space: pre-wrap;
+  word-break: normal;
+  font-variant-ligatures: none;
+  font-size: .8rem;
   font-family: 'Recursive', monospace;
-  font-variation-settings: "MONO" 0;
+  font-variation-settings: "MONO" var(--mono), "CSRV" var(--crsv) !important;
 }
 
 pre ~ pre {
   margin-bottom: 0;
   padding-bottom: 0;
 }
+
 pre + pre {
   margin-top: 0;
   padding-top: 0;
@@ -103,7 +128,7 @@ h5 {
 }
 
 h1 {
-  font-size: 20pt;
+  font-size: 2rem;
 }
 
 input,
@@ -129,7 +154,7 @@ h1,h2,h3 {
   }
   to   {
     color: #111;
-    opacity: 1;
+    opacity: .8;
   }
 }
 
@@ -172,9 +197,17 @@ a:visited {
 }
 
 .icon {
+  fill: #000000;
+  height: 2em;
+  width:  2em;
   vertical-align: bottom;
-  line-height: normal;
-  font-size: 11pt;
+  font-size: 0.9rem;
+  color: #4a4a4a !important;
+}
+
+.icon span {
+  vertical-align: bottom;
+  font-weight: 500;
 }
 
 .icon svg {
@@ -206,17 +239,6 @@ a:hover {
   border: none;
   border-bottom: 1px dotted red;
   outline: 0;
-}
-
-.icon {
-  fill: #000000;
-  height: 2em;
-  width:  2em;
-}
-
-.icon span {
-  vertical-align: bottom;
-  font-weight: 500;
 }
 
 .icon-github-hover {
