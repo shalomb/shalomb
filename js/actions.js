@@ -65,5 +65,6 @@ $(document).ready(() => {
   ( function() {
     $('#date').html(strftime('%FT%H:%m:%S%z'))
   })();
+
 });
 
