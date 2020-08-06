@@ -83,7 +83,7 @@
     <!-- our javascript -->
     <script src="js/actions.js"></script>
 
-    {% if env == 'dev' %}
+    {% if env|d('prod') == 'dev' %}
     <!-- live.js to autoreload page on changes -->
     <script type="text/javascript" src="http://livejs.com/live.js"></script>
     {% endif %}
