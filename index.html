@@ -14,12 +14,22 @@
   "Shalom Bhooshi, shalomb, s.bhooshi, homepage, home, about, info, resume, cv">
   <meta name="viewport" content=
   "width=device-width, initial-scale=1, shrink-to-fit=yes">
+  <!-- preload images -->
+  <link rel="preload" as="image" href=
+  "img/pexels-photo-304664.jpeg">
+  <link rel="preload" as="image" href="img/sidepic-home.png">
+  <link rel="preload" as="image" href="img/sidepic-about.png">
+  <link rel="preload" as="image" href="img/sidepic-contact.png">
+  <link rel="preload" as="image" href="img/starfish-200.png">
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href=
   "https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
   integrity=
   "sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
   crossorigin="anonymous">
+  <!-- seems ok on chrom* but not firefox -->
+  <link rel="preload" href="css/style.css" as="style" onload=
+  "this.rel='stylesheet'"><!-- fallback for firefox -->
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body class="text-center">
@@ -102,8 +112,8 @@
               order!</p>
               <p>This section is a kind of a professional one-pager
               (for a 6-pager, see my <a href="#contact" class=
-              "nav-link-inline">CV</a>) and an attempt to
-              illustrate what drives me as an engineer.</p>
+              "nav-link-inline">CV</a>) and perhaps a little about
+              what drives me as an engineer.</p>
               <pre class="left-align">
     • Production Engineering — SRE/CRE, (Sys|Infra)Ops, Automation, Problem Management
     • DevOps — CI/CD + CT, Build & Release Engineering, Dev(Sec|Test)Ops, QA/QE
@@ -131,32 +141,6 @@
               necessary antifragility</a> for consumers — advancing
               this agency for business advantage in systems is my
               core area of interest.</p>
-              <p>My career prologue with code means I'm still a
-              software engineer of sorts. When I am not <a href=
-              "http://www.felicepescatore.it/alm/140-firefighter-agile-anti-pattern-eng">
-              fighting fires</a> - I solve "<a href=
-              "https://www.goodreads.com/quotes/7514660-i-am-not-a-visionary-i-m-an-engineer-i-m-happy">pothole
-              problems</a>" with <a href=
-              "https://github.com/shalomb">code</a> to improve
-              infrastructure state of play. I am a keen proponent
-              of <a href=
-              "https://devops.com/why-the-buzz-on-software-defined-everything-sdx/">
-              Software-Defined-Everything</a> and evangelize
-              <a href=
-              "https://devops.com/infrastructure-as-code-and-six-key-automation-concepts/">
-              Infrastructure-as-Code</a> engineering to manage all
-              aspects of infrastructure. It's the oft-repeated
-              cliché but would I rather work to <a href=
-              "https://www.theatlantic.com/technology/archive/2018/10/agents-of-automation/568795/">
-              automate myself out of a job</a> than find myself
-              applying any amount of <a href=
-              "https://www.google.com/search?q=define:elbow%20grease">
-              "elbow grease"</a> (🤖) but the nature of cloud-native
-              interactions also means developing solutions and
-              <a href="https://xkcd.com/1319/">grappling with
-              code</a> is a necessary prerequisite for economic
-              reasons and so is an advantage that I am always keen
-              on furthering.</p>
               <p>I'm an <a href=
               "/cv/#core-competencies">infrastructure
               jack-of-all-trades</a> but building and managing
@@ -179,17 +163,38 @@
               "https://devops.com/continuous-testing-vs-test-automation/">
               CT-centric</a> CI/CD, DevSecOps, rainy-day
               testing.</p>
-              <p>Where fitting, I'm also interested in the
-              “hands-off” albeit essential work in this domain —
-              solution/process design, architecture, project
-              delivery, tech ownership, tech culture, etc (some of
-              these seems contra-agile but ask me why agile
-              delivery in the infra space requires <em>following a
-              plan over responding to change</em>).</p>
-              <p>Agile, code, economics, continuous experiental
-              learning & improvment — these are my elements in the
-              endeavour of dependable and flexible infrastructures
-              to garner happy smiles all around. 😊😊😊</p>
+              <p>When I am not <a href=
+              "http://www.felicepescatore.it/alm/140-firefighter-agile-anti-pattern-eng">
+              fighting fires in production</a> I like automate away
+              the "<a href=
+              "https://www.goodreads.com/quotes/7514660-i-am-not-a-visionary-i-m-an-engineer-i-m-happy">pothole
+              problems</a>" with <a href=
+              "https://github.com/shalomb">code</a> that improves
+              infrastructure state of play (I do wish I could
+              contribute more back to the open source community). I
+              am a keen proponent of <a href=
+              "https://devops.com/why-the-buzz-on-software-defined-everything-sdx/">
+              Software-defined-everything</a> and evangelize
+              <a href=
+              "https://devops.com/infrastructure-as-code-and-six-key-automation-concepts/">
+              Infrastructure-as-Code</a> engineering to manage all
+              aspects of infrastructure. I am still a developer of
+              sorts given the early career prologue with code but
+              this is perhaps what SREs are - software engineers
+              given systems responsibilities.</p>
+              <p>Where fitting, I'm also interested in improving
+              the “hands-off” albeit essential work in this domain
+              — solution/process design, architecture, agile
+              delivery, tech culture, etc (some of these seems
+              contra-agile but ask me why agile delivery in the
+              infra space requires <em>following a plan over
+              responding to change</em>).</p>
+              <p>Agile, software engineering, economics,
+              experiental learning & continuous improvment — these
+              are my elements in the endeavour of dependable and
+              flexible infrastructures. In a subtle way, the
+              ultimate goal might just be to garner happy smiles
+              all around. 😊😊😊</p>
             </div>
           </div>
           <div class="col-lg align-self-center">

@@ -355,29 +355,21 @@ Engineering](https://www.citrix.com/products/xenapp-xendesktop/).
 
 ---
 
-May 2007 → Dec 2007
-: Crystal Amusements (UK) Ltd ◦ London, United Kingdom
+Aug 2002 → Dec 2007
+: Greater London Area, United Kingdom
 
-Systems Engineer
-: Windows, JScript/WSH, TCP/IP Routing/Switching, Network Reliability/Security
+IT Freelancer
+: Web development/mastering,
+  Office IT network solutions & support
 
----
-
-Jan 2007 → May 2007
-: [Sterling Limousines (UK) Ltd](http://sterlinglimousines.co.uk/) ◦ Richmond, Surrey, United
-Kingdom
-
-LAMP Developer
-: Perl, PrototypeJS, Apache/mod_perl, Postgresql, Linux, Windows Server 2003
-
----
-
-Aug 2002 → Oct 2006
-: Freelance IT Engineer ◦ Greater London Area, United Kingdom
-
-IT Contractor
-: Office LAN Design, Web Design & Mastering, Linux, Windows Workstation/Server,
-  Microsoft Office, TCP/IP Routing/Switching, Apache/IIS, Perl, VBScript/Excel
+Skills & Experience
+: Linux, Bash/Shell,
+  Perl/mod_perl, PHP, Apache, Postgres/MySQL, PrototypeJS,
+  IIS, WSH/JScript/VBScript,
+  Office IT Network design/security,
+  Microsoft small-business solutions,
+  Microsoft Office/Frontpage,
+  Webpage/Pamphlet Design,
 
 ---
 
@@ -440,4 +432,9 @@ Links
 ### Download
 
 PDF Version
-: [shalom_bhooshi-cv.pdf](shalom_bhooshi-cv.pdf)
+: [shalom_bhooshi-cv.pdf](https://shalomb.github.io/cv/shalom_bhooshi-cv.pdf)
+
+Other Versions
+: [Online](https://shalomb.github.io/cv/),
+  [Microsoft Word](https://shalomb.github.io/cv/cv.docx),
+  [OpenDocument Text](https://shalomb.github.io/cv/cv.odt)
