@@ -230,19 +230,17 @@ a:visited {
   background-repeat: no-repeat;
   background-size: 40vh;
   animation: fadein-index 4s;
-  filter: drop-shadow(90px 60px 1px rgba(32, 32, 32, 0.5));
+  filter: drop-shadow(90px 60px 1px rgba(32, 32, 32, 0.6));
 }
 
 @keyframes fadein-index {
   from {
-    opacity: 0.5;
     filter: grayscale(100%);
     filter: drop-shadow(90px 60px 1px rgba(32, 32, 32, 0.0));
   }
   to   {
-    opacity: .8;
     filter: grayscale(40%);
-    filter: drop-shadow(90px 60px 1px rgba(32, 32, 32, 0.5));
+    filter: drop-shadow(90px 60px 1px rgba(32, 32, 32, 0.6));
   }
 }
 
