@@ -1,7 +1,7 @@
 ---
 title: Shalom Bhooshi
 pagetitle: Shalom Bhooshi — Curriculum Vitae
-author:  [s.bhooshi@gmail.com](mailto:s.bhooshi@gmail.com) ◦ +421 948 140 290 
+author:   [shalomb.github.io](http://shalomb.github.io/) ◦ [s.bhooshi@gmail.com](mailto:s.bhooshi@gmail.com) ◦ +421 948 140 290 
 abstract: >
   An adept Systems/SRE/DevOps engineer with a background in the agile delivery of IT platforms and services.
   Being software-inclined, I subscribe to software-defined everything principles in building and operating reliable yet flexible solutions.
@@ -432,13 +432,10 @@ Residentship
 : Slovak Permanent Residentship
 
 Links
-: [CV](http://shalomb.github.io/cv/) ।
-  [Developer Story](https://stackoverflow.com/story/shalombhooshi) ।
-  [PluralSight](https://app.pluralsight.com/profile/shalom-bhooshi) ।
+: [LinkedIn](https://uk.linkedin.com/in/shalombhooshi) ।
   [Github](https://github.com/shalomb/) ।
-  [LinkedIn](https://uk.linkedin.com/in/shalombhooshi) ।
-  [Keybase](https://keybase.io/shalomb) ।
-  [GC3.2](https://mj.ucw.cz/geek/?code=GCM%2fCS%2fIT%2fE%2fMU%2fP%2fO+d--+s%3a%2b%2b+a+C%2b%2b(%2b%2b%2b%2b)+UL+L%2b%2b+P%2b%2b+E---+W%2b%2b(-)+N%2b+o-+K%2b%2b%2b+w---+O-+M%2b+V--+PS%2b%2b+PE%2b+!Y%2b+PGP%2b%2b+t%2b+5%3f+X%2b%2b+!R+TV%2b+b+DI%2b%2b+D%2b+G%2b%2b+e%2b%2b+h--+r%2b%2b%2b+y%2b%2b%2b)
+  [Developer Story](https://stackoverflow.com/story/shalombhooshi) ।
+  [Keybase](https://keybase.io/shalomb)
 
 ### Download
 
