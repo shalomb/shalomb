@@ -2,6 +2,17 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Recursive:wght,CASL,MONO@300..800,0,0&display=swap');
 
+/* fix for firefox <= 78 where link...preload isn't functional yet */
+/* preload assets */
+#preloader {
+  position: absolute;
+  overflow: hidden;
+  left: -9999px;
+  top: -9999px;
+  height: 1px;
+  width: 1px;
+}
+
 :root{
   --nav_height: 3rem;
   --cm-wght: 400;
