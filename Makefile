@@ -12,7 +12,7 @@ html:
 .PHONY: watch
 watch:
 	env=dev make html
-	env=dev watchmedo shell-command --patterns="*.j2" --recursive \
+	env=dev watchmedo shell-command --patterns="*.j2;*.md;*.css" --recursive \
 		--command="cd $$PWD && make html"
 
 .PHONY: serve
