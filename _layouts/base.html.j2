@@ -13,9 +13,19 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=yes">
 
+    <!-- preload images -->
+    <link rel="preload" as="image" href="img/pexels-photo-304664.jpeg">
+    <link rel="preload" as="image" href="img/sidepic-home.png">
+    <link rel="preload" as="image" href="img/sidepic-about.png">
+    <link rel="preload" as="image" href="img/sidepic-contact.png">
+    <link rel="preload" as="image" href="img/starfish-200.png">
+
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 
+    <!-- seems ok on chrom* but not firefox -->
+    <link rel="preload"    href="css/style.css" as="style" onload="this.rel='stylesheet'">
+    <!-- fallback for firefox -->
     <link rel="stylesheet" href="css/style.css" >
 
   </head>
