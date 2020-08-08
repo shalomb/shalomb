@@ -2,12 +2,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Recursive:wght,CASL,MONO@300..800,0,0&display=swap');
 
-@font-face {
- font-family: 'RecursiveCasual';
- src: url('https://fonts.googleapis.com/css2?family=Recursive:wght,CASL,MONO@300..800,0.3,0&display=swap');
- font-weight: 300 1000;
-}
-
 :root{
   --nav_height: 3rem;
   --cm-wght: 400;
@@ -32,7 +26,6 @@ html {
   overflow: auto;
   margin: 0;
   margin-left: calc(100vw - 100%) !important;
-
   font-size: 100%;
 }
 
@@ -41,7 +34,7 @@ body {
   flex-direction: column;
   overflow-x: none;
   background-attachment: fixed;
-  background: #fff url("../img/pexels-photo-304664.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=2048") no-repeat center center fixed;
+  background: #fff url("../img/pexels-photo-304664.jpeg") no-repeat center center fixed;
   background-size: cover;
   text-align: left;
   font-size: 0.9rem;
@@ -89,6 +82,7 @@ p {
 div.blog {
   margin-top: 1rem;
   font-size: .8rem;
+  overflow: auto;
 }
 
 p:last-child {
