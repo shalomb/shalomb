@@ -313,15 +313,15 @@ a:visited {
 }
 
 .icon {
-  fill: #000000;
+  fill: #5d5c5c;
   height: 2em;
   width:  2em;
-  font-size: 0.9rem;
   color: #3e3e3e !important;
 }
 
 .icon span {
-  font-weight: 500;
+  position: relative;
+  bottom: -2px;
 }
 
 .icon svg {
@@ -371,8 +371,8 @@ a:hover {
 }
 
 .icon-stackoverflow-hover {
-  fill:  #ce3a15;
-  color: #ce3a15 !important;
+  fill:  #e4662c;
+  color: #e4662c !important;
 }
 
 .icon-cv-hover {
