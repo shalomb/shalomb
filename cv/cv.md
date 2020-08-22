@@ -10,11 +10,10 @@ abstract: >
 
 ### Core Competencies
 
-* Software-centric approach to Systems Engineering for IT Infrastructure, Tooling and Platforms
-* Solution Design balancing Big Picture Thinking and Design for Iteration for Agile Delivery
-* Application of Agile and DevOps practices to manage Continuous Delivery pipelines
-* Site Reliability Engineering in the Continuous Improvement of Service Agility and Reliability
-* Project Delivery using Initiative, Conceptual Thinking, Communication, Teamwork and Pragmatism
+* Software-engineering approach to managing systems for IT Infrastructure, Platforms and Tooling
+* Application of Agile and DevOps practices for Continuous Delivery of projects
+* Cloud & Site Reliability Engineering know-how for continuous improvement of operations
+* Agile Project Delivery using Initiative, Communication, Teamwork and Pragmatism
 
 ### Technical Skills
 
@@ -27,20 +26,21 @@ Cloud Platforms
 AWS
 : VPC, EC2, EBS, ELB, VPN, Route53, Cloudfront, Cloudwatch, S3, Glacier
 
+Scripting Languages
+: [Python](https://www.python.org/),
+  [Bash](https://www.gnu.org/software/bash/)/[POSIX Shell](http://pubs.opengroup.org/onlinepubs/009695399/utilities/xcu_chap02.html),
+  [Go](https://www.golang.org/),
+  [Ruby](https://www.ruby-lang.org/en/),
+  [Powershell](https://en.wikipedia.org/wiki/Windows_PowerShell),
+  [Perl](https://www.perl.org/),
+  [Raku](https://www.raku.org)
+
 Containers
 : [docker](https://www.docker.com/),
-  [Kubernetes](https://kubernetes.io/),
-  [k3s](https://k3s.io/),
   [docker-compose](https://docs.docker.com/compose/),
-  [kompose](https://github.com/kubernetes/kompose),
+  [Kubernetes](https://kubernetes.io/)/[k3s](https://k3s.io/),
   [Consul](https://www.consul.io/),
   [Istio](https://istio.io/)*
-
-Operating Systems
-: [Debian](http://www.debian.org/)/[Ubuntu](http://www.ubuntu.com/)/[CentOS](https://www.centos.org/)
-  [Linux](https://linux.org/),
-  [Windows Server 2003-2016](https://en.wikipedia.org/wiki/Windows_Server#Members),
-  [FreeBSD](http://www.freebsd.org/)
 
 IaC
 : [Ansible](http://www.ansible.com/),
@@ -48,42 +48,23 @@ IaC
   [goss](https://github.com/aelsabbahy/goss),
   [Make](https://www.gnu.org/software/make/),
   [CheckInstall](https://wiki.debian.org/CheckInstall),
-  [StackStorm](https://stackstorm.com/)
-
-Scripting Languages
-: [Python](https://www.python.org/),
-  [Bash](https://www.gnu.org/software/bash/)/[POSIX Shell](http://pubs.opengroup.org/onlinepubs/009695399/utilities/xcu_chap02.html),
-  [Golang](https://www.golang.org/),
-  [Ruby](https://www.ruby-lang.org/en/),
-  [Powershell](https://en.wikipedia.org/wiki/Windows_PowerShell)/[.NET](http://www.microsoft.com/net),
-  [Perl](https://www.perl.org/),
-  [Raku/Perl6](https://www.raku.org)
-
-Configuration
-: [systemd](https://www.freedesktop.org/wiki/Software/systemd/),
-  [supervisord](https://github.com/ochinchina/supervisord),
-  [monit](https://mmonit.com/monit/),
-  [Jinja2](https://jinja.palletsprojects.com/en/2.11.x/),
-  [ERB](https://puppet.com/docs/puppet/5.5/lang_template_erb.html),
-  [YAML](http://yaml.org/),
-  [JSON](http://json.org/) [Schema](https://json-schema.org/)/[Path](https://goessner.net/articles/JsonPath/),
-  [TOML](https://github.com/toml-lang/toml)
+  [Chef](https://chef.io/)
 
 CI/CD
 : [git](https://git-scm.com/),
   [Github](https://github.com/),
   [Gitlab CI](https://docs.gitlab.com/ee/ci/quick_start/)/[Runners](https://docs.gitlab.com/runner/),
   [Travis CI](https://travis-ci.org/),
+  [Scrutinizer CI](https://scrutinizer-ci.com/),
   [JFrog Artifactory](https://jfrog.com/artifactory/)
 
 Observability
 : [Prometheus](https://prometheus.io/),
   [Grafana](https://grafana.com/),
   [Graylog2](https://www.graylog.org/),
-  [Icinga2](https://www.icinga.com/products/icinga-2/)/[CheckMK](https://checkmk.com/),
+  [CloudWatch](https://aws.amazon.com/cloudwatch/),
   [New Relic](http://newrelic.com/),
-  [Airbrake](https://airbrake.io/),
-  [Cacti](http://www.cacti.net/)
+  [Airbrake](https://airbrake.io/)
 
 Web
 : [nginx](http://nginx.org/en/),
@@ -91,29 +72,16 @@ Web
   [Cloudflare](https://www.cloudflare.com/),
   [Citrix NetScaler](https://www.citrix.com/products/netscaler),
   [Python Flask](https://www.fullstackpython.com/flask.html),
-  [REST](https://en.wikipedia.org/wiki/REST),
-  [Microservices](https://microservices.io/)
+  [HTTP](https://en.wikipedia.org/wiki/HTTP),
+  [REST](https://en.wikipedia.org/wiki/REST)
 
 Databases
 : [Postgres](http://www.postgresql.org/),
-  [MariaDB](http://mariadb.org/)/[MySQL](http://www.mysql.com/why-mysql/),
+  [MariaDB](http://mariadb.org/),
   [Elasticsearch](https://www.elastic.co/),
   [CouchDB](http://couchdb.apache.org/),
   [Redis](https://redis.io/),
   [SQLite](http://sqlite.org/)
-
-Virtualization
-: [Citrix](https://citrix.com/)
-  [Hypervisor](https://www.citrix.com/products/citrix-hypervisor/)/[XenServer](http://xenserver.org/),
-  [KVM](https://wiki.debian.org/KVM),
-  [Xen](http://www.xenproject.org/),
-  [libvirt](https://libvirt.org/),
-  [Microsoft Hyper-V](http://www.microsoft.com/en-us/server-cloud/solutions/virtualization.aspx)
-
-Compute Hardware
-: [Dell PowerEdge](http://www.dell.com/us/business/p/poweredge-rack-servers),
-  [HP Proliant](https://www.hpe.com/us/en/servers/proliant-servers.html),
-  [HP BladeSystem](http://www8.hp.com/us/en/products/servers/bladesystem/)
 
 Networking
 : [TCP/IP](https://en.wikipedia.org/wiki/Internet_protocol_suite) -
@@ -124,19 +92,10 @@ Networking
   [VPNs](https://en.wikipedia.org/wiki/Virtual_private_network),
   [L4-L7 Load-Balancing](https://loadbalancerblog.com/blog/2013/04/what-heck-layer-7-load-balancing-anyway)
 
-Storage
-: [NFS](https://en.wikipedia.org/wiki/NFS),
-  [iSCSI](https://en.wikipedia.org/wiki/ISCSI),
-  [S3](https://aws.amazon.com/s3/)/[Swift](https://wiki.openstack.org/wiki/Swift),
-  [Dell Compellent](http://www.dell.com/us/business/p/dell-compellent),
-  [NetApp](http://www.netapp.com/us/products/storage-systems/),
-  [HP StorageWorks](http://www8.hp.com/h20195/v2/GetHTML.aspx?docname=c04168365),
-  [QuadStor](https://www.quadstor.com/)
-
 Other
-: See my [StackOverflow Developer Story](https://stackoverflow.com/story/shalombhooshi)
-  for [assessments](https://app.pluralsight.com/profile/shalom-bhooshi)
-  and [opensource work](https://github.com/shalomb?tab=repositories).
+: Also see my [Developer Story](https://stackoverflow.com/story/shalombhooshi)
+  for [self-assessments](https://app.pluralsight.com/profile/shalom-bhooshi),
+  [opensource work](https://github.com/shalomb?tab=repositories), etc.
 
 ### Professional Experience
 
@@ -150,7 +109,7 @@ Being both a platform for
 specialised Network Technology Services (Voice, Video & Data) and
 general-purpose/IT cloud workloads,
 Pan-Net uses best-of-breed cloud technologies
-to evolve the group's product lines.
+to help evolve the group's product lines.
 
 Jun 2019 → Present
 : Cloud Infrastructure Engineer/Technical Lead, IT PaaS, Pan-Net Cloud
@@ -171,16 +130,15 @@ Skills & Experience
 
 * As an Infrastructure Engineer:
   Participating in team scrums to develop, deliver and advance PaaS offerings
-  in an _aaS_ fashion to complement and enrich the Openstack IaaS
+  in an _aaS_ fashion to enrich and advance the Pan-Net platform
   (e.g.
    DBaaS,
    LBaaS,
-   FaaS,
-   Big Data/NoSQL,
    Service Monitoring,
-   Log Management,
+   Log & Event Management,
    Data Archival,
-   Disaster Recovery).
+   Disaster Recovery,
+   etc).
 * As a Technical Lead:
   PaaS architecture definition,
   agile roadmap alignment,
@@ -214,8 +172,8 @@ Skills & Experience
   Grafana
 
 * DevOps of CI/CD/CT services
-  (i.e. Gitlab CI/Runners, Binary Repositories, Library Code)
-  to sustain IaC and Continuous Delivery activities of the platform.
+  (i.e. Gitlab CI/Runners, Binary Repositories, CI/CD Pipeline Best-Practices, Library Code)
+  to sustain IaC and Continuous Delivery activities of the Pan-Net platform.
 * Consultation and design of
   VNF service delivery CI/CD pipelines,
   branching and release models.
@@ -269,7 +227,7 @@ Skills & Experience
   Elasticsearch
 
 * Lead systems engineer managing DevOps and Site Reliability Engineering across
-  polar opposite timezones (Bratislava/Kiev vs Melbourne/Wellington):
+  polar opposite timezones (Bratislava/Kiev and Melbourne/Wellington):
   systems analysis,
   infrastructure design and development,
   improving production deployments and platform availability.
@@ -301,42 +259,34 @@ desktops, data and communications. With annual revenue in 2014 of $3.14 billion,
 Citrix solutions are in use at more than 400,000 organizations and by over
 100 million users globally.
 
-Oct 2013 → Aug 2015
-  : Senior Software Test Engineer, [Engineering Productivity](https://landing.google.com/engprod/), [Enterprise Desktop and Applications](https://www.citrix.com/products/xenapp-xendesktop/)
+Position
+  : Senior Software Test Engineer, [Engineering Productivity](https://landing.google.com/engprod/), [Desktop and Apps](https://www.citrix.com/products/xenapp-xendesktop/)
 
 Skills & Experience
-: IaaS,
+: Citrix,
+  IaaS,
   Cloud Architecture,
+  Virtualization,
   Network Design,
   Enterprise Software Testing,
-  DevOps,
-  Teamwork,
-  Mentoring,
-  Virtualization,
+  Automation,
   CloudStack,
   XenServer,
-  PowerShell/.NET,
+  PowerShell,
   Perl,
-  Python,
-  Ruby,
-  Linux,
-  Windows Server,
-  WDS,
-  CouchDB,
-  Icinga,
-  Puppet
+  Python
 
-* Systems Architect/DevOps Engineer of a self-service IaaS cloud
-  ([Apache CloudStack](https://cloudstack.apache.org/)/[XenServer](https://www.citrix.com/products/xenserver/))
-  supporting ad-hoc and Continuous Testing activities of 65+ internal engineering teams.
-* Solving push-button provisioning of Citrix VDI (Virtual Desktop Infrastructure)
-  test environments on Cloud and Virtualization Backends (Xenserver, ESX, Hyper-v, Azure),
+* Systems Engineer/DevOps of self-service tests-as-a-service cloud platform
+  to support the ad-hoc test, QA and Continuous Testing activities
+  of 65+ internal engineering teams.
+* Solving and automating push-button provisioning of Citrix VDI
+  test environments on multiple Cloud and Virtualization Backends,
   Improving QA self-service capabilities,
   enriching cloud offerings through automation,
   VM image creation/cataloguing,
   etc.
 * Member of the core automation team stewarding test automation frameworks and
-  test library code underpinning QA strategies of the [Citrix Desktop and App
+  test library code underpinning wider QA strategies of the [Citrix Desktop and App
   virtualization](https://www.citrix.com/solutions/desktop-virtualization/overview.html)
   suites.
   Lead developer of perl components to support testing Mac and Linux/Unix end-points.
@@ -344,14 +294,6 @@ Skills & Experience
   Setting up backend infrastructure for [Citrix Summit](http://www.citrixsummit.com/).
   Hardware procurement and maintenance, vendor relations.
   Technical training/mentoring.
-
-Apr 2012 → Oct 2013
-: Associate Software Test Engineer, [Engineering Productivity](https://landing.google.com/engprod/), [Enterprise Desktop and
-Applications](https://www.citrix.com/products/xenapp-xendesktop/)
-
-Jul 2010 → Apr 2012
-: Software Test Engineer, Test Automation, [XenDesktop
-Engineering](https://www.citrix.com/products/xenapp-xendesktop/).
 
 ---
 
@@ -365,11 +307,8 @@ IT Freelancer
 Skills & Experience
 : Linux, Bash/Shell,
   Perl/mod_perl, PHP, Apache, Postgres/MySQL, PrototypeJS,
-  IIS, WSH/JScript/VBScript,
-  Office IT Network design/security,
-  Microsoft small-business solutions,
-  Microsoft Office/Frontpage,
-  Webpage/Pamphlet Design,
+  Small-business IT network design/support,
+  Document/WebPage design
 
 ---
 
@@ -396,12 +335,11 @@ English (Native), Slovak (Basic Vernacular), French (High School)
 
 ### Hobbies and Interests
 
-Parenting, Fatherhood ◦
-Cycling, Running, Outdoors ◦
+Fatherhood ◦
+Cycling, Outdoors ◦
 Guitar, Music ◦
-[engineeringblogs.xyz](https://engineeringblogs.xyz/), [hackernews](https://news.ycombinator.com/) ◦
-[Raku/Perl6 Community](https://www.raku.org/) ◦
-Home IoT w/ Raspberry Pi
+[hackernews](https://news.ycombinator.com/) ◦
+[Raku Community](https://www.raku.org/)
 
 ### Personal Details
 
@@ -415,7 +353,7 @@ Address
 : [Tučkova 9, Ružinov II, Bratislava 82105, Slovakia](https://www.google.co.uk/maps?q=Tuckova+9,+Bratislava,+82105)
 
 Date of Birth
-: [8ᵗʰ Jan, 1983](https://takemeback.to/08-January-1983) (♑︎)
+: [8ᵗʰ Jan, 1983](https://takemeback.to/08-January-1983)
 
 Nationality
 : British
@@ -424,7 +362,8 @@ Residentship
 : Slovak Permanent Residentship
 
 Links
-: [LinkedIn](https://uk.linkedin.com/in/shalombhooshi) ।
+: [shalomb.github.io](http://shalomb.github.io/) ।
+  [LinkedIn](https://uk.linkedin.com/in/shalombhooshi) ।
   [Github](https://github.com/shalomb/) ।
   [Developer Story](https://stackoverflow.com/story/shalombhooshi) ।
   [Keybase](https://keybase.io/shalomb)

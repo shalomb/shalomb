@@ -6,7 +6,7 @@
 
 .PHONY: html
 html:
-	@ inji -t _layouts/base.html.j2 | \
+	@ inji _layouts/base.html.j2 | \
 		tidy -qi -utf8 --show-warnings yes > index.html
 
 .PHONY: watch
