@@ -46,3 +46,6 @@ tags
 .tags
 *.tmp*
 TODO*
+
+# project
+.jekyll-cache/

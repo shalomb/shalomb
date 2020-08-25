@@ -178,6 +178,21 @@ a:visited {
   color: #222;
 }
 
+ul {
+  list-style :  none;
+}
+
+p + ul li {
+  line-height :  150%;
+  text-align: left;
+}
+
+p + ul li:before {
+  margin-left: 1rem;
+  content :      " • \0020";
+  color :        #444;
+}
+
 .carousel {
   text-align: left;
 }
