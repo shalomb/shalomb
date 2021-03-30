@@ -6,6 +6,17 @@ abstract: >
   An adept Systems/SRE/DevOps engineer with a background in the agile delivery of IT platforms and services.
   Being software-inclined, I subscribe to software-defined everything principles in building and operating reliable yet flexible solutions.
   I seek a progressive role in an agile work setting that embraces cloud-native and open-source technologies to innovate and advance business.
+header-includes:
+  <meta name="keywords" content="Curriculum Vitae, CV, Resume, Professional Experience, Functional Resume" />
+  <meta name="description" content="Shalom Bhooshi — Curriculum Vitae" />
+  <meta name="robots" content="noindex, nofollow">
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="Shalom Bhooshi — Curriculum Vitae" />
+  <meta property="og:description" content="Shalom Bhooshi — Curriculum Vitae" />
+  <meta property="og:image" content="https://cdn2.iconfinder.com/data/icons/business-management-and-teamwork-filled-color/300/163251747Untitled-3-512.png">
+  <meta property="og:url" content="http://shalomb.github.io/cv">
+  <meta property="og:site_name" content="shalomb.github.io" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.3/gh-fork-ribbon.min.css" />
 ---
 
 ### Core Competencies
@@ -377,3 +388,5 @@ Other Versions
 : [Online](https://shalomb.github.io/cv/),
   [Microsoft Word](https://shalomb.github.io/cv/cv.docx),
   [OpenDocument Text](https://shalomb.github.io/cv/cv.odt)
+
+<a class="github-fork-ribbon" href="https://github.com/shalomb/shalomb.github.io/" data-ribbon="Fork me on GitHub" title="Fork me on GitHub">Fork me on GitHub</a>
