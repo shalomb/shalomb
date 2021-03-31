@@ -2,11 +2,16 @@
 #
 # in_file  ?= cv.md
 
+export PATH := $(PATH):/opt/buildhome/.local/bin:$(HOME)/.local/bin
+
 .DEFAULT_GOAL := html
 
 .PHONY: deps
 deps:
-	pip3 install inji --user
+	pip3 install inji
+	pip3 list
+	which inji
+	inji --version
 
 .PHONY: html html-tidy
 html:
