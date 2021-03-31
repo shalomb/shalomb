@@ -1,32 +1,37 @@
 About Me
 ========
 
-I do cloud infrastructures --- I make them work, work right, work well,
-work cheap --- in that order!
+I do cloud infrastructures — making them work, work right, work well,
+work cheap — in that order!
 
-This section is a kind of a professional one-pager (for a 6-pager, see
-my [CV](#contact){.nav-link-inline}) and perhaps a little about what
-drives me as an engineer.
+This page here is a bit of a professional one-pager (for a 6-pager, see
+my [CV](#contact){.nav-link-inline} .. and no I don't work for Amazon).
+
+Perhaps a little about what drives me as an engineer.
 
 - Production Engineering — SRE/CRE, (Sys|Infra)Ops, Automation, Problem Management
-- DevOps — CI/CD + CT, Build & Release Engineering, Dev(Sec|Test)Ops, QA/QE
 - Cloud Engineering — Private/Public Cloud IaaS/PaaS design, IaC, Workload Migrations
+- Systems Development — UNIX/Linux, Python, Golang, Shell, Windows Core, PowerShell
+- DevOps — CI/CD + CT, Build & Release Engineering, Dev(Sec|Test)Ops, QA/QE
 - Ecosystems — Platforms, Bespoke Services, APIs & Integrations, Tooling
 
-I've held various roles in my career -- in web-development, ICT, QA,
-systems engineering, cloud.
-I started out in web development in the early 00's but turned to
-systems after becoming interested in other forces that make infrastructure work
---- networking, virtualization & elastic capacity,
-self-service models, service oriented architectures, distributed &
-self-healing systems, consistency vs availability tradeoffs, etc were
-all enablers but the combined utility of these eluded all but the
-biggest companies in the pre-cloud era. Seeing cloud providers now
-package-up and commoditise these to the extent that players in every
-field are by default cloud-native is testament to a universal need for
-dependable infrastructure not just as a consumable but a platform. Yet cloud
-platforms offer more than just a means to offload complexity to the
-provider, their adoption shapes a [necessary
+I've  worked in various technology settings over 17 years --
+in  content & web development, SOHO infrastrcture & networking,
+QA automation, systems admin & engineering, DevOps/SRE,  cloud infra.
+
+After university the first time, I tried my hand at programming but the appeal
+of web development didn't take my fancy. I was more interested in the
+backends and the things behind the scenes that make things work ---
+networking,  virtualization  &  elastic
+capacity, self-service  models, service oriented architectures,  distributed &
+antifragile systems,  etc. These didn't have the modern labels we assign them
+today but being business enablers,  their combined  utility  eluded  all but  the  biggest
+companies  in the  pre-cloud era.  Seeing cloud  providers now  package-up and
+commoditise these  to the extent  that players in  every field are  by default
+cloud-native is  testament to a  universal need for  dependable infrastructure
+not just as a  consumable but a platform. Yet cloud  platforms offer more than
+just a  means to offload complexity  to the provider, their  adoption shapes a
+[necessary
 antifragility](https://www.sciencedirect.com/science/article/pii/S1877050914007017/pdf?md5=579fbbe1aa1f4e10e7ad57bc2d5535e9&pid=1-s2.0-S1877050914007017-main.pdf)
 for consumers --- engineering systems with this agency at the core,
 for continuous improvement, is my main professional interest.

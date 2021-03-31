@@ -2,13 +2,13 @@
 # Setup
 title:               shalomb
 tagline:             shalomb's homepage
-url:                 http://shalomb.github.io
+url:                 http://shalomb.id/
 baseurl:             "/"
 
 # About/contact
 author:
   name:              Shalom Bhooshi
-  url:               https://shalomb.github.io/
+  url:               https://shalomb.id//
   email:             s.bhooshi@gmail.com
 
 # Custom vars
@@ -56,4 +56,3 @@ permalink:           pretty
 sass:
   sass_dir:          _sass
   style:            :compressed
-

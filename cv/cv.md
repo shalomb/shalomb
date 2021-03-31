@@ -1,7 +1,7 @@
 ---
 title: Shalom Bhooshi
 pagetitle: Shalom Bhooshi — Curriculum Vitae
-author:   [shalomb.github.io](http://shalomb.github.io/) ◦ [s.bhooshi@gmail.com](mailto:s.bhooshi@gmail.com) ◦ +421 948 140 290 
+author:   [shalomb.id](http://shalomb.id/) ◦ [s.bhooshi@gmail.com](mailto:s.bhooshi@gmail.com) ◦ +421 948 140 290 
 abstract: >
   An adept Systems/SRE/DevOps engineer with a background in the agile delivery of IT platforms and services.
   Being software-inclined, I subscribe to software-defined everything principles in building and operating reliable yet flexible solutions.
@@ -14,8 +14,8 @@ header-includes:
   <meta property="og:title" content="Shalom Bhooshi — Curriculum Vitae" />
   <meta property="og:description" content="Shalom Bhooshi — Curriculum Vitae" />
   <meta property="og:image" content="https://cdn2.iconfinder.com/data/icons/business-management-and-teamwork-filled-color/300/163251747Untitled-3-512.png">
-  <meta property="og:url" content="http://shalomb.github.io/cv">
-  <meta property="og:site_name" content="shalomb.github.io" />
+  <meta property="og:url" content="http://shalomb.id/cv">
+  <meta property="og:site_name" content="shalomb.id" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.3/gh-fork-ribbon.min.css" />
 ---
 
@@ -373,7 +373,7 @@ Residentship
 : Slovak Permanent Residentship
 
 Links
-: [shalomb.github.io](http://shalomb.github.io/) ।
+: [shalomb.id](http://shalomb.id/) ।
   [LinkedIn](https://uk.linkedin.com/in/shalombhooshi) ।
   [Github](https://github.com/shalomb/) ।
   [Developer Story](https://stackoverflow.com/story/shalombhooshi) ।
@@ -382,11 +382,11 @@ Links
 ### Download
 
 PDF Version
-: [shalom_bhooshi-cv.pdf](https://shalomb.github.io/cv/shalom_bhooshi-cv.pdf)
+: [shalom_bhooshi-cv.pdf](https://shalomb.id/cv/shalom_bhooshi-cv.pdf)
 
 Other Versions
-: [Online](https://shalomb.github.io/cv/),
-  [Microsoft Word](https://shalomb.github.io/cv/cv.docx),
-  [OpenDocument Text](https://shalomb.github.io/cv/cv.odt)
+: [Online](https://shalomb.id/cv/),
+  [Microsoft Word](https://shalomb.id/cv/cv.docx),
+  [OpenDocument Text](https://shalomb.id/cv/cv.odt)
 
 <a class="github-fork-ribbon" href="https://github.com/shalomb/shalomb.github.io/" data-ribbon="Fork me on GitHub" title="Fork me on GitHub">Fork me on GitHub</a>
