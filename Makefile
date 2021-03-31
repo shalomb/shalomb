@@ -17,6 +17,9 @@ deps:
 html:
 	inji _layouts/base.html.j2 > index.html
 
+.PHONY: build
+build: deps html
+
 tidy: html
 	@ tidy -qi -utf8 --show-warnings yes < index.html > index.html.tidy
 	@ mv index.html.tidy index.html
