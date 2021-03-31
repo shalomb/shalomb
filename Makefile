@@ -4,10 +4,17 @@
 
 .DEFAULT_GOAL := html
 
-.PHONY: html
+.PHONY: deps
+deps:
+	pip install inji --user
+
+.PHONY: html html-tidy
 html:
-	@ inji _layouts/base.html.j2 | \
-		tidy -qi -utf8 --show-warnings yes > index.html
+	@ inji _layouts/base.html.j2 > index.html
+
+tidy: html
+	@ tidy -qi -utf8 --show-warnings yes < index.html > index.html.tidy
+	@ mv index.html.tidy index.html
 
 .PHONY: watch
 watch:
