@@ -12,8 +12,9 @@ make html
 # Hosting
 
 The above build steps produce static content that can be hosted on
-any webserver,
-(github pages)[https://pages.github.com/],
-(cloudflare pages)[https://pages.cloudflare.com/],
+any webserver or content hosting services such as
+[github pages](https://pages.github.com/),
+[cloudflare pages](https://pages.cloudflare.com/),
 etc.
-Simply copy the output over to the right location and that's it.
+Simply copy the output HTML over to the right location and that's it.
+Alernatively, run the above build commands as part of the deployment.
