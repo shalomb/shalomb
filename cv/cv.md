@@ -1,10 +1,10 @@
 ---
 title: Shalom Bhooshi
 pagetitle: Shalom Bhooshi — Curriculum Vitae
-author:   [shalomb.id](http://shalomb.id/) ◦ [s.bhooshi@gmail.com](mailto:s.bhooshi@gmail.com) ◦ +421 948 140 290 
+author:   [https://shalomb.id](http://shalomb.id/) ◦ [s.bhooshi@gmail.com](mailto:s.bhooshi@gmail.com) ◦ +421 948 140 290 
 abstract: >
-  An adept Systems/SRE/DevOps engineer with a background in the agile delivery of IT platforms and services.
-  Being software-inclined, I subscribe to software-defined everything principles in building and operating reliable yet flexible solutions.
+  An adept Systems/SRE/DevOps engineer with a background in the DevOps & agile delivery of IT platforms and services.
+  Being software-inclined, I subscribe to software-defined-everything principles in building and operating reliable technology solutions.
   I seek a progressive role in an agile work setting that embraces cloud-native and open-source technologies to innovate and advance business.
 header-includes:
   <meta name="keywords" content="Curriculum Vitae, CV, Resume, Professional Experience, Functional Resume" />
@@ -26,7 +26,7 @@ header-includes:
 * Cloud & Site Reliability Engineering know-how for continuous improvement of operations
 * Agile Project Delivery using Initiative, Communication, Teamwork and Pragmatism
 
-### Technical Skills
+### Skills
 
 Cloud Platforms
 : [Canonical Openstack](https://www.ubuntu.com/openstack),
@@ -39,27 +39,21 @@ AWS
 
 Scripting Languages
 : [Python](https://www.python.org/),
-  [Bash](https://www.gnu.org/software/bash/)/[POSIX Shell](http://pubs.opengroup.org/onlinepubs/009695399/utilities/xcu_chap02.html),
+  [Bash](https://www.gnu.org/software/bash/),
+  [POSIX Shell](http://pubs.opengroup.org/onlinepubs/009695399/utilities/xcu_chap02.html),
   [Go](https://www.golang.org/),
-  [Ruby](https://www.ruby-lang.org/en/),
   [Powershell](https://en.wikipedia.org/wiki/Windows_PowerShell),
   [Perl](https://www.perl.org/),
   [Raku](https://www.raku.org)
 
-Containers
-: [docker](https://www.docker.com/),
-  [docker-compose](https://docs.docker.com/compose/),
-  [Kubernetes](https://kubernetes.io/)/[k3s](https://k3s.io/),
-  [Consul](https://www.consul.io/),
-  [Istio](https://istio.io/)*
-
-IaC
+DevOps/IaC
 : [Ansible](http://www.ansible.com/),
   [Terraform](https://www.terraform.io/),
+  [docker](https://www.docker.com/),
+  [docker-compose](https://docs.docker.com/compose/),
+  [Kubernetes](https://kubernetes.io/),
   [goss](https://github.com/aelsabbahy/goss),
-  [Make](https://www.gnu.org/software/make/),
-  [CheckInstall](https://wiki.debian.org/CheckInstall),
-  [Chef](https://chef.io/)
+  [Make](https://www.gnu.org/software/make/)
 
 CI/CD
 : [git](https://git-scm.com/),
@@ -74,20 +68,21 @@ Observability
   [Grafana](https://grafana.com/),
   [Graylog2](https://www.graylog.org/),
   [CloudWatch](https://aws.amazon.com/cloudwatch/),
+  [Nagios](https://www.nagios.org/),
   [New Relic](http://newrelic.com/),
   [Airbrake](https://airbrake.io/)
 
 Web
 : [nginx](http://nginx.org/en/),
-  [Apache](http://httpd.apache.org/),
+  [envoy proxy](https://envoyproxy.io),
   [Cloudflare](https://www.cloudflare.com/),
-  [Citrix NetScaler](https://www.citrix.com/products/netscaler),
   [Python Flask](https://www.fullstackpython.com/flask.html),
   [HTTP](https://en.wikipedia.org/wiki/HTTP),
-  [REST](https://en.wikipedia.org/wiki/REST)
+  [REST](https://en.wikipedia.org/wiki/REST)/[SOA](https://en.wikipedia.org/wiki/SOA),
+  [L4-L7 Load-Balancing](https://loadbalancerblog.com/blog/2013/04/what-heck-layer-7-load-balancing-anyway)
 
 Databases
-: [Postgres](http://www.postgresql.org/),
+: [Postgresql](http://www.postgresql.org/),
   [MariaDB](http://mariadb.org/),
   [Elasticsearch](https://www.elastic.co/),
   [CouchDB](http://couchdb.apache.org/),
@@ -101,12 +96,7 @@ Networking
   [DNS](https://en.wikipedia.org/wiki/Domain_Name_System),
   [VPC](https://aws.amazon.com/vpc/)/[Network Design](https://en.wikipedia.org/wiki/Network_planning_and_design),
   [VPNs](https://en.wikipedia.org/wiki/Virtual_private_network),
-  [L4-L7 Load-Balancing](https://loadbalancerblog.com/blog/2013/04/what-heck-layer-7-load-balancing-anyway)
-
-Other
-: Also see my [Developer Story](https://stackoverflow.com/story/shalombhooshi)
-  for [self-assessments](https://app.pluralsight.com/profile/shalom-bhooshi),
-  [opensource work](https://github.com/shalomb?tab=repositories), etc.
+  [NetSec](https://en.wikipedia.org/wiki/Network_security)
 
 ### Professional Experience
 
@@ -140,21 +130,19 @@ Skills & Experience
   Prometheus
 
 * As an Infrastructure Engineer:
-  Participating in team scrums to develop, deliver and advance PaaS offerings
-  in an _aaS_ fashion to enrich and advance the Pan-Net platform
+  Participating in team scrums to develop and operate PaaS offerings
+  in an _aaS_ fashion to enrich the Pan-Net IaaS platform
   (e.g.
-   DBaaS,
-   LBaaS,
+   Cloud Databases,
    Service Monitoring,
    Log & Event Management,
    Data Archival,
    Disaster Recovery,
    etc).
 * As a Technical Lead:
-  PaaS architecture definition,
-  agile roadmap alignment,
-  dependency management,
-  backlog prioritization,
+  Stakeholder engagement,
+  technology ownership & architecture definition,
+  agile roadmap/backlog management,
   sprint scheduling,
   solution exploration/review.
 * As part of the technology community:
@@ -183,11 +171,13 @@ Skills & Experience
   Grafana
 
 * DevOps of CI/CD/CT services
-  (i.e. Gitlab CI/Runners, Binary Repositories, CI/CD Pipeline Best-Practices, Library Code)
-  to sustain IaC and Continuous Delivery activities of the Pan-Net platform.
+  (i.e. Gitlab CI/Runners, Binary Repositories, Library Code, CI/CD Best-Practices)
+  to sustain IaC and Continuous Delivery activities of the wider Pan-Net platform.
 * Consultation and design of
   VNF service delivery CI/CD pipelines,
-  branching and release models.
+  branching and deployment models,
+  shift-left testing/security,
+  gitops.
 
 Aug 2017 → Jan 2018
 : Cloud Infrastructure Engineer, Application Orchestration, Pan-Net NFVI
@@ -198,11 +188,10 @@ Skills & Experience
   Linux,
   Ansible,
   Python,
-  OASIS TOSCA,
-  StackStorm
+  OASIS TOSCA
 
-* Development of VNF Orchestrator and practices for
-  VNF Onboarding and Lifecycle Management.
+* Part of team developing the application orchestration & DevOps best practices
+  for VNF Lifecycle Management on the Pan-Net NFVI platform.
 
 ---
 
@@ -220,11 +209,9 @@ Oct 2015 → Jun 2017
 : Senior Systems Engineer, Site Reliability Engineering
 
 Skills & Experience
-: Amazon AWS,
-  Project Planning,
-  SRE,
-  DevSecOps,
-  Jira,
+: Project Management,
+  Amazon AWS,
+  SRE/DevSecOps,
   Mentoring,
   Ansible,
   Terraform,
@@ -248,10 +235,11 @@ Skills & Experience
   improving technical security and operations.
 * Working on cross-functional efforts with Product Development,
   Quality Engineering and Product Support:
-  Improving DevOps operating procedures,
+  Improving DevOps,
   CI/CD,
   QA,
-  incident/RCA transparency.
+  incident management,
+  reporting & communications.
 * Involved in defining and project managing systems strategy,
   participating in executive committee decision making,
   customer technical support,
@@ -340,6 +328,16 @@ Sep 2008  →  May  2010
 * [Implementing & Administering a Microsoft Directory Services Infrastructure](https://web.archive.org/web/20081222080658/http://www.microsoft.com/learning/en/us/exams/70-217.mspx#EHE), Apr 2003
 * [Implementing & Administering a Microsoft Network Infrastructure](https://web.archive.org/web/20141221185633/https://www.microsoft.com/learning/en/us/exams/70-216.mspx#E3E), Apr 2003
 
+### Professional & Community Profiles
+
+* [shalomb.id](http://shalomb.id/) — My webpage/blog
+* [Keybase](https://keybase.io/shalomb) — My cryptographically-verified online identities
+* [Github](https://github.com/shalomb?tab=repositories), [Gitlab](https://gitlab.com/users/shalomb/projects) — My code projects including opensource contributions
+* [StackOverflow Developer Story](https://stackoverflow.com/story/shalombhooshi) — My professional journey, learning and opensource contributions
+* [Pluralsight Profile](https://app.pluralsight.com/profile/shalom-bhooshi) — My learning & skills self-assessments against various technologies
+* [Linkedin](https://uk.linkedin.com/in/shalombhooshi) — My linkedin profile
+
+
 ### Spoken Languages
 
 English (Native), Slovak (Basic Vernacular), French (High School)
@@ -371,13 +369,6 @@ Nationality
 
 Residentship
 : Slovak Permanent Residentship
-
-Links
-: [shalomb.id](http://shalomb.id/) ।
-  [LinkedIn](https://uk.linkedin.com/in/shalombhooshi) ।
-  [Github](https://github.com/shalomb/) ।
-  [Developer Story](https://stackoverflow.com/story/shalombhooshi) ।
-  [Keybase](https://keybase.io/shalomb)
 
 ### Download
 

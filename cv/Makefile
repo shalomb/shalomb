@@ -63,6 +63,7 @@ html: lander $(in_file)
 	pandoc -s $(in_file) -f markdown -t html5 -o $(out_file).html \
 		--toc -c style.css --template=default.html5
 
+# aptitude install texlive-xetex texlive-fonts-recommended lmodern
 .PHONY: pdf
 pdf: $(in_file)
 	pandoc -s \
@@ -97,4 +98,4 @@ release: all
 	git push --tags
 
 .PHONY: all
-all: html odt docx rtf txt webpdf pdf
+all: html odt docx rtf txt pdf
