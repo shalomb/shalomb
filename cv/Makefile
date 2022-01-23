@@ -56,7 +56,7 @@ rtf: $(in_file)
 
 .PHONY: lander
 lander:
-	ln -sf cv.html index.html
+	ln -sf cv.html index.html || true
 
 .PHONY: html
 html: lander $(in_file)

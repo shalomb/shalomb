@@ -17,8 +17,12 @@ deps:
 html:
 	inji _layouts/base.html.j2 > index.html
 
+.PHONY: cv
+cv:
+	cd cv/ && make html
+
 .PHONY: build
-build: deps html
+build: deps cv html
 
 tidy: html
 	@ tidy -qi -utf8 --show-warnings yes < index.html > index.html.tidy
