@@ -163,3 +163,79 @@ View my publicly-auditable identity here: https://keybase.io/shalomb
 
 ==================================================================
 
+==================================================================
+https://keybase.io/shalomb
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://shalomb.pages.dev
+  * I am shalomb (https://keybase.io/shalomb) on keybase.
+  * I have a public key with fingerprint 6E58 CBDB 4D4F FAF0 9114  7297 3849 5CCA 2D2E F563
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c812c7e23a3de72da6ca86b77549a86749679bca34ada7e54225f2be37c6ace20a",
+      "fingerprint": "6e58cbdb4d4ffaf09114729738495cca2d2ef563",
+      "host": "keybase.io",
+      "key_id": "38495cca2d2ef563",
+      "kid": "01014d23f81894bfcbeedd886991ed56bb4f4246d1a2517e4d8b9b7d186a3df7acf00a",
+      "uid": "bdcdddde22dc1387f483d012a51cff19",
+      "username": "shalomb"
+    },
+    "service": {
+      "hostname": "shalomb.pages.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1642933401,
+  "expire_in": 157680000,
+  "prev": "510b003442fda72d1fbb071df1eccbde10e6c79f8ea04620eff80176ec1aaab2",
+  "seqno": 72,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMNpAnicbVJtTFtVGC50qFQYLGLiWrYfN4tjfOXec78rC2yig2IQMw0ZltRz7jm3
+vQHa0hYKIm4YCEpkW5h8bAwljkkiiVEQp4GBZXNOljEtYfFjmwILKoQoP3BsY9Nb
+4n6Y+P4557zned73eT/OxxsNpigp3z6ZkbmqRF0KnawywOX043UU8uBaylpHlZGN
+g5Rj4g84yjRMWSmaAbQiMUARCWAhi4kIMBQUKAlIFHlO1i8iJwuijBTIchBDkfAc
+ALwKEGFFRYAKATSk0ilVczuJz+vT3AE9rEB4SUEYcZhTVajSMsNwIpBFVuJkXlEg
+wICovMDqRJfHH2Ho4hD0k0zNo/v0h2ND3v/gH+imGQ4DVpUYSeaQqiBCMJYkQZYZ
+gnkBIU7lACdgBgKeEQmHJSQjETOSoFepilBR6Q3dVRvhEFawbgQArDCsJKqcxGK9
+N5BnFFVl5AjQT3xuWEF0tN8Fyz0ViKpPp3RntaaQSF8jhfwXkOmFTuLPxKRa53t9
+noBH8ZTr365AwOu3RuiBWm8EHyTI8W8kB9LcWO+lzqgmPr/mcVNWRkcqAS0SmhE4
+ILMsRzPpFKnxaj7i0CIIXhQkWrdIHj2dleIZGtE0y3FA1YcGMKMiRIsMVhmi6JMh
+DE0ERZRViUCaEwBNVFWiGVEgCgMhRICK1Fbp9lBWEeg6oTNSluZ0w0CVj1D1EyH7
+JkOUyfBQTHRkyQym2MQHq3dwb8LfNoRcO673H3K7euN++ar55bQwUb2uGW58dGnX
+E881vdNT3NuOzcaimYadc05x/P6fk42JWeXtwcPzAy8dPvPMl8O9OSfMUSm7woaf
+iqaW5obaWiyfRW8p+aJyz1peeOxqqMN7Yph6nW742GMvmSizpBQ/JdW/tjJ+frCm
+K7bjYtuHza2zNy/nxXzS2zK4aDwa/GCqZvOCuW/63fv0ziNP+yx3zMG1if4sy2/K
+C8am3hjDSOt8Y3+preKA43alc/tg8s9Jz+8Y/i6XL7mRKQ7ttZecCznVzaa8h5dr
+50y3clLmCq+vpxVUVCb17H52T3LxtWzDm7szw/l5a/ENL8bMb7bZkj9NbupIYg2L
+Bcb1gc8fOdpt+N76o+3b/PRXHwsXxy2D4i0jF4YQXmiJbly5eLebFM2e7py4cqw1
+gTO/d3o2d+wQiG2iuvKahs37tkVvzWqz3NyHThYOj5775tfOxLpOg2VBBlOBhEJb
+aqpSkyGu8sdzjrzRfrDvVN+t6ZK3pLfZy+untm8b1ZZmXJ0hS273hR5mUui6YSxr
+64rbL6QaRs+cVWsa5tOuNVO3vX3Tl+7tb5bsbY73412bggNbCwbH/oiun/oL5x/4
+ncCzd91pi19P2c2LprDjo9Krs5XZVx5dGTXeCY688kPp408mWHxkNdvYUpXBJVL1
+OE4uCmn3/gHEF7jz
+=mWF8
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/shalomb
+
+==================================================================
+
