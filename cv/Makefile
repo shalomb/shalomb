@@ -54,14 +54,11 @@ docx: $(in_file)
 rtf: $(in_file)
 	pandoc -s $(in_file) -f markdown -t rtf   -o $(out_file).rtf
 
-.PHONY: lander
-lander:
-	ln -sf cv.html index.html || true
-
 .PHONY: html
-html: lander $(in_file)
+html: $(in_file)
 	pandoc -s $(in_file) -f markdown -t html5 -o $(out_file).html \
 		--toc -c style.css --template=default.html5
+	cp cv.html index.html
 
 # aptitude install texlive-xetex texlive-fonts-recommended lmodern
 .PHONY: pdf

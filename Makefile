@@ -20,7 +20,7 @@ html:
 
 .PHONY: cv
 cv:
-	cd cv/ && make html
+	cd cv/ && make html && ls -l *.html
 
 .PHONY: build
 build: deps cv html
