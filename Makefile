@@ -12,6 +12,7 @@ deps:
 	pip3 install inji
 	pip3 list
 	which inji
+	pip3 install --force-reinstall MarkupSafe==2.0.1
 	inji --version
 
 .PHONY: html html-tidy
