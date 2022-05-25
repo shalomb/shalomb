@@ -18,6 +18,8 @@ deps:
 .PHONY: html html-tidy
 html:
 	inji _layouts/base.html.j2 > index.html
+	rm -vfr cv/shalom_bhooshi-cv.pdf .git/
+	find ./ -ls
 
 .PHONY: cv
 cv:
