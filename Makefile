@@ -8,6 +8,7 @@ export PATH := $(PATH):/opt/buildhome/.local/bin:$(HOME)/.local/bin
 
 .PHONY: deps
 deps:
+	pip3 install MarkupSafe==2.0.1
 	pip3 install inji
 	pip3 list
 	which inji
