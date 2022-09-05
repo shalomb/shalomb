@@ -2,42 +2,59 @@
 title: Shalom Bhooshi
 pagetitle: Shalom Bhooshi — Curriculum Vitae
 author:   [https://shalomb.id](http://shalomb.id/) ◦ [s.bhooshi@gmail.com](mailto:s.bhooshi@gmail.com) ◦ +421 948 140 290 
+
 abstract: >
-  An adept Systems/SRE/DevOps engineer with a background in the DevOps & agile delivery of IT platforms and services.
-  Being software-inclined, I subscribe to software-defined-everything principles in building and operating reliable technology solutions.
-  I seek a progressive role in an agile work setting that embraces cloud-native and open-source technologies to innovate and advance business.
+  An adept DevOps professional with a background in the agile and continuous delivery of cloud platforms and services.
+  Combining 20 years experience in several IT disciplines across various industry sectors,
+  I seek to apply myself in a progressive work setting that innovates with technology and good practices to advance business platforms.
 header-includes:
+
+  <meta name="title" content="Shalom Bhooshi — Curriculum Vitae" />
+  <meta name="description" content="DevOps, Agile, Cloud" />
   <meta name="keywords" content="Curriculum Vitae, CV, Resume, Professional Experience, Functional Resume" />
-  <meta name="description" content="Shalom Bhooshi — Curriculum Vitae" />
   <meta name="robots" content="noindex, nofollow">
-  <meta property="og:type" content="article" />
+
   <meta property="og:title" content="Shalom Bhooshi — Curriculum Vitae" />
-  <meta property="og:description" content="Shalom Bhooshi — Curriculum Vitae" />
+  <meta property="og:description" content="DevOps, Agile, Cloud" />
   <meta property="og:image" content="https://cdn2.iconfinder.com/data/icons/business-management-and-teamwork-filled-color/300/163251747Untitled-3-512.png">
-  <meta property="og:url" content="http://shalomb.id/cv">
+  <meta property="og:locale:alternate" content="en_US">
+  <meta property="og:locale" content="en_GB">
   <meta property="og:site_name" content="shalomb.id" />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="http://shalomb.id/cv">
+
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.3/gh-fork-ribbon.min.css" />
 ---
 
 ### Core Competencies
 
-* Software-engineering approach to managing systems for IT Infrastructure, Platforms and Tooling
-* Application of Agile and DevOps practices for Continuous Delivery of projects
-* Cloud & Site Reliability Engineering know-how for continuous improvement of operations
-* Agile Project Delivery using Initiative, Communication, Teamwork and Pragmatism
+
+- Application of Lean-Agile and DevOps practices for Continuous Delivery of Infrastructure Capabilities
+- Code-centric approach to managing systems for Cloud Platforms and Tooling (i.e. GitOps)
+- Site Reliability Engineering for Reliable and Continuous Improvement of technical operations
 
 ### Skills
 
-Cloud Platforms
-: [Canonical Openstack](https://www.ubuntu.com/openstack),
-  [Amazon ec2](https://aws.amazon.com/ec2/)/[AWS](https://aws.amazon.com/),
-  [Apache Cloudstack](http://cloudstack.apache.org/),
-  [Google Cloud](https://cloud.google.com/)
+Agile PM
+: [DevOps](https://about.gitlab.com/topics/devops/),
+  [Lean-Agile](https://www.scaledagileframework.com/lean-agile-mindset/),
+  [Scrum](https://www.scrum.org/resources/what-is-scrum),
+  [Kanban](https://djaa.com/revisiting-the-principles-and-general-practices-of-the-kanban-method/),
+  [Design Thinking](https://www.interaction-design.org/literature/topics/design-thinking)
 
-AWS
+Cloud Platforms
+: [Amazon EC2](https://aws.amazon.com/),
+  [Google Cloud](https://cloud.google.com/),
+	[Canonical Openstack](https://www.ubuntu.com/openstack),
+  [Apache Cloudstack](http://cloudstack.apache.org/),
+
+Amazon AWS
 : VPC, EC2, EBS, ELB, VPN, Route53, Cloudfront, Cloudwatch, S3, Glacier
 
-Scripting Languages
+Containerization
+: docker, docker-compose, Kubernetes, Service Mesh essentials
+
+Scripting
 : [Python](https://www.python.org/),
   [Bash](https://www.gnu.org/software/bash/),
   [POSIX Shell](http://pubs.opengroup.org/onlinepubs/009695399/utilities/xcu_chap02.html),
@@ -46,7 +63,7 @@ Scripting Languages
   [Perl](https://www.perl.org/),
   [Raku](https://www.raku.org)
 
-DevOps/IaC
+IaC
 : [Ansible](http://www.ansible.com/),
   [Terraform](https://www.terraform.io/),
   [docker](https://www.docker.com/),
@@ -100,61 +117,77 @@ Networking
 
 ### Professional Experience
 
-Aug 2017 → Present
-: [Deutsche Telekom Pan-Net](https://www.telekom.com/en/media/details/the-pan-european-network-pan-net--442220) ◦ Bratislava, Slovakia
+**[Takeda Innovation Capability Center](https://www.takeda.com/sk-sk/who-we-are/icc/)** ◦ Bratislava, Slovakia ◦ Pharmaceuticals
 
-[pan-net.cloud](https://portal.pan-net.cloud/) provides a pan-european cloud platform
-and infrastructure services to partners and affiliates in the wider
-[Deutsche Telekom](https://www.telekom.com/en/company) group.
-Being both a platform for
-specialised Network Technology Services (Voice, Video & Data) and
-general-purpose/IT cloud workloads,
-Pan-Net uses best-of-breed cloud technologies
-to help evolve the group's product lines.
+The Takeda ICC assembles cloud, data and digital capabilities for project demands within the wider Takeda Pharmaceutical Businesses to better serve Patient, Trust, Reputation and Business.
+
+Jun 2022 → Present
+: Cloud Engineering and DevOps Lead Engineer, ICC Cloud Chapter
+
+Responsibilities
+: - Supporting an engineering team responsible for the IaC implementation of DevOps and Cloud Enablement (DCE) project builds on AWS and ensuring their operational readiness.
+- Innovating on/Ensuring adherence to working practices, Improving team effectiveness, Managing technology radars, Conducting research spikes, Improving tools and processes,
+- Taking on delegated responsibilities of the chapter lead - Chapter build-outs, Business Engagements, Resource Assignments, Technical Interviews, KPI reporting.
+
+Skills
+: EBM, SAFe, Scrumban, AWS, IaC, Cloudformation, Terraform
+
+---
+
+**[Accenture Technology Solutions - Slovakia](https://www.accenture.com/sk-en)** ◦ Bratislava, Slovakia ◦ Enterprise Client Solutions
+
+Accenture ATCs are technology and innovation hubs for enterprise clientele providing digital technologies, programming, testing, technical architecture, DevOps, and service/programme management capabilities.
+
+Jan 2022 → May 2022
+: DevOps Lead, Global Travel & Expenses Platform assignment
+
+Responsibilities
+: Supporting a team of 6 working to enhance the customer’s IaC and CI/CD/CT profiles in preparation for an enterprise public cloud migration (Azure) project.
+
+Skills
+: SAFe, Cloud Lift-and-Shift (IaC Consolidation), VMWare, Ansible/IaC, Scrumban―
+
+―
+: ---
+
+Jul 2021 → Jan 2022
+: DevOps Engineer/Architect, Image Automation AI/ML Accelerator assignment
+
+Responsibilities
+: - Working in a team of 3 DevOps engineers within a cross-functional team Designing AWS IaC to requirements, Supporting ML workflows with automation, Designing continuous delivery pipelines, Evolving cloud security / cost optimizations.
+- Working on a technical architecture committee - Stakeholder Engagement, Architectural Decision Making, Backlog Engineering, Iteration Planning, Solution Design and Reviews.
+
+Skills
+: Technology Ownership, AWS, IaC, Terraform, AWS CDK, Azure DevOps, DevOps, CI/CD/CT
+
+---
+
+Aug 2017 → Present
+: [Deutsche Telekom Pan-Net](https://www.telekom.com/en/media/details/the-pan-european-network-pan-net--442220) ◦ Bratislava, Slovakia ◦ Telco Private Cloud
+
+[pan-net.cloud](https://pan-net.cloud/) is a Deutsche-Telekom private cloud platform designed to host specialized NFVi service lines and supporting general-purpose IT workloads for subsidiary european Telco operators.
 
 Jun 2019 → Present
 : Cloud Infrastructure Engineer/Technical Lead, IT PaaS, Pan-Net Cloud
 
 Skills & Experience
-: Product/Technology Ownership,
-  Backlog Management,
-  Scrumban,
-  DevOps,
-  CI/CD/CT,
-  Openstack,
-  Terraform,
-  Ansible,
-  Gitlab,
-  Golang,
-  Python,
-  Prometheus
+: PaaS Solution Development,
+  Technology Ownership,
+  Stakeholder Engagement,
+  Architecture Definition,
+  Sprint Scheduling,
+  Solution Exploration/Review/Presentation
 
-* As an Infrastructure Engineer:
-  Participating in team scrums to develop and operate PaaS offerings
-  in an _aaS_ fashion to enrich the Pan-Net IaaS platform
-  (e.g.
-   Cloud Databases,
-   Service Monitoring,
-   Log & Event Management,
-   Data Archival,
-   Disaster Recovery,
-   etc).
-* As a Technical Lead:
-  Stakeholder engagement,
-  technology ownership & architecture definition,
-  agile roadmap/backlog management,
-  sprint scheduling,
-  solution exploration/review.
-* As part of the technology community:
-  Participating in design thinking workshops,
-  production campuses.
-  Engaging customers & partners.
-  Presenting technology, knowledge sharing.
+―
+: ---
 
 Feb 2018 → May 2019
-: Cloud Infrastructure Engineer, NFVI DevOps, Pan-Net NFVI
+: Cloud Infrastructure Engineer, NFVi DevOps, Pan-Net NFVi
 
-Skills & Experience
+Responsibilities
+: DevOps of CI/CD services, Design of CI/CD pipelines for VNF lifecycles
+
+Skills
 : Agile Release Trains,
   Delivery Pipelines,
   DevOps,
@@ -170,19 +203,16 @@ Skills & Experience
   Prometheus,
   Grafana
 
-* DevOps of CI/CD/CT services
-  (i.e. Gitlab CI/Runners, Binary Repositories, Library Code, CI/CD Best-Practices)
-  to sustain IaC and Continuous Delivery activities of the wider Pan-Net platform.
-* Consultation and design of
-  VNF service delivery CI/CD pipelines,
-  branching and deployment models,
-  shift-left testing/security,
-  gitops.
+―
+: ---
 
 Aug 2017 → Jan 2018
-: Cloud Infrastructure Engineer, Application Orchestration, Pan-Net NFVI
+: Cloud Infrastructure Engineer, Application Orchestration, Pan-Net NFVi
 
-Skills & Experience
+Responsibilities
+: Development of VNF application lifecycle orchestrators
+
+Skills
 : Openstack,
   OpenContrail,
   Linux,
@@ -190,25 +220,25 @@ Skills & Experience
   Python,
   OASIS TOSCA
 
-* Part of team developing the application orchestration & DevOps best practices
-  for VNF Lifecycle Management on the Pan-Net NFVI platform.
-
 ---
 
-Oct 2015 → Jun 2017
-  : [Box+Dice](https://boxdice.com.au) (BDSK) ◦ Bratislava, Slovakia
+**Box+Dice (BDSK)** ◦ Bratislava, Slovakia ◦ CRM/SaaS
 
-[Box+Dice](https://boxdice.com.au) provide a SaaS/CRM platform for businesses
-in the Australian & New Zealand real estate sector to manage property portfolios,
-marketing and lead management, sales and accounting, portal integrations, etc in
-realtime. With 250+ businesses as clients across the Oceania region,
-Box+Dice harnesses in-house and customer domain expertise to deliver
-tailored SaaS services.
+Box+Dice are an Australian developer of products and services for real-estate B2B operations.
 
 Oct 2015 → Jun 2017
 : Senior Systems Engineer, Site Reliability Engineering
 
-Skills & Experience
+Responsibilities
+: - SaaS DevOps/SRE,
+  Cloud Migration - Lift-and-shift,
+  Cloud Optimization,
+  Technical Security,
+  CI/CD tools and infrastructure,
+  Reporting to Executive Committee,
+  Customer L3 Support
+
+Skills
 : Project Management,
   Amazon AWS,
   SRE/DevSecOps,
@@ -224,90 +254,44 @@ Skills & Experience
   MariaDB,
   Elasticsearch
 
-* Lead systems engineer managing DevOps and Site Reliability Engineering across
-  polar opposite timezones (Bratislava/Kiev and Melbourne/Wellington):
-  systems analysis,
-  infrastructure design and development,
-  improving production deployments and platform availability.
-* Delivering on projects to modernize infrastructure:
-  Lift-and-shift platform to AWS,
-  improving cloud integrations & efficiency,
-  improving technical security and operations.
-* Working on cross-functional efforts with Product Development,
-  Quality Engineering and Product Support:
-  Improving DevOps,
-  CI/CD,
-  QA,
-  incident management,
-  reporting & communications.
-* Involved in defining and project managing systems strategy,
-  participating in executive committee decision making,
-  customer technical support,
-  cost management,
-  hiring,
-  mentoring.
-
 ---
 
+**Citrix Systems UK Ltd** ◦ Cambridge, United Kingdom ◦ Independent Software Vendor
+
+Citrix solutions power enterprise data, workspace and mobility needs for 95% of Fortune 500 companies.
+
 Jul 2010 → Aug 2015
-  : [Citrix Systems UK Ltd](https://www.citrix.com/) ◦ Cambridge, United Kingdom
+: Senior Software Test Engineer, Engineering Productivity, Desktop and Apps
 
-[Citrix](https://www.citrix.com/) solutions power business mobility through
-secure, mobile workspaces that provide people with instant access to apps,
-desktops, data and communications. With annual revenue in 2014 of $3.14 billion,
-Citrix solutions are in use at more than 400,000 organizations and by over
-100 million users globally.
+Responsibilities
+: - DevOps/Architecture of Test-aaS platforms and services,
+  Datacenter management - hardware procurement and maintenance,
+  Push-button provisioning of Test Environments,
+  Test framework/library development,
+  VM image creation/cataloguing
 
-Position
-  : Senior Software Test Engineer, [Engineering Productivity](https://landing.google.com/engprod/), [Desktop and Apps](https://www.citrix.com/products/xenapp-xendesktop/)
-
-Skills & Experience
-: Citrix,
-  IaaS,
-  Cloud Architecture,
-  Virtualization,
+Skills
+: Citrix DaaS,
+  Private Cloud Architecture,
+  IaaS/Virtualization,
   Network Design,
   Enterprise Software Testing,
-  Automation,
   CloudStack,
-  XenServer,
+  Xen/XenServer,
   PowerShell,
   Perl,
   Python
 
-* Systems Engineer/DevOps of self-service tests-as-a-service cloud platform
-  to support the ad-hoc test, QA and Continuous Testing activities
-  of 65+ internal engineering teams.
-* Solving and automating push-button provisioning of Citrix VDI
-  test environments on multiple Cloud and Virtualization Backends,
-  Improving QA self-service capabilities,
-  enriching cloud offerings through automation,
-  VM image creation/cataloguing,
-  etc.
-* Member of the core automation team stewarding test automation frameworks and
-  test library code underpinning wider QA strategies of the [Citrix Desktop and App
-  virtualization](https://www.citrix.com/solutions/desktop-virtualization/overview.html)
-  suites.
-  Lead developer of perl components to support testing Mac and Linux/Unix end-points.
-* Refining agile practices for code and test infrastructure evolution.
-  Setting up backend infrastructure for [Citrix Summit](http://www.citrixsummit.com/).
-  Hardware procurement and maintenance, vendor relations.
-  Technical training/mentoring.
-
----
+**IT Freelancer** ◦ Greater London Area, United Kingdom ◦ Various Industries
 
 Aug 2002 → Dec 2007
-: Greater London Area, United Kingdom
+: IT Freelancer, Various Small/SOHO/Medium-sized Businesses
 
-IT Freelancer
-: Web development/mastering,
-  Office IT network solutions & support
+Responsibilities
+: - Web development/authoring/mastering, Designing Office IT & connectivity solutions, Designing Network Solutions, Desktop Publishing, Support
 
-Skills & Experience
-: Linux, Bash/Shell,
-  Perl/mod_perl, PHP, Apache, Postgres/MySQL, PrototypeJS,
-  Small-business IT network design/support,
-  Document/WebPage design
+Skills
+: LAMP, Microsoft SMB Solutions, Microsoft Office, Cisco Routing/Switching, Firewall/VPNs, perl, shell scripting
 
 ---
 
@@ -318,25 +302,29 @@ Sep 2008  →  May  2010
 
 ### Training and Qualifications
 
-* [Certified Kubernetes Administrator (CKA) 2020](https://training.linuxfoundation.org/cka-program-changes-2020/), _Currently Training_
-* [Docker + Kubernetes Administration](https://www.componentsoft.io/educationalservices/openstack-docker-puppet-xen-and-kvm/kbs-105-docker-kubernetes-administration-accelerated-training/), May 2018
-* [OpenStack Deployment and Advanced Administration](https://www.componentsoft.io/educationalservices/openstack-docker-puppet-xen-and-kvm/ost-204-openstack-advanced-administration-extended/), Feb 2018
-* [OpenStack Administration Bootcamp](https://www.componentsoft.io/educationalservices/openstack-docker-puppet-xen-and-kvm/openstack-private-cloud-workshop-extended-ost-104/), Sep 2017
-* [Citrix NetScaler ADC Essentials, Networking and Administration](http://training.citrix.com/mod/ctxcatalog/course.php?id=497), Jun 2012
-* [Building Scalable Cisco Internetworks (CCNP BSCI)](https://www.cbtnuggets.com/it-training/cisco-642-901-ccnp-bsci), Feb 2004
-* [Cisco Certified Network Associate (CCNA)](http://www.cisco.com/web/learning/exams/list/ccna_composite.html#~Topics), Mar 2003
-* [Implementing & Administering a Microsoft Directory Services Infrastructure](https://web.archive.org/web/20081222080658/http://www.microsoft.com/learning/en/us/exams/70-217.mspx#EHE), Apr 2003
-* [Implementing & Administering a Microsoft Network Infrastructure](https://web.archive.org/web/20141221185633/https://www.microsoft.com/learning/en/us/exams/70-216.mspx#E3E), Apr 2003
+- [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/), _Currently _Certifying
+- [Certified Kubernetes Administrator (CKA) 2020](https://training.linuxfoundation.org/cka-program-changes-2020/), _Currently _Certifying
+- [SAFe Practitioner](https://support.scaledagile.com/s/article/Exam-Details-SP-SAFe-Practitioner), Feb 2022
+- [DevOps Institute DevOps Leader (DOL)](https://www.devopsinstitute.com/courses/devops-leader/), Jan 2022
+- [Managing Distributed Teams](), Nov 2021
+- [Docker + Kubernetes Administration](https://www.componentsoft.io/educationalservices/openstack-docker-puppet-xen-and-kvm/kbs-105-docker-kubernetes-administration-accelerated-training/), May 2018
+- [OpenStack Deployment and Advanced Administration](https://www.componentsoft.io/educationalservices/openstack-docker-puppet-xen-and-kvm/ost-204-openstack-advanced-administration-extended/), Feb 2018
+- [OpenStack Administration Bootcamp](https://www.componentsoft.io/educationalservices/openstack-docker-puppet-xen-and-kvm/openstack-private-cloud-workshop-extended-ost-104/), Sep 2017
+- [Citrix NetScaler ADC Essentials, Networking and Administration](http://training.citrix.com/mod/ctxcatalog/course.php?id=497), Jun 2012
+- [Building Scalable Cisco Internetworks (CCNP BSCI)](https://www.cbtnuggets.com/it-training/cisco-642-901-ccnp-bsci), Feb 2004
+- [Cisco Certified Network Associate (CCNA)](http://www.cisco.com/web/learning/exams/list/ccna_composite.html#~Topics), Mar 2003
+- [Implementing & Administering a Microsoft Directory Services Infrastructure](https://web.archive.org/web/20081222080658/http://www.microsoft.com/learning/en/us/exams/70-217.mspx#EHE), Apr 2003
+- [Implementing & Administering a Microsoft Network Infrastructure](https://web.archive.org/web/20141221185633/https://www.microsoft.com/learning/en/us/exams/70-216.mspx#E3E), Apr 2003
 
-### Professional & Community Profiles
+### Professional Profiles
 
-* [shalomb.id](http://shalomb.id/) — My webpage/blog
-* [Keybase](https://keybase.io/shalomb) — My cryptographically-verified online identities
-* [Github](https://github.com/shalomb?tab=repositories), [Gitlab](https://gitlab.com/users/shalomb/projects) — My code projects including opensource contributions
-* [StackOverflow Developer Story](https://stackoverflow.com/story/shalombhooshi) — My professional journey, learning and opensource contributions
-* [Pluralsight Profile](https://app.pluralsight.com/profile/shalom-bhooshi) — My learning & skills self-assessments against various technologies
-* [Linkedin](https://uk.linkedin.com/in/shalombhooshi) — My linkedin profile
-
+[shalomb.id](http://shalomb.id/),
+[Keybase](https://keybase.io/shalomb),
+[Github](https://github.com/shalomb),
+[Gitlab](https://gitlab.com/users/shalomb),
+[StackOverflow Developer Story](https://stackoverflow.com/story/shalombhooshi),
+[Pluralsight](https://app.pluralsight.com/profile/shalom-bhooshi),
+[Linkedin](https://uk.linkedin.com/in/shalombhooshi)
 
 ### Spoken Languages
 
@@ -345,10 +333,9 @@ English (Native), Slovak (Basic Vernacular), French (High School)
 ### Hobbies and Interests
 
 Fatherhood ◦
-Cycling, Outdoors ◦
+[Road Cycling, Mountain Biking](https://www.strava.com/athletes/66934418) ◦
+Outdoors ◦
 Guitar, Music ◦
-[hackernews](https://news.ycombinator.com/) ◦
-[Raku Community](https://www.raku.org/)
 
 ### Personal Details
 
@@ -357,9 +344,6 @@ Telephone
 
 Email
 : [s.bhooshi@gmail.com](mailto:s.bhooshi@gmail.com)
-
-Address
-: [Tučkova 9, Ružinov II, Bratislava 82105, Slovakia](https://www.google.co.uk/maps?q=Tuckova+9,+Bratislava,+82105)
 
 Date of Birth
 : [8ᵗʰ Jan, 1983](https://takemeback.to/08-January-1983)
