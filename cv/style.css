@@ -46,7 +46,7 @@
   }
 
   p.abstract, p.abstract + p {
-    margin :      20px 30px;
+    margin :      20px 20px;
     text-indent : 20px;
   }
 
@@ -60,7 +60,7 @@
     padding-top :       .25em;
     padding-left :      0em;
     /* background-color :  #efefef; */
-    border-bottom :     1px dotted gray;
+    border-bottom :     1px dotted lightgray;
   }
 
   /* Normal text           10 pt */
@@ -147,13 +147,13 @@
   hr {
     border : 0;
     height : 1px;
-    /* background-image : linear-gradient(to right, rgba(0, 0, 0, 0.01), rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.01)); */
+    background-image : linear-gradient(to right, rgba(0, 0, 0, 0.01), rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.01));
     margin-bottom : 1em;
-    border-bottom: 1px dotted gray;
   }
 
   dl + hr {
     border: none !important;
+    background-image : linear-gradient(to right, rgba(0, 0, 0, 0.01), rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.01));
   }
 
   dl + hr {
@@ -187,8 +187,8 @@
 
   ul li:before {
     margin-left :  -12px;
-    content : "‐ ";
-    color: gray;
+    content : "✩ ";
+    color: lightgray;
   }
 
   ul li:not(:last-child) {
@@ -205,9 +205,12 @@
     padding-right: 0.5em;
   }
 
-  p + dl dd {
+  dl dd {
     padding-left: 0.5em;
-    border-left: 1px dotted gray;
+  }
+
+  p + dl dd {
+    border-left: 1px dotted lightgray;
   }
 
   dd ul {
@@ -232,10 +235,10 @@
     color :  #006699;
   }
 
-  h3#technical-skills + dl dt,
+  h3#skills + dl dt,
   h3#download + dl dt,
   h3#personal-details + dl dt {
-    border-right: 1px dotted gray;
+    border-right: 1px dotted lightgray;
     width: 16%;
   }
 
@@ -256,7 +259,7 @@
 
   body {
     background :     white;
-    border :         1px #D3D3D3 solid;
+    border :         1px #d3d3d3 solid;
     border-radius :  5px;
     box-shadow :     0 0 0.25cm rgba(0, 0, 0, 0.25);
   }

@@ -4,9 +4,11 @@ pagetitle: Shalom Bhooshi — Curriculum Vitae
 author:   [https://shalomb.id](http://shalomb.id/) ◦ [s.bhooshi@gmail.com](mailto:s.bhooshi@gmail.com) ◦ +421 948 140 290 
 
 abstract: >
-  An adept DevOps professional with a background in the agile and continuous delivery of cloud platforms and services.
-  Combining 20 years experience in several IT disciplines across various industry sectors,
-  I seek to apply myself in a progressive work setting that innovates with technology and good practices to advance business platforms.
+  An adept DevOps professional with a background in the
+  Agile and Continuous Delivery of cloud platforms and services.
+  Combining 20 years experience in IT and engineering,
+  I seek to apply myself in a setting that
+  innovates technology and working practices to advance digital platforms.
 header-includes:
 
   <meta name="title" content="Shalom Bhooshi — Curriculum Vitae" />
@@ -28,10 +30,9 @@ header-includes:
 
 ### Core Competencies
 
-
-- Application of Lean-Agile and DevOps practices for Continuous Delivery of Infrastructure Capabilities
-- Code-centric approach to managing systems for Cloud Platforms and Tooling (i.e. GitOps)
-- Site Reliability Engineering for Reliable and Continuous Improvement of technical operations
+- Application of practical DevOps and Lean-Agile for Continuous Delivery of Platform Capabilities
+- Cloud Solution design and implementation on private, public and hybrid cloud platforms
+- Code-centric approach to managing Platform Services and Tooling (i.e. APIs, IaC, GitOps)
 
 ### Skills
 
@@ -40,42 +41,42 @@ Agile PM
   [Lean-Agile](https://www.scaledagileframework.com/lean-agile-mindset/),
   [Scrum](https://www.scrum.org/resources/what-is-scrum),
   [Kanban](https://djaa.com/revisiting-the-principles-and-general-practices-of-the-kanban-method/),
-  [Design Thinking](https://www.interaction-design.org/literature/topics/design-thinking)
+  [Design Thinking](https://www.interaction-design.org/literature/topics/design-thinking),
+  [EBM](https://www.scrum.org/resources/evidence-based-management)
 
 Cloud Platforms
 : [Amazon EC2](https://aws.amazon.com/),
   [Google Cloud](https://cloud.google.com/),
-	[Canonical Openstack](https://www.ubuntu.com/openstack),
-  [Apache Cloudstack](http://cloudstack.apache.org/),
+  [Canonical Openstack](https://www.ubuntu.com/openstack),
+  [Apache Cloudstack](http://cloudstack.apache.org/)
 
 Amazon AWS
-: VPC, EC2, EBS, ELB, VPN, Route53, Cloudfront, Cloudwatch, S3, Glacier
+: VPC, EC2, EBS, ELB, Route53, Cloudfront, Cloudwatch, S3, Glacier
 
 Containerization
-: docker, docker-compose, Kubernetes, Service Mesh essentials
+: [docker](https://www.docker.com/),
+  [docker-compose](https://docs.docker.com/compose/),
+  [Kubernetes](https://kubernetes.io/),
+  [Service Mesh](https://istio.io) essentials
 
 Scripting
 : [Python](https://www.python.org/),
   [Bash](https://www.gnu.org/software/bash/),
   [POSIX Shell](http://pubs.opengroup.org/onlinepubs/009695399/utilities/xcu_chap02.html),
   [Go](https://www.golang.org/),
-  [Powershell](https://en.wikipedia.org/wiki/Windows_PowerShell),
-  [Perl](https://www.perl.org/),
-  [Raku](https://www.raku.org)
+  [Powershell](https://en.wikipedia.org/wiki/Windows_PowerShell)
 
 IaC
-: [Ansible](http://www.ansible.com/),
-  [Terraform](https://www.terraform.io/),
-  [docker](https://www.docker.com/),
-  [docker-compose](https://docs.docker.com/compose/),
-  [Kubernetes](https://kubernetes.io/),
+: [Terraform](https://www.terraform.io/),
+  [Ansible](http://www.ansible.com/),
+  [CloudFormation](https://aws.amazon.com/cloudformation/),
   [goss](https://github.com/aelsabbahy/goss),
   [Make](https://www.gnu.org/software/make/)
 
 CI/CD
 : [git](https://git-scm.com/),
   [Github](https://github.com/),
-  [Gitlab CI](https://docs.gitlab.com/ee/ci/quick_start/)/[Runners](https://docs.gitlab.com/runner/),
+  [Gitlab CI](https://docs.gitlab.com/ee/ci/quick_start/),
   [Travis CI](https://travis-ci.org/),
   [Scrutinizer CI](https://scrutinizer-ci.com/),
   [JFrog Artifactory](https://jfrog.com/artifactory/)
@@ -85,9 +86,8 @@ Observability
   [Grafana](https://grafana.com/),
   [Graylog2](https://www.graylog.org/),
   [CloudWatch](https://aws.amazon.com/cloudwatch/),
-  [Nagios](https://www.nagios.org/),
   [New Relic](http://newrelic.com/),
-  [Airbrake](https://airbrake.io/)
+  [Nagios](https://www.nagios.org/)
 
 Web
 : [nginx](http://nginx.org/en/),
@@ -95,8 +95,7 @@ Web
   [Cloudflare](https://www.cloudflare.com/),
   [Python Flask](https://www.fullstackpython.com/flask.html),
   [HTTP](https://en.wikipedia.org/wiki/HTTP),
-  [REST](https://en.wikipedia.org/wiki/REST)/[SOA](https://en.wikipedia.org/wiki/SOA),
-  [L4-L7 Load-Balancing](https://loadbalancerblog.com/blog/2013/04/what-heck-layer-7-load-balancing-anyway)
+  [REST](https://en.wikipedia.org/wiki/REST)
 
 Databases
 : [Postgresql](http://www.postgresql.org/),
@@ -119,7 +118,10 @@ Networking
 
 **[Takeda Innovation Capability Center](https://www.takeda.com/sk-sk/who-we-are/icc/)** ◦ Bratislava, Slovakia ◦ Pharmaceuticals
 
-The Takeda ICC assembles cloud, data and digital capabilities for project demands within the wider Takeda Pharmaceutical Businesses to better serve Patient, Trust, Reputation and Business.
+The [Takeda ICC](https://www.takeda.com/sk-sk/who-we-are/icc/) assembles
+cloud, data and digital capabilities for project demands
+within Takeda's business platforms to
+better serve Patient, Trust, Reputation and Business.
 
 Jun 2022 → Present
 : Cloud Engineering and DevOps Lead Engineer, ICC Cloud Chapter
@@ -145,9 +147,9 @@ Responsibilities
 : Supporting a team of 6 working to enhance the customer’s IaC and CI/CD/CT profiles in preparation for an enterprise public cloud migration (Azure) project.
 
 Skills
-: SAFe, Cloud Lift-and-Shift (IaC Consolidation), VMWare, Ansible/IaC, Scrumban―
+: SAFe, Cloud Lift-and-Shift (IaC Consolidation), VMWare, Ansible/IaC, Scrumban
 
-―
+…
 : ---
 
 Jul 2021 → Jan 2022
@@ -162,10 +164,9 @@ Skills
 
 ---
 
-Aug 2017 → Present
-: [Deutsche Telekom Pan-Net](https://www.telekom.com/en/media/details/the-pan-european-network-pan-net--442220) ◦ Bratislava, Slovakia ◦ Telco Private Cloud
+**[Deutsche Telekom Pan-Net](https://www.telekom.com/en/media/details/the-pan-european-network-pan-net--442220)** ◦ Bratislava, Slovakia ◦ NFVi/Telco Cloud
 
-[pan-net.cloud](https://pan-net.cloud/) is a Deutsche-Telekom private cloud platform designed to host specialized NFVi service lines and supporting general-purpose IT workloads for subsidiary european Telco operators.
+[pan-net.cloud](https://pan-net.cloud/) is a Deutsche-Telekom private cloud/IaaS platform designed to host specialized NFVi service lines and supporting general-purpose IT workloads for subsidiary european Telco operators.
 
 Jun 2019 → Present
 : Cloud Infrastructure Engineer/Technical Lead, IT PaaS, Pan-Net Cloud
@@ -178,7 +179,7 @@ Skills & Experience
   Sprint Scheduling,
   Solution Exploration/Review/Presentation
 
-―
+…
 : ---
 
 Feb 2018 → May 2019
@@ -203,7 +204,7 @@ Skills
   Prometheus,
   Grafana
 
-―
+…
 : ---
 
 Aug 2017 → Jan 2018
@@ -222,15 +223,16 @@ Skills
 
 ---
 
-**Box+Dice (BDSK)** ◦ Bratislava, Slovakia ◦ CRM/SaaS
+**[Box+Dice (BDSK)](https://www.mrisoftware.com/au/products/box-and-dice-real-estate-crm/)** ◦ Bratislava, Slovakia ◦ CRM/SaaS
 
-Box+Dice are an Australian developer of products and services for real-estate B2B operations.
+[Box+Dice](https://www.mrisoftware.com/au/products/box-and-dice-real-estate-crm/)
+are an Australian developer of products and services for real-estate B2B operations.
 
 Oct 2015 → Jun 2017
 : Senior Systems Engineer, Site Reliability Engineering
 
 Responsibilities
-: - SaaS DevOps/SRE,
+: SaaS DevOps/SRE,
   Cloud Migration - Lift-and-shift,
   Cloud Optimization,
   Technical Security,
@@ -256,22 +258,23 @@ Skills
 
 ---
 
-**Citrix Systems UK Ltd** ◦ Cambridge, United Kingdom ◦ Independent Software Vendor
+**[Citrix Systems UK Ltd](https://www.citrix.com/)** ◦ Cambridge, United Kingdom ◦ Independent Software Vendor
 
-Citrix solutions power enterprise data, workspace and mobility needs for 95% of Fortune 500 companies.
+[Citrix](https://www.citrix.com/) solutions power
+enterprise data, workspace and mobility needs to create better ways to work.
 
 Jul 2010 → Aug 2015
 : Senior Software Test Engineer, Engineering Productivity, Desktop and Apps
 
 Responsibilities
-: - DevOps/Architecture of Test-aaS platforms and services,
+: DevOps/Architecture of Test-aaS platforms and services,
   Datacenter management - hardware procurement and maintenance,
   Push-button provisioning of Test Environments,
   Test framework/library development,
-  VM image creation/cataloguing
+  Appliance/VM image creation/cataloguing
 
 Skills
-: Citrix DaaS,
+: Citrix Virtualization/DaaS,
   Private Cloud Architecture,
   IaaS/Virtualization,
   Network Design,
@@ -282,18 +285,18 @@ Skills
   Perl,
   Python
 
-**IT Freelancer** ◦ Greater London Area, United Kingdom ◦ Various Industries
+---
+
+**[IT Freelancer](https://www.companieslondon.com/uk/04758251/sib-support-services-limited)** ◦ Greater London Area, United Kingdom ◦ Various
 
 Aug 2002 → Dec 2007
 : IT Freelancer, Various Small/SOHO/Medium-sized Businesses
 
 Responsibilities
-: - Web development/authoring/mastering, Designing Office IT & connectivity solutions, Designing Network Solutions, Desktop Publishing, Support
+: Web development/authoring/mastering, Designing Office IT & connectivity solutions, Designing Network Solutions, Desktop Publishing, Support
 
 Skills
-: LAMP, Microsoft SMB Solutions, Microsoft Office, Cisco Routing/Switching, Firewall/VPNs, perl, shell scripting
-
----
+: LAMP, Microsoft SMB Solutions, Microsoft Office, Cisco Routing/Switching, Firewall/VPNs, Perl, Shell Scripting
 
 ### Education
 
@@ -302,8 +305,8 @@ Sep 2008  →  May  2010
 
 ### Training and Qualifications
 
-- [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/), _Currently _Certifying
-- [Certified Kubernetes Administrator (CKA) 2020](https://training.linuxfoundation.org/cka-program-changes-2020/), _Currently _Certifying
+- [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/), _Currently Certifying_
+- [Certified Kubernetes Administrator (CKA) 2020](https://training.linuxfoundation.org/cka-program-changes-2020/), _Currently Certifying_
 - [SAFe Practitioner](https://support.scaledagile.com/s/article/Exam-Details-SP-SAFe-Practitioner), Feb 2022
 - [DevOps Institute DevOps Leader (DOL)](https://www.devopsinstitute.com/courses/devops-leader/), Jan 2022
 - [Managing Distributed Teams](), Nov 2021
@@ -328,7 +331,7 @@ Sep 2008  →  May  2010
 
 ### Spoken Languages
 
-English (Native), Slovak (Basic Vernacular), French (High School)
+English *(Native)*, French *(High School/University)*, Slovak *(Basic Vernacular)*
 
 ### Hobbies and Interests
 
@@ -336,6 +339,7 @@ Fatherhood ◦
 [Road Cycling, Mountain Biking](https://www.strava.com/athletes/66934418) ◦
 Outdoors ◦
 Guitar, Music ◦
+Conversation
 
 ### Personal Details
 
@@ -357,11 +361,9 @@ Residentship
 ### Download
 
 PDF Version
-: [shalom_bhooshi-cv.pdf](https://shalomb.id/cv/shalom_bhooshi-cv.pdf)
+: [shalom_bhooshi-cv.pdf](./shalom_bhooshi-cv.pdf)
 
-Other Versions
-: [Online](https://shalomb.id/cv/),
-  [Microsoft Word](https://shalomb.id/cv/cv.docx),
-  [OpenDocument Text](https://shalomb.id/cv/cv.odt)
+Online Version
+: [shalomb.id/cv](https://shalomb.id/cv/)
 
 <a class="github-fork-ribbon" href="https://github.com/shalomb/shalomb.github.io/" data-ribbon="Fork me on GitHub" title="Fork me on GitHub">Fork me on GitHub</a>

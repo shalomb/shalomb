@@ -69,12 +69,8 @@ pdf: $(in_file)
 	pandoc -s \
 		--variable geometry:margin=1in        \
 		--highlight-style=tango               \
-		--variable mainfont="Liberation Sans" \
-		--variable sansfont="Liberation Sans" \
-		--variable monofont="Liberation Mono" \
 		--variable fontsize=11pt              \
-		--variable version=1.10               \
-		--highlight-style=tango               \
+		--variable version=2.0                \
 		--pdf-engine=xelatex                  \
 		$(in_file) -o $(out_file).pdf
 	ln -svf $(out_file).pdf shalom_bhooshi-cv.pdf
