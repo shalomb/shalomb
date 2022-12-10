@@ -13,7 +13,7 @@ deps:
 	pip3 list
 	which inji
 	pip3 install --force-reinstall MarkupSafe==2.0.1
-	pip3 install --force-reinstall -U 'importlib-metadata!=5.0.0'
+	pip3 install --force-reinstall -U 'importlib-metadata<5.0.0'
 	inji --version
 
 .PHONY: html html-tidy
