@@ -12,16 +12,18 @@ abstract: >
 header-includes:
 
   <meta name="title" content="Shalom Bhooshi — Curriculum Vitae" />
-  <meta name="description" content="DevOps, Agile, Cloud" />
+  <meta name="description" content="Cloud, Platform Engineering, DevOps, Agile" />
   <meta name="keywords" content="Curriculum Vitae, CV, Resume, Professional Experience, Functional Resume" />
   <meta name="robots" content="noindex, nofollow">
 
-  <meta property="og:title" content="Shalom Bhooshi — Curriculum Vitae" />
-  <meta property="og:description" content="DevOps, Agile, Cloud" />
-  <meta property="og:image" content="https://cdn2.iconfinder.com/data/icons/business-management-and-teamwork-filled-color/300/163251747Untitled-3-512.png">
-  <meta property="og:locale:alternate" content="en_US">
+  <meta property="og:description" content="Cloud, Platform Engineering, DevOps, Agile" />
+  <meta property="og:image" content="https://avatars.githubusercontent.com/u/733435?v=4">
+  <meta property="og:image:secure_url" content="https://avatars.githubusercontent.com/u/733435?v=4">
   <meta property="og:locale" content="en_GB">
+  <meta property="og:locale:alternate" content="en_GB">
+  <meta property="og:locale:alternate" content="en_US">
   <meta property="og:site_name" content="shalomb.id" />
+  <meta property="og:title" content="Shalom Bhooshi — Curriculum Vitae" />
   <meta property="og:type" content="article" />
   <meta property="og:url" content="http://shalomb.id/cv">
 
@@ -30,19 +32,18 @@ header-includes:
 
 ### Core Competencies
 
-- Application of practical DevOps and Lean-Agile for Continuous Delivery of Platform Capabilities
-- Cloud Solution design and implementation on private, public and hybrid cloud platforms
-- Code-centric approach to managing Platform Services and Tooling (i.e. APIs, IaC, GitOps)
+- Cloud Application Design and Engineering on private and public clouds
+- Software Engineering approach to managing Tooling and Platform Engineering
+- Application of practical DevOps and Lean-Agile to Teamwork and Service Delivery
 
 ### Skills
 
 Agile PM
 : [DevOps](https://about.gitlab.com/topics/devops/),
   [Lean-Agile](https://www.scaledagileframework.com/lean-agile-mindset/),
-  [Scrum](https://www.scrum.org/resources/what-is-scrum),
   [Kanban](https://djaa.com/revisiting-the-principles-and-general-practices-of-the-kanban-method/),
-  [Design Thinking](https://www.interaction-design.org/literature/topics/design-thinking),
-  [EBM](https://www.scrum.org/resources/evidence-based-management)
+  [Scrum](https://www.scrum.org/resources/what-is-scrum),
+  [Design Thinking](https://www.interaction-design.org/literature/topics/design-thinking)
 
 Cloud Platforms
 : [Amazon EC2](https://aws.amazon.com/),
@@ -119,29 +120,28 @@ Networking
 **[Takeda Innovation Capability Center](https://www.takeda.com/sk-sk/who-we-are/icc/)** ◦ Bratislava, Slovakia ◦ Pharmaceuticals
 
 The [Takeda ICC](https://www.takeda.com/sk-sk/who-we-are/icc/) assembles
-cloud, data and digital capabilities for project demands
-within Takeda's business platforms to
-better serve Patient, Trust, Reputation and Business.
+capabilities in people and technologies to stand up agile projects
+within Takeda's Global Data and Digital organization.
 
 Jun 2022 → Present
-: Cloud Engineering and DevOps Lead Engineer, ICC Cloud Chapter
+: Cloud and DevOps Lead Engineer, ICC Cloud Chapter
 
 Responsibilities
-: - Supporting an engineering team responsible for the IaC implementation of DevOps and Cloud Enablement (DCE) project builds on AWS and ensuring their operational readiness.
-- Innovating on/Ensuring adherence to working practices, Improving team effectiveness, Managing technology radars, Conducting research spikes, Improving tools and processes,
-- Taking on delegated responsibilities of the chapter lead - Chapter build-outs, Business Engagements, Resource Assignments, Technical Interviews, KPI reporting.
+: - Leading efforts around DevOps and Cloud Enablement (DCE) of Data & Digital Applications on Takeda Cloud Platforms (AWS).
+- Innovating on working practices and service delivery, Improving tooling and processes.
+- Working closely with the Cloud Chapter Lead on Chapter build-outs, Platform Engagements, Technical Interviews.
 
 Skills
-: EBM, SAFe, Scrumban, AWS, IaC, Cloudformation, Terraform
+: DevOps Leadership, SAFe, Scrumban, IaC/Terraform, AWS EC2/RDS, Github, Jira
 
 ---
 
 **[Accenture Technology Solutions - Slovakia](https://www.accenture.com/sk-en)** ◦ Bratislava, Slovakia ◦ Enterprise Client Solutions
 
-Accenture ATCs are technology and innovation hubs for enterprise clientele providing digital technologies, programming, testing, technical architecture, DevOps, and service/programme management capabilities.
+[Accenture ATCs](https://www.accenture.com/ie-en/services/technology/delivery-centers) are innovation hubs serving enterprise clientele through industry & functional experience and continuous innovation with technology.
 
 Jan 2022 → May 2022
-: DevOps Lead, Global Travel & Expenses Platform assignment
+: DevOps Lead, a Global Travel & Expenses Platform
 
 Responsibilities
 : Supporting a team of 6 working to enhance the customer’s IaC and CI/CD/CT profiles in preparation for an enterprise public cloud migration (Azure) project.
@@ -153,31 +153,42 @@ Skills
 : ---
 
 Jul 2021 → Jan 2022
-: DevOps Engineer/Architect, Image Automation AI/ML Accelerator assignment
+: DevOps Engineer/Architect, an Image Automation AI/ML Accelerator
 
 Responsibilities
-: - Working in a team of 3 DevOps engineers within a cross-functional team Designing AWS IaC to requirements, Supporting ML workflows with automation, Designing continuous delivery pipelines, Evolving cloud security / cost optimizations.
+: - Leading 3 DevOps engineers within a cross-functional team designing AWS IaC to requirements,
+  - Supporting ML workflows with automation, Designing continuous delivery pipelines, Evolving cloud security / cost optimizations.
 - Working on a technical architecture committee - Stakeholder Engagement, Architectural Decision Making, Backlog Engineering, Iteration Planning, Solution Design and Reviews.
 
 Skills
-: Technology Ownership, AWS, IaC, Terraform, AWS CDK, Azure DevOps, DevOps, CI/CD/CT
+: Technology Ownership,
+  Python,
+  Terraform,
+  AWS EC2/Lambda/RDS/EKS/CDK,
+  Kubeflow,
+  Nuclio,
+  Azure DevOps
 
 ---
 
 **[Deutsche Telekom Pan-Net](https://www.telekom.com/en/media/details/the-pan-european-network-pan-net--442220)** ◦ Bratislava, Slovakia ◦ NFVi/Telco Cloud
 
-[pan-net.cloud](https://pan-net.cloud/) is a Deutsche-Telekom private cloud/IaaS platform designed to host specialized NFVi service lines and supporting general-purpose IT workloads for subsidiary european Telco operators.
+[pan-net.cloud](https://pan-net.cloud/) is a Deutsche-Telekom private cloud/IaaS platform designed to host specialized NFVi service lines and supporting general-purpose IT workloads for subsidiary Telco operators.
 
-Jun 2019 → Present
+Jun 2019 → May 2021
 : Cloud Infrastructure Engineer/Technical Lead, IT PaaS, Pan-Net Cloud
 
+Responsibilities
+: Development of PaaS services atop Openstack to serve particular needs of
+  Pan-Net platform customers (e.g. Cloud-Tenant Backup, Service Monitoring)
+
 Skills & Experience
-: PaaS Solution Development,
+: PaaS, Managed Services,
   Technology Ownership,
-  Stakeholder Engagement,
-  Architecture Definition,
-  Sprint Scheduling,
-  Solution Exploration/Review/Presentation
+  Solution Design & Development,
+  CI/CD/CT,
+  Golang, Python,
+  Kubernetes, Openstack
 
 …
 : ---
@@ -226,7 +237,7 @@ Skills
 **[Box+Dice (BDSK)](https://www.mrisoftware.com/au/products/box-and-dice-real-estate-crm/)** ◦ Bratislava, Slovakia ◦ CRM/SaaS
 
 [Box+Dice](https://www.mrisoftware.com/au/products/box-and-dice-real-estate-crm/)
-are an Australian developer of products and services for real-estate B2B operations.
+are an Australian SaaS developer and provider of services for real-estate B2B operations.
 
 Oct 2015 → Jun 2017
 : Senior Systems Engineer, Site Reliability Engineering
@@ -292,8 +303,8 @@ Skills
 Aug 2002 → Dec 2007
 : IT Freelancer, Various Small/SOHO/Medium-sized Businesses
 
-Responsibilities
-: Web development/authoring/mastering, Designing Office IT & connectivity solutions, Designing Network Solutions, Desktop Publishing, Support
+Activities
+: Process Automation, Designing SMB Office IT & Network Solutions, Desktop Publishing, Web development/authoring
 
 Skills
 : LAMP, Microsoft SMB Solutions, Microsoft Office, Cisco Routing/Switching, Firewall/VPNs, Perl, Shell Scripting
@@ -307,7 +318,7 @@ Sep 2008  →  May  2010
 
 - [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/), _Currently Certifying_
 - [Certified Kubernetes Administrator (CKA) 2020](https://training.linuxfoundation.org/cka-program-changes-2020/), _Currently Certifying_
-- [SAFe Practitioner](https://support.scaledagile.com/s/article/Exam-Details-SP-SAFe-Practitioner), Feb 2022
+- Scaled Agile, Inc., [SAFe Practitioner](https://support.scaledagile.com/s/article/Exam-Details-SP-SAFe-Practitioner), Feb 2022
 - [DevOps Institute DevOps Leader (DOL)](https://www.devopsinstitute.com/courses/devops-leader/), Jan 2022
 - [Managing Distributed Teams](), Nov 2021
 - [Docker + Kubernetes Administration](https://www.componentsoft.io/educationalservices/openstack-docker-puppet-xen-and-kvm/kbs-105-docker-kubernetes-administration-accelerated-training/), May 2018
