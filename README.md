@@ -1,13 +1,13 @@
 ### Shalom 👋
 
 - 🔭 I’m currently working on my fatherhood/parenting skills, [inji](https://github.com/shalomb/inji), [terrestrial](https://github.com/shalomb/terrestrial)
-- 👨‍💼 At [`$dayjob`](https://www.linkedin.com/company/dt-pan-net/) I do Cloud Infrastructure Engineering, PaaS DevOps/SRE, [Design Thinking](https://www.interaction-design.org/literature/article/what-is-design-thinking-and-why-is-it-so-popular), Agile Technology Ownership
-- 🌱 I dabble in [Distributed Systems](https://www.confluent.io/learn/distributed-systems/), Cloud Native Tech, Code, Raspberry Pi hacks
-- 👯 I’d like to collaborate on something nebulous (☁️ "cloudy" heh) with a nautical (☸) twist — cloud-native they call it
-- 🤔 I’m looking for help tackling [this Strava <img src="img/strava.png" height="16" width="16" /> segment](https://www.strava.com/segments/21756358) 🚴 and [my 🚲 gravel bike conversion](https://gist.github.com/shalomb/2f253a20f71d6908d0a19708405c7ae2)
-- 💬 Ask me about 🇬🇧 expat brexit remainers 🇪🇺 living in Slovakia 🇸🇰. And 🤎 perl 🤎.
-- 😄 Pronouns: _Shalom!_ (Also the salutation I use in return ...) 😉
-- ⚡ Fun fact: My first and middle names are jewish - but I'm neither jewish nor Israeli. Well .. Thanks dad!! ¯\\_(ツ)_/¯
+- 👨‍💼 At [`$dayjob`](https://www.takeda.com/sk-sk/who-we-are/icc/) I do AWS Cloud Platform/Infrastructure Engineering with a DevOps/SRE twist
+- ⚡ I'm a proponent of [Platform Engineering](https://platformengineering.org/blog/what-is-platform-engineering) that's symbiotic with DevOps/Agile/[Design Thinking](https://www.interaction-design.org/literature/article/what-is-design-thinking-and-why-is-it-so-popular) practices
+- 🌱 I dabble in [Distributed Systems](https://www.confluent.io/learn/distributed-systems/), Cloud Native Tech, Golang, Python
+- 👯 I’d like to work on something nebulous yet lofty (☁️ "cloudy-native". get it?) with a nautical (☸) twist
+- 🤔 I’m looking for help tackling [this Strava <img src="img/strava.png" height="16" width="16" /> segment](https://www.strava.com/segments/21756358) 🚴
+- 💬 Ask me about 🇬🇧 expat brexit remainers 🇪🇺 living in Europe/Slovakia 🇸🇰. And 🤎 perl 🤎
+- 😄 Pronouns: _Shalom!_ (Also the salutation I'd use in return ...) 😉
 - 📫 How to reach me: [shalomb.id/#contact](https://shalomb.id/#contact)
 
 <h3 align="left">What I do</h3>
@@ -44,4 +44,4 @@
 
 </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-shalombhooshi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shalombhooshi/)](https://www.linkedin.com/in/shalombhooshi/) [![Gmail Badge](https://img.shields.io/badge/-s.bhooshi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:s.bhooshi@gmail.com)](mailto:s.bhooshi@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-shalombhooshi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shalombhooshi/)](https://www.linkedin.com/in/shalombhooshi/)
