@@ -43,3 +43,5 @@
  <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a>
 
 </p>
+
+[![Linkedin Badge](https://img.shields.io/badge/-shalombhooshi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shalombhooshi/)](https://www.linkedin.com/in/shalombhooshi/) [![Gmail Badge](https://img.shields.io/badge/-s.bhooshi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:s.bhooshi@gmail.com)](mailto:s.bhooshi@gmail.com)
