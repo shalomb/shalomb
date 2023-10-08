@@ -46,3 +46,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/-shalombhooshi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shalombhooshi/)](https://www.linkedin.com/in/shalombhooshi/)
 [![Gitlab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/shalomb)
 [![Stack Exchange](https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange)](https://stackoverflow.com/users/742600/shalomb)
+[![PyPi Badge](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/shalomb/)
