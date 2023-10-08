@@ -41,4 +41,7 @@
 
 </p>
 
+---
+
 [![Linkedin Badge](https://img.shields.io/badge/-shalombhooshi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shalombhooshi/)](https://www.linkedin.com/in/shalombhooshi/)
+[![Stack Exchange](https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange)](https://stackoverflow.com/users/742600/shalomb)
