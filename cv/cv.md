@@ -43,22 +43,13 @@ Agile PM
   [Lean-Agile](https://www.scaledagileframework.com/lean-agile-mindset/),
   [Kanban](https://djaa.com/revisiting-the-principles-and-general-practices-of-the-kanban-method/),
   [Scrum](https://www.scrum.org/resources/what-is-scrum),
-  [Design Thinking](https://www.interaction-design.org/literature/topics/design-thinking)
+  [Design Thinking](https://www.interaction-design.org/literature/topics/design-thinking),
+  [Agile Architecture](https://agilemodeling.com/essays/agilearchitecture.htm)
 
 Cloud Platforms
-: [Amazon EC2](https://aws.amazon.com/),
-  [Google Cloud](https://cloud.google.com/),
+: [Amazon AWS](https://aws.amazon.com/),
   [Canonical Openstack](https://www.ubuntu.com/openstack),
   [Apache Cloudstack](http://cloudstack.apache.org/)
-
-Amazon AWS
-: VPC, EC2, EBS, ELB, Route53, Cloudfront, Cloudwatch, S3, Glacier
-
-Containerization
-: [docker](https://www.docker.com/),
-  [docker-compose](https://docs.docker.com/compose/),
-  [Kubernetes](https://kubernetes.io/),
-  [Service Mesh](https://istio.io) essentials
 
 Scripting
 : [Python](https://www.python.org/),
@@ -67,53 +58,24 @@ Scripting
   [Go](https://www.golang.org/),
   [Powershell](https://en.wikipedia.org/wiki/Windows_PowerShell)
 
+Containerization
+: [docker](https://www.docker.com/),
+  [Kubernetes](https://kubernetes.io/),
+  [Service Mesh](https://istio.io) essentials
+
 IaC
 : [Terraform](https://www.terraform.io/),
   [Ansible](http://www.ansible.com/),
-  [CloudFormation](https://aws.amazon.com/cloudformation/),
-  [goss](https://github.com/aelsabbahy/goss),
-  [Make](https://www.gnu.org/software/make/)
+  [GNU Make](https://www.gnu.org/software/make/),
+  [goss](https://github.com/aelsabbahy/goss)
 
 CI/CD
 : [git](https://git-scm.com/),
-  [Github](https://github.com/),
+  [Github Actions](https://docs.github.com/en/actions),
   [Gitlab CI](https://docs.gitlab.com/ee/ci/quick_start/),
   [Travis CI](https://travis-ci.org/),
   [Scrutinizer CI](https://scrutinizer-ci.com/),
   [JFrog Artifactory](https://jfrog.com/artifactory/)
-
-Observability
-: [Prometheus](https://prometheus.io/),
-  [Grafana](https://grafana.com/),
-  [Graylog2](https://www.graylog.org/),
-  [CloudWatch](https://aws.amazon.com/cloudwatch/),
-  [New Relic](http://newrelic.com/),
-  [Nagios](https://www.nagios.org/)
-
-Web
-: [nginx](http://nginx.org/en/),
-  [envoy proxy](https://envoyproxy.io),
-  [Cloudflare](https://www.cloudflare.com/),
-  [Python Flask](https://www.fullstackpython.com/flask.html),
-  [HTTP](https://en.wikipedia.org/wiki/HTTP),
-  [REST](https://en.wikipedia.org/wiki/REST)
-
-Databases
-: [Postgresql](http://www.postgresql.org/),
-  [MariaDB](http://mariadb.org/),
-  [Elasticsearch](https://www.elastic.co/),
-  [CouchDB](http://couchdb.apache.org/),
-  [Redis](https://redis.io/),
-  [SQLite](http://sqlite.org/)
-
-Networking
-: [TCP/IP](https://en.wikipedia.org/wiki/Internet_protocol_suite) -
-  [IPv4](https://en.wikipedia.org/wiki/IPv4) &
-  [IPv6](https://en.wikipedia.org/wiki/IPv6),
-  [DNS](https://en.wikipedia.org/wiki/Domain_Name_System),
-  [VPC](https://aws.amazon.com/vpc/)/[Network Design](https://en.wikipedia.org/wiki/Network_planning_and_design),
-  [VPNs](https://en.wikipedia.org/wiki/Virtual_private_network),
-  [NetSec](https://en.wikipedia.org/wiki/Network_security)
 
 ### Professional Experience
 
