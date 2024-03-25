@@ -36,65 +36,26 @@ header-includes:
 - Software Engineering approach to managing Tooling and Platform Engineering
 - Application of practical DevOps and Lean-Agile to Teamwork and Service Delivery
 
-### Skills
-
-Agile PM
-: [DevOps](https://about.gitlab.com/topics/devops/),
-  [Lean-Agile](https://www.scaledagileframework.com/lean-agile-mindset/),
-  [Kanban](https://djaa.com/revisiting-the-principles-and-general-practices-of-the-kanban-method/),
-  [Scrum](https://www.scrum.org/resources/what-is-scrum),
-  [Design Thinking](https://www.interaction-design.org/literature/topics/design-thinking),
-  [Agile Architecture](https://agilemodeling.com/essays/agilearchitecture.htm)
-
-Cloud Platforms
-: [Amazon AWS](https://aws.amazon.com/),
-  [Canonical Openstack](https://www.ubuntu.com/openstack),
-  [Apache Cloudstack](http://cloudstack.apache.org/)
-
-Scripting
-: [Python](https://www.python.org/),
-  [Bash](https://www.gnu.org/software/bash/),
-  [POSIX Shell](http://pubs.opengroup.org/onlinepubs/009695399/utilities/xcu_chap02.html),
-  [Go](https://www.golang.org/),
-  [Powershell](https://en.wikipedia.org/wiki/Windows_PowerShell)
-
-Containerization
-: [docker](https://www.docker.com/),
-  [Kubernetes](https://kubernetes.io/),
-  [Service Mesh](https://istio.io) essentials
-
-IaC
-: [Terraform](https://www.terraform.io/),
-  [Ansible](http://www.ansible.com/),
-  [GNU Make](https://www.gnu.org/software/make/),
-  [goss](https://github.com/aelsabbahy/goss)
-
-CI/CD
-: [git](https://git-scm.com/),
-  [Github Actions](https://docs.github.com/en/actions),
-  [Gitlab CI](https://docs.gitlab.com/ee/ci/quick_start/),
-  [Travis CI](https://travis-ci.org/),
-  [Scrutinizer CI](https://scrutinizer-ci.com/),
-  [JFrog Artifactory](https://jfrog.com/artifactory/)
-
 ### Professional Experience
 
 **[Takeda Innovation Capability Center](https://www.takeda.com/sk-sk/who-we-are/icc/)** ◦ Bratislava, Slovakia ◦ Pharmaceuticals
 
-The [Takeda ICC](https://www.takeda.com/sk-sk/who-we-are/icc/) assembles
-capabilities in people and technologies to stand up agile projects
-within Takeda's Global Data and Digital organization.
+The [Takeda ICC](https://www.takeda.com/sk-sk/who-we-are/icc/) provides
+data and digital innovation capabilities to support Takeda's aspiration of being
+the best data-driven biopharmaceutical company dedicated to discovering and
+delivering life-altering treatments.
 
 Jun 2022 → Present
 : Cloud and DevOps Lead Engineer, ICC Cloud Chapter
 
 Responsibilities
-: - Leading efforts around DevOps and Cloud Enablement (DCE) of Data & Digital Applications on Takeda Cloud Platforms (AWS).
-- Innovating on working practices and service delivery, Improving tooling and processes.
-- Working closely with the Cloud Chapter Lead on Chapter build-outs, Platform Engagements, Technical Interviews.
+: - Leading engineering efforts around Cloud Solutions Engineering and Service Delivery on the Takeda Enterprise Cloud (AWS)
+- Providing consultation for and implementing white-glove cloud solutions for internal product teams
+- DevOps of IaC pipelines using Terraform Enterprise and Architectural Building Blocks and Patterns
+- As part of a Culture and Values working group, working to improve engineering ways of working
 
 Skills
-: DevOps Leadership, SAFe, Scrumban, IaC/Terraform, AWS EC2/RDS, Github, Jira
+: Amazon AWS, DevOps Leadership, SAFe/Scrumban, IaC/Terraform, Python, Golang, Github, Jira
 
 ---
 
@@ -106,7 +67,7 @@ Jan 2022 → May 2022
 : DevOps Lead, a Global Travel & Expenses Platform
 
 Responsibilities
-: Supporting a team of 6 working to enhance the customer’s IaC and CI/CD/CT profiles in preparation for an enterprise public cloud migration (Azure) project.
+: Supporting a team of 6 working to enhance the customer’s IaC and CI/CD/CT profiles in preparation for an enterprise cloud migration (Azure) project.
 
 Skills
 : SAFe, Cloud Lift-and-Shift (IaC Consolidation), VMWare, Ansible/IaC, Scrumban
@@ -115,27 +76,34 @@ Skills
 : ---
 
 Jul 2021 → Jan 2022
-: DevOps Engineer/Architect, an Image Automation AI/ML Accelerator
+: DevOps Architect, an Image Automation AI/ML Accelerator
 
-Responsibilities
-: - Leading 3 DevOps engineers within a cross-functional team designing AWS IaC to requirements,
-  - Supporting ML workflows with automation, Designing continuous delivery pipelines, Evolving cloud security / cost optimizations.
-- Working on a technical architecture committee - Stakeholder Engagement, Architectural Decision Making, Backlog Engineering, Iteration Planning, Solution Design and Reviews.
+Responsibilities : - Leading 3 DevOps engineers within a cross-functional team
+designing AWS IaC and Continuous Delivery to requirements
+- Supporting ML workflows with automation, Designing continuous delivery
+    pipelines, Evolving cloud security / cost optimizations.
+- Working on a technical architecture committee - Stakeholder Engagement,
+  Architectural Decision Making, Iteration Planning, Solution Design and Reviews.
 
 Skills
-: Technology Ownership,
+: DevSecOps,
+  Technology Ownership,
   Python,
   Terraform,
-  AWS EC2/Lambda/RDS/EKS/CDK,
+  AWS Lambda/RDS/EKS/Sagemaker,
   Kubeflow,
-  Nuclio,
   Azure DevOps
 
 ---
 
-**[Deutsche Telekom Pan-Net](https://www.telekom.com/en/media/details/the-pan-european-network-pan-net--442220)** ◦ Bratislava, Slovakia ◦ NFVi/Telco Cloud
+**[Deutsche Telekom
+Pan-Net](https://www.telekom.com/en/media/details/the-pan-european-network-pan-net--442220)**
+◦ Bratislava, Slovakia ◦ NFVi/Telco Cloud
 
-[pan-net.cloud](https://pan-net.cloud/) is a Deutsche-Telekom private cloud/IaaS platform designed to host specialized NFVi service lines and supporting general-purpose IT workloads for subsidiary Telco operators.
+[pan-net.cloud](https://pan-net.cloud/) is a Deutsche-Telekom private
+cloud/IaaS platform designed to host specialized NFVi service lines and
+supporting general-purpose IT workloads for subsidiary Telco operators across
+europe.
 
 Jun 2019 → May 2021
 : Cloud Infrastructure Engineer/Technical Lead, IT PaaS, Pan-Net Cloud
@@ -271,6 +239,47 @@ Activities
 Skills
 : LAMP, Microsoft SMB Solutions, Microsoft Office, Cisco Routing/Switching, Firewall/VPNs, Perl, Shell Scripting
 
+### Skills
+
+Agile PM
+: [DevOps](https://about.gitlab.com/topics/devops/),
+  [Lean-Agile](https://www.scaledagileframework.com/lean-agile-mindset/),
+  [Kanban](https://djaa.com/revisiting-the-principles-and-general-practices-of-the-kanban-method/),
+  [Scrum](https://www.scrum.org/resources/what-is-scrum),
+  [Design Thinking](https://www.interaction-design.org/literature/topics/design-thinking),
+  [Agile Architecture](https://agilemodeling.com/essays/agilearchitecture.htm)
+
+Cloud Platforms
+: [Amazon AWS](https://aws.amazon.com/),
+  [Canonical Openstack](https://www.ubuntu.com/openstack),
+  [Apache Cloudstack](http://cloudstack.apache.org/)
+
+Scripting
+: [Python](https://www.python.org/),
+  [Bash](https://www.gnu.org/software/bash/),
+  [POSIX Shell](http://pubs.opengroup.org/onlinepubs/009695399/utilities/xcu_chap02.html),
+  [Go](https://www.golang.org/),
+  [Powershell](https://en.wikipedia.org/wiki/Windows_PowerShell)
+
+Containerization
+: [docker](https://www.docker.com/),
+  [Kubernetes](https://kubernetes.io/),
+  [EKS](https://aws.amazon.com/eks/),
+  [Service Mesh](https://istio.io) essentials
+
+IaC
+: [Terraform](https://www.terraform.io/),
+  [Ansible](http://www.ansible.com/),
+  [GNU Make](https://www.gnu.org/software/make/),
+  [goss](https://github.com/aelsabbahy/goss)
+
+CI/CD
+: [git](https://git-scm.com/),
+  [Github Actions](https://docs.github.com/en/actions),
+  [Gitlab CI](https://docs.gitlab.com/ee/ci/quick_start/),
+  [Travis CI](https://travis-ci.org/),
+  [Scrutinizer CI](https://scrutinizer-ci.com/),
+  [JFrog Artifactory](https://jfrog.com/artifactory/)
 ### Education
 
 Sep 2008  →  May  2010
@@ -278,19 +287,18 @@ Sep 2008  →  May  2010
 
 ### Training and Qualifications
 
-- [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/), _Currently Certifying_
-- [Certified Kubernetes Administrator (CKA) 2020](https://training.linuxfoundation.org/cka-program-changes-2020/), _Currently Certifying_
+- [Hashicorp Certified: Terraform Associate](https://www.hashicorp.com/certification/terraform-associate), _Currently Certifying_
+- [Design Thinking Immersive Training](), September 2022
 - Scaled Agile, Inc., [SAFe Practitioner](https://support.scaledagile.com/s/article/Exam-Details-SP-SAFe-Practitioner), Feb 2022
 - [DevOps Institute DevOps Leader (DOL)](https://www.devopsinstitute.com/courses/devops-leader/), Jan 2022
 - [Managing Distributed Teams](), Nov 2021
+- [Certified Kubernetes Administrator](https://training.linuxfoundation.org/cka-program-changes-2020/), Sep 2021
 - [Docker + Kubernetes Administration](https://www.componentsoft.io/educationalservices/openstack-docker-puppet-xen-and-kvm/kbs-105-docker-kubernetes-administration-accelerated-training/), May 2018
 - [OpenStack Deployment and Advanced Administration](https://www.componentsoft.io/educationalservices/openstack-docker-puppet-xen-and-kvm/ost-204-openstack-advanced-administration-extended/), Feb 2018
 - [OpenStack Administration Bootcamp](https://www.componentsoft.io/educationalservices/openstack-docker-puppet-xen-and-kvm/openstack-private-cloud-workshop-extended-ost-104/), Sep 2017
 - [Citrix NetScaler ADC Essentials, Networking and Administration](http://training.citrix.com/mod/ctxcatalog/course.php?id=497), Jun 2012
 - [Building Scalable Cisco Internetworks (CCNP BSCI)](https://www.cbtnuggets.com/it-training/cisco-642-901-ccnp-bsci), Feb 2004
 - [Cisco Certified Network Associate (CCNA)](http://www.cisco.com/web/learning/exams/list/ccna_composite.html#~Topics), Mar 2003
-- [Implementing & Administering a Microsoft Directory Services Infrastructure](https://web.archive.org/web/20081222080658/http://www.microsoft.com/learning/en/us/exams/70-217.mspx#EHE), Apr 2003
-- [Implementing & Administering a Microsoft Network Infrastructure](https://web.archive.org/web/20141221185633/https://www.microsoft.com/learning/en/us/exams/70-216.mspx#E3E), Apr 2003
 
 ### Professional Profiles
 
