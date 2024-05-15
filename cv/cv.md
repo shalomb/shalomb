@@ -32,9 +32,9 @@ header-includes:
 
 ### Core Competencies
 
-- Cloud Application Design and Engineering on private and public clouds
-- Software Engineering approach to managing Tooling and Platform Engineering
-- Application of practical DevOps and Lean-Agile to Teamwork and Service Delivery
+- Cloud Solutions Engineering and Service Delivery on private and public clouds
+- DevOps and Lean-Agile methods to Teamwork and Service Delivery
+- Software Engineering approaches to managing Platform Engineering
 
 ### Professional Experience
 
@@ -49,13 +49,13 @@ Jun 2022 → Present
 : Cloud and DevOps Lead Engineer, ICC Cloud Chapter
 
 Responsibilities
-: - Leading engineering efforts around Cloud Solutions Engineering and Service Delivery on the Takeda Enterprise Cloud (AWS)
+: - Leading engineering efforts around Cloud Solutions Engineering, Service Delivery and Enablement on the Takeda Enterprise Cloud (AWS)
 - Providing consultation for and implementing white-glove cloud solutions for internal product teams
-- DevOps of IaC pipelines using Terraform Enterprise and Architectural Building Blocks and Patterns
+- DevOps of Infrastructure-as-Code elements, Building Blocks & Patterns, and Continuous Delivery pipelines
 - As part of a Culture and Values working group, working to improve engineering ways of working
 
 Skills
-: Amazon AWS, DevOps Leadership, SAFe/Scrumban, IaC/Terraform, Python, Golang, Github, Jira
+: Amazon AWS, DevOps Leadership, SAFe/Scrumban, IaC/Terraform, EKS/Kubernetes, Python, Golang, Github, Jira
 
 ---
 
@@ -280,6 +280,7 @@ CI/CD
   [Travis CI](https://travis-ci.org/),
   [Scrutinizer CI](https://scrutinizer-ci.com/),
   [JFrog Artifactory](https://jfrog.com/artifactory/)
+
 ### Education
 
 Sep 2008  →  May  2010
