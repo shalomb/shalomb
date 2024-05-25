@@ -34,28 +34,36 @@ header-includes:
 
 - Cloud Solutions Engineering and Service Delivery on private and public clouds
 - DevOps and Lean-Agile methods to Teamwork and Service Delivery
-- Software Engineering approaches to managing Platform Engineering
+- Software Engineering approaches to Tooling and Platform Engineering
 
 ### Professional Experience
 
 **[Takeda Innovation Capability Center](https://www.takeda.com/sk-sk/who-we-are/icc/)** ◦ Bratislava, Slovakia ◦ Pharmaceuticals
 
-The [Takeda ICC](https://www.takeda.com/sk-sk/who-we-are/icc/) provides
-data and digital innovation capabilities to support Takeda's aspiration of being
-the best data-driven biopharmaceutical company dedicated to discovering and
-delivering life-altering treatments.
+The [Takeda ICC](https://www.takeda.com/sk-sk/who-we-are/icc/) provides data
+and digital innovation capabilities and services to support Takeda's
+aspiration of being the best data-driven biopharmaceutical company dedicated
+to discovering and delivering life-altering treatments.
 
 Jun 2022 → Present
-: Cloud and DevOps Lead Engineer, ICC Cloud Chapter
+: Cloud and DevOps Lead Engineer, ICC Cloud and Custom Development Chapter
 
 Responsibilities
 : - Leading engineering efforts around Cloud Solutions Engineering, Service Delivery and Enablement on the Takeda Enterprise Cloud (AWS)
-- Providing consultation for and implementing white-glove cloud solutions for internal product teams
-- DevOps of Infrastructure-as-Code elements, Building Blocks & Patterns, and Continuous Delivery pipelines
-- As part of a Culture and Values working group, working to improve engineering ways of working
+- Providing Consultation for and Implementing white-glove cloud solutions for internal product teams and vendors
+- DevOps of Infrastructure-as-Code elements, Building Blocks & Patterns, and Delivery best practices
+- As part of a Culture and Values working group, working to improve Agile ways of working
 
 Skills
-: Amazon AWS, DevOps Leadership, SAFe/Scrumban, IaC/Terraform, EKS/Kubernetes, Python, Golang, Github, Jira
+: Amazon AWS,
+ DevOps Leadership,
+ SAFe/Scrumban,
+ IaC/Terraform,
+ EKS/Kubernetes,
+ Python,
+ Golang,
+ Github,
+ Jira
 
 ---
 
@@ -70,7 +78,11 @@ Responsibilities
 : Supporting a team of 6 working to enhance the customer’s IaC and CI/CD/CT profiles in preparation for an enterprise cloud migration (Azure) project.
 
 Skills
-: SAFe, Cloud Lift-and-Shift (IaC Consolidation), VMWare, Ansible/IaC, Scrumban
+: SAFe,
+ Cloud Lift-and-Shift (IaC Consolidation),
+ VMWare,
+ Ansible/IaC,
+ Scrumban
 
 …
 : ---
@@ -117,7 +129,7 @@ Skills & Experience
   Technology Ownership,
   Solution Design & Development,
   CI/CD/CT,
-  Golang, Python,
+  Golang, Python, nginx,
   Kubernetes, Openstack
 
 …
@@ -174,12 +186,12 @@ Oct 2015 → Jun 2017
 
 Responsibilities
 : SaaS DevOps/SRE,
-  Cloud Migration - Lift-and-shift,
+  Cloud Migrations - Lift-and-Shift,
   Cloud Optimization,
   Technical Security,
   CI/CD tools and infrastructure,
   Reporting to Executive Committee,
-  Customer L3 Support
+  Customer L2/L3 Support
 
 Skills
 : Project Management,
@@ -237,7 +249,7 @@ Activities
 : Process Automation, Designing SMB Office IT & Network Solutions, Desktop Publishing, Web development/authoring
 
 Skills
-: LAMP, Microsoft SMB Solutions, Microsoft Office, Cisco Routing/Switching, Firewall/VPNs, Perl, Shell Scripting
+: LAMP Web Hosting, Microsoft Office + SMB Solutions, Cisco Routing/Switching, Firewall/VPNs, Perl, Shell Scripting
 
 ### Skills
 
