@@ -34,56 +34,81 @@ header-includes:
 
 - Cloud Solutions Engineering and Service Delivery on private and public clouds
 - DevOps and Lean-Agile methods to Teamwork and Service Delivery
-- Software Engineering approaches to managing Platform Engineering
+- Software Engineering approaches to Tooling and Platform Engineering
 
 ### Professional Experience
 
-**[Takeda Innovation Capability Center](https://www.takeda.com/sk-sk/who-we-are/icc/)** ◦ Bratislava, Slovakia ◦ Pharmaceuticals
+**[Takeda Innovation Capability
+Center](https://www.takeda.com/sk-sk/who-we-are/icc/)** ◦ Bratislava, Slovakia
+◦ Pharmaceuticals
 
-The [Takeda ICC](https://www.takeda.com/sk-sk/who-we-are/icc/) provides
-data and digital innovation capabilities to support Takeda's aspiration of being
-the best data-driven biopharmaceutical company dedicated to discovering and
-delivering life-altering treatments.
+The [Innovation Capability Solutions and
+Services](https://www.takeda.com/sk-sk/who-we-are/icc/) support Takeda's
+aspiration of being the best data-driven biopharmaceutical company dedicated
+to discovering and delivering life-altering treatments.
 
 Jun 2022 → Present
-: Cloud and DevOps Lead Engineer, ICC Cloud Chapter
+: Cloud DevOps Lead Engineer, ICC Cloud Chapter
 
 Responsibilities
-: - Leading engineering efforts around Cloud Solutions Engineering, Service Delivery and Enablement on the Takeda Enterprise Cloud (AWS)
-- Providing consultation for and implementing white-glove cloud solutions for internal product teams
-- DevOps of Infrastructure-as-Code elements, Building Blocks & Patterns, and Continuous Delivery pipelines
-- As part of a Culture and Values working group, working to improve engineering ways of working
+: - Leading engineering efforts around Service Delivery & Enablement, and
+Cloud Solutions Engineering on the Takeda Enterprise Cloud (AWS)
+- Providing consultation and implementation of white-glove cloud solutions for
+Takeda's internal product teams and vendors
+- Developing Infrastructure-as-Code elements, Terraform Building Blocks &
+Patterns, and evolving the team's good practices
+- Working to improve Agile ways of working and Psychological Safety, etc as
+part of a Culture and Values working group,
 
 Skills
-: Amazon AWS, DevOps Leadership, SAFe/Scrumban, IaC/Terraform, EKS/Kubernetes, Python, Golang, Github, Jira
+: Amazon AWS EC2/EKS/Serverless,
+ DevOps,
+ SAFe/Scrumban,
+ IaC/Terraform,
+ EKS/Kubernetes,
+ Python,
+ Golang,
+ Github CI/CD,
+ Jira
 
 ---
 
-**[Accenture Technology Solutions - Slovakia](https://www.accenture.com/sk-en)** ◦ Bratislava, Slovakia ◦ Enterprise Client Solutions
+**[Accenture Technology Solutions -
+Slovakia](https://www.accenture.com/sk-en)** ◦ Bratislava, Slovakia ◦
+Enterprise Client Solutions
 
-[Accenture ATCs](https://www.accenture.com/ie-en/services/technology/delivery-centers) are innovation hubs serving enterprise clientele through industry & functional experience and continuous innovation with technology.
+The [Accenture Danubia
+ATC](https://www.accenture.com/ie-en/services/technology/delivery-centers) is
+an innovation hub serving international enterprise clientele with industry &
+functional experience and best-of-breed technology solutions.
 
 Jan 2022 → May 2022
-: DevOps Lead, a Global Travel & Expenses Platform
+: DevOps Lead, Global Travel & Expenses Platform
 
 Responsibilities
-: Supporting a team of 6 working to enhance the customer’s IaC and CI/CD/CT profiles in preparation for an enterprise cloud migration (Azure) project.
+: Supporting a team of 6 working to enhance the customer’s
+IaC and CI/CD/CT profiles in preparation for an enterprise cloud migration
+(Azure) project.
 
 Skills
-: SAFe, Cloud Lift-and-Shift (IaC Consolidation), VMWare, Ansible/IaC, Scrumban
+: SAFe,
+ Cloud Lift-and-Shift (IaC Consolidation),
+ VMWare,
+ Ansible/IaC,
+ Scrumban
 
 …
 : ---
 
 Jul 2021 → Jan 2022
-: DevOps Architect, an Image Automation AI/ML Accelerator
+: DevOps Architect, Image Automation AI/ML Accelerator
 
-Responsibilities : - Leading 3 DevOps engineers within a cross-functional team
-designing AWS IaC and Continuous Delivery to requirements
-- Supporting ML workflows with automation, Designing continuous delivery
-    pipelines, Evolving cloud security / cost optimizations.
-- Working on a technical architecture committee - Stakeholder Engagement,
-  Architectural Decision Making, Iteration Planning, Solution Design and Reviews.
+Responsibilities
+: - Supporting a team of 3 engineers -
+  Supporting an AI/ML accelerator with AWS Cloud Infrastructure patterns,
+  Evolving cloud security / cost optimizations.
+- As part of the product committee - Stakeholder Engagement,
+  Architectural Decisioning, Solution Design, Iteration Planning,
 
 Skills
 : DevSecOps,
@@ -117,7 +142,7 @@ Skills & Experience
   Technology Ownership,
   Solution Design & Development,
   CI/CD/CT,
-  Golang, Python,
+  Golang, Python, nginx,
   Kubernetes, Openstack
 
 …
@@ -164,34 +189,35 @@ Skills
 
 ---
 
-**[Box+Dice (BDSK)](https://www.mrisoftware.com/au/products/box-and-dice-real-estate-crm/)** ◦ Bratislava, Slovakia ◦ CRM/SaaS
+**[Box+Dice
+(BDSK)](https://www.mrisoftware.com/au/products/box-and-dice-real-estate-crm/)**
+◦ Bratislava, Slovakia ◦ CRM/SaaS
 
 [Box+Dice](https://www.mrisoftware.com/au/products/box-and-dice-real-estate-crm/)
-are an Australian SaaS developer and provider of services for real-estate B2B operations.
+are an Australian SaaS developer and provider of services for real-estate B2B
+operations.
 
 Oct 2015 → Jun 2017
 : Senior Systems Engineer, Site Reliability Engineering
 
 Responsibilities
-: SaaS DevOps/SRE,
-  Cloud Migration - Lift-and-shift,
-  Cloud Optimization,
-  Technical Security,
+: SaaS Cluster DevOps/SRE,
+  Cloud Migration - Lift-and-Shift,
+  Cloud Security and Cost Optimization,
   CI/CD tools and infrastructure,
   Reporting to Executive Committee,
-  Customer L3 Support
+  Customer L2/L3 Support
 
 Skills
 : Project Management,
-  Amazon AWS,
-  SRE/DevSecOps,
-  Mentoring,
-  Ansible,
+  Amazon AWS EC2/VPC/RDS,
+  Cloudflare,
+  DevSecOps/SRE,
   Terraform,
+  Ansible,
   bash,
   Python,
   Ruby,
-  Cloudflare,
   Linux,
   Postgres,
   MariaDB,
@@ -199,7 +225,8 @@ Skills
 
 ---
 
-**[Citrix Systems UK Ltd](https://www.citrix.com/)** ◦ Cambridge, United Kingdom ◦ Independent Software Vendor
+**[Citrix Systems UK Ltd](https://www.citrix.com/)** ◦ Cambridge, United
+Kingdom ◦ Independent Software Vendor
 
 [Citrix](https://www.citrix.com/) solutions power
 enterprise data, workspace and mobility needs to create better ways to work.
@@ -228,16 +255,20 @@ Skills
 
 ---
 
-**[IT Freelancer](https://www.companieslondon.com/uk/04758251/sib-support-services-limited)** ◦ Greater London Area, United Kingdom ◦ Various
+**[IT
+Freelancer](https://www.companieslondon.com/uk/04758251/sib-support-services-limited)**
+◦ Greater London Area, United Kingdom ◦ Various
 
 Aug 2002 → Dec 2007
 : IT Freelancer, Various Small/SOHO/Medium-sized Businesses
 
 Activities
-: Process Automation, Designing SMB Office IT & Network Solutions, Desktop Publishing, Web development/authoring
+: Process Automation, Designing SMB Office IT & Network Solutions, Desktop
+Publishing, Web development/authoring
 
 Skills
-: LAMP, Microsoft SMB Solutions, Microsoft Office, Cisco Routing/Switching, Firewall/VPNs, Perl, Shell Scripting
+: LAMP Web Hosting, Microsoft Office + SMB Solutions, Cisco Routing/Switching,
+Firewall/VPNs, Perl, Shell Scripting
 
 ### Skills
 
@@ -284,14 +315,16 @@ CI/CD
 ### Education
 
 Sep 2008  →  May  2010
-: [BSc (1:1, Hons.) Computer Networks](https://www.shu.ac.uk/search-results?q=computer+networks), [Sheffield Hallam University](https://www.shu.ac.uk/), Sheffield
+: [BSc (1:1, Hons.) Computer
+Networks](https://www.shu.ac.uk/search-results?q=computer+networks),
+[Sheffield Hallam University](https://www.shu.ac.uk/), Sheffield
 
 ### Training and Qualifications
 
 - [Hashicorp Certified: Terraform Associate](https://www.hashicorp.com/certification/terraform-associate), _Currently Certifying_
 - [Design Thinking Immersive Training](), September 2022
 - Scaled Agile, Inc., [SAFe Practitioner](https://support.scaledagile.com/s/article/Exam-Details-SP-SAFe-Practitioner), Feb 2022
-- [DevOps Institute DevOps Leader (DOL)](https://www.devopsinstitute.com/courses/devops-leader/), Jan 2022
+- [DevOps Institute DevOps Leader (DOL)](https://www.devopsinstitute.com/courses/devops-leader/), Jan y solutions.
 - [Managing Distributed Teams](), Nov 2021
 - [Certified Kubernetes Administrator](https://training.linuxfoundation.org/cka-program-changes-2020/), Sep 2021
 - [Docker + Kubernetes Administration](https://www.componentsoft.io/educationalservices/openstack-docker-puppet-xen-and-kvm/kbs-105-docker-kubernetes-administration-accelerated-training/), May 2018
@@ -320,8 +353,7 @@ English *(Native)*, French *(High School/University)*, Slovak *(Basic Vernacular
 Fatherhood ◦
 [Road Cycling, Mountain Biking](https://www.strava.com/athletes/66934418) ◦
 Outdoors ◦
-Guitar, Music ◦
-Conversation
+Guitars, Music
 
 ### Personal Details
 
