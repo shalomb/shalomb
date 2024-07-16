@@ -197,8 +197,8 @@ p + ul li:before {
   text-align: left;
 }
 
-.carousel, 
-.carousel-inner, 
+.carousel,
+.carousel-inner,
 .carousel-inner .item {
   height: 100%;
   width: auto !important;

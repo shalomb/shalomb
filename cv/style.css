@@ -216,15 +216,21 @@
   }
 
   dd ul {
+    list-style: none !important;
     margin-top: 0;
-    margin-left: -0.5em;
+    margin-left: -0.75em;
   }
 
   dd ul li {
-    font-size: 90%;
+    font-size: 98%;
+    content : "";
   }
 
-  #TOC > ul li:before {
+  dd ul li:before {
+    content : "‣\00a0";
+  }
+
+  #TOC > ul li:before{
     content : "";
   }
 
