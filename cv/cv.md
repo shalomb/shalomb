@@ -4,11 +4,11 @@ pagetitle: Shalom Bhooshi — Curriculum Vitae
 author:   [https://shalomb.id](http://shalomb.id/) ◦ [s.bhooshi@gmail.com](mailto:s.bhooshi@gmail.com) ◦ +421 948 140 290 
 
 abstract: >
-  An adept DevOps professional with a background in the
-  Agile and Continuous Delivery of cloud platforms and services.
-  Combining 20 years experience in IT, DevOps and Cloud engineering,
-  I seek to apply myself in a DevOps organization
-  advancing business successes using cloud solutions.
+  An adept DevOps engineer with a background in the Agile and Continuous
+  Delivery of cloud platforms and services. Combining 20 years experience in
+  IT, DevOps and Cloud engineering, I seek to apply myself in a DevOps
+  organization enabling business using state-of-the-art engineering
+  know-how.
 header-includes:
 
   <meta name="title" content="Shalom Bhooshi — Curriculum Vitae" />
@@ -32,9 +32,9 @@ header-includes:
 
 ### Core Competencies
 
-- Cloud Solutions and Reliability Engineering on private and public clouds
-- Practical DevOps and Lean-Agile know-how for Teamwork and Continuous Delivery
-- Software Engineering approaches to Tooling and Platform Engineering
+- Cloud Solutions Development and Reliability Engineering on private and public clouds.
+- Practical DevOps and Lean-Agile know-how for Continuous Delivery & Teamwork.
+- Software Engineering approaches to Tooling and Platform Engineering.
 
 ### Professional Experience
 
@@ -50,14 +50,15 @@ Jun 2022 → Present
 : Cloud DevOps Lead Engineer, ICC Cloud Chapter
 
 Responsibilities
-: - Leading engineering efforts around Service Delivery, Enablement, and
-Cloud Solutions Engineering on the Takeda Enterprise Cloud (AWS)
-- Alongside platform architecture, designing and implementing white-glove
+: - Leading engineering efforts around Cloud Solutions Engineering (Service
+Delivery, Technical Enablement, DevOps) on the Takeda Enterprise Cloud (AWS)
+- Alongside platform architecture: designing and implementing white-glove
 cloud solutions for Takeda's internal product teams (Cloud Migrations,
-Containerization/Serverless Patterns, Github CI/CD)
-- Developing/evolving Infrastructure-as-Code -- Terraform Building Blocks &
-Deployment Patterns, Tooling, Cloud Standards and DevOps practices
-- As part of a ICC Culture and Values working group -- Working on initiatives to
+3-Tier/Containerized/Serverless Standards, Github Workflows)
+- Developing + evolving Infrastructure-as-Code -- Terraform Building Blocks &
+Deployment Patterns, Tooling, Documentation + Cloud Standards, and DevOps
+practices
+- Within Culture and Values working groups: working on initiatives to
 improve Organizational Agility, Trust, Psychological Safety, etc
 
 Skills
@@ -138,7 +139,7 @@ Jun 2019 → May 2021
 Responsibilities
 : Development of custom PaaS capabilities atop Openstack to serve operational
 needs of Pan-Net's Telco NFVi applications (Application Load Balancers,
-Database-as-a-Service, Cloud-Tenant Backup, Service Monitoring)
+Database-as-a-Service, Cloud-Tenant Backup, APM, Service Monitoring)
 
 Skills & Experience
 : PaaS/Managed Services,
@@ -279,7 +280,7 @@ Networks](https://www.shu.ac.uk/search-results?q=computer+networks),
 ### Skills
 
 Agile PM
-: [DevOps](https://about.gitlab.com/topics/devops/),
+: [DevOps](https://about.gitlab.com/topics/devops/)(+++),
   [Lean-Agile](https://www.scaledagileframework.com/lean-agile-mindset/),
   [Kanban](https://djaa.com/revisiting-the-principles-and-general-practices-of-the-kanban-method/),
   [Scrum](https://www.scrum.org/resources/what-is-scrum),
