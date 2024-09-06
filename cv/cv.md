@@ -50,7 +50,7 @@ Jun 2022 → Present
 : Cloud DevOps Lead Engineer, ICC Cloud Chapter
 
 Responsibilities
-: - Leading engineering efforts around Cloud Solutions Engineering (Service
+: - Lead in Agile Team focused on Cloud Solutions Engineering (Service
 Delivery, Technical Enablement, DevOps) on the Takeda Enterprise Cloud (AWS)
 - Alongside platform architecture: designing and implementing white-glove
 cloud solutions for Takeda's internal product teams (Cloud Migrations,
@@ -106,12 +106,12 @@ Jul 2021 → Jan 2022
 : DevOps Architect, Image Automation AI/ML Accelerator
 
 Responsibilities
-: - DevOps leadership in a 11-strong cross/functional product team developing an
-    AI/ML accelerator for intelligent image automation in the energy sector
-- Implementing application and infrastructure deployments through IaC + CD pipelines
-- Evolving SaaS instantiation, cloud security, cost optimization
-- As part of the product committee - Customer Engagement, Solution Design,
-  Architectural Decisioning, Backlog Engineering, Iteration Planning
+: - DevOps lead in a 11-strong cross/functional product team developing an
+    AI/ML accelerator showcasing intelligent image automation capabilities
+- Supporting product AI/ML, FE + BE engineering with technical decision-making
+- Evolving SaaS instantiation, IaC + CI/CD, cloud security, cost optimization
+- As part of the product committee: Customer Engagement, Solution Design,
+  Architectural Decisioning, Scrum Backlog Engineering + Iteration Planning
 
 Skills
 : DevSecOps,
@@ -138,16 +138,16 @@ Jun 2019 → May 2021
 
 Responsibilities
 : Development of custom PaaS capabilities atop Openstack to serve operational
-needs of Pan-Net's Telco NFVi applications (Application Load Balancers,
-Database-as-a-Service, Cloud-Tenant Backup, APM, Service Monitoring)
+needs of Telco IT and NFVi functions (Application Load Balancers,
+Database-as-a-Service, Cloud-Tenant Backup, APM/Service Monitoring)
 
 Skills & Experience
 : PaaS/Managed Services,
   Technology/Product Ownership,
+  Openstack, Kubernetes, Docker,
   Solution Design,
   CI/CD/CT,
-  Golang, Python, nginx,
-  Kubernetes, Docker, Openstack
+  Golang, Python, nginx
 
 &nbsp;
 : ---
@@ -157,7 +157,7 @@ Feb 2018 → May 2019
 
 Responsibilities
 : Design/Implementation of Continuous Delivery Pipelines for Telco VNF
-onboarding and productionization
+onboarding and productionization into NatCo NFVi tenancies
 
 Skills
 : CI/CD/CT,
@@ -203,10 +203,10 @@ Oct 2015 → Jun 2017
 : Senior Systems Engineer, Site Reliability Engineering
 
 Responsibilities
-: - DevOps/SRE of SaaS Platform Operations
-- Cluster Operations, Cloud Migrations, SaaS Security, Cost Optimization
+: - DevOps/SRE of the Box+Dice SaaS Platform Operations and B2B integrations
+- Cluster Technical Operations, Cloud Migrations, SaaS Security, Cost Optimization
 - Automation + CI/CD + QA governance, Executive Committee Engagement
-- Customer L2/L3 Support, Incident Management
+- Public Technical Documentation, Customer L2/L3 Support, Incident Management
 
 Skills
 : Project Management,
@@ -280,44 +280,50 @@ Networks](https://www.shu.ac.uk/search-results?q=computer+networks),
 ### Skills
 
 Agile PM
-: [DevOps](https://about.gitlab.com/topics/devops/)(+++),
-  [Lean-Agile](https://www.scaledagileframework.com/lean-agile-mindset/),
-  [Kanban](https://djaa.com/revisiting-the-principles-and-general-practices-of-the-kanban-method/),
-  [Scrum](https://www.scrum.org/resources/what-is-scrum),
-  [Design Thinking](https://www.interaction-design.org/literature/topics/design-thinking),
+: [DevOps](https://about.gitlab.com/topics/devops/) ❲▪▪▪❳,
+  [Kanban](https://djaa.com/revisiting-the-principles-and-general-practices-of-the-kanban-method/) ❲▪▪❳,
+  [Scrum](https://www.scrum.org/resources/what-is-scrum) ❲▪▪❳,
+  [SAFe](https://www.scaledagileframework.com/lean-agile-mindset/) ❲++❳,
+  [Design Thinking](https://www.interaction-design.org/literature/topics/design-thinking) ❲▪❳,
   [Agile Architecture](https://agilemodeling.com/essays/agilearchitecture.htm)
 
 Cloud Platforms
-: [Amazon AWS](https://aws.amazon.com/),
+: [Amazon AWS](https://aws.amazon.com/) ❲▪▪▪❳,
   [Canonical Openstack](https://www.ubuntu.com/openstack),
   [Apache Cloudstack](http://cloudstack.apache.org/)
 
 Scripting
-: [Python](https://www.python.org/),
-  [Bash](https://www.gnu.org/software/bash/),
-  [POSIX Shell](http://pubs.opengroup.org/onlinepubs/009695399/utilities/xcu_chap02.html),
-  [Go](https://www.golang.org/),
-  [Powershell](https://en.wikipedia.org/wiki/Windows_PowerShell)
+: [Python](https://www.python.org/) ❲▪▪▪❳,
+  [Go](https://go.dev/) ❲▪▪❳,
+  [Bash](https://www.gnu.org/software/bash/) ❲▪▪▪▪❳,
+  [Powershell](https://en.wikipedia.org/wiki/Windows_PowerShell) ❲▪▪▪❳
 
 Containerization
-: [docker](https://www.docker.com/),
-  [Kubernetes](https://kubernetes.io/),
-  [EKS](https://aws.amazon.com/eks/),
+: [Kubernetes](https://kubernetes.io/) ❲▪▪❳,
+  [EKS](https://aws.amazon.com/eks/) ❲▪▪❳,
+  [docker](https://www.docker.com/) ❲▪▪▪❳,
   [Service Mesh](https://istio.io) essentials
 
 IaC
-: [Terraform](https://www.terraform.io/),
-  [Ansible](http://www.ansible.com/),
+: [Terraform](https://www.terraform.io/) ❲▪▪▪▪❳,
+  [Ansible](http://www.ansible.com/) ❲▪▪▪❳,
   [GNU Make](https://www.gnu.org/software/make/),
   [goss](https://github.com/aelsabbahy/goss)
 
 CI/CD
-: [git](https://git-scm.com/),
-  [Github Actions](https://docs.github.com/en/actions),
-  [Gitlab CI](https://docs.gitlab.com/ee/ci/quick_start/),
+: [git](https://git-scm.com/) ❲▪▪▪▪❳,
+  [Github Actions](https://docs.github.com/en/actions) ❲▪▪▪❳,
+  [Gitlab CI](https://docs.gitlab.com/ee/ci/quick_start/) ❲▪▪▪▪❳,
+  [JFrog Artifactory](https://jfrog.com/artifactory/),
   [Travis CI](https://travis-ci.org/),
-  [Scrutinizer CI](https://scrutinizer-ci.com/),
-  [JFrog Artifactory](https://jfrog.com/artifactory/)
+  [Scrutinizer CI](https://scrutinizer-ci.com/)
+
+Development
+: [FastAPI](https://fastapi.tiangolo.com/) ❲▪❳,
+  [Flask](https://flask.palletsprojects.com/en/)
+  [HTMX](https://htmx.org/) ❲▪❳,
+  [RESTFful APIs](https://aws.amazon.com/what-is/restful-api/) ❲▪▪❳,
+  [Micro-Services](https://microservices.io/)
 
 ### Training and Qualifications
 
