@@ -4,11 +4,11 @@ pagetitle: Shalom Bhooshi — Curriculum Vitae
 author:   [https://shalomb.id](http://shalomb.id/) ◦ [s.bhooshi@gmail.com](mailto:s.bhooshi@gmail.com) ◦ +421 948 140 290 
 
 abstract: >
-  An adept DevOps engineer with a background in the Agile and Continuous
-  Delivery of cloud platforms and services. Combining 20 years experience in
-  IT, DevOps and Cloud engineering, I seek to apply myself in a DevOps
-  organization enabling business using state-of-the-art engineering
-  know-how.
+  An experienced Cloud DevOps engineer with a background in cloud platforms/solutions engineering.
+  Combining 20 years experience in IT, QE, DevOps, and Cloud engineering, I
+  seek to apply myself in a DevOps organization enabling business successes
+  using modern cloud practices.
+
 header-includes:
 
   <meta name="title" content="Shalom Bhooshi — Curriculum Vitae" />
@@ -32,34 +32,36 @@ header-includes:
 
 ### Core Competencies
 
-- Cloud Solutions Development and Reliability Engineering on private and public clouds.
-- Practical DevOps and Lean-Agile know-how for Continuous Delivery & Teamwork.
-- Software Engineering approaches to Tooling and Platform Engineering.
+- Cloud & DevOps Solutions Engineering on private and public clouds.
+- Practical DevOps expertise to engineering Product Agility and Continuous Delivery.
+- Software Engineering (SRE) approaches to Technical Operations.
 
 ### Professional Experience
 
 **[Takeda Innovations Slovakia](https://www.takeda.com/sk-sk/who-we-are/icc/)** ◦ Bratislava, Slovakia
 ◦ Pharmaceuticals
 
-[Takeda Innovation Capability Solutions and
-Services](https://www.takeda.com/sk-sk/who-we-are/icc/) enable Takeda's
-aspiration of being the best data-driven biopharmaceutical company dedicated
-to discovering and delivering life-altering treatments.
+[Takeda Innovation Capability Solutions and Services](https://www.takeda.com/sk-sk/who-we-are/icc/)
+enable Takeda's aspiration of being the best data-driven biopharmaceutical company dedicated to
+discovering and delivering life-altering treatments.
 
 Jun 2022 → Present
-: Cloud DevOps Lead Engineer, ICC Cloud Chapter
+: Cloud DevOps Lead Engineer, ICCS Cloud and Custom Development
 
 Responsibilities
-: - Lead in Agile Team focused on Cloud Solutions Engineering (Service
+: - Lead in an Agile Cloud DevOps Team focused on Cloud Solutions Engineering (Service
 Delivery, Technical Enablement, DevOps) on the Takeda Enterprise Cloud (AWS)
-- Alongside platform architecture: designing and implementing white-glove
-cloud solutions for Takeda's internal product teams (Cloud Migrations,
-3-Tier/Containerized/Serverless Standards, Github Workflows)
-- Developing + evolving Infrastructure-as-Code -- Terraform Building Blocks &
-Deployment Patterns, Tooling, Documentation + Cloud Standards, and DevOps
-practices
-- Within Culture and Values working groups: working on initiatives to
-improve Organizational Agility, Trust, Psychological Safety, etc
+- Alongside platform architecture: Designing and Implementing white-glove
+cloud solutions for Takeda's internal product teams (Cloud Deployments/Migrations,
+Good-Practices, 3-Tier/Containerized/Serverless Standards, Github Actions/Workflows)
+- Developing/evolving Infrastructure-as-Code capabilities -- Terraform Building Blocks,
+Deployment Patterns, Technical Product Documentation, Cloud Standards,
+and DevOps procedures
+- Providing mentorship to fellow engineers,
+fostering team onboarding across geographies,
+providing an interlock between engineering and Cloud leadership
+- Within local Culture and Values working groups: working on initiatives to
+improve Organizational Agility, Trust & Collaboration, Psychological Safety, etc
 
 Skills
 : SAFe/Scrumban,
@@ -69,7 +71,9 @@ Skills
  EKS/Kubernetes,
  Python,
  Golang,
- Github CI/CD,
+ Bash,
+ Terraform Enterprise,
+ Github Enterprise,
  Jira
 
 ---
@@ -138,7 +142,7 @@ Jun 2019 → May 2021
 
 Responsibilities
 : Development of custom PaaS capabilities atop Openstack to serve operational
-needs of Telco IT and NFVi functions (Application Load Balancers,
+needs of Telco IT and NFVi functions (ex. Application Load Balancers,
 Database-as-a-Service, Cloud-Tenant Backup, APM/Service Monitoring)
 
 Skills & Experience
@@ -179,7 +183,8 @@ Aug 2017 → Jan 2018
 : Cloud Infrastructure Engineer, Application Orchestration, Pan-Net NFVi
 
 Responsibilities
-: Development of VNF application lifecycle orchestrators
+: Development of VNF application lifecycle orchestrators and their proper
+  integration into Pan-Net OpenStack ecosystem
 
 Skills
 : Openstack,
@@ -210,6 +215,7 @@ Responsibilities
 
 Skills
 : Project Management,
+  Team Leadership,
   DevSecOps/SRE,
   Amazon AWS,
   Cloudflare,
@@ -235,21 +241,21 @@ Jul 2010 → Aug 2015
 
 Responsibilities
 : - Architecture of internal Test-aaS platform for QA of Citrix VDI/DaaS,
-- DevOps of Dev/Test self-service capabilities - environment leasing, workload scheduling
-- Development of Test framework/library components
+- DevOps of self-service DevTest environment provisioning + workload scheduling
 - VM appliance/image catalogue management for Windows, RHEL/SuSE Linux
-- Datacenter management - Hardware, Networking, Storage, Procurement
+- Development of Test framework + library components in Powershell/Python/Perl
+- Test Lab Datacenter management - Hardware, Networking, Storage, Procurement
 
 Skills
-: Citrix IaaS/Virtualization,
-  Xen/XCP/XenServer,
-  Apache CloudStack,
+: Private Cloud,
+  Datacenter Architecture,
+  Xen/XCP/XenServer Server Virtualization,
+  Apache CloudStack, OpenStack,
   Citrix DaaS,
-  Private Cloud/Datacenter Architecture,
   Network Design,
   Quality Engineering,
   Linux, Windows Core,
-  PowerShell, Perl, Python
+  PowerShell, Python, Perl
 
 ---
 
@@ -283,13 +289,13 @@ Agile PM
 : [DevOps](https://about.gitlab.com/topics/devops/) ❲▪▪▪❳,
   [Kanban](https://djaa.com/revisiting-the-principles-and-general-practices-of-the-kanban-method/) ❲▪▪❳,
   [Scrum](https://www.scrum.org/resources/what-is-scrum) ❲▪▪❳,
-  [SAFe](https://www.scaledagileframework.com/lean-agile-mindset/) ❲++❳,
+  [SAFe](https://www.scaledagileframework.com/lean-agile-mindset/) ❲▪▪❳,
   [Design Thinking](https://www.interaction-design.org/literature/topics/design-thinking) ❲▪❳,
   [Agile Architecture](https://agilemodeling.com/essays/agilearchitecture.htm)
 
 Cloud Platforms
 : [Amazon AWS](https://aws.amazon.com/) ❲▪▪▪❳,
-  [Canonical Openstack](https://www.ubuntu.com/openstack),
+  [Canonical Openstack](https://www.ubuntu.com/openstack) (▪),
   [Apache Cloudstack](http://cloudstack.apache.org/)
 
 Scripting
