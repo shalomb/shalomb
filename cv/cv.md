@@ -4,11 +4,12 @@ pagetitle: Shalom Bhooshi — Curriculum Vitae
 author:   [https://shalomb.id](http://shalomb.id/) ◦ [s.bhooshi@gmail.com](mailto:s.bhooshi@gmail.com) ◦ +421 948 140 290 
 
 abstract: >
-  An adept DevOps engineer with a background in the Agile and Continuous
-  Delivery of cloud platforms and services. Combining 20 years experience in
-  IT, DevOps and Cloud engineering, I seek to apply myself in a DevOps
-  organization enabling business using state-of-the-art engineering
-  know-how.
+  An experienced Cloud DevOps engineer with a background in the engineering of
+  cloud platforms and services.
+  Combining 20 years experience in IT, QE, DevOps, and Cloud engineering, I
+  seek to apply myself in a DevOps organization enabling business successes
+  using modern cloud know-how and good-practices.
+
 header-includes:
 
   <meta name="title" content="Shalom Bhooshi — Curriculum Vitae" />
@@ -33,8 +34,9 @@ header-includes:
 ### Core Competencies
 
 - Cloud Solutions Development and Reliability Engineering on private and public clouds.
-- Practical DevOps and Lean-Agile know-how for Continuous Delivery & Teamwork.
+- Practical DevOps and Lean-Agile expertise for Continuous Delivery & Teamwork.
 - Software Engineering approaches to Tooling and Platform Engineering.
+- Team Leadership, Mentoring
 
 ### Professional Experience
 
@@ -138,7 +140,7 @@ Jun 2019 → May 2021
 
 Responsibilities
 : Development of custom PaaS capabilities atop Openstack to serve operational
-needs of Telco IT and NFVi functions (Application Load Balancers,
+needs of Telco IT and NFVi functions (ex. Application Load Balancers,
 Database-as-a-Service, Cloud-Tenant Backup, APM/Service Monitoring)
 
 Skills & Experience
@@ -179,7 +181,8 @@ Aug 2017 → Jan 2018
 : Cloud Infrastructure Engineer, Application Orchestration, Pan-Net NFVi
 
 Responsibilities
-: Development of VNF application lifecycle orchestrators
+: Development of VNF application lifecycle orchestrators and their proper
+  integration into Pan-Net OpenStack ecosystem
 
 Skills
 : Openstack,
@@ -210,6 +213,7 @@ Responsibilities
 
 Skills
 : Project Management,
+  Team Leadership,
   DevSecOps/SRE,
   Amazon AWS,
   Cloudflare,
@@ -235,21 +239,22 @@ Jul 2010 → Aug 2015
 
 Responsibilities
 : - Architecture of internal Test-aaS platform for QA of Citrix VDI/DaaS,
-- DevOps of Dev/Test self-service capabilities - environment leasing, workload scheduling
-- Development of Test framework/library components
+- DevOps of self-service DevTest environment provisioning + workload scheduling
 - VM appliance/image catalogue management for Windows, RHEL/SuSE Linux
-- Datacenter management - Hardware, Networking, Storage, Procurement
+- Development of Test framework + library components in Powershell/Python/Perl
+- Test Lab Datacenter management - Hardware, Networking, Storage, Procurement
 
 Skills
-: Citrix IaaS/Virtualization,
-  Xen/XCP/XenServer,
-  Apache CloudStack,
+:
+  Private Cloud,
+  Datacenter Architecture,
+  Xen/XCP/XenServer Server Virtualization,
+  Apache CloudStack, OpenStack,
   Citrix DaaS,
-  Private Cloud/Datacenter Architecture,
   Network Design,
   Quality Engineering,
   Linux, Windows Core,
-  PowerShell, Perl, Python
+  PowerShell, Python, Perl
 
 ---
 
