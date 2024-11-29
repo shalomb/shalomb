@@ -32,9 +32,9 @@ header-includes:
 
 ### Core Competencies
 
-- Cloud & DevOps Solutions Engineering on private and public clouds.
-- Practical DevOps expertise to engineering Product Agility and Continuous Delivery.
-- Software Engineering (SRE) approaches to Technical Operations.
+- Cloud Solutions Engineering on private and public clouds
+- Practical DevOps expertise to facilitate Agility and Continuous Delivery
+- Software Engineering (SRE) code-centric approaches to Technical Operations
 
 ### Professional Experience
 
@@ -53,7 +53,7 @@ Responsibilities
 Delivery, Technical Enablement, DevOps) on the Takeda Enterprise Cloud (AWS)
 - Alongside platform architecture: Designing and Implementing white-glove
 cloud solutions for Takeda's internal product teams (Cloud Deployments/Migrations,
-Good-Practices, 3-Tier/Containerized/Serverless Standards, Github Actions/Workflows)
+3-Tier/Containerized/Serverless Standards, GxP compliance, Github Actions/Workflows)
 - Developing/evolving Infrastructure-as-Code capabilities -- Terraform Building Blocks,
 Deployment Patterns, Technical Product Documentation, Cloud Standards,
 and DevOps procedures
@@ -333,6 +333,7 @@ Development
 
 ### Training and Qualifications
 
+- Generative AI Bootcamp, October 2024
 - [Hashicorp Certified: Terraform Associate](https://www.hashicorp.com/certification/terraform-associate), _Currently Certifying_
 - [Design Thinking Immersive Training](), September 2022
 - Scaled Agile, Inc., [SAFe Practitioner](https://support.scaledagile.com/s/article/Exam-Details-SP-SAFe-Practitioner), Feb 2022
