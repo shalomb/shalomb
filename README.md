@@ -1,10 +1,10 @@
 ### Shalom 👋
 
-- 🔭 I’m currently working on my fatherhood skills, [rum](https://github.com/shalomb/rum), terraform providers for `$work`
-- 👨 At [`$dayjob`](https://www.takeda.com/sk-sk/who-we-are/icc/) I do `{cloud,devops,platform}` Engineering on the [Takeda Enterprise Cloud](https://www.takeda.com/newsroom/newsreleases/2020/takeda-accelerates-digital-transformation-with-accenture-and-aws/)
-- ⚡ I'm a big proponent of [DevOps](https://www.dynatrace.com/news/blog/what-is-devops-gene-kim-offers-an-expert-view/) - both the practices and principles. You can't remain effective in any domain/vertical without DevOps nowadays - _prove me wrong!_
-- 🌱 I dabble in [Distributed Systems](https://www.confluent.io/learn/distributed-systems/), Linux, Cloud Native Tech, Golang, Python, Rust
-- 👯 I’d like to work on something nebulous yet lofty (☁️ "cloud-native". get it?) with a nautical (☸) twist .. _heh_.
+- 🔭 I’m currently working on my parenting skills, learning [go](https://github.com/shalomb?tab=repositories), developing terraform modules/providers for `$work`
+- 👨 At [`$dayjob`](https://www.takeda.com/sk-sk/who-we-are/icc/) I do `{cloud,devops,platform,IaC}` engineering on the [Takeda Enterprise Cloud](https://www.takeda.com/newsroom/newsreleases/2020/takeda-accelerates-digital-transformation-with-accenture-and-aws/)
+- ⚡ I'm a big proponent of [DevOps](https://www.dynatrace.com/news/blog/what-is-devops-gene-kim-offers-an-expert-view/) - more the principles, less the practices. Effectiveness is quality at speed - you can't have one without the other, _ya know?_.
+- 🌱 I like to solve problems with [Distributed Systems](https://www.confluent.io/learn/distributed-systems/), Cloud Native Tech, Productivity Tools, Golang, Python
+- 👯 I'd like to work on something nebulous yet lofty (☁️ - get it?) ideally with a nautical (☸) twist .. _heh_.
 - 🤔 I’m looking for help tackling [this Strava <img src="img/strava.png" height="16" width="16" /> segment](https://www.strava.com/segments/21756358) 🚴
 - 📫 How to reach me: [shalomb.id/#contact](https://shalomb.id/#contact)
 
@@ -13,9 +13,9 @@
  <a href="https://en.wikipedia.org/wiki/Platform_as_a_service" target="_blank"> <img src="img/paas.png" alt="PaaS" width="24" height="24"/> </a>
  <a href="https://terraform.io/" target="_blank"> <img src="img/terraform.png" alt="terraform" width="24" height="24"/> </a>
  <a href="https://aws.amazon.com" target="_blank"> <img src="img/aws.webp" alt="aws" width="24" height="24"/> </a>
+ <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="24" height="24"/> </a>
  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="24" height="24"/> </a>
  <a href="https://ansible.com/" target="_blank"> <img src="img/ansible.png" alt="ansible" width="24" height="24"/> </a>
- <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="24" height="24"/> </a>
  <a href="https://www.docker.com/" target="_blank"> <img src="img/docker.png" alt="docker" width="24" height="24"/> </a>
  <a href="https://podman.io/" target="_blank"> <img src="https://appimage.github.io/database/Podman/icons/256x256/podman.png" alt="podman" width="24" height="24"/> </a>
  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="24" height="24"/> </a>
@@ -34,7 +34,7 @@
  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="24" height="24"/> </a>
  <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="24" height="24"/> </a>
  <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://www.rust-lang.org/logos/rust-logo-32x32.png" alt="go" width="24" height="24"/> </a>
- <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="24" height="24"/> </a>
+ <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/156354296?s=200&v=4" alt="fastapi" width="24" height="24"/> </a>
  <a href="https://devblogs.microsoft.com/powershell/powershell-core-6-0-generally-available-ga-and-supported/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" alt="powershell" width="24" height="24"/> </a>
  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="24" height="24"/> </a>
  <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="24" height="24"/> </a>

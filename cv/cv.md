@@ -4,10 +4,9 @@ pagetitle: Shalom Bhooshi — Curriculum Vitae
 author:   [https://shalomb.id](http://shalomb.id/) ◦ [s.bhooshi@gmail.com](mailto:s.bhooshi@gmail.com) ◦ +421 948 140 290 
 
 abstract: >
-  An experienced Cloud DevOps engineer with a background in cloud platforms/solutions engineering.
-  Combining 20 years experience in IT, QE, DevOps, and Cloud engineering, I
-  seek to apply myself in a DevOps organization enabling business successes
-  using modern cloud practices.
+  An experienced Cloud DevOps engineer with a background in platforms & solutions engineering.
+  Combining 20 years experience in IT, QA, DevOps, and Cloud engineering, I
+  seek to apply myself in a similar organization enabling business successes.
 
 header-includes:
 
@@ -33,7 +32,7 @@ header-includes:
 ### Core Competencies
 
 - Cloud Solutions Engineering on private and public clouds
-- Practical DevOps expertise to facilitate Agility and Continuous Delivery
+- Practical DevOps expertise to facilitate Continuous Delivery and Engineering Culture
 - Software Engineering (SRE) code-centric approaches to Technical Operations
 
 ### Professional Experience
@@ -49,19 +48,11 @@ Jun 2022 → Present
 : Cloud DevOps Lead Engineer, ICCS Cloud and Custom Development
 
 Responsibilities
-: - Lead in an Agile Cloud DevOps Team focused on Cloud Solutions Engineering (Service
-Delivery, Technical Enablement, DevOps) on the Takeda Enterprise Cloud (AWS)
-- Alongside platform architecture: Designing and Implementing white-glove
-cloud solutions for Takeda's internal product teams (Cloud Deployments/Migrations,
-3-Tier/Containerized/Serverless Standards, GxP compliance, Github Actions/Workflows)
-- Developing/evolving Infrastructure-as-Code capabilities -- Terraform Building Blocks,
-Deployment Patterns, Technical Product Documentation, Cloud Standards,
-and DevOps procedures
-- Providing mentorship to fellow engineers,
-fostering team onboarding across geographies,
-providing an interlock between engineering and Cloud leadership
-- Within local Culture and Values working groups: working on initiatives to
-improve Organizational Agility, Trust & Collaboration, Psychological Safety, etc
+: - Lead in an Agile Cloud DevOps Team focused on Bi-Modal IT Solutions Engineering on the Takeda Enterprise Cloud (AWS)
+- Alongside platform architecture, Designing and Implementing white-glove cloud solutions for Takeda's internal product teams
+- Developing/evolving Infrastructure-as-Code capabilities -- Terraform Building Blocks, Product Documentation, Cloud Standards and Governance, and DevOps procedures
+- Hiring, mentorship, facilitating team onboarding across geographies, liaison between engineering and Cloud leadership
+- Within Culture and Values working groups, working on initiatives to improve Organizational Agility, Trust & Collaboration, Psychological Safety, etc
 
 Skills
 : SAFe/Scrumban,
@@ -110,10 +101,10 @@ Jul 2021 → Jan 2022
 : DevOps Architect, Image Automation AI/ML Accelerator
 
 Responsibilities
-: - DevOps lead in a 11-strong cross/functional product team developing an
-    AI/ML accelerator showcasing intelligent image automation capabilities
-- Supporting product AI/ML, FE + BE engineering with technical decision-making
-- Evolving SaaS instantiation, IaC + CI/CD, cloud security, cost optimization
+: - DevOps lead in a 11-strong cross-functional product team developing an
+    AI/ML accelerator showcasing Intelligent Image Automation capabilities
+- Supporting product AI/ML, FE + BE engineering with DevOps and Technical decision-making
+- Evolving SaaS operations, IaC + CI/CD, cloud security, cloud cost optimization
 - As part of the product committee: Customer Engagement, Solution Design,
   Architectural Decisioning, Scrum Backlog Engineering + Iteration Planning
 
@@ -266,6 +257,7 @@ Aug 2002 → Dec 2007
 
 Activities
 : Designing/Implementing SMB Office IT & Network Solutions,
+  Web Hosting,
   Process Automation,
   Desktop Publishing,
   Web development/authoring
@@ -331,6 +323,8 @@ Development
   [RESTFful APIs](https://aws.amazon.com/what-is/restful-api/) ❲▪▪❳,
   [Micro-Services](https://microservices.io/)
 
+Also see my [Pluralsight](https://app.pluralsight.com/profile/shalom-bhooshi) profile
+
 ### Training and Qualifications
 
 - Generative AI Bootcamp, October 2024
@@ -354,15 +348,15 @@ Development
 [Github](https://github.com/shalomb),
 [Gitlab](https://gitlab.com/users/shalomb),
 [StackOverflow Developer Story](https://stackoverflow.com/story/shalombhooshi),
-[Pluralsight](https://app.pluralsight.com/profile/shalom-bhooshi),
 [Linkedin](https://uk.linkedin.com/in/shalombhooshi)
 
 ### Hobbies and Interests
 
-Fatherhood ◦
-[Road Cycling, Mountain Biking](https://www.strava.com/athletes/66934418) ◦
-Outdoors ◦
-Guitars, Music
+👪 Fatherhood ◦
+🚴 [Road Cycling, 🚵 Mountain Biking](https://www.strava.com/athletes/66934418) ◦
+🏔️ Outdoors ◦
+📚 Reading ◦
+🎸 Guitars, 🎶 Music
 
 ### Personal Details
 
