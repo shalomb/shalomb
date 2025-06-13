@@ -44,8 +44,29 @@ header-includes:
 enable Takeda's aspiration of being the best data-driven biopharmaceutical company dedicated to
 discovering and delivering life-altering treatments.
 
-Jun 2022 → Present
-: Cloud DevOps Lead Engineer, ICCS Cloud and Custom Development
+Apr 2025 → Present
+: Cloud DevOps Lead Engineer, DevSecOps
+
+Responsibilities
+: - Working in a DevSecOps squad developing platform capabilities using Internal Developer Workflows (IdP) and Continuous Deployment (CD) modules of harness.io
+- Consultancy to Takeda teams around enterprise cloud use-cases and custom integrations with harness.io
+- Resolution of DevOps/Enablement support requests related to capabilities, tooling, processes
+
+Skills
+: SAFe/ScrumXP,
+ DevSecOps,
+ harness.io,
+ EKS/Kubernetes,
+ Docker,
+ Python,
+ Bash,
+ Terraform Enterprise,
+ JFrog Artifactory,
+ Github Enterprise,
+
+
+Jun 2022 → Apr 2025
+: Cloud DevOps Lead Engineer, Cloud Solutions Engineering
 
 Responsibilities
 : - Lead in an Agile Cloud DevOps Team focused on Bi-Modal IT Solutions Engineering on the Takeda Enterprise Cloud (AWS)
@@ -299,6 +320,7 @@ Scripting
 Containerization
 : [Kubernetes](https://kubernetes.io/) ❲▪▪❳,
   [EKS](https://aws.amazon.com/eks/) ❲▪▪❳,
+  [podman](https://podman.io/) ❲▪▪▪❳,
   [docker](https://www.docker.com/) ❲▪▪▪❳,
   [Service Mesh](https://istio.io) essentials
 
@@ -311,14 +333,13 @@ IaC
 CI/CD
 : [git](https://git-scm.com/) ❲▪▪▪▪❳,
   [Github Actions](https://docs.github.com/en/actions) ❲▪▪▪❳,
+  [harness.io](http://harness.io/) [IDP](https://www.harness.io/products/internal-developer-portal)/[CD](https://www.harness.io/products/continuous-delivery),
   [Gitlab CI](https://docs.gitlab.com/ee/ci/quick_start/) ❲▪▪▪▪❳,
-  [JFrog Artifactory](https://jfrog.com/artifactory/),
-  [Travis CI](https://travis-ci.org/),
-  [Scrutinizer CI](https://scrutinizer-ci.com/)
+  [JFrog Artifactory](https://jfrog.com/artifactory/)
 
 Development
 : [FastAPI](https://fastapi.tiangolo.com/) ❲▪❳,
-  [Flask](https://flask.palletsprojects.com/en/)
+  [Flask](https://flask.palletsprojects.com/en/),
   [HTMX](https://htmx.org/) ❲▪❳,
   [RESTFful APIs](https://aws.amazon.com/what-is/restful-api/) ❲▪▪❳,
   [Micro-Services](https://microservices.io/)
