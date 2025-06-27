@@ -333,7 +333,7 @@ IaC
 CI/CD
 : [git](https://git-scm.com/) ❲▪▪▪▪❳,
   [Github Actions](https://docs.github.com/en/actions) ❲▪▪▪❳,
-  [harness.io](http://harness.io/) [IDP](https://www.harness.io/products/internal-developer-portal)/[CD](https://www.harness.io/products/continuous-delivery),
+  [harness.io](http://harness.io/) [IDP](https://www.harness.io/products/internal-developer-portal)/[CD](https://www.harness.io/products/continuous-delivery) ❲▪▪❳,
   [Gitlab CI](https://docs.gitlab.com/ee/ci/quick_start/) ❲▪▪▪▪❳,
   [JFrog Artifactory](https://jfrog.com/artifactory/)
 
@@ -348,6 +348,7 @@ Also see my [Pluralsight](https://app.pluralsight.com/profile/shalom-bhooshi) pr
 
 ### Training and Qualifications
 
+- [Advanced Architecting on AWS](https://aws.amazon.com/training/classroom/advanced-architecting-aws/), Jun 2025
 - Generative AI Bootcamp, October 2024
 - [Hashicorp Certified: Terraform Associate](https://www.hashicorp.com/certification/terraform-associate), _Currently Certifying_
 - [Design Thinking Immersive Training](), September 2022
