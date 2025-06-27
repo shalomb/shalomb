@@ -49,8 +49,8 @@ Apr 2025 → Present
 
 Responsibilities
 : - Working in a DevSecOps squad developing platform capabilities using Internal Developer Workflows (IdP) and Continuous Deployment (CD) modules of harness.io
-- Consultancy to Takeda teams around enterprise cloud use-cases and custom integrations with harness.io
-- Resolution of DevOps/Enablement support requests related to capabilities, tooling, processes
+- Consultancy to Takeda product teams around Enterprise Cloud use-cases and custom integrations with harness.io
+- Resolution of DevOps/Enablement support requests related to platform capabilities, tooling, processes
 
 Skills
 : SAFe/ScrumXP,
@@ -69,11 +69,10 @@ Jun 2022 → Apr 2025
 : Cloud DevOps Lead Engineer, Cloud Solutions Engineering
 
 Responsibilities
-: - Lead in an Agile Cloud DevOps Team focused on Bi-Modal IT Solutions Engineering on the Takeda Enterprise Cloud (AWS)
-- Alongside platform architecture, Designing and Implementing white-glove cloud solutions for Takeda's internal product teams
-- Developing/evolving Infrastructure-as-Code capabilities -- Terraform Building Blocks, Product Documentation, Cloud Standards and Governance, and DevOps procedures
-- Hiring, mentorship, facilitating team onboarding across geographies, liaison between engineering and Cloud leadership
-- Within Culture and Values working groups, working on initiatives to improve Organizational Agility, Trust & Collaboration, Psychological Safety, etc
+: - Lead in an Cloud DevOps Team focused on Bi-Modal Traditional and Cloud-Native IT Solutions Engineering on the Takeda Enterprise Cloud (AWS)
+- Alongside platform architecture -- Designing and building white-glove cloud solutions for Takeda's product teams within regulatory guardrails
+- Engineering Infrastructure-as-Code capabilities -- Terraform Building Blocks, Build/Release Automation, Cloud Standards and Governance, and DevSecOps practices
+- Hiring, Mentorship, Building chapter capabilities across geographies, Working within Culture and Values working groups to improve Technical Agility, Trust & Collaboration, Psychological Safety, etc
 
 Skills
 : SAFe/Scrumban,
