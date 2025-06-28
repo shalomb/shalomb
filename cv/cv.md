@@ -31,9 +31,9 @@ header-includes:
 
 ### Core Competencies
 
-- Cloud Solutions Engineering on private and public clouds
-- Practical DevOps expertise to facilitate Continuous Delivery and Engineering Culture
-- Software Engineering (SRE) code-centric approaches to Technical Operations
+- Solutions Engineering of Traditional and Cloud-Native applications on Private and Public Clouds
+- Practical DevOps expertise to facilitate Fast Flow and Continuous Delivery
+- Software Engineering code-centric approaches to Infrastructure and Technical Operations
 
 ### Professional Experience
 
@@ -48,9 +48,15 @@ Apr 2025 → Present
 : Cloud DevOps Lead Engineer, DevSecOps
 
 Responsibilities
-: - Working in a DevSecOps pod engineering platform capabilities with the Internal Developer Portal (IdP) Workflows and Continuous Deployment (CD) modules of [harness.io](https://www.harness.io/products/continuous-delivery)
-- Consultancy to Takeda product teams around DevSecOps, Enterprise Cloud and Data orchestration use-cases, platform engineering automation workflows
-- Resolution of DevOps/Enablement support requests related to platform capabilities, tooling, processes
+: - Developing IdP and DevEx capabilities for the DevSecOps platform with [harness.io](https://www.harness.io/products/continuous-delivery)
+- Consultancy to Takeda product teams around DevSecOps journeys,
+  application deployment and platform engineering workflows,
+  infrastructure and data orchestration.
+- Working closely with users on
+  Project Setup and Onboarding,
+  DevSecOps Enablement,
+  Technical Support,
+  Feature Prioritization.
 
 Skills
 : SAFe/ScrumXP,
@@ -60,7 +66,7 @@ Skills
  Docker,
  Python,
  Bash,
- Terraform Enterprise,
+ Terraform Cloud,
  JFrog Artifactory,
  Github Enterprise,
 
@@ -71,22 +77,22 @@ Jun 2022 → Apr 2025
 : Cloud DevOps Lead Engineer, Cloud Solutions Engineering
 
 Responsibilities
-: - Lead in an Cloud DevOps Team focused on Bi-Modal Traditional and Cloud-Native IT Solutions Engineering on the Takeda Enterprise Cloud (AWS)
-- Alongside platform architecture -- Designing and building white-glove cloud solutions for Takeda's product teams within regulatory guardrails
-- Engineering Infrastructure-as-Code capabilities -- Terraform Building Blocks, Build/Release Automation, Cloud Standards and Governance, and DevSecOps practices
-- Hiring, Mentorship, Building chapter capabilities across geographies, Working within Culture and Values working groups to improve Technical Agility, Trust & Collaboration, Psychological Safety, etc
+: - Lead in an Cloud DevOps Team focused on Solutions Engineering of Traditional and Cloud-Native workloads on the Takeda Enterprise Cloud (AWS).
+- Alongside platform architecture -- Designing and building white-glove cloud solutions for Takeda's product teams within platform and regulatory guardrails.
+- Engineering Infrastructure-as-Code capabilities -- Terraform Building Blocks, Build/Release Automation, Cloud Standards and Governance, and DevSecOps practices.
+- Hiring, Mentorship, Building cloud chapter capabilities, Within working groups improving Technical Agility, Trust & Collaboration, Psychological Safety, etc.
 
 Skills
 : SAFe/Scrumban,
  DevSecOps,
  Amazon AWS EC2/EKS/Serverless,
+ Kubernetes,
  IaC/Terraform,
- EKS/Kubernetes,
  Python,
  Golang,
  Bash,
- Terraform Enterprise,
- Github Enterprise,
+ Terraform Cloud,
+ Github, JFrog,
  Jira
 
 ---
@@ -104,7 +110,7 @@ Jan 2022 → May 2022
 : DevOps Lead, Global Travel & Expenses Platform
 
 Responsibilities
-: DevOps lead for an infrastructure team chartered with an Enterprise Cloud Migration (VMWare on-prem → Azure).
+: DevOps lead in an infrastructure team chartered with an Enterprise Cloud Migration (VMWare on-prem → Azure).
     Consolidating IaC, Enhancing CI/CD capabilities, Developing bespoke automation + monitoring/reporting.
 
 Skills
@@ -122,7 +128,8 @@ Jul 2021 → Jan 2022
 
 Responsibilities
 : DevOps lead in a product team developing an
-    AI/ML accelerator showcasing Intelligent Image Automation capabilities.
+    AI/ML accelerator showcasing Intelligent Image Automation
+    for real-world infrastructure anomaly detection.
     Enhancing Solution Design, IaC + CI/CD, Cloud Security, Cost Optimization
 
 Skills
@@ -149,21 +156,20 @@ Jun 2019 → May 2021
 : Cloud Infrastructure Engineer/Technical Lead, IT PaaS, Pan-Net Cloud
 
 Responsibilities
-: Development of custom PaaS capabilities atop Openstack to supplement
-Telco IT and NFVi functions (
-ex. Application Load Balancers,
+: Development of custom PaaS capabilities atop Openstack IaaS to supplement
+Telco IT and NFVi functions
+(ex. Application Load Balancers,
 Database-as-a-Service,
 Cloud-Tenant Backup,
 Configuration Management,
-APM/Service Monitoring
-)
+APM/Service Monitoring)
 
 Skills & Experience
 : PaaS/Managed Services,
   Technology/Product Ownership,
   Openstack, Kubernetes, Docker,
   Solution Design,
-  CI/CD/CT,
+  Gitlab, CI/CD/CT,
   Golang, Python, nginx
 
 &nbsp;
@@ -389,8 +395,5 @@ Email
 
 Nationality
 : British
-
-Residentship
-: Slovak Permanent Residentship
 
 <a class="github-fork-ribbon" href="https://github.com/shalomb/shalomb.github.io/" data-ribbon="Fork me on GitHub" title="Fork me on GitHub">Fork me on GitHub</a>
