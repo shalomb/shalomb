@@ -48,8 +48,8 @@ Apr 2025 → Present
 : Cloud DevOps Lead Engineer, DevSecOps
 
 Responsibilities
-: - Working in a DevSecOps squad developing platform capabilities using Internal Developer Workflows (IdP) and Continuous Deployment (CD) modules of harness.io
-- Consultancy to Takeda product teams around Enterprise Cloud use-cases and custom integrations with harness.io
+: - Working in a DevSecOps pod engineering platform capabilities with the Internal Developer Portal (IdP) Workflows and Continuous Deployment (CD) modules of [harness.io](https://www.harness.io/products/continuous-delivery)
+- Consultancy to Takeda product teams around DevSecOps, Enterprise Cloud and Data orchestration use-cases, platform engineering automation workflows
 - Resolution of DevOps/Enablement support requests related to platform capabilities, tooling, processes
 
 Skills
@@ -64,6 +64,8 @@ Skills
  JFrog Artifactory,
  Github Enterprise,
 
+&nbsp;
+: ---
 
 Jun 2022 → Apr 2025
 : Cloud DevOps Lead Engineer, Cloud Solutions Engineering
@@ -102,17 +104,15 @@ Jan 2022 → May 2022
 : DevOps Lead, Global Travel & Expenses Platform
 
 Responsibilities
-: - Supporting a team of 6 working on Infrastructure-as-Code and Configuration
-Management capabilities to enable an enterprise cloud migration (VMWare on-prem →
-Azure)
+: DevOps lead for an infrastructure team chartered with an Enterprise Cloud Migration (VMWare on-prem → Azure).
+    Consolidating IaC, Enhancing CI/CD capabilities, Developing bespoke automation + monitoring/reporting.
 
 Skills
-: SAFe,
+: SAFe/Scrumban,
  Cloud Lift-and-Shift (IaC Consolidation),
  VMWare,
  RHEL,
  Ansible/IaC,
- Scrumban
 
 &nbsp;
 : ---
@@ -121,12 +121,9 @@ Jul 2021 → Jan 2022
 : DevOps Architect, Image Automation AI/ML Accelerator
 
 Responsibilities
-: - DevOps lead in a 11-strong cross-functional product team developing an
-    AI/ML accelerator showcasing Intelligent Image Automation capabilities
-- Supporting product AI/ML, FE + BE engineering with DevOps and Technical decision-making
-- Evolving SaaS operations, IaC + CI/CD, cloud security, cloud cost optimization
-- As part of the product committee: Customer Engagement, Solution Design,
-  Architectural Decisioning, Scrum Backlog Engineering + Iteration Planning
+: DevOps lead in a product team developing an
+    AI/ML accelerator showcasing Intelligent Image Automation capabilities.
+    Enhancing Solution Design, IaC + CI/CD, Cloud Security, Cost Optimization
 
 Skills
 : DevSecOps,
@@ -152,9 +149,14 @@ Jun 2019 → May 2021
 : Cloud Infrastructure Engineer/Technical Lead, IT PaaS, Pan-Net Cloud
 
 Responsibilities
-: Development of custom PaaS capabilities atop Openstack to serve operational
-needs of Telco IT and NFVi functions (ex. Application Load Balancers,
-Database-as-a-Service, Cloud-Tenant Backup, APM/Service Monitoring)
+: Development of custom PaaS capabilities atop Openstack to supplement
+Telco IT and NFVi functions (
+ex. Application Load Balancers,
+Database-as-a-Service,
+Cloud-Tenant Backup,
+Configuration Management,
+APM/Service Monitoring
+)
 
 Skills & Experience
 : PaaS/Managed Services,
@@ -171,7 +173,7 @@ Feb 2018 → May 2019
 : Cloud Infrastructure Engineer, NFVi DevOps, Pan-Net NFVi
 
 Responsibilities
-: Design/Implementation of Continuous Delivery Pipelines for Telco VNF
+: Design/Implementation of VNF CD Pipelines for Telco VNF
 onboarding and productionization into NatCo NFVi tenancies
 
 Skills
@@ -194,8 +196,8 @@ Aug 2017 → Jan 2018
 : Cloud Infrastructure Engineer, Application Orchestration, Pan-Net NFVi
 
 Responsibilities
-: Development of VNF application lifecycle orchestrators and their proper
-  integration into Pan-Net OpenStack ecosystem
+: Development of custom VNF Management and Orchestrator (MANO) solutions to
+  manage VNF lifecycle on the Pan-Net OpenStack NFVi cloud
 
 Skills
 : Openstack,
@@ -219,25 +221,25 @@ Oct 2015 → Jun 2017
 : Senior Systems Engineer, Site Reliability Engineering
 
 Responsibilities
-: - DevOps/SRE of the Box+Dice SaaS Platform Operations and B2B integrations
-- Cluster Technical Operations, Cloud Migrations, SaaS Security, Cost Optimization
-- Automation + CI/CD + QA governance, Executive Committee Engagement
-- Public Technical Documentation, Customer L2/L3 Support, Incident Management
+: DevOps/SRE of the Box+Dice SaaS Platform Operations and B2B integrations
+with industry partners.
+SaaS Cluster TechOps,
+AWS Cloud Migrations,
+Cost Optimization,
+Platform Security,
+CI/CD + QA governance,
+Technical backlog engineering
 
 Skills
 : Project Management,
   Team Leadership,
   DevSecOps/SRE,
-  Amazon AWS,
+  Amazon AWS, XCP/XenServer,
   Cloudflare,
-  Terraform,
-  Ansible,
-  Python,
-  Ruby,
+  Terraform, Ansible,
+  Python, Ruby,
   Linux,
-  PostgreSQL,
-  MariaDB,
-  Elasticsearch
+  PostgreSQL, MariaDB, Elasticsearch
 
 ---
 
@@ -251,21 +253,19 @@ Jul 2010 → Aug 2015
 : Senior Software Test Engineer, Engineering Productivity, Desktop and Apps
 
 Responsibilities
-: - Architecture of internal Test-aaS platform for QA of Citrix VDI/DaaS,
-- DevOps of self-service DevTest environment provisioning + workload scheduling
-- VM appliance/image catalogue management for Windows, RHEL/SuSE Linux
-- Development of Test framework + library components in Powershell/Python/Perl
-- Test Lab Datacenter management - Hardware, Networking, Storage, Procurement
+: DevOps of a custom Test-aaS private cloud for QA of Citrix VDI/DaaS products.
+Supporting self-service of DevTest environments,
+workload orchestration and resource scheduling,
+test automation framework enhancements.
 
 Skills
 : Private Cloud,
-  Datacenter Architecture,
+  Datacenter Network/Storage Design,
   Xen/XCP/XenServer Server Virtualization,
   Apache CloudStack, OpenStack,
-  Citrix DaaS,
-  Network Design,
+  Citrix XenDesktop/VDI/DaaS,
   Quality Engineering,
-  Linux, Windows Core,
+  Linux, Windows Server Core,
   PowerShell, Python, Perl
 
 ---
