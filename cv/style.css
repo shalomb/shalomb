@@ -288,7 +288,16 @@ span.date-range {
 }
 
 /* ===================================================================
-   6. OTHER SECTIONS - Keep Simple
+   6. TRAINING SECTION STYLING
+   ================================================================= */
+
+/* Reduce font size for list items under H4 headings in Training section */
+h3#training-and-qualifications ~ h4 + ul li {
+  font-size: 95% !important;
+}
+
+/* ===================================================================
+   7. EXPERIENCE SECTION OVERRIDES
    ================================================================= */
 
 /* General lists (outside experience) */
@@ -399,4 +408,43 @@ h3#professional-experience ~ * li:before,
   display: none !important;
   content: "" !important;
   margin-left: 0 !important;
+}
+
+/* ===================================================================
+   10. A4 PAGE LAYOUT - Screen display with paper-like appearance  
+   ================================================================= */
+
+/* A4 page styling for screen display */
+@media only screen {
+  html {
+    padding: 0;
+    margin: 0;
+    background-color: #FAFAFA;
+  }
+
+  body {
+    background: white;
+    border: 1px #d3d3d3 solid;
+    border-radius: 5px;
+    box-shadow: 0 0 0.25cm rgba(0, 0, 0, 0.25);
+  }
+
+  * {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+  }
+}
+
+/* A4 dimensions and responsive padding */
+@media (min-width: 768px) {
+  body {
+    width: 21cm;
+    padding: 2cm;
+  }
+}
+
+@media (max-width: 767px) {
+  body {
+    padding: 15px;
+  }
 }
