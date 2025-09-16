@@ -1,0 +1,20 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "This directory contains the source to build [https://shalomb.id/cv](https://shalomb.id/cv)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "make dev && echo 'Open http://localhost:8000/cv.html - then run: npm run watch'",
+    "serve": "python3 -m http.server 8000 --bind 127.0.0.1",
+    "watch": "livereload . --port 35729 --wait 200",
+    "build": "make html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "livereload": "^0.10.3"
+  }
+}

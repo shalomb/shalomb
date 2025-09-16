@@ -9,24 +9,21 @@ abstract: >
   seek to apply myself in a similar organization enabling business successes.
 
 header-includes:
-
-  <meta name="title" content="Shalom Bhooshi — Curriculum Vitae" />
-  <meta name="description" content="Cloud, Platform Engineering, DevOps, Agile" />
-  <meta name="keywords" content="Curriculum Vitae, CV, Resume, Professional Experience, Functional Resume" />
-  <meta name="robots" content="noindex, nofollow">
-
-  <meta property="og:description" content="Cloud, Platform Engineering, DevOps, Agile" />
-  <meta property="og:image" content="https://avatars.githubusercontent.com/u/733435?v=4">
-  <meta property="og:image:secure_url" content="https://avatars.githubusercontent.com/u/733435?v=4">
-  <meta property="og:locale" content="en_GB">
-  <meta property="og:locale:alternate" content="en_GB">
-  <meta property="og:locale:alternate" content="en_US">
-  <meta property="og:site_name" content="shalomb.id" />
-  <meta property="og:title" content="Shalom Bhooshi — Curriculum Vitae" />
-  <meta property="og:type" content="article" />
-  <meta property="og:url" content="http://shalomb.id/cv">
-
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.3/gh-fork-ribbon.min.css" />
+- '<meta name="title" content="Shalom Bhooshi — Curriculum Vitae" />'
+- '<meta name="description" content="Cloud, Platform Engineering, DevOps, Agile" />'
+- '<meta name="keywords" content="Curriculum Vitae, CV, Resume, Professional Experience, Functional Resume" />'
+- '<meta name="robots" content="noindex, nofollow">'
+- '<meta property="og:description" content="Cloud, Platform Engineering, DevOps, Agile" />'
+- '<meta property="og:image" content="https://avatars.githubusercontent.com/u/733435?v=4">'
+- '<meta property="og:image:secure_url" content="https://avatars.githubusercontent.com/u/733435?v=4">'
+- '<meta property="og:locale" content="en_GB">'
+- '<meta property="og:locale:alternate" content="en_GB">'
+- '<meta property="og:locale:alternate" content="en_US">'
+- '<meta property="og:site_name" content="shalomb.id" />'
+- '<meta property="og:title" content="Shalom Bhooshi — Curriculum Vitae" />'
+- '<meta property="og:type" content="article" />'
+- '<meta property="og:url" content="http://shalomb.id/cv">'
+- '<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.3/gh-fork-ribbon.min.css" />'
 ---
 
 ### Core Competencies
@@ -303,67 +300,64 @@ Networks](https://www.shu.ac.uk/search-results?q=computer+networks),
 
 ### Skills
 
-Agile PM
-: [DevOps](https://about.gitlab.com/topics/devops/) ❲▪▪▪❳,
-  [Kanban](https://djaa.com/revisiting-the-principles-and-general-practices-of-the-kanban-method/) ❲▪▪❳,
-  [Scrum](https://www.scrum.org/resources/what-is-scrum) ❲▪▪❳,
-  [SAFe](https://www.scaledagileframework.com/lean-agile-mindset/) ❲▪▪❳,
-  [Design Thinking](https://www.interaction-design.org/literature/topics/design-thinking) ❲▪❳,
-  [Agile Architecture](https://agilemodeling.com/essays/agilearchitecture.htm)
+Cloud & Infrastructure
+: [Amazon AWS](https://aws.amazon.com/),
+  [Canonical Openstack](https://www.ubuntu.com/openstack),
+  [Apache Cloudstack](http://cloudstack.apache.org/),
+: [Kubernetes](https://kubernetes.io/)/[EKS](https://aws.amazon.com/eks/),
+  [podman](https://podman.io/)/[docker](https://www.docker.com/),
 
-Cloud Platforms
-: [Amazon AWS](https://aws.amazon.com/) ❲▪▪▪❳,
-  [Canonical Openstack](https://www.ubuntu.com/openstack) (▪),
-  [Apache Cloudstack](http://cloudstack.apache.org/)
-
-Scripting
-: [Python](https://www.python.org/) ❲▪▪▪❳,
-  [Go](https://go.dev/) ❲▪▪❳,
-  [Bash](https://www.gnu.org/software/bash/) ❲▪▪▪▪❳,
-  [Powershell](https://en.wikipedia.org/wiki/Windows_PowerShell) ❲▪▪▪❳
-
-Containerization
-: [Kubernetes](https://kubernetes.io/) ❲▪▪❳,
-  [EKS](https://aws.amazon.com/eks/) ❲▪▪❳,
-  [podman](https://podman.io/) ❲▪▪▪❳,
-  [docker](https://www.docker.com/) ❲▪▪▪❳,
-  [Service Mesh](https://istio.io) essentials
-
-IaC
-: [Terraform](https://www.terraform.io/) ❲▪▪▪▪❳,
-  [Ansible](http://www.ansible.com/) ❲▪▪▪❳,
-  [GNU Make](https://www.gnu.org/software/make/),
-  [goss](https://github.com/aelsabbahy/goss)
-
-CI/CD
-: [git](https://git-scm.com/) ❲▪▪▪▪❳,
-  [Github Actions](https://docs.github.com/en/actions) ❲▪▪▪❳,
-  [harness.io](http://harness.io/) [IDP](https://www.harness.io/products/internal-developer-portal)/[CD](https://www.harness.io/products/continuous-delivery) ❲▪▪❳,
-  [Gitlab CI](https://docs.gitlab.com/ee/ci/quick_start/) ❲▪▪▪▪❳,
+Development & CI/CD
+: [Python](https://www.python.org/),
+  [Go](https://go.dev/),
+  [Bash](https://www.gnu.org/software/bash/),
+  [Powershell](https://en.wikipedia.org/wiki/Windows_PowerShell),
+  [Terraform](https://www.terraform.io/),
+  [Ansible](http://www.ansible.com/),
+  [git](https://git-scm.com/),
+  [harness.io](http://harness.io/) [IDP](https://www.harness.io/products/internal-developer-portal)/[CD](https://www.harness.io/products/continuous-delivery),
+  [Github Actions](https://docs.github.com/en/actions),
+  [Gitlab CI](https://docs.gitlab.com/ee/ci/quick_start/),
   [JFrog Artifactory](https://jfrog.com/artifactory/)
 
-Development
-: [FastAPI](https://fastapi.tiangolo.com/) ❲▪❳,
-  [Flask](https://flask.palletsprojects.com/en/),
-  [HTMX](https://htmx.org/) ❲▪❳,
-  [RESTFful APIs](https://aws.amazon.com/what-is/restful-api/) ❲▪▪❳,
-  [Micro-Services](https://microservices.io/)
+Architecture & Design
+: [Microservices](https://microservices.io/),
+  [Cloud-Native](https://www.cncf.io/about/),
+  [API Design](https://aws.amazon.com/what-is/restful-api/),
+  [Service Mesh](https://istio.io) essentials,
+  [12-Factor Apps](https://12factor.net/)
+
+Agile PM
+: [DevOps](https://about.gitlab.com/topics/devops/),
+  [Kanban](https://djaa.com/revisiting-the-principles-and-general-practices-of-the-kanban-method/),
+  [Scrum](https://www.scrum.org/resources/what-is-scrum),
+  [SAFe](https://www.scaledagileframework.com/lean-agile-mindset/),
+  [Design Thinking](https://www.interaction-design.org/literature/topics/design-thinking),
+  [Agile Architecture](https://agilemodeling.com/essays/agilearchitecture.htm)
 
 Also see my [Pluralsight](https://app.pluralsight.com/profile/shalom-bhooshi) profile
 
 ### Training and Qualifications
 
+#### Cloud and Infrastructure
 - [Advanced Architecting on AWS](https://aws.amazon.com/training/classroom/advanced-architecting-aws/), Jun 2025
-- Generative AI Bootcamp, October 2024
 - [Hashicorp Certified: Terraform Associate](https://www.hashicorp.com/certification/terraform-associate), _Currently Certifying_
-- [Design Thinking Immersive Training](), September 2022
-- Scaled Agile, Inc., [SAFe Practitioner](https://support.scaledagile.com/s/article/Exam-Details-SP-SAFe-Practitioner), Feb 2022
-- [DevOps Institute DevOps Leader (DOL)](https://www.devopsinstitute.com/courses/devops-leader/), Jan 2022
-- [Managing Distributed Teams](), Nov 2021
 - [Certified Kubernetes Administrator](https://training.linuxfoundation.org/cka-program-changes-2020/), Sep 2021
 - [Docker + Kubernetes Administration](https://www.componentsoft.io/educationalservices/openstack-docker-puppet-xen-and-kvm/kbs-105-docker-kubernetes-administration-accelerated-training/), May 2018
 - [OpenStack Deployment and Advanced Administration](https://www.componentsoft.io/educationalservices/openstack-docker-puppet-xen-and-kvm/ost-204-openstack-advanced-administration-extended/), Feb 2018
 - [OpenStack Administration Bootcamp](https://www.componentsoft.io/educationalservices/openstack-docker-puppet-xen-and-kvm/openstack-private-cloud-workshop-extended-ost-104/), Sep 2017
+
+#### AI and Data
+- [Data Warehousing with Databricks](), July 2025
+- Generative AI Bootcamp, October 2024
+
+#### Leadership and Agile Methodologies
+- [Design Thinking Immersive Training](), September 2022
+- Scaled Agile, Inc., [SAFe Practitioner](https://support.scaledagile.com/s/article/Exam-Details-SP-SAFe-Practitioner), Feb 2022
+- [DevOps Institute DevOps Leader (DOL)](https://www.devopsinstitute.com/courses/devops-leader/), Jan 2022
+- [Managing Distributed Teams](), Nov 2021
+
+#### Other
 - [Citrix NetScaler ADC Essentials, Networking and Administration](http://training.citrix.com/mod/ctxcatalog/course.php?id=497), Jun 2012
 - [Building Scalable Cisco Internetworks (CCNP BSCI)](https://www.cbtnuggets.com/it-training/cisco-642-901-ccnp-bsci), Feb 2004
 - [Cisco Certified Network Associate (CCNA)](http://www.cisco.com/web/learning/exams/list/ccna_composite.html#~Topics), Mar 2003

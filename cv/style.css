@@ -121,9 +121,95 @@
   dl {
     overflow : hidden;
     padding : 0;
-    margin-bottom : -0.6em;
+    margin-bottom : 0.5em;
   }
 
+  /* Experience section styling - compact flowing layout */
+  h3#professional-experience ~ dl {
+    display: block;
+    margin-bottom: 1.5em;
+    overflow: visible;
+  }
+
+  h3#professional-experience ~ dl dt {
+    display: inline;
+    width: auto;
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+    color: #666;
+    text-align: left;
+    font-size: 80%;
+    float: none;
+    border-right: none;
+  }
+
+  h3#professional-experience ~ dl dd {
+    display: block;
+    width: auto;
+    margin: 0 0 0.5em 0;
+    padding: 0;
+    font-size: 90%;
+    line-height: 140%;
+    float: none;
+  }
+
+  /* Date ranges - make them inline with job titles */
+  h3#professional-experience ~ dl dt:first-child {
+    color: #006699;
+    font-weight: bold;
+    font-size: 85%;
+    border-right: none;
+  }
+
+  /* Job titles - make them prominent */
+  h3#professional-experience ~ dl dt:first-child + dd {
+    display: inline;
+    font-weight: bold;
+    font-size: 100%;
+    color: #222;
+    margin: 0 0 0.8em 0;
+  }
+
+  /* Add visual separator after job title line */
+  h3#professional-experience ~ dl dt:first-child + dd::after {
+    content: "";
+    display: block;
+    height: 1px;
+    background: linear-gradient(to right, transparent, #ddd 20%, #ddd 80%, transparent);
+    margin: 0.5em 0;
+  }
+
+  /* Responsibilities - remove label, style content */
+  h3#professional-experience ~ dl dt:nth-child(3) {
+    display: none;
+  }
+
+  h3#professional-experience ~ dl dt:nth-child(3) + dd {
+    margin-bottom: 0.5em;
+  }
+
+  /* Skills - make inline with subtle styling */
+  h3#professional-experience ~ dl dt:last-child {
+    display: none;
+  }
+
+  h3#professional-experience ~ dl dt:last-child + dd {
+    font-size: 85%;
+    color: #555;
+    font-style: italic;
+    border-top: 1px dotted #ddd;
+    padding-top: 0.3em;
+    margin-bottom: 0;
+  }
+
+  /* Better spacing for content sections */
+  h3#professional-experience ~ dl dd ul {
+    margin-top: 0.3em;
+    margin-bottom: 0.5em;
+  }
+
+  /* Fallback for other dl elements */
   dt {
     width : 21%;
     margin : 0;

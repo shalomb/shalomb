@@ -60,6 +60,26 @@ html: $(in_file)
 		--toc -c style.css --template=default.html5
 	cp cv.html index.html
 
+.PHONY: dev
+dev: $(in_file)
+	pandoc -s $(in_file) -f markdown -t html5 -o $(out_file).html \
+		--toc -c style.css --template=default.html5 \
+		--variable live-reload=true
+	cp cv.html index.html
+
+.PHONY: watch
+watch:
+	@echo "Starting development with LiveReload..."
+	@echo "1. Building with live reload..."
+	@$(MAKE) dev
+	@echo "2. Starting HTTP server (background)..."
+	@python3 -m http.server 8000 --bind 127.0.0.1 > /dev/null 2>&1 &
+	@echo "3. Starting LiveReload server..."
+	@echo "   📄 Open: http://localhost:8000/cv.html"
+	@echo "   🔄 LiveReload active on port 35729"
+	@echo "   Press Ctrl+C to stop"
+	@npx livereload . --port 35729 --wait 200
+
 # aptitude install texlive-xetex texlive-fonts-recommended lmodern
 .PHONY: pdf
 pdf: $(in_file)
