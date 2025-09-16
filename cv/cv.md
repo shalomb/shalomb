@@ -41,7 +41,7 @@ header-includes:
 enable Takeda's aspiration of being the best data-driven biopharmaceutical company dedicated to
 discovering and delivering life-altering treatments.
 
-Apr 2025 → Present
+[Apr 2025 → Present]{.date-range}
 : Cloud DevOps Lead Engineer, DevSecOps
 
 Responsibilities
@@ -67,10 +67,7 @@ Skills
  JFrog Artifactory,
  Github Enterprise,
 
-&nbsp;
-: ---
-
-Jun 2022 → Apr 2025
+[Jun 2022 → Apr 2025]{.date-range}
 : Cloud DevOps Lead Engineer, Cloud Solutions Engineering
 
 Responsibilities
@@ -103,7 +100,7 @@ ATC](https://www.accenture.com/ie-en/services/technology/delivery-centers) is
 an innovation hub serving various international enterprise clientele with industry &
 functional experience, and best-of-breed technology solutions.
 
-Jan 2022 → May 2022
+[Jan 2022 → May 2022]{.date-range}
 : DevOps Lead, Global Travel & Expenses Platform
 
 Responsibilities
@@ -117,10 +114,7 @@ Skills
  RHEL,
  Ansible/IaC,
 
-&nbsp;
-: ---
-
-Jul 2021 → Jan 2022
+[Jul 2021 → Jan 2022]{.date-range}
 : DevOps Architect, Image Automation AI/ML Accelerator
 
 Responsibilities
@@ -149,7 +143,7 @@ cloud/IaaS platform designed to host specialized NFVi service lines and
 supporting general-purpose IT workloads for subsidiary Telco operators across
 europe.
 
-Jun 2019 → May 2021
+[Jun 2019 → May 2021]{.date-range}
 : Cloud Infrastructure Engineer/Technical Lead, IT PaaS, Pan-Net Cloud
 
 Responsibilities
@@ -161,7 +155,7 @@ Cloud-Tenant Backup,
 Configuration Management,
 APM/Service Monitoring)
 
-Skills & Experience
+Skills 
 : PaaS/Managed Services,
   Technology/Product Ownership,
   Openstack, Kubernetes, Docker,
@@ -169,10 +163,7 @@ Skills & Experience
   Gitlab, CI/CD/CT,
   Golang, Python, nginx
 
-&nbsp;
-: ---
-
-Feb 2018 → May 2019
+[Feb 2018 → May 2019]{.date-range}
 : Cloud Infrastructure Engineer, NFVi DevOps, Pan-Net NFVi
 
 Responsibilities
@@ -192,10 +183,7 @@ Skills
   Prometheus,
   Grafana
 
-&nbsp;
-: ---
-
-Aug 2017 → Jan 2018
+[Aug 2017 → Jan 2018]{.date-range}
 : Cloud Infrastructure Engineer, Application Orchestration, Pan-Net NFVi
 
 Responsibilities
@@ -220,7 +208,7 @@ Skills
 are an Australian Real-Estate SaaS developer and provider of B2B/B2C solutions
 and services.
 
-Oct 2015 → Jun 2017
+[Oct 2015 → Jun 2017]{.date-range}
 : Senior Systems Engineer, Site Reliability Engineering
 
 Responsibilities
@@ -252,7 +240,7 @@ Kingdom ◦ Independent Software Vendor
 [Citrix](https://www.citrix.com/) solutions power
 enterprise data, workspace and mobility needs to create better ways of working.
 
-Jul 2010 → Aug 2015
+[Jul 2010 → Aug 2015]{.date-range}
 : Senior Software Test Engineer, Engineering Productivity, Desktop and Apps
 
 Responsibilities
@@ -275,7 +263,7 @@ Skills
 
 **IT Freelancer** ◦ Greater London Area, United Kingdom ◦ Various
 
-Aug 2002 → Dec 2007
+[Aug 2002 → Dec 2007]{.date-range}
 : IT Freelancer, SOHO/Small-to-Medium Clientele
 
 Activities
@@ -293,7 +281,7 @@ Skills
 
 ### Education
 
-Sep 2008  →  May  2010
+[Sep 2008 → May 2010]{.date-range}
 : [BSc (1:1, Hons.) Computer
 Networks](https://www.shu.ac.uk/search-results?q=computer+networks),
 [Sheffield Hallam University](https://www.shu.ac.uk/), Sheffield, UK
@@ -304,7 +292,7 @@ Cloud & Infrastructure
 : [Amazon AWS](https://aws.amazon.com/),
   [Canonical Openstack](https://www.ubuntu.com/openstack),
   [Apache Cloudstack](http://cloudstack.apache.org/),
-: [Kubernetes](https://kubernetes.io/)/[EKS](https://aws.amazon.com/eks/),
+  [Kubernetes](https://kubernetes.io/)/[EKS](https://aws.amazon.com/eks/),
   [podman](https://podman.io/)/[docker](https://www.docker.com/),
 
 Development & CI/CD
@@ -373,11 +361,11 @@ Also see my [Pluralsight](https://app.pluralsight.com/profile/shalom-bhooshi) pr
 
 ### Hobbies and Interests
 
-👪 Fatherhood ◦
-🚴 [Road Cycling, 🚵 Mountain Biking](https://www.strava.com/athletes/66934418) ◦
-🏔️ Outdoors ◦
-📚 Reading ◦
-🎸 Guitars, 🎶 Music
+Fatherhood ◦
+[Road Cycling, Mountain Biking](https://www.strava.com/athletes/66934418) ◦
+Outdoors ◦
+Reading ◦
+Guitars, Music
 
 ### Personal Details
 

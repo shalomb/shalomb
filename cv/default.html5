@@ -66,5 +66,17 @@ $endfor$
 $if(live-reload)$
 <script src="http://localhost:35729/livereload.js"></script>
 $endif$
+<script>
+// Auto-detect date ranges and add CSS classes
+document.addEventListener('DOMContentLoaded', function() {
+  const dtElements = document.querySelectorAll('dt');
+  dtElements.forEach(function(dt) {
+    if (dt.textContent.includes('→')) {
+      dt.classList.add('date-range');
+      console.log('Added date-range class to:', dt.textContent);
+    }
+  });
+});
+</script>
 </body>
 </html>

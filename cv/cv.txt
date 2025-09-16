@@ -4,73 +4,118 @@ Shalom Bhooshi
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Core Competencies
 
-- Cloud Solutions Engineering and Service Delivery on private and public
-  clouds
-- DevOps and Lean-Agile methods to Teamwork and Service Delivery
-- Software Engineering approaches to managing Platform Engineering
+- Solutions Engineering of Traditional and Cloud-Native applications on
+  Private and Public Clouds
+- Practical DevOps expertise to facilitate Fast Flow and Continuous Delivery
+- Software Engineering code-centric approaches to Infrastructure and Technical
+  Operations
 
 Professional Experience
 
-Takeda Innovation Capability Center ◦ Bratislava, Slovakia ◦ Pharmaceuticals
+Takeda Innovations Slovakia ◦ Bratislava, Slovakia ◦ Pharmaceuticals
 
-The Takeda ICC provides data and digital innovation capabilities to support
-Takeda’s aspiration of being the best data-driven biopharmaceutical company
-dedicated to discovering and delivering life-altering treatments.
+Takeda Innovation Capability Solutions and Services enable Takeda’s aspiration
+of being the best data-driven biopharmaceutical company dedicated to
+discovering and delivering life-altering treatments.
 
-Jun 2022 → Present
-    Cloud and DevOps Lead Engineer, ICC Cloud Chapter
+Apr 2025 → Present
+    Cloud DevOps Lead Engineer, DevSecOps
 
 Responsibilities
 
-    - Leading engineering efforts around Cloud Solutions Engineering, Service
-    Delivery and Enablement on the Takeda Enterprise Cloud (AWS)
-  - Providing consultation for and implementing white-glove cloud solutions
-    for internal product teams
-  - DevOps of Infrastructure-as-Code elements, Building Blocks & Patterns, and
-    Continuous Delivery pipelines
-  - As part of a Culture and Values working group, working to improve
-    engineering ways of working
+    - Developing IdP and DevEx capabilities for the DevSecOps platform with
+    harness.io
+  - Consultancy to Takeda product teams around DevSecOps journeys, application
+    deployment and platform engineering workflows, infrastructure and data
+    orchestration.
+  - Working closely with users on Project Setup and Onboarding, DevSecOps
+    Enablement, Technical Support, Feature Prioritization.
 
 Skills
-    Amazon AWS, DevOps Leadership, SAFe/Scrumban, IaC/Terraform,
-  EKS/Kubernetes, Python, Golang, Github, Jira
+    SAFe/ScrumXP, DevSecOps, harness.io, EKS/Kubernetes, Docker, Python, Bash,
+  Terraform Cloud, JFrog Artifactory, Github Enterprise,
+
+Jun 2022 → Apr 2025
+    Cloud DevOps Lead Engineer, Cloud Solutions Engineering
+
+Responsibilities
+
+    - Lead in an Cloud DevOps Team focused on Solutions Engineering of
+    Traditional and Cloud-Native workloads on the Takeda Enterprise Cloud
+    (AWS).
+  - Alongside platform architecture – Designing and building white-glove cloud
+    solutions for Takeda’s product teams within platform and regulatory
+    guardrails.
+  - Engineering Infrastructure-as-Code capabilities – Terraform Building
+    Blocks, Build/Release Automation, Cloud Standards and Governance, and
+    DevSecOps practices.
+  - Hiring, Mentorship, Building cloud chapter capabilities, Within working
+    groups improving Technical Agility, Trust & Collaboration, Psychological
+    Safety, etc.
+
+Skills
+    SAFe/Scrumban, DevSecOps, Amazon AWS EC2/EKS/Serverless, Kubernetes,
+  IaC/Terraform, Python, Golang, Bash, Terraform Cloud, Github, JFrog, Jira
 
 ------------------------------------------------------------------------------
 
 Accenture Technology Solutions - Slovakia ◦ Bratislava, Slovakia ◦ Enterprise
 Client Solutions
 
-Accenture ATCs are innovation hubs serving enterprise clientele through
-industry & functional experience and continuous innovation with technology.
+The Accenture Danubia ATC is an innovation hub serving various international
+enterprise clientele with industry & functional experience, and best-of-breed
+technology solutions.
 
 Jan 2022 → May 2022
-    DevOps Lead, a Global Travel & Expenses Platform
+    DevOps Lead, Global Travel & Expenses Platform
 
 Responsibilities
-    Supporting a team of 6 working to enhance the customer’s IaC and CI/CD/CT
-  profiles in preparation for an enterprise cloud migration (Azure) project.
+    DevOps lead in an infrastructure team chartered with an Enterprise Cloud
+  Migration (VMWare on-prem → Azure). Consolidating IaC, Enhancing CI/CD
+  capabilities, Developing bespoke automation + monitoring/reporting.
 
 Skills
-    SAFe, Cloud Lift-and-Shift (IaC Consolidation), VMWare, Ansible/IaC,
-  Scrumban
-
-…
-
-    
-
-  ------------------------------------------------------------------------------
+    SAFe/Scrumban, Cloud Lift-and-Shift (IaC Consolidation), VMWare, RHEL,
+  Ansible/IaC,
 
 Jul 2021 → Jan 2022
-    DevOps Architect, an Image Automation AI/ML Accelerator
+    DevOps Architect, Image Automation AI/ML Accelerator
 
-Responsibilities : - Leading 3 DevOps engineers within a cross-functional team
-designing AWS IaC and Continuous Delivery to requirements - Supporting ML
-workflows with automation, Designing continuous delivery pipelines, Evolving
-cloud security / cost optimizations. - Working on a technical architecture
-committee - Stakeholder Engagement, Architectural Decision Making, Iteration
-Planning, Solution Design and Reviews.
+Responsibilities
+    DevOps lead in a product team developing an AI/ML accelerator showcasing
+  Intelligent Image Automation for real-world infrastructure anomaly
+  detection. Enhancing Solution Design, IaC + CI/CD, Cloud Security, Cost
+  Optimization
 
 Skills
     DevSecOps, Technology Ownership, Python, Terraform, AWS
@@ -88,41 +133,32 @@ Jun 2019 → May 2021
     Cloud Infrastructure Engineer/Technical Lead, IT PaaS, Pan-Net Cloud
 
 Responsibilities
-    Development of PaaS services atop Openstack to serve particular needs of
-  Pan-Net platform customers (e.g. Cloud-Tenant Backup, Service Monitoring)
+    Development of custom PaaS capabilities atop Openstack IaaS to supplement
+  Telco IT and NFVi functions (ex. Application Load Balancers,
+  Database-as-a-Service, Cloud-Tenant Backup, Configuration Management,
+  APM/Service Monitoring)
 
-Skills & Experience
-    PaaS, Managed Services, Technology Ownership, Solution Design &
-  Development, CI/CD/CT, Golang, Python, Kubernetes, Openstack
-
-…
-
-    
-
-  ------------------------------------------------------------------------------
+Skills
+    PaaS/Managed Services, Technology/Product Ownership, Openstack,
+  Kubernetes, Docker, Solution Design, Gitlab, CI/CD/CT, Golang, Python, nginx
 
 Feb 2018 → May 2019
     Cloud Infrastructure Engineer, NFVi DevOps, Pan-Net NFVi
 
 Responsibilities
-    DevOps of CI/CD services, Design of CI/CD pipelines for VNF lifecycles
+    Design/Implementation of VNF CD Pipelines for Telco VNF onboarding and
+  productionization into NatCo NFVi tenancies
 
 Skills
-    Agile Release Trains, Delivery Pipelines, DevOps, Gitlab CI, Artifactory,
-  Openstack, Docker, Ansible, Linux, Terraform, Python, goss, Prometheus,
-  Grafana
-
-…
-
-    
-
-  ------------------------------------------------------------------------------
+    CI/CD/CT, Gitlab CI, JFrog Artifactory, Openstack, Linux, Docker, Ansible,
+  Terraform, Python, Prometheus, Grafana
 
 Aug 2017 → Jan 2018
     Cloud Infrastructure Engineer, Application Orchestration, Pan-Net NFVi
 
 Responsibilities
-    Development of VNF application lifecycle orchestrators
+    Development of custom VNF Management and Orchestrator (MANO) solutions to
+  manage VNF lifecycle on the Pan-Net OpenStack NFVi cloud
 
 Skills
     Openstack, OpenContrail, Linux, Ansible, Python, OASIS TOSCA
@@ -131,21 +167,22 @@ Skills
 
 Box+Dice (BDSK) ◦ Bratislava, Slovakia ◦ CRM/SaaS
 
-Box+Dice are an Australian SaaS developer and provider of services for
-real-estate B2B operations.
+Box+Dice are an Australian Real-Estate SaaS developer and provider of B2B/B2C
+solutions and services.
 
 Oct 2015 → Jun 2017
     Senior Systems Engineer, Site Reliability Engineering
 
 Responsibilities
-    SaaS DevOps/SRE, Cloud Migration - Lift-and-shift, Cloud Optimization,
-  Technical Security, CI/CD tools and infrastructure, Reporting to Executive
-  Committee, Customer L3 Support
+    DevOps/SRE of the Box+Dice SaaS Platform Operations and B2B integrations
+  with industry partners. SaaS Cluster TechOps, AWS Cloud Migrations, Cost
+  Optimization, Platform Security, CI/CD + QA governance, Technical backlog
+  engineering
 
 Skills
-    Project Management, Amazon AWS, SRE/DevSecOps, Mentoring, Ansible,
-  Terraform, bash, Python, Ruby, Cloudflare, Linux, Postgres, MariaDB,
-  Elasticsearch
+    Project Management, Team Leadership, DevSecOps/SRE, Amazon AWS,
+  XCP/XenServer, Cloudflare, Terraform, Ansible, Python, Ruby, Linux,
+  PostgreSQL, MariaDB, Elasticsearch
 
 ------------------------------------------------------------------------------
 
@@ -153,91 +190,99 @@ Citrix Systems UK Ltd ◦ Cambridge, United Kingdom ◦ Independent Software
 Vendor
 
 Citrix solutions power enterprise data, workspace and mobility needs to create
-better ways to work.
+better ways of working.
 
 Jul 2010 → Aug 2015
     Senior Software Test Engineer, Engineering Productivity, Desktop and Apps
 
 Responsibilities
-    DevOps/Architecture of Test-aaS platforms and services, Datacenter
-  management - hardware procurement and maintenance, Push-button provisioning
-  of Test Environments, Test framework/library development, Appliance/VM image
-  creation/cataloguing
+    DevOps of a custom Test-aaS private cloud for QA of Citrix VDI/DaaS
+  products. Supporting self-service of DevTest environments, workload
+  orchestration and resource scheduling, test automation framework
+  enhancements.
 
 Skills
-    Citrix Virtualization/DaaS, Private Cloud Architecture,
-  IaaS/Virtualization, Network Design, Enterprise Software Testing,
-  CloudStack, Xen/XenServer, PowerShell, Perl, Python
+    Private Cloud, Datacenter Network/Storage Design, Xen/XCP/XenServer Server
+  Virtualization, Apache CloudStack, OpenStack, Citrix XenDesktop/VDI/DaaS,
+  Quality Engineering, Linux, Windows Server Core, PowerShell, Python, Perl
 
 ------------------------------------------------------------------------------
 
 IT Freelancer ◦ Greater London Area, United Kingdom ◦ Various
 
 Aug 2002 → Dec 2007
-    IT Freelancer, Various Small/SOHO/Medium-sized Businesses
+    IT Freelancer, SOHO/Small-to-Medium Clientele
 
 Activities
-    Process Automation, Designing SMB Office IT & Network Solutions, Desktop
-  Publishing, Web development/authoring
+    Designing/Implementing SMB Office IT & Network Solutions, Web Hosting,
+  Process Automation, Desktop Publishing, Web development/authoring
 
 Skills
-    LAMP, Microsoft SMB Solutions, Microsoft Office, Cisco Routing/Switching,
-  Firewall/VPNs, Perl, Shell Scripting
-
-Skills
-
-Agile PM
-    DevOps, Lean-Agile, Kanban, Scrum, Design Thinking, Agile Architecture
-
-Cloud Platforms
-    Amazon AWS, Canonical Openstack, Apache Cloudstack
-
-Scripting
-    Python, Bash, POSIX Shell, Go, Powershell
-
-Containerization
-    docker, Kubernetes, EKS, Service Mesh essentials
-
-IaC
-    Terraform, Ansible, GNU Make, goss
-
-CI/CD
-    git, Github Actions, Gitlab CI, Travis CI, Scrutinizer CI, JFrog
-  Artifactory
+    Apache LAMP Web Hosting, Microsoft Office + SMB Solutions, Network
+  Routing/Switching, Firewalls/VPNs, Perl, Shell Scripting
 
 Education
 
 Sep 2008 → May 2010
-    BSc (1:1, Hons.) Computer Networks, Sheffield Hallam University, Sheffield
+    BSc (1:1, Hons.) Computer Networks, Sheffield Hallam University,
+  Sheffield, UK
+
+Skills
+
+Cloud & Infrastructure
+    Amazon AWS, Canonical Openstack, Apache Cloudstack, Kubernetes/EKS,
+  podman/docker,
+
+Development & CI/CD
+    Python, Go, Bash, Powershell, Terraform, Ansible, git, harness.io IDP/CD,
+  Github Actions, Gitlab CI, JFrog Artifactory
+
+Architecture & Design
+    Microservices, Cloud-Native, API Design, Service Mesh essentials,
+  12-Factor Apps
+
+Agile PM
+    DevOps, Kanban, Scrum, SAFe, Design Thinking, Agile Architecture
+
+Also see my Pluralsight profile
 
 Training and Qualifications
 
+Cloud and Infrastructure
+
+- Advanced Architecting on AWS, Jun 2025
 - Hashicorp Certified: Terraform Associate, Currently Certifying
-- Design Thinking Immersive Training, September 2022
-- Scaled Agile, Inc., SAFe Practitioner, Feb 2022
-- DevOps Institute DevOps Leader (DOL), Jan 2022
-- Managing Distributed Teams, Nov 2021
 - Certified Kubernetes Administrator, Sep 2021
 - Docker + Kubernetes Administration, May 2018
 - OpenStack Deployment and Advanced Administration, Feb 2018
 - OpenStack Administration Bootcamp, Sep 2017
+
+AI and Data
+
+- Data Warehousing with Databricks, July 2025
+- Generative AI Bootcamp, October 2024
+
+Leadership and Agile Methodologies
+
+- Design Thinking Immersive Training, September 2022
+- Scaled Agile, Inc., SAFe Practitioner, Feb 2022
+- DevOps Institute DevOps Leader (DOL), Jan 2022
+- Managing Distributed Teams, Nov 2021
+
+Other
+
 - Citrix NetScaler ADC Essentials, Networking and Administration, Jun 2012
 - Building Scalable Cisco Internetworks (CCNP BSCI), Feb 2004
 - Cisco Certified Network Associate (CCNA), Mar 2003
 
 Professional Profiles
 
-shalomb.id, Keybase, Github, Gitlab, StackOverflow Developer Story,
-Pluralsight, Linkedin
-
-Spoken Languages
-
-English (Native), French (High School/University), Slovak (Basic Vernacular)
+shalomb.id, Keybase, Github, Gitlab, StackOverflow Developer Story, Linkedin
 
 Hobbies and Interests
 
-Fatherhood ◦ Road Cycling, Mountain Biking ◦ Outdoors ◦ Guitar, Music ◦
-Conversation
+Fatherhood ◦ Road Cycling, Mountain Biking ◦ Outdoors ◦ Reading ◦ Guitars,
+Music
 
 Personal Details
 
@@ -247,21 +292,7 @@ Telephone
 Email
     s.bhooshi@gmail.com
 
-Date of Birth
-    8ᵗʰ Jan, 1983
-
 Nationality
     British
-
-Residentship
-    Slovak Permanent Residentship
-
-Download
-
-PDF Version
-    shalom_bhooshi-cv.pdf
-
-Online Version
-    shalomb.id/cv
 
 Fork me on GitHub
