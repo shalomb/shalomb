@@ -17,7 +17,8 @@
   color: #222 !important;
   text-transform: none !important;
   letter-spacing: normal !important;
-}ild + dd,
+}
+
 #professional-experience dt:nth-child(7) + dd,
 #professional-experience dt:nth-child(13) + dd,
 #professional-experience dt:nth-child(19) + dd,
@@ -28,7 +29,8 @@
   color: #222;
   margin-left: 0.3em !important;
   margin-bottom: 0.8em;
-}child + dd,
+}
+
 #professional-experience ~ dl dt:nth-child(7) + dd,
 #professional-experience ~ dl dt:nth-child(13) + dd {
   display: inline;
@@ -170,16 +172,17 @@ hr {
 #professional-experience ~ dl dt,
 #professional-experience ~ dl dd {
   font-weight: normal;
-  margin: 0.3em 0 -0.4em 0;
+  margin: 0.3em 0 0.2em 0;
   padding: 0;
   font-size: 85%;
   color: #888;
   display: block;
 }
 
+
 #professional-experience ~ dl dd {
   margin-bottom: 0.5em;
-  margin-left: 0.1em !important;
+  margin-left: 1em !important;
   color: inherit;
   font-size: 90% !important;
 }
@@ -211,8 +214,7 @@ span.date-range {
 #professional-experience ~ dl dt:has(span.date-range) {
   display: inline !important;
   margin: 0 !important;
-  margin-top: 1.7em !important;
-  margin-bottom: 1.5em !important;
+  margin-top: 1.5em !important;
 }
 
 #professional-experience ~ dl #professional-experience ~ dl dt:has(span.date-range) + dd {
