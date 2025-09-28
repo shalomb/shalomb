@@ -406,6 +406,8 @@ Also see my [Pluralsight](https://app.pluralsight.com/profile/shalom-bhooshi) pr
 
 **Technical Innovation**: Building CLI productivity tools and solving algorithmic challenges. Active in [Advent of Code](https://adventofcode.com/) and open source development.
 
+**Cryptographic Identity**: Maintains cryptographically-signed identity verification across multiple domains ([keybase.txt](https://shalomb.id/keybase.txt)) demonstrating security-first approach to digital identity management.
+
 **Fatherhood** ◦
 [Road Cycling, Mountain Biking](https://www.strava.com/athletes/66934418) ◦
 **Outdoors** ◦
