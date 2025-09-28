@@ -404,9 +404,7 @@ Also see my [Pluralsight](https://app.pluralsight.com/profile/shalom-bhooshi) pr
 
 ### Hobbies and Interests
 
-**Technical Innovation**: Building CLI productivity tools and solving algorithmic challenges. Active in [Advent of Code](https://adventofcode.com/) and open source development.
-
-**Cryptographic Identity**: Maintains cryptographically-signed identity verification across multiple domains ([keybase.txt](https://shalomb.id/keybase.txt)) demonstrating security-first approach to digital identity management.
+**Technical Innovation**: Building CLI productivity tools and solving algorithmic challenges. Active in [Advent of Code](https://adventofcode.com/) and open source development. [🔐](https://shalomb.id/keybase.txt)
 
 **Fatherhood** ◦
 [Road Cycling, Mountain Biking](https://www.strava.com/athletes/66934418) ◦
@@ -426,3 +424,5 @@ Nationality
 : British
 
 <a class="github-fork-ribbon" href="https://github.com/shalomb/shalomb.github.io/" data-ribbon="Fork me on GitHub" title="Fork me on GitHub">Fork me on GitHub</a>
+
+<!-- Verified: 6E58 CBDB 4D4F FAF0 9114 7297 3849 5CCA 2D2E F563 -->
