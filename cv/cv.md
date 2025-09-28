@@ -34,7 +34,7 @@ header-includes:
 - **DevSecOps Automation**: Building secure CI/CD pipelines with GitHub Actions, harness.io, and modern Python tooling
 - **Developer Experience Optimization**: Creating tools and workflows that accelerate team productivity
 - **Cloud-Native Solutions**: Enterprise-scale AWS infrastructure with Kubernetes, EKS, and serverless architectures
-- **Security-First Development**: Credential management, secret handling, and compliance-driven engineering practices
+- **Security-First Development**: Enterprise security engineering with policy-as-code compliance across 1,514 TFC workspaces, zero-trust security patterns, secure CI/CD pipelines with Harness.io IDP/CD, and type-safe credential management with HashiCorp Vault integration
 
 ### Professional Experience
 
@@ -53,14 +53,14 @@ Responsibilities
 - **Developer Experience Innovation**: Built context-aware tooling, XDG-compliant applications, and comprehensive documentation systems that optimize developer productivity through sustainable, well-documented platforms
 - **Infrastructure-as-Code Leadership**: Architecting Terraform Building Blocks and automated PR validation systems with robust error handling and user-friendly workflows
 - **DevSecOps Platform Engineering**: Building secure CI/CD pipelines with GitHub Actions, harness.io IDP, and modern Python tooling (uv, mypy, flake8) following Unix philosophy and separation of concerns
-- **Security-First Engineering**: Implementing credential management with `pass`, secret handling, and compliance-driven development practices
+- **Enterprise Security Engineering**: Implemented policy-as-code compliance across 1,514 TFC workspaces, zero-trust security patterns, secure CI/CD pipelines with Harness.io IDP/CD, and type-safe credential management with HashiCorp Vault integration
 - **Technical Mentorship**: Guiding DevOps teams on Takeda Cloud Patterns, platform engineering workflows, and infrastructure orchestration
 
 Skills
 : **Modern Python**: uv, mypy, flake8, pytest, poetry
  **Infrastructure**: Terraform Cloud, AWS EKS/Kubernetes, Docker
  **DevSecOps**: harness.io IDP/CD, GitHub Actions, JFrog Artifactory
- **Security**: pass (credential management), secret handling, compliance
+ **Security**: HashiCorp Vault, policy-as-code (Sentinel), zero-trust patterns, credential management
  **Developer Tools**: Custom dotfiles management, lazy-loading systems, AI-assisted coding (cursor-agent)
  **Methodologies**: SAFe/ScrumXP, DevSecOps, Technical Mentorship
 
