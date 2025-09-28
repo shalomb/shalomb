@@ -383,6 +383,16 @@ Also see my [Pluralsight](https://app.pluralsight.com/profile/shalom-bhooshi) pr
 - [Building Scalable Cisco Internetworks (CCNP BSCI)](https://www.cbtnuggets.com/it-training/cisco-642-901-ccnp-bsci), Feb 2004
 - [Cisco Certified Network Associate (CCNA)](http://www.cisco.com/web/learning/exams/list/ccna_composite.html#~Topics), Mar 2003
 
+### Professional Recommendations
+
+**"Shalom always stood out as the guy in the room with the initiative (backed by his skills) and solutions to our challenges. His deep expertise in Cloud Engineering, DevOps, and coding allowed him to implement scalable and maintainable solutions that empowered his colleagues to work more efficiently."**  
+— *Andrei Banaru, CCSP | 6x AWS Certified | Splunk Core Certified Consultant*
+
+**"When it comes to managing Linux I have never met anyone more knowledgeable. I cannot recommend Shalom highly enough."**  
+— *Ben Davies, Engineering & Technology Leader | Platform Engineering*
+
+[View all recommendations on LinkedIn](https://www.linkedin.com/in/shalombhooshi/details/recommendations/?detailScreenTabIndex=0)
+
 ### Professional Profiles
 
 [shalomb.id](http://shalomb.id/),
