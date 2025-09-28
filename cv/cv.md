@@ -48,7 +48,8 @@ discovering and delivering life-altering treatments.
 : Cloud DevOps Principal Engineer, Global Manufacturing - Data and Digital
 
 Responsibilities
-: - **Infrastructure-as-Code Leadership**: Architecting Terraform Building Blocks and automated PR validation systems for enterprise cloud infrastructure
+: - **Infrastructure Platform Impact**: Architected Terraform Building Blocks ecosystem serving **302+ product teams** with **166+ AWS modules**, reducing infrastructure deployment time from weeks to hours
+- **Infrastructure-as-Code Leadership**: Architecting Terraform Building Blocks and automated PR validation systems for enterprise cloud infrastructure
 - **DevSecOps Platform Engineering**: Building secure CI/CD pipelines with GitHub Actions, harness.io IDP, and modern Python tooling (uv, mypy, flake8)
 - **Developer Experience Innovation**: Creating custom tooling and lazy-loading systems that optimize developer productivity and shell performance
 - **Security-First Engineering**: Implementing credential management with `pass`, secret handling, and compliance-driven development practices
@@ -92,7 +93,8 @@ Skills
 : Cloud DevOps Lead Engineer, Cloud Solutions Engineering
 
 Responsibilities
-: - **Cloud Solutions Architecture**: Leading DevOps team in designing white-glove cloud solutions for Takeda's product teams on AWS Enterprise Cloud
+: - **Platform Engineering Impact**: Built reusable infrastructure patterns accelerating team onboarding from **weeks to days**, serving **302+ product teams** across pharmaceutical applications (Veeva Vault, Benchling, BigID)
+- **Cloud Solutions Architecture**: Leading DevOps team in designing white-glove cloud solutions for Takeda's product teams on AWS Enterprise Cloud
 - **Infrastructure-as-Code Engineering**: Building Terraform Building Blocks, automated build/release pipelines, and cloud governance frameworks
 - **DevSecOps Practice Development**: Establishing security-first CI/CD practices, automated testing (pytest, flake8, mypy), and quality gates
 - **Team Leadership & Mentorship**: Hiring, building cloud chapter capabilities, and fostering technical agility through psychological safety and collaboration
@@ -120,7 +122,8 @@ functional experience, and best-of-breed technology solutions.
 : DevOps Lead, Global Travel & Expenses Platform
 
 Responsibilities
-: DevOps lead in an infrastructure team chartered with an Enterprise Cloud Migration (VMWare on-prem → Azure).
+: - **Cloud Migration Impact**: Led enterprise cloud migration (VMWare on-prem → Azure) for global travel & expenses platform, consolidating IaC and enhancing CI/CD capabilities
+- DevOps lead in an infrastructure team chartered with an Enterprise Cloud Migration (VMWare on-prem → Azure).
     Consolidating IaC, Enhancing CI/CD capabilities, Developing bespoke automation + monitoring/reporting.
 
 Skills
@@ -134,7 +137,8 @@ Skills
 : DevOps Architect, Image Automation AI/ML Accelerator
 
 Responsibilities
-: DevOps lead in a product team developing an
+: - **AI/ML Platform Impact**: Built AI/ML accelerator for intelligent image automation and infrastructure anomaly detection, enhancing solution design with IaC + CI/CD integration
+- DevOps lead in a product team developing an
     AI/ML accelerator showcasing Intelligent Image Automation
     for real-world infrastructure anomaly detection.
     Enhancing Solution Design, IaC + CI/CD, Cloud Security, Cost Optimization
@@ -163,7 +167,8 @@ europe.
 : Cloud Infrastructure Engineer/Technical Lead, IT PaaS, Pan-Net Cloud
 
 Responsibilities
-: Development of custom PaaS capabilities atop Openstack IaaS to supplement
+: - **Telco Cloud Platform Impact**: Developed custom PaaS capabilities atop OpenStack IaaS for Deutsche Telekom's Pan-Net cloud, serving NFVi and Telco IT functions across European operators
+- Development of custom PaaS capabilities atop Openstack IaaS to supplement
 Telco IT and NFVi functions
 (ex. Application Load Balancers,
 Database-as-a-Service,
@@ -183,7 +188,8 @@ Skills
 : Cloud Infrastructure Engineer, NFVi DevOps, Pan-Net NFVi
 
 Responsibilities
-: Design/Implementation of VNF CD Pipelines for Telco VNF
+: - **VNF Automation Impact**: Designed and implemented VNF CD pipelines for Telco VNF onboarding and productionization into NatCo NFVi tenancies across European operators
+- Design/Implementation of VNF CD Pipelines for Telco VNF
 onboarding and productionization into NatCo NFVi tenancies
 
 Skills
@@ -203,7 +209,8 @@ Skills
 : Cloud Infrastructure Engineer, Application Orchestration, Pan-Net NFVi
 
 Responsibilities
-: Development of custom VNF Management and Orchestrator (MANO) solutions to
+: - **MANO Platform Impact**: Developed custom VNF Management and Orchestrator (MANO) solutions managing VNF lifecycle on Pan-Net OpenStack NFVi cloud for European Telco operators
+- Development of custom VNF Management and Orchestrator (MANO) solutions to
   manage VNF lifecycle on the Pan-Net OpenStack NFVi cloud
 
 Skills
@@ -228,7 +235,8 @@ and services.
 : Senior Systems Engineer, Site Reliability Engineering
 
 Responsibilities
-: DevOps/SRE of the Box+Dice SaaS Platform Operations and B2B integrations
+: - **SaaS Platform Impact**: Led DevOps/SRE for Box+Dice SaaS platform operations and B2B integrations, managing AWS cloud migrations and cost optimization for Australian real estate CRM
+- DevOps/SRE of the Box+Dice SaaS Platform Operations and B2B integrations
 with industry partners.
 SaaS Cluster TechOps,
 AWS Cloud Migrations,
@@ -260,7 +268,8 @@ enterprise data, workspace and mobility needs to create better ways of working.
 : Senior Software Test Engineer, Engineering Productivity, Desktop and Apps
 
 Responsibilities
-: DevOps of a custom Test-aaS private cloud for QA of Citrix VDI/DaaS products.
+: - **Test-aaS Platform Impact**: Built custom Test-aaS private cloud for Citrix VDI/DaaS QA, enabling self-service DevTest environments and workload orchestration for engineering productivity
+- DevOps of a custom Test-aaS private cloud for QA of Citrix VDI/DaaS products.
 Supporting self-service of DevTest environments,
 workload orchestration and resource scheduling,
 test automation framework enhancements.
