@@ -49,7 +49,7 @@ discovering and delivering life-altering treatments.
 : Cloud DevOps Principal Engineer, Global Manufacturing - Data and Digital
 
 Responsibilities
-: - **Platform Engineering Excellence**: Architected enterprise-scale infrastructure platforms serving **302+ product teams** with **166+ AWS modules**, implementing systems thinking and convention-driven engineering that reduces deployment time from **weeks to hours**
+: - **Platform Engineering Excellence**: Architected enterprise-scale infrastructure platforms serving **302+ product teams** with **166+ AWS modules**, enabling pharmaceutical innovation across Global Manufacturing & Supply and Global Quality operations through platform-on-platforms architecture that reduces deployment time from **weeks to hours**
 - **Developer Experience Innovation**: Built context-aware tooling, XDG-compliant applications, and comprehensive documentation systems that optimize developer productivity through sustainable, well-documented platforms
 - **Infrastructure-as-Code Leadership**: Architecting Terraform Building Blocks and automated PR validation systems with robust error handling and user-friendly workflows
 - **DevSecOps Platform Engineering**: Building secure CI/CD pipelines with GitHub Actions, harness.io IDP, and modern Python tooling (uv, mypy, flake8) following Unix philosophy and separation of concerns
