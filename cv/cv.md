@@ -51,11 +51,11 @@ discovering and delivering life-altering treatments.
 
 Responsibilities
 : - **Platform Engineering Excellence**: Architected enterprise-scale infrastructure platforms serving **302+ product teams** with **166+ AWS modules**, enabling pharmaceutical innovation across Global Manufacturing & Supply and Global Quality operations through platform-on-platforms architecture that reduces deployment time from **weeks to hours**
-- **Developer Experience Innovation**: Built context-aware tooling, standards-compliant applications, and comprehensive documentation systems that optimize developer productivity through sustainable, well-documented platforms
+- **Developer Experience Innovation**: Built context-aware tooling, standards-compliant applications, and comprehensive documentation systems that optimize developer productivity through sustainable, well-documented platforms. Created CLI productivity tools (`ghostship`, `inji`, `octo`) and pioneered modern Python tooling adoption
 - **Infrastructure-as-Code Leadership**: Architecting Terraform Building Blocks and automated PR validation systems with robust error handling and user-friendly workflows
 - **DevSecOps Platform Engineering**: Building secure CI/CD pipelines with GitHub Actions, harness.io IDP, and modern Python tooling (uv, mypy, ruff) following Unix philosophy and separation of concerns
 - **Enterprise Security Engineering**: Implemented policy-as-code compliance across 1,514 TFC workspaces, zero-trust security patterns, secure CI/CD pipelines with Harness.io IDP/CD, and type-safe credential management with HashiCorp Vault integration
-- **Technical Mentorship**: Guiding DevOps teams on Takeda Cloud Patterns, platform engineering workflows, and infrastructure orchestration
+- **Technical Mentorship**: Guiding DevOps teams on Takeda Cloud Patterns, platform engineering workflows, and infrastructure orchestration. Active in algorithmic problem solving (Advent of Code) and open source development, demonstrating continuous learning and technical curiosity
 
 Skills
 : **Modern Python**: uv, mypy, ruff, pytest, poetry
@@ -297,20 +297,6 @@ Skills
 : [BSc (1:1, Hons.) Computer
 Networks](https://www.shu.ac.uk/search-results?q=computer+networks),
 [Sheffield Hallam University](https://www.shu.ac.uk/), Sheffield, UK
-
-### Technical Achievements
-
-**Enterprise Infrastructure Platform**
-: Built **166+ Terraform AWS modules** serving **302+ product teams**. Authored **409+ commits** across enterprise infrastructure including PostgreSQL automation, EKS Kubernetes support, Lambda optimizations, and Neptune graph databases.
-
-**DevSecOps Automation**
-: Created automated PR validation systems with GitHub API rate limiting, security testing integration, and comprehensive dependency analysis. Implemented quality gates using pytest, ruff, and mypy across enterprise CI/CD pipelines.
-
-**Platform Engineering**
-: Developed BuildingBlock templates and PR automation reducing team onboarding from weeks to days. Built standardized infrastructure patterns for pharmaceutical applications (Veeva Vault, Benchling, BigID) and scientific computing platforms (MATLAB, SAS).
-
-**Developer Experience Innovation**
-: Built CLI productivity tools (`ghostship`, `inji`, `octo`) and pioneered `uv` package manager adoption. Created type-safe Python workflows with mypy and AI-assisted development. Active in algorithmic problem solving (Advent of Code) and open source development.
 
 ### Skills
 
