@@ -30,7 +30,7 @@ header-includes:
 
 ### Core Competencies
 
-- **DevOps & Agile Engineering**: Accelerating time-to-value through experimentation, feedback loops, and continuous improvement in value streams
+- **DevOps & Agile Engineering**: Supporting rapid time-to-value through experimentation, feedback loops, and continuous improvement in value streams
 - **Systems Thinking & Technical Leadership**: Building sustainable, well-documented platforms that other engineers love to use through convention-driven engineering and Unix philosophy
 - **Developer Experience Innovation**: Creating solutions that solve real problems engineers face daily, with focus on productivity and developer satisfaction
 - **Infrastructure Engineering Excellence**: Architecting scalable, maintainable systems with automated validation, type-safe development, and comprehensive error handling
@@ -51,14 +51,14 @@ discovering and delivering life-altering treatments.
 
 Responsibilities
 : - **Platform Engineering Excellence**: Architected enterprise-scale infrastructure platforms serving **302+ product teams** with **166+ AWS modules**, enabling pharmaceutical innovation across Global Manufacturing & Supply and Global Quality operations through platform-on-platforms architecture that reduces deployment time from **weeks to hours**
-- **Developer Experience Innovation**: Built context-aware tooling, XDG-compliant applications, and comprehensive documentation systems that optimize developer productivity through sustainable, well-documented platforms
+- **Developer Experience Innovation**: Built context-aware tooling, standards-compliant applications, and comprehensive documentation systems that optimize developer productivity through sustainable, well-documented platforms
 - **Infrastructure-as-Code Leadership**: Architecting Terraform Building Blocks and automated PR validation systems with robust error handling and user-friendly workflows
-- **DevSecOps Platform Engineering**: Building secure CI/CD pipelines with GitHub Actions, harness.io IDP, and modern Python tooling (uv, mypy, flake8) following Unix philosophy and separation of concerns
+- **DevSecOps Platform Engineering**: Building secure CI/CD pipelines with GitHub Actions, harness.io IDP, and modern Python tooling (uv, mypy, ruff) following Unix philosophy and separation of concerns
 - **Enterprise Security Engineering**: Implemented policy-as-code compliance across 1,514 TFC workspaces, zero-trust security patterns, secure CI/CD pipelines with Harness.io IDP/CD, and type-safe credential management with HashiCorp Vault integration
 - **Technical Mentorship**: Guiding DevOps teams on Takeda Cloud Patterns, platform engineering workflows, and infrastructure orchestration
 
 Skills
-: **Modern Python**: uv, mypy, flake8, pytest, poetry
+: **Modern Python**: uv, mypy, ruff, pytest, poetry
  **Infrastructure**: Terraform Cloud, AWS EKS/Kubernetes, Docker
  **DevSecOps**: harness.io IDP/CD, GitHub Actions, JFrog Artifactory
  **Security**: HashiCorp Vault, policy-as-code (Sentinel), zero-trust patterns, credential management
@@ -69,7 +69,7 @@ Skills
 : Cloud DevOps Lead Engineer, DevSecOps
 
 Responsibilities
-: - **DevSecOps Platform Impact**: Developed [harness.io](https://www.harness.io/products/continuous-delivery) IDP/CD capabilities and Terraform BuildingBlock PR validation systems, implementing automated testing and validation workflows for enterprise infrastructure. Provided consultancy to Takeda product teams around DevSecOps journeys, application deployment, platform engineering workflows, and infrastructure orchestration. Delivered technical support including project setup, onboarding, DevSecOps enablement, and feature prioritization.
+: - **DevSecOps Platform Engineering**: Developed [harness.io](https://www.harness.io/products/continuous-delivery) IDP/CD capabilities and Terraform BuildingBlock PR validation systems, implementing automated testing and validation workflows for enterprise infrastructure. Provided consultancy to Takeda product teams around DevSecOps journeys, application deployment, platform engineering workflows, and infrastructure orchestration. Supported teams with project setup, onboarding, DevSecOps enablement, and feature prioritization.
 
 Skills
 : SAFe/ScrumXP,
@@ -87,12 +87,12 @@ Skills
 : Cloud DevOps Lead Engineer, Cloud Solutions Engineering
 
 Responsibilities
-: - **Cloud Solutions Engineering**: Architected Solution Build System and project build tools with standardized templates and automated workflows, accelerating team onboarding from **weeks to days** and serving **302+ product teams** across pharmaceutical applications (Veeva Vault, Benchling, BigID)
+: - **Cloud Solutions Engineering**: Architected Solution Build System and project build tools with standardized templates and automated workflows, supporting team onboarding from **weeks to days** and serving **302+ product teams** across pharmaceutical applications (Veeva Vault, Benchling, BigID)
 - **Cloud Solutions Architecture**: Leading DevOps team in designing white-glove cloud solutions for Takeda's product teams on AWS Enterprise Cloud
 - **Infrastructure-as-Code Engineering**: Building Terraform Building Blocks, automated build/release pipelines, and cloud governance frameworks
-- **DevSecOps Practice Development**: Establishing security-first CI/CD practices, automated testing (pytest, flake8, mypy), and quality gates
+- **DevSecOps Practice Development**: Establishing security-first CI/CD practices, automated testing (pytest, ruff, mypy), and quality gates
 - **Team Leadership & Mentorship**: Hiring, building cloud chapter capabilities, and fostering technical agility through psychological safety and collaboration
-- **Platform Engineering**: Creating reusable infrastructure patterns and building blocks that accelerate team productivity across the organization
+- **Platform Engineering**: Creating reusable infrastructure patterns and building blocks that support team productivity across the organization
 
 Skills
 : **Cloud Infrastructure**: Amazon AWS EC2/EKS/Serverless, Kubernetes, Terraform Cloud
@@ -116,7 +116,7 @@ functional experience, and best-of-breed technology solutions.
 : DevOps Lead, Global Travel & Expenses Platform
 
 Responsibilities
-: - **Cloud Migration Impact**: Led enterprise cloud migration (VMWare on-prem → Azure) for global travel & expenses platform, consolidating IaC and enhancing CI/CD capabilities
+: - **Cloud Migration Engineering**: Led enterprise cloud migration (VMWare on-prem → Azure) for global travel & expenses platform, consolidating IaC and enhancing CI/CD capabilities
 - DevOps lead in an infrastructure team chartered with an Enterprise Cloud Migration (VMWare on-prem → Azure).
     Consolidating IaC, Enhancing CI/CD capabilities, Developing bespoke automation + monitoring/reporting.
 
@@ -131,7 +131,7 @@ Skills
 : DevOps Architect, Image Automation AI/ML Accelerator
 
 Responsibilities
-: - **AI/ML Platform Impact**: Built AI/ML accelerator for intelligent image automation and infrastructure anomaly detection, enhancing solution design with IaC + CI/CD integration
+: - **AI/ML Platform Engineering**: Built AI/ML accelerator for intelligent image automation and infrastructure anomaly detection, enhancing solution design with IaC + CI/CD integration
 - DevOps lead in a product team developing an
     AI/ML accelerator showcasing Intelligent Image Automation
     for real-world infrastructure anomaly detection.
@@ -161,14 +161,7 @@ europe.
 : Cloud Infrastructure Engineer/Technical Lead, IT PaaS, Pan-Net Cloud
 
 Responsibilities
-: - **Telco Cloud Platform Impact**: Developed custom PaaS capabilities atop OpenStack IaaS for Deutsche Telekom's Pan-Net cloud, serving NFVi and Telco IT functions across European operators
-- Development of custom PaaS capabilities atop Openstack IaaS to supplement
-Telco IT and NFVi functions
-(ex. Application Load Balancers,
-Database-as-a-Service,
-Cloud-Tenant Backup,
-Configuration Management,
-APM/Service Monitoring)
+: - **Telco Cloud Platform Engineering**: Developed custom PaaS capabilities atop OpenStack IaaS for Deutsche Telekom's Pan-Net cloud, serving NFVi and Telco IT functions across European operators with Application Load Balancers, Database-as-a-Service, Cloud-Tenant Backup, Configuration Management, and APM/Service Monitoring
 
 Skills
 : PaaS/Managed Services,
@@ -182,7 +175,7 @@ Skills
 : Cloud Infrastructure Engineer, NFVi DevOps, Pan-Net NFVi
 
 Responsibilities
-: - **VNF Automation Impact**: Designed and implemented VNF CD pipelines for Telco VNF onboarding and productionization into NatCo NFVi tenancies across European operators
+: - **VNF Automation Engineering**: Designed and implemented VNF CD pipelines for Telco VNF onboarding and productionization into NatCo NFVi tenancies across European operators
 - Design/Implementation of VNF CD Pipelines for Telco VNF
 onboarding and productionization into NatCo NFVi tenancies
 
@@ -203,7 +196,7 @@ Skills
 : Cloud Infrastructure Engineer, Application Orchestration, Pan-Net NFVi
 
 Responsibilities
-: - **MANO Platform Impact**: Developed custom VNF Management and Orchestrator (MANO) solutions managing VNF lifecycle on Pan-Net OpenStack NFVi cloud for European Telco operators
+: - **MANO Platform Engineering**: Developed custom VNF Management and Orchestrator (MANO) solutions managing VNF lifecycle on Pan-Net OpenStack NFVi cloud for European Telco operators
 - Development of custom VNF Management and Orchestrator (MANO) solutions to
   manage VNF lifecycle on the Pan-Net OpenStack NFVi cloud
 
@@ -229,7 +222,7 @@ and services.
 : Senior Systems Engineer, Site Reliability Engineering
 
 Responsibilities
-: - **SaaS Platform Impact**: Led DevOps/SRE for Box+Dice SaaS platform operations and B2B integrations, managing AWS cloud migrations and cost optimization for Australian real estate CRM
+: - **SaaS Platform Engineering**: Led DevOps/SRE for Box+Dice SaaS platform operations and B2B integrations, managing AWS cloud migrations and cost optimization for Australian real estate CRM
 - DevOps/SRE of the Box+Dice SaaS Platform Operations and B2B integrations
 with industry partners.
 SaaS Cluster TechOps,
@@ -262,7 +255,7 @@ enterprise data, workspace and mobility needs to create better ways of working.
 : Senior Software Test Engineer, Engineering Productivity, Desktop and Apps
 
 Responsibilities
-: - **Test-aaS Platform Impact**: Built custom Test-aaS private cloud for Citrix VDI/DaaS QA, enabling self-service DevTest environments and workload orchestration for engineering productivity
+: - **Test-aaS Platform Engineering**: Built custom Test-aaS private cloud for Citrix VDI/DaaS QA, enabling self-service DevTest environments and workload orchestration for engineering productivity
 - DevOps of a custom Test-aaS private cloud for QA of Citrix VDI/DaaS products.
 Supporting self-service of DevTest environments,
 workload orchestration and resource scheduling,
@@ -311,7 +304,7 @@ Networks](https://www.shu.ac.uk/search-results?q=computer+networks),
 : Built **166+ Terraform AWS modules** serving **302+ product teams**. Authored **409+ commits** across enterprise infrastructure including PostgreSQL automation, EKS Kubernetes support, Lambda optimizations, and Neptune graph databases.
 
 **DevSecOps Automation**
-: Created automated PR validation systems with GitHub API rate limiting, security testing integration, and comprehensive dependency analysis. Implemented quality gates using pytest, flake8, and mypy across enterprise CI/CD pipelines.
+: Created automated PR validation systems with GitHub API rate limiting, security testing integration, and comprehensive dependency analysis. Implemented quality gates using pytest, ruff, and mypy across enterprise CI/CD pipelines.
 
 **Platform Engineering**
 : Developed BuildingBlock templates and PR automation reducing team onboarding from weeks to days. Built standardized infrastructure patterns for pharmaceutical applications (Veeva Vault, Benchling, BigID) and scientific computing platforms (MATLAB, SAS).
@@ -328,7 +321,7 @@ Cloud & Infrastructure
  **Legacy**: OpenStack, CloudStack
 
 Development & CI/CD
-: **Python**: uv, mypy, flake8, pytest, poetry, Jinja templating
+: **Python**: uv, mypy, ruff, pytest, poetry, Jinja templating
  **Infrastructure**: Terraform Cloud, Ansible, Go, Bash, Shell scripting
  **DevSecOps**: harness.io IDP/CD, GitHub Actions, JFrog Artifactory
  **CLI Tools**: Custom productivity tools, text processing, configuration management
