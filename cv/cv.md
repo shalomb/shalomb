@@ -34,7 +34,7 @@ header-includes:
 - **DevSecOps Automation**: Building secure CI/CD pipelines with GitHub Actions, harness.io, and modern Python tooling
 - **Developer Experience Optimization**: Creating tools and workflows that accelerate team productivity
 - **Cloud-Native Solutions**: Enterprise-scale AWS infrastructure with Kubernetes, EKS, and serverless architectures
-- **Security-First Development**: Enterprise security engineering with policy-as-code compliance across 1,514 TFC workspaces, zero-trust security patterns, secure CI/CD pipelines with Harness.io IDP/CD, and type-safe credential management with HashiCorp Vault integration
+- **Security-First Development**: Policy-as-code enforcement, zero-trust security patterns, and enterprise credential management
 
 ### Professional Experience
 
@@ -68,16 +68,7 @@ Skills
 : Cloud DevOps Lead Engineer, DevSecOps
 
 Responsibilities
-: - **DevSecOps Platform Impact**: Developed harness.io IDP/CD capabilities and Terraform BuildingBlock PR validation systems, implementing automated testing and validation workflows for enterprise infrastructure
-- Developing IdP and DevEx capabilities for the DevSecOps platform with [harness.io](https://www.harness.io/products/continuous-delivery)
-- Consultancy to Takeda product teams around DevSecOps journeys,
-  application deployment and platform engineering workflows,
-  infrastructure and data orchestration.
-- Working closely with users on
-  Project Setup and Onboarding,
-  DevSecOps Enablement,
-  Technical Support,
-  Feature Prioritization.
+: - **DevSecOps Platform Impact**: Developed [harness.io](https://www.harness.io/products/continuous-delivery) IDP/CD capabilities and Terraform BuildingBlock PR validation systems, implementing automated testing and validation workflows for enterprise infrastructure. Provided consultancy to Takeda product teams around DevSecOps journeys, application deployment, platform engineering workflows, and infrastructure orchestration. Delivered technical support including project setup, onboarding, DevSecOps enablement, and feature prioritization.
 
 Skills
 : SAFe/ScrumXP,
@@ -95,8 +86,7 @@ Skills
 : Cloud DevOps Lead Engineer, Cloud Solutions Engineering
 
 Responsibilities
-: - **Solution Build System Impact**: Architected Solution Build System and project build tools revolutionizing Takeda's service delivery with standardized templates and automated workflows
-- **Platform Engineering Impact**: Built reusable infrastructure patterns accelerating team onboarding from **weeks to days**, serving **302+ product teams** across pharmaceutical applications (Veeva Vault, Benchling, BigID)
+: - **Cloud Solutions Engineering**: Architected Solution Build System and project build tools with standardized templates and automated workflows, accelerating team onboarding from **weeks to days** and serving **302+ product teams** across pharmaceutical applications (Veeva Vault, Benchling, BigID)
 - **Cloud Solutions Architecture**: Leading DevOps team in designing white-glove cloud solutions for Takeda's product teams on AWS Enterprise Cloud
 - **Infrastructure-as-Code Engineering**: Building Terraform Building Blocks, automated build/release pipelines, and cloud governance frameworks
 - **DevSecOps Practice Development**: Establishing security-first CI/CD practices, automated testing (pytest, flake8, mypy), and quality gates
@@ -350,6 +340,7 @@ Architecture & Design
   [12-Factor Apps](https://12factor.net/)
 
 Agile PM
+:
 : [DevOps](https://about.gitlab.com/topics/devops/),
   [Kanban](https://djaa.com/revisiting-the-principles-and-general-practices-of-the-kanban-method/),
   [Scrum](https://www.scrum.org/resources/what-is-scrum),
