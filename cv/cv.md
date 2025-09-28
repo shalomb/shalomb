@@ -30,11 +30,12 @@ header-includes:
 
 ### Core Competencies
 
-- **Infrastructure-as-Code Engineering**: Terraform-first approach with automated PR validation and quality gates
-- **DevSecOps Automation**: Building secure CI/CD pipelines with GitHub Actions, harness.io, and modern Python tooling
-- **Developer Experience Optimization**: Creating tools and workflows that accelerate team productivity
-- **Cloud-Native Solutions**: Enterprise-scale AWS infrastructure with Kubernetes, EKS, and serverless architectures
-- **Security-First Development**: Policy-as-code enforcement, zero-trust security patterns, and enterprise credential management
+- **DevOps & Agile Engineering**: Accelerating time-to-value through experimentation, feedback loops, and continuous improvement in value streams
+- **Systems Thinking & Technical Leadership**: Building sustainable, well-documented platforms that other engineers love to use through convention-driven engineering and Unix philosophy
+- **Developer Experience Innovation**: Creating solutions that solve real problems engineers face daily, with focus on productivity and developer satisfaction
+- **Infrastructure Engineering Excellence**: Architecting scalable, maintainable systems with automated validation, type-safe development, and comprehensive error handling
+- **Cloud-Native Architecture**: Designing enterprise-scale distributed systems with containerization, orchestration, and serverless patterns
+- **Security-First Engineering**: Implementing policy-as-code enforcement, zero-trust security patterns, and enterprise-grade credential management
 
 ### Professional Experience
 
