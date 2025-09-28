@@ -4,9 +4,10 @@ pagetitle: Shalom Bhooshi — Curriculum Vitae
 author:   [https://shalomb.id](http://shalomb.id/) ◦ [s.bhooshi@gmail.com](mailto:s.bhooshi@gmail.com) ◦ +421 948 140 290 
 
 abstract: >
-  An experienced Cloud DevOps engineer with a background in platforms & solutions engineering.
-  Combining 20 years experience in IT, QA, DevOps, and Cloud engineering, I
-  seek to apply myself in a similar organization enabling business successes.
+  A Cloud DevOps Principal Engineer with 20+ years of experience building enterprise-scale infrastructure.
+  Specializing in Infrastructure-as-Code, DevSecOps automation, and developer experience optimization.
+  Passionate about building tools that make other engineers more productive, with a focus on
+  security-first cloud solutions and modern Python development practices.
 
 header-includes:
 - '<meta name="title" content="Shalom Bhooshi — Curriculum Vitae" />'
@@ -28,9 +29,11 @@ header-includes:
 
 ### Core Competencies
 
-- Solutions Engineering of Traditional and Cloud-Native applications on Private and Public Clouds
-- Practical DevOps expertise to facilitate Fast Flow and Continuous Delivery
-- Software Engineering code-centric approaches to Infrastructure and Technical Operations
+- **Infrastructure-as-Code Engineering**: Terraform-first approach with automated PR validation and quality gates
+- **DevSecOps Automation**: Building secure CI/CD pipelines with GitHub Actions, harness.io, and modern Python tooling
+- **Developer Experience Optimization**: Creating tools and workflows that accelerate team productivity
+- **Cloud-Native Solutions**: Enterprise-scale AWS infrastructure with Kubernetes, EKS, and serverless architectures
+- **Security-First Development**: Credential management, secret handling, and compliance-driven engineering practices
 
 ### Professional Experience
 
@@ -41,7 +44,25 @@ header-includes:
 enable Takeda's aspiration of being the best data-driven biopharmaceutical company dedicated to
 discovering and delivering life-altering treatments.
 
-[Apr 2025 → Present]{.date-range}
+[Jun 2025 → Present]{.date-range}
+: Cloud DevOps Principal Engineer, Global Manufacturing - Data and Digital
+
+Responsibilities
+: - **Infrastructure-as-Code Leadership**: Architecting Terraform Building Blocks and automated PR validation systems for enterprise cloud infrastructure
+- **DevSecOps Platform Engineering**: Building secure CI/CD pipelines with GitHub Actions, harness.io IDP, and modern Python tooling (uv, mypy, flake8)
+- **Developer Experience Innovation**: Creating custom tooling and lazy-loading systems that optimize developer productivity and shell performance
+- **Security-First Engineering**: Implementing credential management with `pass`, secret handling, and compliance-driven development practices
+- **Technical Mentorship**: Guiding DevOps teams on Takeda Cloud Patterns, platform engineering workflows, and infrastructure orchestration
+
+Skills
+: **Modern Python**: uv, mypy, flake8, pytest, poetry
+ **Infrastructure**: Terraform Cloud, AWS EKS/Kubernetes, Docker
+ **DevSecOps**: harness.io IDP/CD, GitHub Actions, JFrog Artifactory
+ **Security**: pass (credential management), secret handling, compliance
+ **Developer Tools**: Custom dotfiles management, lazy-loading systems, AI-assisted coding (cursor-agent)
+ **Methodologies**: SAFe/ScrumXP, DevSecOps, Technical Mentorship
+
+[Apr 2025 → Jun 2025]{.date-range}
 : Cloud DevOps Lead Engineer, DevSecOps
 
 Responsibilities
@@ -71,23 +92,18 @@ Skills
 : Cloud DevOps Lead Engineer, Cloud Solutions Engineering
 
 Responsibilities
-: - Lead in an Cloud DevOps Team focused on Solutions Engineering of Traditional and Cloud-Native workloads on the Takeda Enterprise Cloud (AWS).
-- Alongside platform architecture -- Designing and building white-glove cloud solutions for Takeda's product teams within platform and regulatory guardrails.
-- Engineering Infrastructure-as-Code capabilities -- Terraform Building Blocks, Build/Release Automation, Cloud Standards and Governance, and DevSecOps practices.
-- Hiring, Mentorship, Building cloud chapter capabilities, Within working groups improving Technical Agility, Trust & Collaboration, Psychological Safety, etc.
+: - **Cloud Solutions Architecture**: Leading DevOps team in designing white-glove cloud solutions for Takeda's product teams on AWS Enterprise Cloud
+- **Infrastructure-as-Code Engineering**: Building Terraform Building Blocks, automated build/release pipelines, and cloud governance frameworks
+- **DevSecOps Practice Development**: Establishing security-first CI/CD practices, automated testing (pytest, flake8, mypy), and quality gates
+- **Team Leadership & Mentorship**: Hiring, building cloud chapter capabilities, and fostering technical agility through psychological safety and collaboration
+- **Platform Engineering**: Creating reusable infrastructure patterns and building blocks that accelerate team productivity across the organization
 
 Skills
-: SAFe/Scrumban,
- DevSecOps,
- Amazon AWS EC2/EKS/Serverless,
- Kubernetes,
- IaC/Terraform,
- Python,
- Golang,
- Bash,
- Terraform Cloud,
- Github, JFrog,
- Jira
+: **Cloud Infrastructure**: Amazon AWS EC2/EKS/Serverless, Kubernetes, Terraform Cloud
+ **Development**: Python (modern tooling), Golang, Bash scripting
+ **DevSecOps**: GitHub Actions, JFrog Artifactory, automated testing pipelines
+ **Leadership**: SAFe/Scrumban, team mentorship, technical agility practices
+ **Platform Engineering**: Reusable infrastructure patterns, governance frameworks
 
 ---
 
@@ -155,7 +171,7 @@ Cloud-Tenant Backup,
 Configuration Management,
 APM/Service Monitoring)
 
-Skills 
+Skills
 : PaaS/Managed Services,
   Technology/Product Ownership,
   Openstack, Kubernetes, Docker,
@@ -286,6 +302,23 @@ Skills
 Networks](https://www.shu.ac.uk/search-results?q=computer+networks),
 [Sheffield Hallam University](https://www.shu.ac.uk/), Sheffield, UK
 
+### Technical Achievements
+
+**Enterprise Infrastructure-as-Code Platform**
+: Architected and built a comprehensive Terraform Building Blocks ecosystem with **166+ AWS modules** covering the full spectrum of enterprise cloud services. Created reusable infrastructure patterns for API Gateway, EKS, Lambda, RDS, S3, and specialized pharmaceutical compliance requirements.
+
+**DevSecOps Automation at Scale**
+: Developed automated PR validation systems for infrastructure code, implementing quality gates with flake8, mypy, and pytest. Built secure CI/CD pipelines using GitHub Actions and harness.io, serving **302+ product teams** across Takeda's global pharmaceutical operations.
+
+**Cloud Solutions Engineering**
+: Led white-glove cloud solution delivery for enterprise workloads, including specialized pharmaceutical applications (Veeva Vault, Benchling, BigID), scientific computing platforms (MATLAB, SAS), and regulatory compliance systems. Managed multi-environment deployments across dev/staging/prod.
+
+**Platform Engineering Excellence**
+: Created standardized infrastructure templates and governance frameworks that accelerated team onboarding from weeks to days. Established security-first practices with credential management, automated secret handling, and compliance-driven development workflows.
+
+**Modern Python Development Practices**
+: Pioneered adoption of cutting-edge Python tooling including `uv` package manager, type-safe development with mypy, automated linting with flake8, and comprehensive testing with pytest. Built AI-assisted development workflows using cursor-agent for enhanced productivity.
+
 ### Skills
 
 Cloud & Infrastructure
@@ -296,17 +329,10 @@ Cloud & Infrastructure
   [podman](https://podman.io/)/[docker](https://www.docker.com/),
 
 Development & CI/CD
-: [Python](https://www.python.org/),
-  [Go](https://go.dev/),
-  [Bash](https://www.gnu.org/software/bash/),
-  [Powershell](https://en.wikipedia.org/wiki/Windows_PowerShell),
-  [Terraform](https://www.terraform.io/),
-  [Ansible](http://www.ansible.com/),
-  [git](https://git-scm.com/),
-  [harness.io](http://harness.io/) [IDP](https://www.harness.io/products/internal-developer-portal)/[CD](https://www.harness.io/products/continuous-delivery),
-  [Github Actions](https://docs.github.com/en/actions),
-  [Gitlab CI](https://docs.gitlab.com/ee/ci/quick_start/),
-  [JFrog Artifactory](https://jfrog.com/artifactory/)
+: **Modern Python**: [uv](https://github.com/astral-sh/uv), [mypy](https://mypy.readthedocs.io/), [flake8](https://flake8.pycqa.org/), [pytest](https://docs.pytest.org/), [poetry](https://python-poetry.org/)
+ **Infrastructure**: [Terraform](https://www.terraform.io/) Cloud, [Ansible](http://www.ansible.com/), [Go](https://go.dev/), [Bash](https://www.gnu.org/software/bash/)
+ **DevSecOps**: [harness.io](http://harness.io/) [IDP](https://www.harness.io/products/internal-developer-portal)/[CD](https://www.harness.io/products/continuous-delivery), [Github Actions](https://docs.github.com/en/actions), [JFrog Artifactory](https://jfrog.com/artifactory/)
+ **Version Control**: [git](https://git-scm.com/), [GitHub CLI](https://cli.github.com/), [GitLab CI](https://docs.gitlab.com/ee/ci/quick_start/)
 
 Architecture & Design
 : [Microservices](https://microservices.io/),
