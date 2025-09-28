@@ -313,8 +313,8 @@ Networks](https://www.shu.ac.uk/search-results?q=computer+networks),
 **Platform Engineering**
 : Developed BuildingBlock templates and PR automation reducing team onboarding from weeks to days. Built standardized infrastructure patterns for pharmaceutical applications (Veeva Vault, Benchling, BigID) and scientific computing platforms (MATLAB, SAS).
 
-**Modern Development Stack**
-: Pioneered `uv` package manager adoption, type-safe Python with mypy, and AI-assisted development workflows. Established security-first practices with credential management and automated secret handling.
+**Developer Experience Innovation**
+: Built CLI productivity tools (`ghostship`, `inji`, `octo`) and pioneered `uv` package manager adoption. Created type-safe Python workflows with mypy and AI-assisted development. Active in algorithmic problem solving (Advent of Code) and open source development.
 
 ### Skills
 
@@ -325,10 +325,10 @@ Cloud & Infrastructure
  **Legacy**: OpenStack, CloudStack
 
 Development & CI/CD
-: **Python**: uv, mypy, flake8, pytest, poetry
- **Infrastructure**: Terraform Cloud, Ansible, Go, Bash
+: **Python**: uv, mypy, flake8, pytest, poetry, Jinja templating
+ **Infrastructure**: Terraform Cloud, Ansible, Go, Bash, Shell scripting
  **DevSecOps**: harness.io IDP/CD, GitHub Actions, JFrog Artifactory
- **Automation**: GitHub API integration, rate limiting, PR validation
+ **CLI Tools**: Custom productivity tools, text processing, configuration management
 
 Architecture & Design
 : [Microservices](https://microservices.io/),
@@ -383,11 +383,7 @@ Also see my [Pluralsight](https://app.pluralsight.com/profile/shalom-bhooshi) pr
 
 ### Hobbies and Interests
 
-**Open Source Development**: Building CLI productivity tools in Go, Python, and Shell. Creator of `ghostship` (shell prompt manager), `inji` (Jinja template renderer), `hl` (text highlighter), and `octo` (CLI productivity booster).
-
-**Algorithmic Problem Solving**: Active participant in [Advent of Code](https://adventofcode.com/) challenges, solving complex programming puzzles in Python.
-
-**Infrastructure Automation**: Developing Ansible roles for system configuration, Docker containers for development environments, and DevOps tooling for personal projects.
+**Technical Innovation**: Building CLI productivity tools and solving algorithmic challenges. Active in [Advent of Code](https://adventofcode.com/) and open source development.
 
 **Fatherhood** ◦
 [Road Cycling, Mountain Biking](https://www.strava.com/athletes/66934418) ◦
