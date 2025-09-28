@@ -94,7 +94,8 @@ Skills
 : Cloud DevOps Lead Engineer, Cloud Solutions Engineering
 
 Responsibilities
-: - **Platform Engineering Impact**: Built reusable infrastructure patterns accelerating team onboarding from **weeks to days**, serving **302+ product teams** across pharmaceutical applications (Veeva Vault, Benchling, BigID)
+: - **Solution Build System Impact**: Architected Solution Build System and project build tools revolutionizing Takeda's service delivery with standardized templates and automated workflows
+- **Platform Engineering Impact**: Built reusable infrastructure patterns accelerating team onboarding from **weeks to days**, serving **302+ product teams** across pharmaceutical applications (Veeva Vault, Benchling, BigID)
 - **Cloud Solutions Architecture**: Leading DevOps team in designing white-glove cloud solutions for Takeda's product teams on AWS Enterprise Cloud
 - **Infrastructure-as-Code Engineering**: Building Terraform Building Blocks, automated build/release pipelines, and cloud governance frameworks
 - **DevSecOps Practice Development**: Establishing security-first CI/CD practices, automated testing (pytest, flake8, mypy), and quality gates
