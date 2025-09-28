@@ -386,10 +386,10 @@ Also see my [Pluralsight](https://app.pluralsight.com/profile/shalom-bhooshi) pr
 
 ### Professional Recommendations
 
-**"Shalom always stood out as the guy in the room with the initiative (backed by his skills) and solutions to our challenges. His deep expertise in Cloud Engineering, DevOps, and coding allowed him to implement scalable and maintainable solutions that empowered his colleagues to work more efficiently."**  
+"Shalom always stood out as the guy in the room with the initiative (backed by his skills) and solutions to our challenges. His deep expertise in Cloud Engineering, DevOps, and coding allowed him to implement scalable and maintainable solutions that empowered his colleagues to work more efficiently."  
 — *Andrei Banaru, CCSP | 6x AWS Certified | Splunk Core Certified Consultant*
 
-**"When it comes to managing Linux I have never met anyone more knowledgeable. I cannot recommend Shalom highly enough."**  
+"When it comes to managing Linux I have never met anyone more knowledgeable. I cannot recommend Shalom highly enough."  
 — *Ben Davies, Engineering & Technology Leader | Platform Engineering*
 
 [View all recommendations on LinkedIn](https://www.linkedin.com/in/shalombhooshi/details/recommendations/?detailScreenTabIndex=0)
