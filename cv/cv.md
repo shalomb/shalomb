@@ -4,10 +4,11 @@ pagetitle: Shalom Bhooshi — Curriculum Vitae
 author:   [https://shalomb.id](http://shalomb.id/) ◦ [s.bhooshi@gmail.com](mailto:s.bhooshi@gmail.com) ◦ +421 948 140 290 
 
 abstract: >
-  A Cloud DevOps Principal Engineer with 20+ years of experience building enterprise-scale infrastructure.
-  Specializing in Infrastructure-as-Code, DevSecOps automation, and developer experience optimization.
-  Passionate about building tools that make other engineers more productive, with a focus on
-  security-first cloud solutions and modern Python development practices.
+  A Cloud DevOps Principal Engineer with 20+ years of experience building enterprise-scale infrastructure platforms.
+  Specializing in Infrastructure-as-Code, DevSecOps automation, and developer experience optimization through
+  systems thinking and convention-driven engineering. Passionate about building sustainable, well-documented
+  platforms that other engineers love to use, with a focus on security-first cloud solutions and
+  modern Python development practices.
 
 header-includes:
 - '<meta name="title" content="Shalom Bhooshi — Curriculum Vitae" />'
@@ -48,10 +49,10 @@ discovering and delivering life-altering treatments.
 : Cloud DevOps Principal Engineer, Global Manufacturing - Data and Digital
 
 Responsibilities
-: - **Infrastructure Platform Impact**: Architected Terraform Building Blocks ecosystem serving **302+ product teams** with **166+ AWS modules**, reducing infrastructure deployment time from weeks to hours
-- **Infrastructure-as-Code Leadership**: Architecting Terraform Building Blocks and automated PR validation systems for enterprise cloud infrastructure
-- **DevSecOps Platform Engineering**: Building secure CI/CD pipelines with GitHub Actions, harness.io IDP, and modern Python tooling (uv, mypy, flake8)
-- **Developer Experience Innovation**: Creating custom tooling and lazy-loading systems that optimize developer productivity and shell performance
+: - **Platform Engineering Excellence**: Architected enterprise-scale infrastructure platforms serving **302+ product teams** with **166+ AWS modules**, implementing systems thinking and convention-driven engineering that reduces deployment time from **weeks to hours**
+- **Developer Experience Innovation**: Built context-aware tooling, XDG-compliant applications, and comprehensive documentation systems that optimize developer productivity through sustainable, well-documented platforms
+- **Infrastructure-as-Code Leadership**: Architecting Terraform Building Blocks and automated PR validation systems with robust error handling and user-friendly workflows
+- **DevSecOps Platform Engineering**: Building secure CI/CD pipelines with GitHub Actions, harness.io IDP, and modern Python tooling (uv, mypy, flake8) following Unix philosophy and separation of concerns
 - **Security-First Engineering**: Implementing credential management with `pass`, secret handling, and compliance-driven development practices
 - **Technical Mentorship**: Guiding DevOps teams on Takeda Cloud Patterns, platform engineering workflows, and infrastructure orchestration
 
