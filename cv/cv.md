@@ -67,7 +67,8 @@ Skills
 : Cloud DevOps Lead Engineer, DevSecOps
 
 Responsibilities
-: - Developing IdP and DevEx capabilities for the DevSecOps platform with [harness.io](https://www.harness.io/products/continuous-delivery)
+: - **DevSecOps Platform Impact**: Developed harness.io IDP/CD capabilities and Terraform BuildingBlock PR validation systems, implementing automated testing and validation workflows for enterprise infrastructure
+- Developing IdP and DevEx capabilities for the DevSecOps platform with [harness.io](https://www.harness.io/products/continuous-delivery)
 - Consultancy to Takeda product teams around DevSecOps journeys,
   application deployment and platform engineering workflows,
   infrastructure and data orchestration.
