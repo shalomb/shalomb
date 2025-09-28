@@ -304,35 +304,31 @@ Networks](https://www.shu.ac.uk/search-results?q=computer+networks),
 
 ### Technical Achievements
 
-**Enterprise Infrastructure-as-Code Platform**
-: Architected and built a comprehensive Terraform Building Blocks ecosystem with **166+ AWS modules** covering the full spectrum of enterprise cloud services. Created reusable infrastructure patterns for API Gateway, EKS, Lambda, RDS, S3, and specialized pharmaceutical compliance requirements.
+**Enterprise Infrastructure Platform**
+: Built **166+ Terraform AWS modules** serving **302+ product teams**. Authored **409+ commits** across enterprise infrastructure including PostgreSQL automation, EKS Kubernetes support, Lambda optimizations, and Neptune graph databases.
 
-**DevSecOps Automation at Scale**
-: Developed automated PR validation systems for infrastructure code, implementing quality gates with flake8, mypy, and pytest. Built secure CI/CD pipelines using GitHub Actions and harness.io, serving **302+ product teams** across Takeda's global pharmaceutical operations.
+**DevSecOps Automation**
+: Created automated PR validation systems with GitHub API rate limiting, security testing integration, and comprehensive dependency analysis. Implemented quality gates using pytest, flake8, and mypy across enterprise CI/CD pipelines.
 
-**Cloud Solutions Engineering**
-: Led white-glove cloud solution delivery for enterprise workloads, including specialized pharmaceutical applications (Veeva Vault, Benchling, BigID), scientific computing platforms (MATLAB, SAS), and regulatory compliance systems. Managed multi-environment deployments across dev/staging/prod.
+**Platform Engineering**
+: Developed BuildingBlock templates and PR automation reducing team onboarding from weeks to days. Built standardized infrastructure patterns for pharmaceutical applications (Veeva Vault, Benchling, BigID) and scientific computing platforms (MATLAB, SAS).
 
-**Platform Engineering Excellence**
-: Created standardized infrastructure templates and governance frameworks that accelerated team onboarding from weeks to days. Established security-first practices with credential management, automated secret handling, and compliance-driven development workflows.
-
-**Modern Python Development Practices**
-: Pioneered adoption of cutting-edge Python tooling including `uv` package manager, type-safe development with mypy, automated linting with flake8, and comprehensive testing with pytest. Built AI-assisted development workflows using cursor-agent for enhanced productivity.
+**Modern Development Stack**
+: Pioneered `uv` package manager adoption, type-safe Python with mypy, and AI-assisted development workflows. Established security-first practices with credential management and automated secret handling.
 
 ### Skills
 
 Cloud & Infrastructure
-: [Amazon AWS](https://aws.amazon.com/),
-  [Canonical Openstack](https://www.ubuntu.com/openstack),
-  [Apache Cloudstack](http://cloudstack.apache.org/),
-  [Kubernetes](https://kubernetes.io/)/[EKS](https://aws.amazon.com/eks/),
-  [podman](https://podman.io/)/[docker](https://www.docker.com/),
+: **AWS**: EKS, RDS PostgreSQL, Lambda, Neptune, KMS, S3, EC2
+ **Kubernetes**: EKS cluster management, version upgrades (1.29)
+ **Containers**: Docker, podman
+ **Legacy**: OpenStack, CloudStack
 
 Development & CI/CD
-: **Modern Python**: [uv](https://github.com/astral-sh/uv), [mypy](https://mypy.readthedocs.io/), [flake8](https://flake8.pycqa.org/), [pytest](https://docs.pytest.org/), [poetry](https://python-poetry.org/)
- **Infrastructure**: [Terraform](https://www.terraform.io/) Cloud, [Ansible](http://www.ansible.com/), [Go](https://go.dev/), [Bash](https://www.gnu.org/software/bash/)
- **DevSecOps**: [harness.io](http://harness.io/) [IDP](https://www.harness.io/products/internal-developer-portal)/[CD](https://www.harness.io/products/continuous-delivery), [Github Actions](https://docs.github.com/en/actions), [JFrog Artifactory](https://jfrog.com/artifactory/)
- **Version Control**: [git](https://git-scm.com/), [GitHub CLI](https://cli.github.com/), [GitLab CI](https://docs.gitlab.com/ee/ci/quick_start/)
+: **Python**: uv, mypy, flake8, pytest, poetry
+ **Infrastructure**: Terraform Cloud, Ansible, Go, Bash
+ **DevSecOps**: harness.io IDP/CD, GitHub Actions, JFrog Artifactory
+ **Automation**: GitHub API integration, rate limiting, PR validation
 
 Architecture & Design
 : [Microservices](https://microservices.io/),
