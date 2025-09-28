@@ -383,11 +383,17 @@ Also see my [Pluralsight](https://app.pluralsight.com/profile/shalom-bhooshi) pr
 
 ### Hobbies and Interests
 
-Fatherhood ◦
+**Open Source Development**: Building CLI productivity tools in Go, Python, and Shell. Creator of `ghostship` (shell prompt manager), `inji` (Jinja template renderer), `hl` (text highlighter), and `octo` (CLI productivity booster).
+
+**Algorithmic Problem Solving**: Active participant in [Advent of Code](https://adventofcode.com/) challenges, solving complex programming puzzles in Python.
+
+**Infrastructure Automation**: Developing Ansible roles for system configuration, Docker containers for development environments, and DevOps tooling for personal projects.
+
+**Fatherhood** ◦
 [Road Cycling, Mountain Biking](https://www.strava.com/athletes/66934418) ◦
-Outdoors ◦
-Reading ◦
-Guitars, Music
+**Outdoors** ◦
+**Reading** ◦
+**Guitars, Music**
 
 ### Personal Details
 
