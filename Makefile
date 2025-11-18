@@ -20,14 +20,15 @@ help:
 	@ echo "  watch          - Watch for changes and rebuild"
 	@ echo ""
 	@ echo "Blog (Zola):"
-	@ echo "  blog-build     - Build blog to public/"
-	@ echo "  blog-check     - Validate blog content and templates"
-	@ echo "  blog-clean     - Remove public/ directory"
-	@ echo "  blog-drafts    - List draft posts"
-	@ echo "  blog-help      - Show blog-specific help"
-	@ echo "  blog-list      - List all blog posts"
-	@ echo "  blog-new       - Create new post (TITLE=\"...\" TAGS=\"...\")"
-	@ echo "  blog-serve     - Start blog dev server on http://127.0.0.1:1111"
+	@ echo "  blog-build         - Build blog to public/"
+	@ echo "  blog-check         - Validate blog content and templates"
+	@ echo "  blog-clean         - Remove public/ directory"
+	@ echo "  blog-drafts        - List draft posts"
+	@ echo "  blog-help          - Show blog-specific help"
+	@ echo "  blog-install-zola  - Install latest Zola (auto-detects arch)"
+	@ echo "  blog-list          - List all blog posts"
+	@ echo "  blog-new           - Create new post (TITLE=\"...\" TAGS=\"...\")"
+	@ echo "  blog-serve         - Start blog dev server on http://127.0.0.1:1111"
 	@ echo ""
 	@ echo "Usage examples:"
 	@ echo "  make build                                    # Build entire site"
@@ -78,6 +79,57 @@ serve: html
 # ========================================================================
 # Blog (Zola) targets
 # ========================================================================
+
+# Zola version to install (update as needed)
+ZOLA_VERSION ?= 0.19.2
+
+.PHONY: blog-install-zola
+blog-install-zola:
+	@ echo "Installing Zola v$(ZOLA_VERSION)..."
+	@ if command -v zola >/dev/null 2>&1; then \
+		INSTALLED_VERSION=$$(zola --version | awk '{print $$2}' | sed 's/v//'); \
+		if [ "$$INSTALLED_VERSION" = "$(ZOLA_VERSION)" ]; then \
+			echo "Zola v$(ZOLA_VERSION) already installed at $$(which zola)"; \
+			zola --version; \
+			exit 0; \
+		else \
+			echo "Found Zola v$$INSTALLED_VERSION, upgrading to v$(ZOLA_VERSION)..."; \
+		fi; \
+	fi; \
+	ARCH=$$(uname -m); \
+	case $$ARCH in \
+		x86_64) ZOLA_ARCH="x86_64-unknown-linux-gnu" ;; \
+		aarch64|arm64) ZOLA_ARCH="aarch64-unknown-linux-gnu" ;; \
+		armv7l) ZOLA_ARCH="armv7-unknown-linux-gnueabihf" ;; \
+		*) echo "ERROR: Unsupported architecture: $$ARCH"; exit 1 ;; \
+	esac; \
+	ZOLA_URL="https://github.com/getzola/zola/releases/download/v$(ZOLA_VERSION)/zola-v$(ZOLA_VERSION)-$${ZOLA_ARCH}.tar.gz"; \
+	echo "Detected architecture: $$ARCH ($$ZOLA_ARCH)"; \
+	echo "Downloading from: $$ZOLA_URL"; \
+	TMP_DIR=$$(mktemp -d); \
+	cd $$TMP_DIR && \
+	curl -fsSL "$$ZOLA_URL" -o zola.tar.gz && \
+	tar xzf zola.tar.gz && \
+	if [ -w /usr/local/bin ]; then \
+		echo "Installing to /usr/local/bin/zola (system-wide)"; \
+		mv zola /usr/local/bin/zola; \
+	elif sudo -n true 2>/dev/null; then \
+		echo "Installing to /usr/local/bin/zola (with sudo)"; \
+		sudo mv zola /usr/local/bin/zola; \
+	else \
+		echo "Installing to ~/.local/bin/zola (user-local)"; \
+		mkdir -p ~/.local/bin; \
+		mv zola ~/.local/bin/zola; \
+		echo ""; \
+		echo "NOTE: Ensure ~/.local/bin is in your PATH"; \
+		echo "Add to ~/.bashrc or ~/.zshrc:"; \
+		echo "  export PATH=\"\$$HOME/.local/bin:\$$PATH\""; \
+	fi; \
+	cd - >/dev/null; \
+	rm -rf $$TMP_DIR; \
+	echo ""; \
+	echo "Zola installed successfully:"; \
+	zola --version
 
 .PHONY: blog-serve
 blog-serve:
@@ -132,11 +184,12 @@ blog-drafts:
 .PHONY: blog-help
 blog-help:
 	@ echo "Blog (Zola) targets:"
-	@ echo "  blog-serve     - Start Zola dev server with live reload (http://127.0.0.1:1111)"
-	@ echo "  blog-build     - Build static site to public/"
-	@ echo "  blog-check     - Validate content and templates"
-	@ echo "  blog-clean     - Remove public/ directory"
-	@ echo "  blog-new       - Create new post: make blog-new TITLE=\"Post Title\" TAGS=\"tag1,tag2\""
-	@ echo "  blog-list      - List all blog posts"
-	@ echo "  blog-drafts    - List draft posts"
-	@ echo "  blog-help      - Show this help"
+	@ echo "  blog-build         - Build static site to public/"
+	@ echo "  blog-check         - Validate content and templates"
+	@ echo "  blog-clean         - Remove public/ directory"
+	@ echo "  blog-drafts        - List draft posts"
+	@ echo "  blog-help          - Show this help"
+	@ echo "  blog-install-zola  - Install latest Zola from GitHub (auto-detects arch)"
+	@ echo "  blog-list          - List all blog posts"
+	@ echo "  blog-new           - Create new post: make blog-new TITLE=\"Post Title\" TAGS=\"tag1,tag2\""
+	@ echo "  blog-serve         - Start Zola dev server with live reload (http://127.0.0.1:1111)"
