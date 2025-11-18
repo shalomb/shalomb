@@ -6,6 +6,36 @@ export PATH := $(PATH):/opt/buildhome/.local/bin:$(HOME)/.local/bin
 
 .DEFAULT_GOAL := html
 
+.PHONY: help
+help:
+	@ echo "Makefile targets for shalomb.id"
+	@ echo ""
+	@ echo "Site Build:"
+	@ echo "  build          - Build entire site (deps + cv + html)"
+	@ echo "  cv             - Build CV HTML"
+	@ echo "  deps           - Install Python dependencies (inji)"
+	@ echo "  html           - Generate site HTML from Jinja2 templates"
+	@ echo "  serve          - Serve site on http://0.0.0.0:8000"
+	@ echo "  tidy           - Clean up HTML formatting"
+	@ echo "  watch          - Watch for changes and rebuild"
+	@ echo ""
+	@ echo "Blog (Zola):"
+	@ echo "  blog-build     - Build blog to public/"
+	@ echo "  blog-check     - Validate blog content and templates"
+	@ echo "  blog-clean     - Remove public/ directory"
+	@ echo "  blog-drafts    - List draft posts"
+	@ echo "  blog-help      - Show blog-specific help"
+	@ echo "  blog-list      - List all blog posts"
+	@ echo "  blog-new       - Create new post (TITLE=\"...\" TAGS=\"...\")"
+	@ echo "  blog-serve     - Start blog dev server on http://127.0.0.1:1111"
+	@ echo ""
+	@ echo "Usage examples:"
+	@ echo "  make build                                    # Build entire site"
+	@ echo "  make blog-serve                               # Preview blog locally"
+	@ echo "  make blog-new TITLE=\"My Post\" TAGS=\"devops\" # Create new blog post"
+	@ echo ""
+	@ echo "See also: make blog-help for blog-specific targets"
+
 .PHONY: deps
 deps:
 	pip3 install MarkupSafe==2.0.1
