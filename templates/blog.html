@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% block title %}Blog - {{ config.title }}{% endblock %}
+
+{% block content %}
+<h1>BLOG(1)</h1>
+
+<h2>NAME</h2>
+<p>blog - technical writings and notes</p>
+
+<h2>DESCRIPTION</h2>
+{{ section.content | safe }}
+
+<h2>POSTS</h2>
+<ul>
+{% for page in section.pages %}
+    <li>
+        <time>{{ page.date | date(format="%Y-%m-%d") }}</time> -
+        <a href="{{ page.permalink }}">{{ page.title }}</a>
+        {% if page.taxonomies.tags %}
+        <span class="tags">
+        {% for tag in page.taxonomies.tags %}
+            [<a href="{{ get_taxonomy_url(kind="tags", name=tag) }}">{{ tag }}</a>]
+        {% endfor %}
+        </span>
+        {% endif %}
+    </li>
+{% endfor %}
+</ul>
+
+<h2>SEE ALSO</h2>
+<p><a href="{{ get_url(path="rss.xml") }}">rss(1)</a></p>
+{% endblock %}

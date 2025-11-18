@@ -1,0 +1,27 @@
+# Zola Configuration - Minimal Setup
+
+base_url = "https://shalomb.id"
+title = "shalomb"
+description = "Shalom Bhooshi's technical writings"
+
+# Don't compile Sass (we'll use plain CSS)
+compile_sass = false
+
+# Generate RSS feed
+generate_feed = true
+feed_filename = "rss.xml"
+
+# Taxonomies
+taxonomies = [
+    {name = "tags", feed = true},
+]
+
+# Markdown settings - minimal processing
+[markdown]
+highlight_code = true
+highlight_theme = "base16-ocean-dark"
+smart_punctuation = false
+
+[extra]
+author = "Shalom Bhooshi"
+email = "s.bhooshi@gmail.com"

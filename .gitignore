@@ -52,3 +52,6 @@ TODO*
 .jekyll-cache/
 cv/*.html
 cv/*.pdf
+
+# Zola
+public/

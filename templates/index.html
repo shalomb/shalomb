@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>SHALOMB(1)</h1>
+
+<h2>NAME</h2>
+<p>Shalom Bhooshi - Cloud DevOps Principal Engineer</p>
+
+<h2>SYNOPSIS</h2>
+<pre>
+shalomb [--blog] [--cv] [--now] [--contact]
+</pre>
+
+<h2>DESCRIPTION</h2>
+<p>
+A Cloud DevOps Principal Engineer with 20+ years of experience building
+enterprise-scale infrastructure platforms. Specializing in Infrastructure-as-Code,
+DevSecOps automation, and developer experience optimization.
+</p>
+
+<h2>OPTIONS</h2>
+<dl>
+    <dt>--blog</dt>
+    <dd>Technical writings on DevOps, Infrastructure, and Systems Engineering</dd>
+
+    <dt>--cv</dt>
+    <dd>Professional experience and qualifications</dd>
+
+    <dt>--now</dt>
+    <dd>What I'm working on right now</dd>
+</dl>
+
+<h2>RECENT POSTS</h2>
+<ul>
+{% set blog = get_section(path="blog/_index.md") %}
+{% for page in blog.pages | slice(end=5) %}
+    <li><time>{{ page.date }}</time> - <a href="{{ page.permalink }}">{{ page.title }}</a></li>
+{% endfor %}
+</ul>
+
+<h2>SEE ALSO</h2>
+<p>
+<a href="https://github.com/shalomb">github(1)</a>,
+<a href="https://gitlab.com/shalomb">gitlab(1)</a>,
+<a href="https://stackoverflow.com/users/742600/shalomb">stackoverflow(1)</a>,
+<a href="https://linkedin.com/in/shalombhooshi">linkedin(1)</a>
+</p>
+{% endblock %}
