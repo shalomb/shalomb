@@ -92,23 +92,16 @@ pdf: $(in_file)
 		$(in_file) -o $(out_file).pdf
 	ln -svf $(out_file).pdf shalom_bhooshi-cv.pdf
 
-.PHONY: webpdf
-webpdf: $(in_file)
-	wkhtmltopdf --print-media-type --orientation portrait --page-size A4 \
-		--encoding UTF-8 -L 20mm -R 20mm -T 20mm -B 20mm \
-		$(out_file).html $(out_file).web.pdf
-
 .PHONY: clean
 clean:
 	rm -f $(out_file).txt $(out_file).odt $(out_file).docx $(out_file).rtf \
-		$(out_file).html $(out_file).pdf $(out_file).web.pdf
+		$(out_file).html $(out_file).pdf
 
-.PHONY: release
-release: all
-	git add cv.*
-	git commit -m "Build binaries - $$(date)"
-	git push --all
-	git push --tags
+.PHONY: dist
+dist: all
+	mkdir -p dist
+	mv -f $(out_file).txt $(out_file).odt $(out_file).docx $(out_file).rtf \
+		$(out_file).html $(out_file).pdf dist/
 
 .PHONY: all
 all: html odt docx rtf txt pdf

@@ -10,9 +10,13 @@ This directory contains the source to build [https://shalomb.id/cv](https://shal
 
 The [Makefile](./Makefile) provides these targets for easy management
 ```
-make clean     # Clean up artifacts
-make all       # Build various formats using pandoc
-make release   # Push to git origin
+make dev       # Build HTML with live reload (then: npm run serve / watch)
+make html      # Build the HTML page only
+make all       # Build all formats using pandoc
+make dist      # Build all formats and collect them in dist/
+make clean     # Clean up generated files
 ```
+
+Generated outputs are not committed to git; they are built from `cv.md`.
 
 Please feel free to fork and/or make pull-requests for improvements
