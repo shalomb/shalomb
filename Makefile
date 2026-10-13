@@ -27,8 +27,16 @@ html:
 	rm -vfr cv/shalom_bhooshi-cv.pdf .git/
 	find ./ -ls
 
+# The Cloudflare Pages build image has no pandoc, and cv/ needs it. Install a
+# pinned, checksum-verified release only when pandoc is missing. Locally, an
+# installed pandoc is used as is.
+.PHONY: pandoc
+pandoc:
+	@command -v pandoc >/dev/null 2>&1 || sh scripts/install-pandoc.sh
+	@pandoc --version | head -1
+
 .PHONY: cv
-cv:
+cv: pandoc
 	cd cv/ && make html && ls -l *.html
 
 .PHONY: build
