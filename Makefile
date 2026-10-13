@@ -2,7 +2,11 @@
 #
 # in_file  ?= cv.md
 
-export PATH := $(PATH):/opt/buildhome/.local/bin:$(HOME)/.local/bin
+# pip puts console scripts (inji) in different places depending on how Python
+# was installed (system, --user, asdf, venv). Ask Python where, instead of guessing.
+py_script_dirs := $(shell python3 -c 'import sysconfig; print(sysconfig.get_path("scripts")); print(sysconfig.get_path("scripts", "posix_user"))' 2>/dev/null | paste -sd: -)
+
+export PATH := $(PATH):/opt/buildhome/.local/bin:$(HOME)/.local/bin:$(or $(py_script_dirs),/nonexistent)
 
 .DEFAULT_GOAL := html
 
