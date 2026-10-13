@@ -33,6 +33,9 @@ __check_defined = \
 $(call check_defined, in_file)
 $(call check_defined, out_file)
 
+# Shown in the footer of the HTML. Falls back to the date when git is absent.
+build_id ?= $(shell git rev-parse --short HEAD 2>/dev/null || date +%F)
+
 .PHONY: txt
 txt: $(in_file)
 	pandoc -s $(in_file) -f markdown -t plain -o $(out_file).txt \
@@ -57,13 +60,15 @@ rtf: $(in_file)
 .PHONY: html
 html: $(in_file)
 	pandoc -s $(in_file) -f markdown -t html5 -o $(out_file).html \
-		--toc -c style.css --template=default.html5
+		--toc --section-divs -c style.css --template=default.html5 \
+		--variable build-id=$(build_id)
 	cp cv.html index.html
 
 .PHONY: dev
 dev: $(in_file)
 	pandoc -s $(in_file) -f markdown -t html5 -o $(out_file).html \
-		--toc -c style.css --template=default.html5 \
+		--toc --section-divs -c style.css --template=default.html5 \
+		--variable build-id=$(build_id) \
 		--variable live-reload=true
 	cp cv.html index.html
 

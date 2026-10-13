@@ -1,82 +1,126 @@
 <!DOCTYPE html>
-<html$if(lang)$ lang="$lang$"$endif$$if(dir)$ dir="$dir$"$endif$>
+<html lang="en-GB">
 <head>
   <meta charset="utf-8">
   <meta name="generator" content="pandoc">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="description" content="Cloud, Platform Engineering, DevOps, Agile">
+  <meta name="keywords" content="Curriculum Vitae, CV, Platform Engineering, DevOps, Cloud, Terraform, AWS">
 $for(author-meta)$
   <meta name="author" content="$author-meta$">
 $endfor$
-$if(date-meta)$
-  <meta name="dcterms.date" content="$date-meta$">
-$endif$
-  <title>$if(title-prefix)$$title-prefix$ - $endif$$pagetitle$</title>
-  <style type="text/css">code{white-space: pre;}</style>
-$if(quotes)$
-  <style type="text/css">q { quotes: "“" "”" "‘" "’"; }</style>
-$endif$
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="$pagetitle$">
+  <meta property="og:description" content="Cloud, Platform Engineering, DevOps, Agile">
+  <meta property="og:url" content="https://shalomb.id/cv">
+  <meta property="og:site_name" content="shalomb.id">
+  <meta property="og:locale" content="en_GB">
+  <meta property="og:image" content="https://avatars.githubusercontent.com/u/733435?v=4">
+  <title>$pagetitle$</title>
 $if(highlighting-css)$
-  <style type="text/css">
+  <style>
 $highlighting-css$
   </style>
 $endif$
 $for(css)$
   <link rel="stylesheet" href="$css$">
 $endfor$
-$if(math)$
-  $math$
-$endif$
-  <!--[if lt IE 9]>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
-  <![endif]-->
 $for(header-includes)$
   $header-includes$
 $endfor$
 </head>
 <body>
-$for(include-before)$
-$include-before$
-$endfor$
+<div class="github-fork-ribbon"><a href="https://github.com/shalomb/shalomb/tree/main/cv" title="Fork the CV on GitHub">Fork me on GitHub</a></div>
+$if(toc)$
+<nav id="$idprefix$TOC" role="doc-toc" aria-label="Sections">
+$toc$
+</nav>
+$endif$
+<main class="paper">
 $if(title)$
 <header>
 <h1 class="title">$title$</h1>
-$if(subtitle)$
-<h1 class="subtitle">$subtitle$</h1>
-$endif$
 $for(author)$
 <h2 class="author">$author$</h2>
 $endfor$
-$if(date)$
-<h3 class="date">$date$</h3>
-$endif$
 $if(abstract)$
 <p class="abstract">$abstract$</p>
 $endif$
 </header>
 $endif$
-$if(toc)$
-<nav id="$idprefix$TOC">
-$toc$
-</nav>
-$endif$
 $body$
-$for(include-after)$
-$include-after$
-$endfor$
+</main>
+$if(build-id)$
+<p class="stamp">Built from <a href="https://github.com/shalomb/shalomb/tree/main/cv">source</a> with make + pandoc &middot; $build-id$ &middot; Apache-2.0 &middot; typo fixes welcome</p>
+$endif$
+<div id="keys" role="dialog" aria-label="Keyboard shortcuts" hidden>
+<p><kbd>j</kbd> next section</p>
+<p><kbd>k</kbd> previous section</p>
+<p><kbd>?</kbd> show or hide this</p>
+<p><kbd>Esc</kbd> close</p>
+</div>
 $if(live-reload)$
 <script src="http://localhost:35729/livereload.js"></script>
 $endif$
 <script>
-// Auto-detect date ranges and add CSS classes
-document.addEventListener('DOMContentLoaded', function() {
-  const dtElements = document.querySelectorAll('dt');
-  dtElements.forEach(function(dt) {
-    if (dt.textContent.includes('→')) {
-      dt.classList.add('date-range');
-      console.log('Added date-range class to:', dt.textContent);
+// Optional extras. The page works without them: the rail is a plain list of links.
+(function () {
+  var toc = document.getElementById('TOC');
+  var keys = document.getElementById('keys');
+  if (!toc) return;
+  // Short, playful labels for the rail. The headings in the CV stay formal.
+  var labels = {
+    'what-i-do': 'What I do',
+    'professional-experience': 'Experience',
+    'education': 'Education',
+    'skills': 'Skills',
+    'training-and-qualifications': 'Training',
+    'professional-recommendations': 'Kind words',
+    'professional-profiles': 'Elsewhere',
+    'hobbies-and-interests': 'Off the clock'
+  };
+  var links = [].slice.call(toc.querySelectorAll('a'));
+  var secs = links.map(function (a) {
+    var id = a.getAttribute('href').slice(1);
+    if (labels[id]) { a.title = a.textContent; a.textContent = labels[id]; }
+    return document.getElementById(id);
+  });
+
+  function current() {
+    if (window.innerHeight + window.scrollY >= document.documentElement.scrollHeight - 4) return secs.length - 1;
+    var c = 0;
+    secs.forEach(function (s, i) { if (s.getBoundingClientRect().top < window.innerHeight * 0.4) c = i; });
+    return c;
+  }
+  function paint() {
+    var c = current();
+    links.forEach(function (a, i) {
+      a.parentNode.classList.toggle('on', i === c);
+      a.parentNode.classList.toggle('done', i < c);
+      if (i === c) a.setAttribute('aria-current', 'true'); else a.removeAttribute('aria-current');
+    });
+  }
+  window.addEventListener('scroll', paint, { passive: true });
+  window.addEventListener('resize', paint);
+  paint();
+
+  var calm = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  document.addEventListener('keydown', function (e) {
+    if (e.ctrlKey || e.metaKey || e.altKey || /^(INPUT|TEXTAREA|SELECT)$$/.test(e.target.tagName)) return;
+    if (e.key === 'j' || e.key === 'k') {
+      var c = current();
+      if (e.key === 'k' && c === 0) { window.scrollTo({ top: 0, behavior: calm ? 'auto' : 'smooth' }); return; }
+      var n = Math.max(0, Math.min(secs.length - 1, c + (e.key === 'j' ? 1 : -1)));
+      secs[n].scrollIntoView({ behavior: calm ? 'auto' : 'smooth' });
+      e.preventDefault();
+    } else if (e.key === '?') {
+      keys.hidden = !keys.hidden;
+    } else if (e.key === 'Escape') {
+      keys.hidden = true;
     }
   });
-});
+})();
 </script>
 </body>
 </html>

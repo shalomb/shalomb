@@ -1,452 +1,244 @@
-/* ===================================================================
-   CV Stylesheet - Clean, Maintainable Version
-   =====================#professional-experience ~ dl#professional-experi/* Date range entries - simpler approach */
-#professional-experience ~ dl dt span.date-range {
-  margin-right: 0.3em !important;
+/* CV stylesheet. Source: https://github.com/shalomb/shalomb/tree/main/cv
+
+   Layout: a white "paper" (main.paper) sits on a grey "desk" (html).
+   The paper is the CV and stays plain. Anything playful lives on the desk
+   (route rail, ribbon, footer stamp, key help) and is hidden in print and on
+   small screens.
+
+   Rules: bold only for the name and the company names. No text under 13px.
+   Text keeps 4.5:1 contrast or better. No !important, no positional selectors.
+   Sizes are in em so the print scale follows the body size. */
+
+:root {
+  --ink: #222;
+  --muted: #555;
+  --accent: #006699;
+  --rule: #cfd8dc;
+  --desk: #f4f6f7;
+  --stop: #7d8f99;
 }
 
-#professional-experience ~ dl dt:has(span.date-range),
-#professional-experience ~ dl dt:has(span.date-range) + dd {
-  display: inline !important;
-  margin-top: 1.5em !important;
-}
-
-#professional-experience ~ dl dt:has(span.date-range) + dd {
-  font-weight: bold !important;
-  font-size: 85% !important;
-  color: #222 !important;
-  text-transform: none !important;
-  letter-spacing: normal !important;
-}
-
-#professional-experience dt:nth-child(7) + dd,
-#professional-experience dt:nth-child(13) + dd,
-#professional-experience dt:nth-child(19) + dd,
-#professional-experience dt:nth-child(25) + dd {
-  display: inline;
-  font-weight: bold;
-  font-size: 90% !important;
-  color: #222;
-  margin-left: 0.3em !important;
-  margin-bottom: 0.8em;
-}
-
-#professional-experience ~ dl dt:nth-child(7) + dd,
-#professional-experience ~ dl dt:nth-child(13) + dd {
-  display: inline;
-  font-weight: bold;
-  font-size: 90% !important;
-  color: #222;
-  margin-left: 0.3em !important;
-  margin-bottom: 0.8em;
-}
-
-/* ===================================================================
-
-/* Import fonts */
-@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/all.min.css");
-
-/* ===================================================================
-   1. BASE STYLES - Typography & Layout Fundamentals
-   ================================================================= */
-
-* {
-  box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-}
+html { background: var(--desk); }
 
 body {
-  font-family: "Liberation Sans", "Helvetica Neue", Helvetica, Arial, "Trebuchet MS", sans-serif;
-  font-size: 10pt;
-  line-height: 1.4;
-  color: #222;
-  max-width: 210mm;
-  margin: 0 auto;
-  padding: 20px;
-  background: white;
-}
-
-/* ===================================================================
-   2. TYPOGRAPHY HIERARCHY
-   ================================================================= */
-
-/* Main title */
-h1.title {
-  font-size: 16pt;
-  font-weight: bold;
-  text-align: center;
   margin: 0;
-  color: #222;
+  padding: 32px 16px 24px;
+  font: 15px/1.55 "Liberation Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: var(--ink);
+  text-align: left;
 }
 
-/* Author/contact info */
-h2.author {
-  font-size: 11pt;
-  font-weight: normal;
-  text-align: center;
-  margin: 0.5em 0 1em 0;
-  color: #666;
+/* ---- Paper ------------------------------------------------------------ */
+
+.paper {
+  box-sizing: border-box;
+  max-width: 21cm;
+  margin: 0 auto;
+  padding: clamp(20px, 5vw, 2cm);
+  background: #fff;
+  border: 1px solid #d9dfe2;
+  border-radius: 6px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, .1), 0 10px 28px rgba(0, 0, 0, .06);
+  overflow-wrap: break-word;
 }
 
-/* Abstract/summary */
-p.abstract {
-  margin: 20px;
-  text-indent: 20px;
-  font-size: 10pt;
-  text-align: justify;
-}
+p { margin: .6em 0; }
+section { scroll-margin-top: 24px; }
 
-/* Section headings */
-h3 {
-  text-transform: uppercase;
-  font-size: 95%;
-  font-weight: bolder;
-  margin: 2em 0 1em 0;
-  padding: 0.25em 0;
-  border-bottom: 1px dotted lightgray;
-  color: #222;
-}
-
-/* Sub-section headings (Training categories) */
-h4 {
-  font-size: 85%;
-  font-weight: normal;
-  margin: 1em 0 0.2em 0;
-  padding: 0;
-  color: #666;
-  text-transform: none;
-  border: none;
-}
-
-/* Reduce top margin of ul that follows h4 */
-h4 + ul {
-  margin-top: 0.3em !important;
-  margin-left: -0.5em !important;
-  line-height: 1.4 !important;
-}
-
-/* General text elements */
-p, li, td, dt, dd, em, strong {
-  font-size: 10pt;
-  line-height: 1.4;
-}
-
-p, li, td, dd, em, strong {
-  text-align: justify;
-}
-
-/* Links - blend with text, no color */
 a {
   color: inherit;
-  text-decoration: none;
-}
-
-a:hover {
   text-decoration: underline;
+  text-decoration-color: #9fb3bf;
+  text-underline-offset: .2em;
 }
+a:hover { color: var(--accent); text-decoration-color: currentcolor; }
 
-/* ===================================================================
-   3. PROFESSIONAL EXPERIENCE SECTION - Simplified Approach
-   ================================================================= */
+code { font-family: "Liberation Mono", Menlo, Consolas, monospace; font-size: .9em; }
 
-/* All definition lists in experience section */
-#professional-experience ~ dl {
-  margin: 0 0 1.5em 0;
-  padding: 0;
-}
+/* ---- Header ------------------------------------------------------------ */
 
-/* Company separators - reduce spacing around hr elements */
-hr {
-  border: 0;
-  height: 1px;
-  background: linear-gradient(to right, rgba(0, 0, 0, 0.01), rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.01));
-  margin: 0.3em 0;
-}
+h1.title { margin: 0; font-size: 1.87em; text-align: center; }
+h2.author { margin: .3em 0 1.2em; font-size: .933em; font-weight: 400; text-align: center; color: var(--muted); }
+p.abstract { margin: 0 0 1em; font-size: 1.07em; }
 
-/* ===================================================================
-   4. JOB ENTRY STYLING - Clean, Simple Reset Approach
-   ================================================================= */
+/* ---- Headings ---------------------------------------------------------- */
 
-/* Default styling for ALL dt/dd in professional experience */
-#professional-experience ~ dl dt,
-#professional-experience ~ dl dd {
-  font-weight: normal;
-  margin: 0.3em 0 0.2em 0;
-  padding: 0;
-  font-size: 85%;
-  color: #888;
-  display: block;
-}
-
-
-#professional-experience ~ dl dd {
-  margin-bottom: 0.5em;
-  margin-left: 1em !important;
-  color: inherit;
-  font-size: 90% !important;
-}
-
-/* ONLY style dates and job titles specifically - expanded coverage */
-#professional-experience dt:first-child,
-#professional-experience dt:nth-child(7),
-#professional-experience dt:nth-child(13),
-#professional-experience dt:nth-child(19),
-#professional-experience dt:nth-child(25) {
-  color: #006699;
-  font-weight: bold;
-  font-size: 80%;
+h3 {
+  margin: 2.2em 0 1em;
+  padding-bottom: .35em;
+  font-size: .9em;
+  font-weight: 400;
+  letter-spacing: .14em;
   text-transform: uppercase;
-  letter-spacing: 0.5px;
-  display: inline;
+  color: var(--accent);
+  border-bottom: 1px solid var(--rule);
+}
+
+/* Category labels (Skills, Training) */
+h4 { margin: 1.1em 0 .15em; font-size: .933em; font-weight: 400; color: var(--muted); }
+
+/* Role: title in accent colour, dates in grey underneath */
+h5 { margin: 1.3em 0 0; font-size: 1.07em; font-weight: 500; color: var(--accent); }
+h5 + p { margin: .1em 0 .5em; font-size: .933em; color: var(--muted); }
+h5 + p em { font-style: normal; }
+
+/* ---- Experience: one block per company --------------------------------- */
+
+#professional-experience h4 {
   margin: 0;
+  padding-top: 1.2em;
+  font-size: 1.13em;
+  font-weight: 700;
+  color: var(--ink);
+  border-top: 1px solid #e3e8eb;
+}
+#professional-experience h3 + section > h4 { padding-top: 0; border-top: 0; }
+#professional-experience h4 + p { margin: .15em 0 0; font-size: .933em; color: var(--muted); }
+#professional-experience h4 + p + p { margin: .6em 0 0; font-size: 1em; color: var(--ink); }
+
+/* ---- Lists ------------------------------------------------------------- */
+
+ul { margin: .4em 0; padding-left: 1.3em; }
+li { margin: .3em 0; }
+li::marker { color: var(--accent); }
+
+/* Skills line under each role */
+ul + p { margin: .5em 0 0; font-size: .933em; color: var(--muted); }
+ul + p em { font-style: normal; color: var(--ink); }
+
+/* ---- Recommendations --------------------------------------------------- */
+
+blockquote { margin: 1em 0; padding: .1em 0 .1em 1em; border-left: 3px solid var(--accent); }
+blockquote p { margin: .4em 0; }
+blockquote p:last-child { font-size: .933em; color: var(--muted); }
+
+/* ---- Desk: route rail (pandoc's #TOC), wide screens only --------------- */
+
+#TOC { display: none; }
+
+@media (min-width: 1200px) {
+  #TOC {
+    display: block;
+    position: fixed;
+    top: 50%;
+    right: calc(50vw + 10.5cm + 18px);
+    width: 170px;
+    transform: translateY(-50%);
+    font-size: 13px;
+  }
+  #TOC ul { position: relative; margin: 0; padding: 0; list-style: none; }
+  #TOC ul::before {
+    content: "";
+    position: absolute;
+    top: 8px;
+    bottom: 8px;
+    right: 5px;
+    border-right: 2px dashed #b9c4ca;
+  }
+  #TOC li { position: relative; margin: 0; padding: .55em 24px .55em 0; line-height: 1.2; text-align: right; }
+  #TOC li::before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    right: 0;
+    width: 10px;
+    height: 10px;
+    margin-top: -5px;
+    border: 2px solid var(--stop);
+    border-radius: 50%;
+    background: var(--desk);
+  }
+  #TOC a { color: var(--muted); text-decoration: none; }
+  #TOC a:hover, #TOC li.on a { color: var(--accent); }
+  #TOC li.done::before { border-color: var(--accent); }
+  #TOC li.on::before { border-color: var(--accent); background: var(--accent); }
 }
 
-/* Auto-detected date ranges and their job titles */
-span.date-range {
-  color: #222 !important;
-  font-weight: bold !important;
-  font-size: 90% !important;
-  text-transform: none !important;
-  letter-spacing: normal !important;
-}
+/* ---- Desk: ribbon (stitched, like the paper is pinned to a corner) ----- */
 
-#professional-experience ~ dl dt:has(span.date-range) {
-  display: inline !important;
-  margin: 0 !important;
-  margin-top: 1.5em !important;
-}
-
-#professional-experience ~ dl #professional-experience ~ dl dt:has(span.date-range) + dd {
-  display: inline !important;
-  font-weight: bold !important;
-  font-size: 85% !important;
-  color: #222 !important;
-  margin-left: 0.3em !important;
-  text-transform: none !important;
-  letter-spacing: normal !important;
-}
-
-#professional-experience ~ dl dt:has(span.date-range) + dd + dt {
-  margin-top: 1em !important;
-}
-
-#professional-experience dt:first-child + dd,
-#professional-experience dt:nth-child(7) + dd,
-#professional-experience dt:nth-child(13) + dd {
-  display: inline;
-  font-weight: bold;
-  font-size: 90%;
-  color: #222;
-  margin-left: 0.3em !important;
-  margin-bottom: 0.8em;
-}
-
-/* ===================================================================
-   5. LIST HANDLING - Simple, Consistent
-   ================================================================= */
-
-/* Remove all bullets and fix margins for experience lists */
-#professional-experience ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-/* Reduce left margin for ul inside dd */
-#professional-experience ~ dl dd ul {
-  margin-left: 1.5em !important;
-  margin-top: 0.2em !important;
-  padding-left: 0 !important;
-}
-
-/* Normalize font size for li elements inside dd to match paragraphs */
-#professional-experience ~ dl dd ul li {
-  font-size: 97.5% !important;
-}
-
-#professional-experience li {
-  margin: 0 0 0.3em 0;
-  padding: 0;
-  display: block;
-}
-
-/* Remove any pseudo-element bullets from experience lists */
-#professional-experience li:before {
-  display: none !important;
-  content: "" !important;
-}
-
-/* Also ensure general list styling doesn't affect experience section */
-#professional-experience ul li:before {
-  display: none !important;
-  content: "" !important;
-}
-
-/* Extra protection - target any nested lists in experience */
-#professional-experience dd ul li:before {
-  display: none !important;
-  content: "" !important;
-}
-
-/* ===================================================================
-   6. TRAINING SECTION STYLING
-   ================================================================= */
-
-/* Reduce font size for list items under H4 headings in Training section */
-h3#training-and-qualifications ~ h4 + ul li {
-  font-size: 95% !important;
-}
-
-/* ===================================================================
-   7. EXPERIENCE SECTION OVERRIDES
-   ================================================================= */
-
-/* General lists (outside experience) */
-ul {
-  margin: 1.2em 0 0 0;
-  list-style: none;
-}
-
-ul li {
-  line-height: 130%;
-  margin-left: -20px;
-}
-
-ul li:before {
-  margin-left: -12px;
-  content: "✩ ";
-  color: lightgray;
-}
-
-ul li:not(:last-child) {
-  margin-bottom: 8px;
-}
-
-/* Table of contents - restore floating right sidebar */
-#TOC {
+.github-fork-ribbon {
   position: fixed;
-  top: 160px;
-  right: 20px;
+  top: 0;
+  right: 0;
+  z-index: 10;
+  width: 150px;
+  height: 150px;
+  overflow: hidden;
+  pointer-events: none;
+}
+.github-fork-ribbon a {
+  position: absolute;
+  top: 32px;
+  right: -48px;
   width: 200px;
-  background: rgba(255, 255, 255, 0.95);
-  border: 1px solid #ddd;
-  border-radius: 5px;
-  padding: 15px 15px 5px 20px;
-  font-size: 85%;
-  z-index: 1000;
-}
-
-#TOC ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-#TOC ul li {
-  margin-bottom: 8px;
-  margin-left: 0;
-}
-
-#TOC ul li:before {
-  content: "";
-}
-
-#TOC ul li a {
-  color: #006699;
+  padding: 7px 0;
+  text-align: center;
   text-decoration: none;
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: .03em;
+  color: #fff;
+  background: #a00000;
+  border: 1px dashed rgba(255, 255, 255, .55);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, .3);
+  transform: rotate(45deg);
+  pointer-events: auto;
+}
+.github-fork-ribbon a:hover { color: #fff; background: #7a0000; }
+@media (max-width: 899px) { .github-fork-ribbon { display: none; } }
+
+/* ---- Desk: footer stamp and key help ----------------------------------- */
+
+.stamp {
+  max-width: 21cm;
+  margin: 16px auto 0;
+  text-align: center;
+  font: 13px/1.5 "Liberation Mono", Menlo, Consolas, monospace;
+  color: var(--muted);
 }
 
-#TOC ul li a:hover {
-  text-decoration: underline;
+#keys {
+  position: fixed;
+  right: 24px;
+  bottom: 24px;
+  z-index: 20;
+  padding: 10px 18px;
+  font-size: 14px;
+  background: #fff;
+  border: 1px solid var(--rule);
+  border-radius: 6px;
+  box-shadow: 0 6px 24px rgba(0, 0, 0, .18);
+}
+#keys[hidden] { display: none; }
+#keys p { margin: .4em 0; }
+kbd {
+  display: inline-block;
+  min-width: 1.6em;
+  margin-right: .5em;
+  padding: 0 .35em;
+  text-align: center;
+  font: 13px/1.5 "Liberation Mono", Menlo, Consolas, monospace;
+  border: 1px solid var(--rule);
+  border-radius: 3px;
 }
 
-/* ===================================================================
-   7. PRINT STYLES
-   ================================================================= */
+@media (max-width: 600px) { body { padding: 8px 8px 16px; } }
+
+/* ---- Print: just the paper --------------------------------------------- */
 
 @media print {
-  body {
-    font-size: 9pt;
-    max-width: none;
-    margin: 0;
-    padding: 0;
-  }
-  
-  h3 {
-    page-break-after: avoid;
-  }
-  
-  dl {
-    page-break-inside: avoid;
-  }
-}
-
-/* ===================================================================
-   8. UTILITY CLASSES
-   ================================================================= */
-
-.no-break {
-  page-break-inside: avoid;
-}
-
-.text-center {
-  text-align: center;
-}
-
-.text-small {
-  font-size: 85%;
-}
-
-/* ===================================================================
-   9. FINAL OVERRIDES - Ensure no stars in experience section
-   ================================================================= */
-
-/* Nuclear option - absolutely no stars anywhere in experience */
-h3#professional-experience ~ * ul li:before,
-h3#professional-experience ~ * li:before,
-#professional-experience ul li:before,
-#professional-experience li:before {
-  display: none !important;
-  content: "" !important;
-  margin-left: 0 !important;
-}
-
-/* ===================================================================
-   10. A4 PAGE LAYOUT - Screen display with paper-like appearance  
-   ================================================================= */
-
-/* A4 page styling for screen display */
-@media only screen {
-  html {
-    padding: 0;
-    margin: 0;
-    background-color: #FAFAFA;
-  }
-
-  body {
-    background: white;
-    border: 1px #d3d3d3 solid;
-    border-radius: 5px;
-    box-shadow: 0 0 0.25cm rgba(0, 0, 0, 0.25);
-  }
-
-  * {
-    box-sizing: border-box;
-    -moz-box-sizing: border-box;
-  }
-}
-
-/* A4 dimensions and responsive padding */
-@media (min-width: 768px) {
-  body {
-    width: 21cm;
-    padding: 2cm;
-  }
-}
-
-@media (max-width: 767px) {
-  body {
-    padding: 15px;
-  }
+  @page { size: A4; margin: 14mm 16mm; }
+  html { background: #fff; }
+  body { padding: 0; font-size: 9.5pt; }
+  .paper { max-width: none; padding: 0; border: 0; border-radius: 0; box-shadow: none; }
+  #TOC, .github-fork-ribbon, .stamp, #keys { display: none; }
+  body { line-height: 1.45; }
+  p, li { orphans: 2; widows: 2; }
+  li { margin: .2em 0; }
+  h3 { margin: 1.6em 0 .7em; }
+  h5 { margin-top: .9em; }
+  /* Roles may split across pages. A title and its dates never end a page alone. */
+  h3, h4, h5, h5 + p { break-after: avoid; }
+  li { break-inside: avoid; }
+  a { text-decoration: none; }
 }
