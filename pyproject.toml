@@ -7,3 +7,9 @@ requires-python = ">=3.12"
 dependencies = [
     "pyyaml>=5.0",
 ]
+
+# This repo is a website, not a Python package. Without this, `pip install .`
+# (run by Cloudflare Pages when it sees a pyproject.toml) fails because
+# setuptools finds several top-level folders (cv, js, img, ...) and refuses to guess.
+[tool.setuptools]
+packages = []
